@@ -1,0 +1,6 @@
+setFontFamily Virtue
+setFontSize %VIDHEIGHT / 50
+setAlign #RIGHT, #TOP
+setCursor #WIDTH - 4, 20
+setSize 200 300
+drawObituaries #RIGHT, 20

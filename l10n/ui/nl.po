@@ -1,0 +1,985 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2016-03-26 10:55+0000\n"
+"PO-Revision-Date: 2016-03-26 10:55+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: nl_lu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. UI slider for video brightness
+msgid "Brightness"
+msgstr "Helderheid"
+
+msgid "Open in browser"
+msgstr "Openen in browser"
+
+#. HUD option
+msgid "Match timer"
+msgstr "Wedstrijd klok"
+
+#. Match timer option
+msgid "count down"
+msgstr "tel af"
+
+#. Match timer option
+msgid "count up"
+msgstr "tel omhoog"
+
+#. Start page in UI
+msgid "Home"
+msgstr "Thuis"
+
+#. Quit confirmation
+msgid "Are you sure you want to quit?"
+msgstr "Weet je zeker dat je wilt stoppen ?"
+
+#. Graphics profile's name
+msgid "contrast"
+msgstr "contrast"
+
+#. Graphics profile's name
+msgid "high"
+msgstr "hoog"
+
+#. Graphics profile's name
+msgid "high+"
+msgstr "hoog+"
+
+#. Graphics profile's name
+msgid "low"
+msgstr "laag"
+
+#. Graphics profile's name / Bots' skill
+msgid "medium"
+msgstr "gemiddeld"
+
+#. Graphics profile's name
+msgid "stream"
+msgstr "Uitzenden"
+
+msgid "View awards"
+msgstr "Bekijk prijzen"
+
+#. Logout from forbidden.gg
+msgid "Logout"
+msgstr "Uitloggen"
+
+msgid "Weapon"
+msgstr "Wapen"
+
+#. Weapon use percentage, it should as short as possible, 6 symbols max!
+msgid "Use"
+msgstr "Gebruik"
+
+msgid "Accuracy"
+msgstr "Nauwkeurigheid"
+
+msgid "Wins"
+msgstr "Gewonnen"
+
+msgid "Losses / quits"
+msgstr "Verloren / gestopt"
+
+msgid "Frags / deaths"
+msgstr "Frags / gestorven"
+
+msgid "Friends"
+msgstr "Vrienden"
+
+#. Friend status
+msgid "Offline"
+msgstr "Offline"
+
+#. Short form of "Accuracy", it should 6 symbols max!
+msgid "Acc"
+msgstr "Acc"
+
+msgid "Time played:"
+msgstr "Tijd gespeeld:"
+
+msgid "Awards"
+msgstr "Prijzen"
+
+#. Bots' skill
+msgid "easy"
+msgstr "makkelijk"
+
+#. Bots' skill
+msgid "hard"
+msgstr "moeilijk"
+
+msgid "Suggested servers"
+msgstr "Aanbevolen servers"
+
+msgid "Less than an hour"
+msgstr "Minder dan een uur"
+
+msgid "1 hour"
+msgstr "1 uur"
+
+msgid "%s hours"
+msgstr "%s uren"
+
+msgid "%s days, %s hours"
+msgstr "%s dagen, %s uren"
+
+msgid "Last seen %s days ago"
+msgstr "Voor het laatst %s dagen geleden gezien"
+
+msgid "No data yet"
+msgstr "Nog geen gegevens"
+
+msgid "No friends yet"
+msgstr "Nog geen vrienden"
+
+msgid "Connected to"
+msgstr "Vernonden met"
+
+#. Team overlay in HUD
+msgid "Show team locations"
+msgstr "Toon team locaties"
+
+msgid "Close"
+msgstr "Sluit"
+
+msgid "Demo filename"
+msgstr "Demonaam"
+
+#. Please use as short form as possible, 8 symbols max! It's a server browser column header displaying whether the server is ranked (sends your stats to forbidden.gg).
+msgid "Ranked"
+msgstr "Rang"
+
+msgid "Password required"
+msgstr "Wachtwoord vereist"
+
+#. UI bind for making screenshots
+msgid "Screenshot"
+msgstr "Schermopname"
+
+#. Key binding - hold to show the scoreboard
+msgid "Scoreboard"
+msgstr "Scorebord"
+
+#. UI's cg_showPressedKeys
+msgid "Show pressed keys"
+msgstr "Laat ingedrukte toetsen zien"
+
+msgid "Join"
+msgstr "Meedoen"
+
+#. "Bomb'n'defuse" description
+msgid "Team game mode where in which players join either the attacking team or the defending team. Each team attempts to complete their mission objective, either planting the bomb or defending the bomb site, or eliminate the opposing team."
+msgstr "Team game mode waarin elke speler zich in het aanvals-, of het verdedegings team aansluit. Elke speler probeert zijn of haar team's doel te bereiken, door of de bom te panten, of door het verdedigen van de bom-area, of door het vijandelijke team uit te schakelen"
+
+msgid "Open chat"
+msgstr "Openen chat"
+
+#. %s - hostname, ip:port, time
+msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s seconds..."
+msgstr "Je wordt automatisch verbonden met WarforkTV server \"%s\" op \"%s\" in \"%s\""
+
+#. This option enables movement with +forward bunny hopping aka newmovement
+msgid "Acceleration on forward jumping"
+msgstr "Acceleratie bij voorwaardse sprong"
+
+#. Toggles autohop possibility while pressing +moveup
+msgid "Disable autohop"
+msgstr "Autohop uitzetten"
+
+#. Touch screen setting
+msgid "Touch look sensitivity"
+msgstr "Aanraak-kijk gevoeligheid"
+
+#. Touch screen setting
+msgid "Touch look deceleration"
+msgstr "Aanraak-kijk deceleratie"
+
+#. Touch screen setting
+msgid "Invert touch look"
+msgstr "Aanraak-kijken omdraaien"
+
+#. Touch screen setting
+msgid "Touch controls size"
+msgstr "Aanraak-besturing grootte"
+
+#. Touch screen setting
+msgid "Flip touch controls"
+msgstr "Aanraak-besturing omdraaiën"
+
+#. Gamepad setting
+msgid "Horizontal stick sensitivity"
+msgstr "Horizontale stick gevoeligheid"
+
+#. Gamepad setting
+msgid "Vertical stick sensitivity"
+msgstr "Verticale stick gevoeligheid"
+
+#. Gamepad setting
+msgid "Invert gamepad look"
+msgstr "Gamepad kijken omdraaien"
+
+#. Gamepad setting
+msgid "Swap gamepad sticks"
+msgstr "Gamepad sticks omdraaien"
+
+#. cg_chatBeep
+msgid "Chat message sound"
+msgstr "Geluid chatbericht"
+
+msgid "Play on a ranked server to start tracking your stats."
+msgstr "Spelen op ranked servers om het bijhouden van jouw statistieken te starten"
+
+#. Bots' number
+msgid "Bots: %s"
+msgstr "Bots: %s"
+
+msgid "The selected HUD may not be optimized for touchscreen input."
+msgstr "De geselecteerde HUD mag niet geoptimaliseerd worden voor touchscreen besturing"
+
+#. disable popup window with suggested server in server browser
+msgid "Don't suggest servers"
+msgstr "Servers suggesties uitzetten"
+
+#. Back to the previous menu
+msgid "Back"
+msgstr "Terug"
+
+#. Similar to "Call a vote"
+msgid "Cast a vote"
+msgstr "Zet stem neer"
+
+msgid "Use the selected color for all players"
+msgstr "Gebruik de geselecteerde kleur voor alle spelers"
+
+msgid "Don't ask me again"
+msgstr "Vraag me niet weer"
+
+msgid "Welcome to Warfork!"
+msgstr "Welkom bij Warfork!"
+
+msgid "News"
+msgstr "Nieuws"
+
+msgid "New Game"
+msgstr "Nieuw spel"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Chat"
+msgstr "Chatten"
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "Quit"
+msgstr "Afsluiten"
+
+msgid "Player"
+msgstr "Speler"
+
+msgid "Teams"
+msgstr "Teams"
+
+msgid "Video"
+msgstr "Beeld"
+
+msgid "Audio"
+msgstr "Geluid"
+
+msgid "Input"
+msgstr "Invoer"
+
+#. Use short form as possible, alternatively you can translate it from "Apply"
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Clan"
+msgstr "Clan"
+
+msgid "Misc"
+msgstr "Divers"
+
+msgid "Spectator HUD"
+msgstr "Toeschouwer HUD"
+
+msgid "Crosshair"
+msgstr "Vizier"
+
+msgid "Weapon handedness"
+msgstr "Voorkeurshand"
+
+msgid "default"
+msgstr "Standaard"
+
+msgid "right"
+msgstr "Rechts"
+
+#. gun position
+msgid "left"
+msgstr "Links"
+
+msgid "center"
+msgstr "Midden"
+
+msgid "FOV"
+msgstr "Gezichtsveld"
+
+msgid "FOV while using zoom"
+msgstr "Gezichtsveld tijdens het zoomen"
+
+msgid "Simple items"
+msgstr "Eenvoudige items"
+
+msgid "Show teammates' names"
+msgstr "Toon namen teamgenoten"
+
+msgid "Show help"
+msgstr "Toon hulp"
+
+msgid "Show weapon model"
+msgstr "Toon het wapen"
+
+msgid "Show minimap"
+msgstr "Toon kaart"
+
+msgid "Show FPS counter"
+msgstr "Toon FPS"
+
+msgid "Show speed meter"
+msgstr "Toon snelheid"
+
+msgid "Show damage indicator"
+msgstr "Toon schade"
+
+msgid "Automatically record demos"
+msgstr "Automatisch demos opnemen"
+
+msgid "Endmatch screenshot"
+msgstr "Screenshot einde wedstrijd"
+
+msgid "Save match stats"
+msgstr "Sla wedstrijd statistieken op"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "Players"
+msgstr "Spelers"
+
+msgid "Team model options"
+msgstr "Team model opties"
+
+msgid "Fullbright skin"
+msgstr "Gekleurde 'Skin'"
+
+msgid "Force your team as ALPHA"
+msgstr "Forceer jezelf als team ALPHA"
+
+msgid "Graphics profile"
+msgstr "Grafisch profiel"
+
+msgid "Fullscreen"
+msgstr "Volledig scherm"
+
+msgid "Vertical sync"
+msgstr "Verticale synchronisatie"
+
+msgid "Screen resolution"
+msgstr "Schermresolutie"
+
+msgid "desktop"
+msgstr "Bureaublad"
+
+msgid "Texture quality"
+msgstr "Texture kwaliteit"
+
+msgid "Anisotropic filtering"
+msgstr "Anisotropische filtering"
+
+msgid "Lighting quality"
+msgstr "Lichtkwaliteit"
+
+msgid "vertex lighting"
+msgstr "Punt belichting"
+
+msgid "lightmaps"
+msgstr "Lichtkaarten"
+
+msgid "per-pixel lighting"
+msgstr "Per-pixel belichting"
+
+msgid "Shadows"
+msgstr "Schaduwen"
+
+msgid "off"
+msgstr "uit"
+
+msgid "simple shadows"
+msgstr "Eenvoudige schaduwen"
+
+msgid "shadowmaps"
+msgstr "Schaduwkaarten"
+
+msgid "Greyscale lighting"
+msgstr "Grijswaarde belichting"
+
+msgid "Use solid colors for world"
+msgstr "Gebruik kleuren voor de spelwereld"
+
+msgid "Sound module"
+msgstr "Geluidsmodule"
+
+msgid "no sound"
+msgstr "Geen geluid"
+
+msgid "Sound volume"
+msgstr "Volume geluids"
+
+msgid "Music volume"
+msgstr "Volume muziek"
+
+msgid "Players volume"
+msgstr "Volume spelers"
+
+msgid "Effects volume"
+msgstr "Volume effecten"
+
+msgid "Announcer volume"
+msgstr "Volume aankondiger"
+
+msgid "Voice chat volume"
+msgstr "Stem chat volume"
+
+msgid "Hit sounds volume"
+msgstr "Volume schade geluiden"
+
+msgid "Mouse"
+msgstr "Muis"
+
+msgid "Movement"
+msgstr "Beweging"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Weapons"
+msgstr "Wapens"
+
+msgid "Voice chat"
+msgstr "Voice chat"
+
+msgid "Saved"
+msgstr "Opgeslagen"
+
+msgid "Mouse sensitivity"
+msgstr "Gevoeligheid muis"
+
+msgid "Mouse acceleration"
+msgstr "Versnelling muis"
+
+msgid "Mouse filter"
+msgstr "Muisfilter"
+
+msgid "Invert mouse"
+msgstr "Omgedraaide muis"
+
+msgid "Forward"
+msgstr "Vooruit"
+
+#. bind for "move back"
+msgid "Backward"
+msgstr "Achteruit"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Up / jump"
+msgstr "Omhoog / spring"
+
+msgid "Down / crouch"
+msgstr "Omlaag / hurk"
+
+msgid "Dash / walljump"
+msgstr "Dash / muursprong"
+
+msgid "Run / walk"
+msgstr "Rennen / lopen"
+
+msgid "Attack"
+msgstr "Schieten"
+
+msgid "Previous weapon"
+msgstr "Vorig wapen"
+
+msgid "Next weapon"
+msgstr "Volgend wapen"
+
+msgid "Last weapon"
+msgstr "Laatste wapen"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Drop weapon"
+msgstr "Laat wapen vallen"
+
+msgid "Drop bomb / flag"
+msgstr "Laat bom / vlag vallen"
+
+msgid "Class action 1"
+msgstr "Klasse aktie 1"
+
+msgid "Class action 2"
+msgstr "Klasse aktie 2"
+
+msgid "Team chat"
+msgstr "Team chat"
+
+msgid "Login to forbidden.gg"
+msgstr "Inloggen op forbidden.gg"
+
+msgid "Login with your forbidden.gg account to save your statistics and match results."
+msgstr "Log in met je forbidden.gg account om statistieken en resultaten op te slaan."
+
+msgid "Don't have an account?"
+msgstr "Geen account?"
+
+msgid "Register for a free account here."
+msgstr "Registreer je gratis account hier."
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Remember login"
+msgstr "Onthoud login"
+
+msgid "Login"
+msgstr "Inloggen"
+
+msgid "Normal weapons"
+msgstr "Normale wapens"
+
+msgid "Instagib"
+msgstr "Instagib"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Watch on TV"
+msgstr "Bekijk op TV"
+
+msgid "Favorites"
+msgstr "Favorieten"
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Hostname"
+msgstr "Hostnaam"
+
+msgid "Gametype"
+msgstr "Speltype"
+
+msgid "Match browser"
+msgstr "Match overzicht"
+
+msgid "Local game"
+msgstr "Lokaal spel"
+
+msgid "Demo browser"
+msgstr "Demo overzicht"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "Map"
+msgstr "Map"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Mapname"
+msgstr "Mapnaam"
+
+msgid "Start game"
+msgstr "Start spel"
+
+msgid "Server name"
+msgstr "Server naam"
+
+msgid "Public server"
+msgstr "Publieke servers"
+
+msgid "Score limit"
+msgstr "Scorelimiet"
+
+msgid "Max players"
+msgstr "Maximaal aantal spelers"
+
+msgid "Time limit"
+msgstr "Tijdslimiet"
+
+msgid "min."
+msgstr "min."
+
+msgid "Bot skill level"
+msgstr "Intelligentie bots"
+
+msgid "Number of bots"
+msgstr "Aantal bots"
+
+msgid "Remove from favorites"
+msgstr "Verwijder uit favorieten"
+
+msgid "Add to favorites"
+msgstr "Toevoegen aan favorieten"
+
+msgid "Map: %s"
+msgstr "Map: %s"
+
+msgid "Players: %s"
+msgstr "Spelers: %s"
+
+msgid "Gametype: %s"
+msgstr "Speltype: %s"
+
+msgid "Mod: %s"
+msgstr "Mod: %s"
+
+msgid "Ping: %s"
+msgstr "Ping: %s"
+
+msgid "Address: %s"
+msgstr "Adres: %s"
+
+msgid "IRC server connection"
+msgstr "Verbinding IRC server"
+
+msgid "Server port"
+msgstr "Server poort"
+
+msgid "Nickname"
+msgstr "Nickname"
+
+msgid "Channels"
+msgstr "Kanalen"
+
+msgid "Connect"
+msgstr "Verbinden"
+
+msgid "Disconnect"
+msgstr "Verbinding verbreken"
+
+msgid "Send"
+msgstr "Verzenden"
+
+msgid "Date: %s"
+msgstr "Datum: %s"
+
+msgid "Match: %s"
+msgstr "Spel: %s"
+
+msgid "Score: %s"
+msgstr "Score: %s"
+
+msgid "Duration: %s"
+msgstr "Duur: %s"
+
+msgid "Ready!"
+msgstr "Gereed!"
+
+msgid "Not ready!"
+msgstr "Niet gereed!"
+
+msgid "Join challengers queue"
+msgstr "Deelnemen aan de wachtrij"
+
+msgid "Leave challengers queue"
+msgstr "Verlaat de wachtrij"
+
+msgid "Join the game"
+msgstr "Sluit je aan bij het spel"
+
+msgid "Join any team"
+msgstr "Sluit je aan bij een team"
+
+msgid "Join %s"
+msgstr "Sluit je aan bij %s"
+
+msgid "Spectate"
+msgstr "Toeschouwen"
+
+msgid "Game menu"
+msgstr "Spelmenu"
+
+msgid "Call a vote"
+msgstr "Verzoek een stemronde"
+
+#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+msgid "Chasecam"
+msgstr "Volgcamera"
+
+msgid "Main menu"
+msgstr "Hoofdmenu"
+
+msgid "Return to game"
+msgstr "Ga terug naar het spel"
+
+msgid "\"%s\" options"
+msgstr "\"%s\" opties"
+
+msgid "Refused: %s"
+msgstr "Geweigerd: %s"
+
+msgid "Press ESC to cancel"
+msgstr "Druk op ESC om te annuleren"
+
+msgid "Downloading %s from %s at %s k/s"
+msgstr "Download %s van %s @ %s kb/s"
+
+msgid "Owner left the listen server"
+msgstr "Eigenaar heeft zijn server verlaten"
+
+msgid "Server was killed"
+msgstr "Server werd gestopt"
+
+msgid "Server restarted"
+msgstr "Server herstart"
+
+#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+msgid "Chasecam mode"
+msgstr "Volgcamera perspectief"
+
+msgid "Auto"
+msgstr "Аuto"
+
+msgid "Objectives"
+msgstr "Doelstellingen"
+
+msgid "Powerups"
+msgstr "Powerups"
+
+msgid "Fraggers"
+msgstr "Fraggers"
+
+msgid "Highest score"
+msgstr "Hoogste score"
+
+msgid "Enable"
+msgstr "Inschakelen"
+
+msgid "Disable"
+msgstr "Uitschakelen"
+
+msgid "Watch"
+msgstr "Kijken"
+
+msgid "Viewers"
+msgstr "Toeschouwers"
+
+msgid "Reconnect"
+msgstr "Opnieuw verbinden"
+
+msgid "Votes"
+msgstr "Stemmen"
+
+msgid "Primary weapons"
+msgstr "Primaire wapens"
+
+msgid "Secondary weapons"
+msgstr "Secundaire wapens"
+
+#. "Bomb" gametype related option, means "I want to carry bomb"
+msgid "Carrier opt-in"
+msgstr "Drager worden"
+
+#. "Bomb" gametype related option, means "I DON'T want to carry bomb"
+msgid "Carrier opt-out"
+msgstr "Drager opt-out"
+
+msgid "Select class"
+msgstr "Kies klasse"
+
+msgid "Grunt"
+msgstr "Grunt"
+
+msgid "Medic"
+msgstr "Medic"
+
+msgid "Runner"
+msgstr "Runner"
+
+msgid "Engineer"
+msgstr "Engineer"
+
+msgid "Connection failed"
+msgstr "Verbinding mislukt"
+
+msgid "Connection terminated"
+msgstr "Verbinding beëindigd"
+
+msgid "Connection error"
+msgstr "Verbindingsfout"
+
+msgid "Couldn't connect to %s"
+msgstr "Kan geen verbinding maken met %s"
+
+msgid "Connection was terminated by %s"
+msgstr "Verbinding werd verbroken door %s"
+
+msgid "Error connecting to %s"
+msgstr "Fout bij het verbinden met %s"
+
+msgid "Reason: %s"
+msgstr "Reden: %s"
+
+msgid "Fullscreen anti-aliasing"
+msgstr "Volledig scherm anti-aliasing"
+
+msgid "Soft particles"
+msgstr "Zachte deeltjes"
+
+msgid "Weapon opacity"
+msgstr "Geweer ondoorzichtigheid"
+
+msgid "Vote yes"
+msgstr "Stem ja"
+
+msgid "Vote no"
+msgstr "Stem nee"
+
+msgid "Vote \"%s\" has been called"
+msgstr "Stemronde \"%s\" is afgebroken"
+
+msgid "Changes map"
+msgstr "Wijzicht map"
+
+msgid "Restarts current map"
+msgstr "Herstart huidige map"
+
+msgid "Jumps to the next map"
+msgstr "Springt naar de volgende map"
+
+msgid "Specify 0 to disable"
+msgstr "Specifieer 0 om te desactiveren"
+
+msgid "Sets the number of frags or caps needed to win the match"
+msgstr "Zet het aantal frags op caps nodig om de match te winnen"
+
+msgid "Sets number of minutes after which the match ends"
+msgstr "Zet het aantal minuten dat de wedstrijd duurt"
+
+msgid "Changes the gametype"
+msgstr "Verandert het speltype"
+
+msgid "Sets the number of minutes after which the warmup ends"
+msgstr "Zet het aantal minuten dat de warming up duurt"
+
+msgid "Sets the length of the overtime"
+msgstr "Zet de duur van de extra tijd"
+
+msgid "Sets the maximum number of players in one team"
+msgstr "Zet het maximale aantal spelers in een team"
+
+msgid "Locks teams to disallow players joining in mid-game"
+msgstr "Vergrendelt teams om te vermijden dat spelers kunnen deelnemen in het midden van een spel"
+
+msgid "Unlocks teams to allow players joining in mid-game"
+msgstr "Ontgrendelt teams zodat spelers in het middel van een spel kunnen deelnemen"
+
+msgid "Sets all players as ready so the match can start"
+msgstr "Markeert alle spelers als gereed zodat de wedstrijd kan beginnen"
+
+msgid "Forces player back to spectator mode"
+msgstr "Dwingt speler terug naar toeschouwer modus"
+
+msgid "Removes player from the server"
+msgstr "Verwijdert een speler van de server"
+
+msgid "Removes player from the server and bans his IP-address for 15 minutes"
+msgstr "Verwijdert speler van de server en bant zijn IP-adres voor 15 minuten"
+
+msgid "Disallows chat messages from the muted player"
+msgstr "Sta geen chat van een gedempte speler toe"
+
+msgid "Disallows voice chat messages from the muted player"
+msgstr "Sta geen voice chat van een gedempte speler toe"
+
+msgid "Reallows chat messages from the unmuted player"
+msgstr "Sta weer chat berichten toe van de ongedempte speler"
+
+msgid "Reallows voice chat messages from the unmuted player"
+msgstr "Sta weer spraak berichten to van de ongedempte speler"
+
+msgid "Sets the number of bots to play on the server"
+msgstr "Zet het aantal bots dat kan spelen op de server"
+
+msgid "Toggles whether shooting teammates will do damage to them"
+msgstr "Wissel tussen wel of geen schade toebrengen aan teamgenoten"
+
+msgid "Toggles whether instagun can be used for weapon jumping"
+msgstr "Instagunjump aan/uit"
+
+msgid "Toggles whether falling long distances deals damage"
+msgstr "Valschade aan/uit"
+
+msgid "Toggles whether weapon splashes can damage self"
+msgstr "Schade door eigen wapens aan/uit"
+
+msgid "Pauses the game"
+msgstr "Pauzeert het spel"
+
+msgid "Resumes the game if in timeout"
+msgstr "Hervat het spel indien het gepauzeerd werd"
+
+msgid "Toggles whether uneven teams is allowed"
+msgstr "Oneven teams aan/uit"
+
+msgid "Downloading %s from server at %s k/s"
+msgstr "Downloading %s van de server met %s k/s"
+
+msgid "Downloading %s from the web at %s k/s"
+msgstr "Downloading %s van het web met %s k/s"
+
+msgid "Play"
+msgstr "Spelen"
+
+msgid "Reload"
+msgstr "Herladen"
+
+msgid "Logging in, hold on..."
+msgstr "Inloggen, even geduld..."
+
+msgid "Searching for game servers..."
+msgstr "Gameservers aan het zoeken..."
+
+msgid "Browse servers manually"
+msgstr "Manueel de servers doorbladeren"
+

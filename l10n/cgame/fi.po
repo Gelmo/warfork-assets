@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2016-03-26 11:03+0000\n"
+"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "OFFENSE WINS!"
+msgstr "HYÖKKÄYS VOITTAA!"
+
+msgid "DEFENSE WINS!"
+msgstr "PUOLUSTUS VOITTAA!"
+
+msgid "You are shooting at your team-mates!"
+msgstr "Ammut oman joukkueesi jäseniä!"
+
+msgid "Don't shoot at members of your team!"
+msgstr "Älä ammu oman joukkueesi jäseniä!"
+
+#. For Race gametype - "no record", "no best time"
+msgid "no time"
+msgstr "ei aikaa"
+
+#. race
+msgid "Time"
+msgstr "Aika"
+
+#. Default location name, when there is none of them presented on the map
+msgid "someplace"
+msgstr "jossain"
+
+msgid "%s has the bomb!"
+msgstr "%slla on pommi!"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Clan"
+msgstr "Klaani"
+
+msgid "Score"
+msgstr "Pisteet"
+
+#. Short form of "Score"
+msgid "Sco"
+msgstr "Pist"
+
+#. Short form of "Frags", please, don't use "kill/death" for the translation
+msgid "Fra"
+msgstr "Tap"
+
+#. Short form of "Suicides"
+msgid "Sui"
+msgstr "Itsm"
+
+#. Short form of "Deaths"
+msgid "De"
+msgstr "Kuol"
+
+msgid "Ping"
+msgstr "Viive"
+
+#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+msgid "Tagtime"
+msgstr "Tag-aika"
+
+msgid "Racing"
+msgstr "Kilpajuoksu"
+
+msgid "Spectators"
+msgstr "Katsojat"
+
+msgid "Challengers"
+msgstr "Haastajat"
+
+msgid "Weapon stats"
+msgstr "Asetilastot"
+
+#. Race time
+msgid "Time:"
+msgstr "Aika:"
+
+#. Race
+msgid "Best:"
+msgstr "Paras:"
+
+#. Race
+msgid "Srv Best:"
+msgstr "Palvelimen paras:"
+
+#. Race
+msgid "Alpha time:"
+msgstr "Alphan aika:"
+
+#. Race
+msgid "Beta time:"
+msgstr "Betan aika:"
+
+#. When some Items get picked up
+msgid "Picked up:"
+msgstr "Nostettu:"
+
+msgid "Points:"
+msgstr "Pisteet:"
+
+#. Difference of the scores/points
+msgid "Spread:"
+msgstr "Hajonta:"
+
+msgid "Download:"
+msgstr "Lataa:"
+
+msgid "Download progress:"
+msgstr "Latauksen tilanne:"
+
+#. HUD indicator of stun
+msgid "STUNNED"
+msgstr "LAMAUTETTU"
+
+#. Race
+msgid "Personal best:"
+msgstr "Henkilökohtainen paras:"
+
+#. Race
+msgid "Server record:"
+msgstr "Palvelimen ennätys:"
+
+msgid "Warmup"
+msgstr "Lämmittely"
+
+msgid "Low Ammo"
+msgstr "Ammukset vähissä"
+
+msgid "Out Of Ammo"
+msgstr "Ammukset loppu"
+
+msgid "Waiting for players.\n'ESC' for in-game menu."
+msgstr "Odotetaan pelaajia.\nPaina 'ESC' avataksesi pelivalikon."
+
+msgid "Message of the day:"
+msgstr "Päivän viesti:"
+

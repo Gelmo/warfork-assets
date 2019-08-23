@@ -1,0 +1,9 @@
+setAlign #RIGHT #TOP
+setCursor #WIDTH - 6 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 6
+if %SHOW_FPS > 0
+	moveCursor 0 8
+endif
+setSize 300 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 340
+setFontFamily "Virtue"
+setFontSize %VIDHEIGHT / 50
+drawObituaries #RIGHT 16

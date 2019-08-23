@@ -1,0 +1,38 @@
+<rml>
+<head>
+	<title>profile</title>
+	<link rel="stylesheet" type="text/css" href="css/html4.rcss" />
+	<link rel="stylesheet" type="text/css" href="css/common.rcss" />
+	<link rel="stylesheet" type="text/css" href="css/base.rcss" />
+	<link rel="stylesheet" type="text/css" href="css/controls.rcss" />
+	<link type="text/css" rel="stylesheet" href="css/profile.rcss" />
+	<script src="as/base.as" />
+	<script src="as/popup.as" />
+</head>
+
+<body>
+<div id="news" src="" onload="$onNewsLoad" onimageload="$onNewsImageLoad" />
+    
+<img src="/ui/porkui/gfx/logo.tga"/>
+
+<p id="intro-text" class="intro">
+<t>Please join us on Discord (link below) to participate in pickup games, game discussion, and more!</t>
+
+	<br/>
+	<span class="smaller">
+
+		<a href="https://discord.gg/VY95TKZ" id="login-resetpassword" target="_browser">Discord</a>
+
+		<a href="https://twitter.com/forbiddenicy" id="login-resetpassword" target="_browser">Twitter</a>
+
+	<a href="https://www.twitch.tv/warforktv" id="login-resetpassword" target="_browser">Twitch</a>
+
+	<br/>
+	<br/>
+    
+Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or Chasseur de Bots.
+
+</span>
+</p>
+</body>
+</rml>

@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2016-03-26 11:03+0000\n"
+"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: nl_lu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+msgid "Net"
+msgstr "Net"
+
+msgid "PROTECT THE BOMB SITES!"
+msgstr "VERDEDIG DE ONSTEKINGSPLAATSEN!"
+
+msgid "TEAMDAMAGE PUNISHMENT!"
+msgstr "VRIENDELIJKE VUUR STRAF!"
+
+msgid "DO NOT DAMAGE TEAMMATES!"
+msgstr "VERWOND GEEN TEAMLEDEN!"
+
+msgid "The bomb carrier has been fragged!"
+msgstr "Iemand heeft de bomdrager gefragt!"
+
+msgid "You are shooting at your team-mates!"
+msgstr "Je schiet naar je teamleden!"
+
+msgid "Don't shoot at members of your team!"
+msgstr "Schiet niet naar je teamleden!"
+
+#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+msgid "YOU TEAMFRAGGED %s"
+msgstr "Jij hebt %s geteamfragt"
+
+#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+msgid "YOU FRAGGED %s"
+msgstr "Je hebt %s gefragt"
+
+#. For Race gametype - "no record", "no best time"
+msgid "no time"
+msgstr "geen tijd"
+
+#. race
+msgid "Time"
+msgstr "Tijd"
+
+msgid "DESTROY THE TARGETS!"
+msgstr "VERNIETIG DE DOELEN!"
+
+msgid "Timelimit hit!"
+msgstr "Tijdslimiet gehaald!"
+
+msgid "The attacking team has lost the bomb!!!"
+msgstr "Het aanvallende team is de bom verloren!!!"
+
+#. Default location name, when there is none of them presented on the map
+msgid "someplace"
+msgstr "ergens"
+
+msgid "Match will resume in %s seconds"
+msgstr "Spel gaat verder in %s seconden"
+
+msgid "Match will resume in 1 second"
+msgstr "Spel gaat verder in 1 seconde"
+
+msgid "Match paused"
+msgstr "Spel gepauzeerd"
+
+msgid "Match resumed"
+msgstr "Spel hervat"
+
+msgid "%s has the bomb!"
+msgstr "%s heeft de bom!"
+
+msgid "Bomb planted at %s!"
+msgstr "Bom is geplant op %s!"
+
+#. chase = spectate
+msgid "No one to chase"
+msgstr "Niemand om te volgen"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Bomb defused!"
+msgstr "Bom ontmanteld!"
+
+msgid "Clan"
+msgstr "Clan"
+
+msgid "Score"
+msgstr "Score"
+
+#. Short form of "Score"
+msgid "Sco"
+msgstr "Sco"
+
+#. Short form of "Frags", please, don't use "kill/death" for the translation
+msgid "Fra"
+msgstr "Fra"
+
+#. Short form of "Suicides"
+msgid "Sui"
+msgstr "Sui"
+
+#. Short form of "Deaths"
+msgid "De"
+msgstr "Do"
+
+msgid "Ping"
+msgstr "Ping"
+
+#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+msgid "Tagtime"
+msgstr "Tagtijd"
+
+msgid "Racing"
+msgstr "Aan het racen"
+
+msgid "Spectators"
+msgstr "Toeschouwers"
+
+msgid "Challengers"
+msgstr "Uitdagers"
+
+msgid "Weapon stats"
+msgstr "Wapenstatistieken"
+
+#. Race time
+msgid "Time:"
+msgstr "Tijd:"
+
+#. Race
+msgid "Best:"
+msgstr "Beste:"
+
+#. Race
+msgid "Srv Best:"
+msgstr "Srv beste:"
+
+#. Race
+msgid "Alpha time:"
+msgstr "Tijd Alpha:"
+
+#. Race
+msgid "Beta time:"
+msgstr "Tijd Beta:"
+
+#. When some Items get picked up
+msgid "Picked up:"
+msgstr "Opgepakt:"
+
+msgid "Points:"
+msgstr "Punten:"
+
+#. Difference of the scores/points
+msgid "Spread:"
+msgstr "Spreiding:"
+
+msgid "Download:"
+msgstr "Download:"
+
+msgid "Download progress:"
+msgstr "Download vooruitgang:"
+
+#. HUD indicator of stun
+msgid "STUNNED"
+msgstr "VERLAMD"
+
+#. Race
+msgid "Personal best:"
+msgstr "Persoonlijk record:"
+
+#. Race
+msgid "Server record:"
+msgstr "Server record:"
+
+msgid "Warmup"
+msgstr "Warmup"
+
+msgid "Low Ammo"
+msgstr "Weinig munitie"
+
+msgid "Out Of Ammo"
+msgstr "Geen munitie over"
+
+msgid "Waiting for players.\n'ESC' for in-game menu."
+msgstr "Wachten op andere spelers.\nDruk op 'ESC' voor het menu."
+
+msgid "Message of the day:"
+msgstr "Bericht van de dag:"
+

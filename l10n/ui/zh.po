@@ -1,0 +1,830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2016-03-26 10:55+0000\n"
+"PO-Revision-Date: 2016-03-26 10:55+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Enter practice mode"
+msgstr "进入练习模式"
+
+msgid "Leave practice mode"
+msgstr "离开练习模式"
+
+msgid "Save position"
+msgstr "保存位置"
+
+msgid "Load saved position"
+msgstr "载入已保存位置"
+
+msgid "Clear saved position"
+msgstr "清除已保存位置"
+
+#. Award: Last Call Defuse!
+msgid "Defuse the bomb at the last second"
+msgstr "在最后一秒拆除炸弹"
+
+#. Award: Win 1000 matches
+msgid "Congratulations! You have won 1000 matches!"
+msgstr "恭喜！你已胜利了1000场比赛！"
+
+#. Award: Flag Defense!
+msgid "Defend your flag or flag carrier"
+msgstr "保护你的旗子或旗子争夺者"
+
+msgid "View match info"
+msgstr "查看比賽信息"
+
+#. UI slider for video brightness
+msgid "Brightness"
+msgstr "亮度"
+
+#. UI option cg_gunbob
+msgid "Enable weapon animation"
+msgstr "启动武器动作"
+
+msgid "Quick menu"
+msgstr "快捷菜单"
+
+msgid "Click OK for more information."
+msgstr "点击OK来取得更多资讯。"
+
+msgid "Open in browser"
+msgstr "在浏览器打开"
+
+#. HUD option
+msgid "Match timer"
+msgstr "计时器"
+
+#. Match timer option
+msgid "count down"
+msgstr "倒数"
+
+#. Match timer option
+msgid "count up"
+msgstr "计时"
+
+#. Start page in UI
+msgid "Home"
+msgstr "主页"
+
+#. Quit confirmation
+msgid "Are you sure you want to quit?"
+msgstr "你确定想要退出？"
+
+#. Graphics profile's name
+msgid "contrast"
+msgstr "对比"
+
+#. Graphics profile's name
+msgid "high"
+msgstr "高"
+
+#. Graphics profile's name
+msgid "high+"
+msgstr "非常高"
+
+#. Graphics profile's name
+msgid "low"
+msgstr "低"
+
+#. Graphics profile's name / Bots' skill
+msgid "medium"
+msgstr "普通"
+
+msgid "View awards"
+msgstr "查看奖励"
+
+#. Logout from forbidden.gg
+msgid "Logout"
+msgstr "登出"
+
+msgid "Weapon"
+msgstr "武器"
+
+#. Weapon use percentage, it should as short as possible, 6 symbols max!
+msgid "Use"
+msgstr "使用"
+
+msgid "Accuracy"
+msgstr "准确性"
+
+msgid "Wins"
+msgstr "胜场"
+
+msgid "Losses / quits"
+msgstr "败场 / 逃跑"
+
+msgid "Friends"
+msgstr "朋友"
+
+#. Friend status
+msgid "Offline"
+msgstr "离线"
+
+#. Short form of "Accuracy", it should 6 symbols max!
+msgid "Acc"
+msgstr "精准度"
+
+msgid "Awards"
+msgstr "奖励"
+
+#. Bots' skill
+msgid "easy"
+msgstr "简单"
+
+#. Bots' skill
+msgid "hard"
+msgstr "困难"
+
+msgid "Less than an hour"
+msgstr "少过一小时"
+
+msgid "1 hour"
+msgstr "1 小时"
+
+msgid "%s hours"
+msgstr "%s 小时"
+
+msgid "%s days, %s hours"
+msgstr "%s 天, %s 小时"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Demo filename"
+msgstr "录像名字"
+
+#. Please use as short form as possible, 8 symbols max! It's a server browser column header displaying whether the server is ranked (sends your stats to forbidden.gg).
+msgid "Ranked"
+msgstr "排名"
+
+msgid "Password required"
+msgstr "需要密码"
+
+#. UI bind for making screenshots
+msgid "Screenshot"
+msgstr "截图"
+
+#. Key binding - hold to show the scoreboard
+msgid "Scoreboard"
+msgstr "计分板"
+
+msgid "Join"
+msgstr "加入"
+
+msgid "Open chat"
+msgstr "开启对话"
+
+#. cg_chatBeep
+msgid "Chat message sound"
+msgstr "\"聊天消息音效"
+
+#. Toggles possibility to play ingame sounds while its window is unfocused or minimized
+msgid "Keep playing sounds in background"
+msgstr "切换至桌面后依然播放声音"
+
+#. Bots' number
+msgid "Bots: %s"
+msgstr "电脑： %s"
+
+#. r_dynamiclight
+msgid "Dynamic lights"
+msgstr "动态光影"
+
+#. Dynamic lights' setting
+msgid "simple lights"
+msgstr "简单光影"
+
+#. Back to the previous menu
+msgid "Back"
+msgstr "返回"
+
+msgid "Color correction"
+msgstr "色彩校正"
+
+#. Callvote option "shuffle"
+msgid "Shuffles teams"
+msgstr "更换团队"
+
+#. Password reset link
+msgid "Forgot your password?"
+msgstr "你忘记密码了？"
+
+msgid "News"
+msgstr "新闻"
+
+msgid "New Game"
+msgstr "新游戏"
+
+msgid "Profile"
+msgstr "个人档案"
+
+msgid "Chat"
+msgstr "聊天"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Player"
+msgstr "玩家"
+
+msgid "Teams"
+msgstr "队伍"
+
+msgid "Video"
+msgstr "画面"
+
+msgid "Audio"
+msgstr "音频"
+
+msgid "Input"
+msgstr "输入控制"
+
+#. Use short form as possible, alternatively you can translate it from "Apply"
+msgid "Save changes"
+msgstr "保存变更"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Model"
+msgstr "模型"
+
+msgid "Name"
+msgstr "名字"
+
+msgid "Clan"
+msgstr "战队"
+
+msgid "Misc"
+msgstr "其它"
+
+msgid "Spectator HUD"
+msgstr "旁观者HUD界面"
+
+msgid "Crosshair"
+msgstr "准心"
+
+msgid "Weapon handedness"
+msgstr "武器位置"
+
+msgid "default"
+msgstr "默认"
+
+msgid "right"
+msgstr "右边"
+
+#. gun position
+msgid "left"
+msgstr "左边"
+
+msgid "center"
+msgstr "中间"
+
+msgid "FOV"
+msgstr "FOV视角"
+
+msgid "FOV while using zoom"
+msgstr "放大的FOV视角"
+
+msgid "Simple items"
+msgstr "简单物品"
+
+msgid "Show teammates' names"
+msgstr "显示队友名字"
+
+msgid "Show help"
+msgstr "显示帮助"
+
+msgid "Show weapon model"
+msgstr "显示武器模型"
+
+msgid "Show minimap"
+msgstr "显示小地图"
+
+msgid "Show FPS counter"
+msgstr "显示FPS数"
+
+msgid "Show speed meter"
+msgstr "显示速度表"
+
+msgid "Show damage indicator"
+msgstr "显示伤害指示器"
+
+msgid "Automatically record demos"
+msgstr "自动保存录像"
+
+msgid "Endmatch screenshot"
+msgstr "比赛结束截屏"
+
+msgid "Save match stats"
+msgstr "保存比赛统计"
+
+msgid "Alpha"
+msgstr "Alpha队"
+
+msgid "Beta"
+msgstr "Beta队"
+
+msgid "Players"
+msgstr "玩家"
+
+msgid "Team model options"
+msgstr "队伍模型选项"
+
+msgid "Fullbright skin"
+msgstr "高亮皮肤"
+
+msgid "Force your team as ALPHA"
+msgstr "强制已方队伍为\"Alpha\""
+
+msgid "Graphics profile"
+msgstr "图形设置"
+
+msgid "Fullscreen"
+msgstr "全屏幕"
+
+msgid "Vertical sync"
+msgstr "垂直同步"
+
+msgid "Screen resolution"
+msgstr "分辨率"
+
+msgid "desktop"
+msgstr "桌面"
+
+msgid "Texture quality"
+msgstr "纹理质量"
+
+msgid "Anisotropic filtering"
+msgstr "各向异性过滤"
+
+msgid "Lighting quality"
+msgstr "光照质量"
+
+msgid "vertex lighting"
+msgstr "顶点光照"
+
+msgid "lightmaps"
+msgstr "光照贴图"
+
+msgid "per-pixel lighting"
+msgstr "像素光照"
+
+msgid "Shadows"
+msgstr "阴影"
+
+msgid "off"
+msgstr "关闭"
+
+msgid "simple shadows"
+msgstr "简单阴影"
+
+msgid "shadowmaps"
+msgstr "阴影贴图"
+
+msgid "Greyscale lighting"
+msgstr "灰度光照"
+
+msgid "Use solid colors for world"
+msgstr "使用单色"
+
+msgid "Sound module"
+msgstr "声音模块"
+
+msgid "no sound"
+msgstr "静音"
+
+msgid "Sound volume"
+msgstr "音量"
+
+msgid "Music volume"
+msgstr "音乐音量"
+
+msgid "Players volume"
+msgstr "玩家音量"
+
+msgid "Effects volume"
+msgstr "效果音量"
+
+msgid "Announcer volume"
+msgstr "解说音量"
+
+msgid "Voice chat volume"
+msgstr "语音聊天音量"
+
+msgid "Hit sounds volume"
+msgstr "命中音音量"
+
+msgid "Mouse"
+msgstr "鼠标"
+
+msgid "Movement"
+msgstr "移动"
+
+msgid "Actions"
+msgstr "动作"
+
+msgid "Weapons"
+msgstr "武器"
+
+msgid "Voice chat"
+msgstr "语音聊天"
+
+msgid "Saved"
+msgstr "保存"
+
+msgid "Mouse sensitivity"
+msgstr "鼠标灵敏度"
+
+msgid "Mouse acceleration"
+msgstr "鼠标加速度"
+
+msgid "Mouse filter"
+msgstr "鼠标过滤"
+
+msgid "Invert mouse"
+msgstr "反转鼠标"
+
+msgid "Forward"
+msgstr "向前"
+
+#. bind for "move back"
+msgid "Backward"
+msgstr "向后"
+
+msgid "Left"
+msgstr "向左"
+
+msgid "Right"
+msgstr "向右"
+
+msgid "Up / jump"
+msgstr "向上 / 跳"
+
+msgid "Down / crouch"
+msgstr "向下 / 蹲"
+
+msgid "Dash / walljump"
+msgstr "冲刺 / 墙跳"
+
+msgid "Run / walk"
+msgstr "跑 / 走"
+
+msgid "Attack"
+msgstr "攻击"
+
+msgid "Previous weapon"
+msgstr "前一把武器"
+
+msgid "Next weapon"
+msgstr "后一把武器"
+
+msgid "Last weapon"
+msgstr "上一把武器"
+
+msgid "Zoom"
+msgstr "缩放"
+
+msgid "Drop weapon"
+msgstr "扔掉武器"
+
+msgid "Drop bomb / flag"
+msgstr "扔掉旗子"
+
+msgid "Class action 1"
+msgstr "动作1"
+
+msgid "Class action 2"
+msgstr "动作2"
+
+msgid "Team chat"
+msgstr "团队聊天"
+
+msgid "Login to forbidden.gg"
+msgstr "登录 forbidden.gg"
+
+msgid "Login with your forbidden.gg account to save your statistics and match results."
+msgstr "用你的 forbidden.gg 账号登录可以保存你的统计和比赛结果。"
+
+msgid "Don't have an account?"
+msgstr "没有账号？"
+
+msgid "Register for a free account here."
+msgstr "在这里注册免费账号。"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Remember login"
+msgstr "保留登录"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Normal weapons"
+msgstr "普通武器"
+
+msgid "Instagib"
+msgstr "秒杀"
+
+msgid "TV"
+msgstr "ТV"
+
+msgid "Favorites"
+msgstr "收藏"
+
+msgid "Ping"
+msgstr "网速"
+
+msgid "Hostname"
+msgstr "主机名"
+
+msgid "Gametype"
+msgstr "游戏类型"
+
+msgid "Match browser"
+msgstr "比赛浏览器"
+
+msgid "Local game"
+msgstr "本地游戏"
+
+msgid "Demo browser"
+msgstr "录像浏览器"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Map"
+msgstr "地图"
+
+msgid "Title"
+msgstr "名称"
+
+msgid "Mapname"
+msgstr "地图名"
+
+msgid "Start game"
+msgstr "开始游戏"
+
+msgid "Server name"
+msgstr "服务器名"
+
+msgid "Public server"
+msgstr "公共服务器"
+
+msgid "Score limit"
+msgstr "分数限制"
+
+msgid "Max players"
+msgstr "最大玩家数"
+
+msgid "Time limit"
+msgstr "时间限制"
+
+msgid "min."
+msgstr "最少"
+
+msgid "Bot skill level"
+msgstr "电脑等级"
+
+msgid "Number of bots"
+msgstr "电脑数量"
+
+msgid "Remove from favorites"
+msgstr "从收藏夹删除"
+
+msgid "Add to favorites"
+msgstr "添加到收藏夹"
+
+msgid "Map: %s"
+msgstr "地图： %s"
+
+msgid "Players: %s"
+msgstr "玩家： %s"
+
+msgid "Gametype: %s"
+msgstr "游戏类型： %s"
+
+msgid "Mod: %s"
+msgstr "模式： %s"
+
+msgid "Ping: %s"
+msgstr "网速： %s"
+
+msgid "Address: %s"
+msgstr "地址： %s"
+
+msgid "IRC server connection"
+msgstr "IRC服务器连接"
+
+msgid "Server port"
+msgstr "服务器端口"
+
+msgid "Nickname"
+msgstr "昵称"
+
+msgid "Channels"
+msgstr "频道"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Date: %s"
+msgstr "日期： %s"
+
+msgid "Match: %s"
+msgstr "比赛： %s"
+
+msgid "Score: %s"
+msgstr "分数： %s"
+
+msgid "Duration: %s"
+msgstr "时间： %s"
+
+msgid "Ready!"
+msgstr "准备!"
+
+msgid "Not ready!"
+msgstr "没有准备!"
+
+msgid "Join challengers queue"
+msgstr "加入挑战者列队"
+
+msgid "Leave challengers queue"
+msgstr "离开挑战者列队"
+
+msgid "Join the game"
+msgstr "加入游戏"
+
+msgid "Join any team"
+msgstr "加入任意队伍"
+
+msgid "Join %s"
+msgstr "加入 %s"
+
+msgid "Spectate"
+msgstr "旁观"
+
+msgid "Game menu"
+msgstr "游戏菜单"
+
+#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+msgid "Chasecam"
+msgstr "跟踪镜头"
+
+msgid "Main menu"
+msgstr "主菜单"
+
+msgid "Return to game"
+msgstr "回到游戏"
+
+msgid "\"%s\" options"
+msgstr "选项 \"%s\""
+
+msgid "Refused: %s"
+msgstr "拒绝： %s"
+
+msgid "Press ESC to cancel"
+msgstr "按 ESC 取消"
+
+msgid "Downloading %s from %s at %s k/s"
+msgstr "下载 %s 从 %s 在 %s k/s"
+
+msgid "Server restarted"
+msgstr "服务器已重新启动"
+
+#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+msgid "Chasecam mode"
+msgstr "跟踪镜头模式"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Objectives"
+msgstr "对象"
+
+msgid "Powerups"
+msgstr "威力"
+
+msgid "Fraggers"
+msgstr "杀手"
+
+msgid "Highest score"
+msgstr "最高分"
+
+msgid "Enable"
+msgstr "打开"
+
+msgid "Disable"
+msgstr "关闭"
+
+msgid "Watch"
+msgstr "看"
+
+msgid "Viewers"
+msgstr "观众"
+
+msgid "Reconnect"
+msgstr "重新连接"
+
+msgid "Votes"
+msgstr "投票"
+
+msgid "Primary weapons"
+msgstr "主要武器"
+
+msgid "Secondary weapons"
+msgstr "次要武器"
+
+msgid "Select class"
+msgstr "选择类别"
+
+msgid "Grunt"
+msgstr "战士"
+
+msgid "Medic"
+msgstr "医疗兵"
+
+msgid "Runner"
+msgstr "冲锋兵"
+
+msgid "Engineer"
+msgstr "工程师"
+
+msgid "Connection failed"
+msgstr "连接失败"
+
+msgid "Connection terminated"
+msgstr "连接中断"
+
+msgid "Connection error"
+msgstr "连接错误"
+
+msgid "Couldn't connect to %s"
+msgstr "无法连接到 %s"
+
+msgid "Connection was terminated by %s"
+msgstr "连接被 %s 终止"
+
+msgid "Error connecting to %s"
+msgstr "连接到 %s 错误"
+
+msgid "Reason: %s"
+msgstr "原因： %s"
+
+msgid "Fullscreen anti-aliasing"
+msgstr "全屏抗齿轮"
+
+msgid "Soft particles"
+msgstr "柔软粒子"
+
+msgid "Vote yes"
+msgstr "投票赞成"
+
+msgid "Vote no"
+msgstr "投票反对"
+
+msgid "Changes map"
+msgstr "更改地图"
+
+msgid "Restarts current map"
+msgstr "重新启动当前地图"
+
+msgid "Pauses the game"
+msgstr "暂停游戏"
+
+msgid "Play"
+msgstr "玩"
+
+msgid "Reload"
+msgstr "刷新"
+
+msgid "Logging in, hold on..."
+msgstr "正在登入，稍待片刻..."
+
+msgid "Searching for game servers..."
+msgstr "正在寻找服务器..."
+

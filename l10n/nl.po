@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2016-03-26 11:04+0000\n"
+"PO-Revision-Date: 2016-03-26 11:04+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: nl_lu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "MM Login: Password error"
+msgstr "MM Login: Wachtwoord fout"
+
+msgid "MM Login: Can't login to MM while connected to server"
+msgstr "MM Logout: Kan niet uitloggen van MM wanneer je verbonden bent met een server"
+
+msgid "Frags"
+msgstr "Frags"
+
+msgid "say (to all):"
+msgstr "Zeggen (naar iedereen):"
+
+msgid "say (to team):"
+msgstr "Zeggen (naar team):"
+
+msgid "Connection timed out"
+msgstr "Connectie verlopen"
+
+#. Bomb option, enables projectile for Gunblade
+msgid "Strong Gunblade"
+msgstr "Sterk Geweerzwaard"
+
+msgid "MM Login: authentication timeout"
+msgstr "MM Login: authenticatie verlopen"
+
+msgid "MM Logout: not logged in"
+msgstr "MM Logout: Niet ingelogd"
+
+msgid "MM Logout: can't logout from MM while connected to server"
+msgstr "MM Logout: kan niet uitloggen van MM wanneer je verbonden bent met een server"
+
+msgid "MM Logout: Failed to force logout"
+msgstr "MM Logout: Geforceerde logout is gefaald"
+
+msgid "MM Login: StatQuery error"
+msgstr "MM Login: StatQuery error"
+
+msgid "MM Login: Failed, no session id"
+msgstr "MM Login: Gefaald, geen sessie id"
+
+msgid "MM Login: Failed to parse data at step %d"
+msgstr "MM Login: Data ontleden gefaald bij stap %d"
+
+msgid "%s or %s"
+msgstr "%s of %s"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "no"
+msgstr "nee"
+
+msgid "Gunblade"
+msgstr "Mesgeweer"
+
+msgid "Machinegun"
+msgstr "Machinegeweer"
+
+msgid "Riotgun"
+msgstr "Jachtgeweer"
+
+msgid "Grenade Launcher"
+msgstr "Granaatwerper"
+
+msgid "Rocket Launcher"
+msgstr "Raketwerper"
+
+msgid "Plasmagun"
+msgstr "Plasmawapen"
+
+msgid "Lasergun"
+msgstr "Laserwapen"
+
+msgid "Electrobolt"
+msgstr "Elektrowapen"
+
+msgid "Instagun"
+msgstr "Instawapen"
+
+msgid "Cells"
+msgstr "Cellen"
+
+msgid "Shells"
+msgstr "Hulzen"
+
+msgid "Bullets"
+msgstr "Kogels"
+
+msgid "Grenades"
+msgstr "Granaten"
+
+msgid "Rockets"
+msgstr "Raketten"
+
+msgid "Plasma"
+msgstr "Plasma"
+
+msgid "Lasers"
+msgstr "Lasers"
+
+msgid "Bolts"
+msgstr "Schichten"
+
+msgid "Instas"
+msgstr "Insta"
+
+msgid "Blades"
+msgstr "Messen"
+
+msgid "Weak bullets"
+msgstr "Zwakke kogels"
+
+msgid "Weak Shells"
+msgstr "Zwakke hulzen"
+
+msgid "Weak Grenades"
+msgstr "Zwakke granaten"
+
+msgid "Weak Rockets"
+msgstr "Zwakke raketten"
+
+msgid "Weak Plasma"
+msgstr "Zwakke plasma"
+
+msgid "Weak Lasers"
+msgstr "Zwakke lasers"
+
+msgid "Weak Bolts"
+msgstr "Zwakke schichten"
+
+msgid "Weak Instas"
+msgstr "Zwakke instas"
+
+msgid "Green Armor"
+msgstr "Groen pantser"
+
+msgid "Yellow Armor"
+msgstr "Geel pantser"
+
+msgid "Red Armor"
+msgstr "Rood pantser"
+
+msgid "Armor Shard"
+msgstr "Pantserstuk"
+
+msgid "5 Health"
+msgstr "5 Leven"
+
+msgid "25 Health"
+msgstr "25 Leven"
+
+msgid "50 Health"
+msgstr "50 Levenspunten"
+
+msgid "Mega Health"
+msgstr "Mega Leven"
+
+msgid "Ultra Health"
+msgstr "Ultra Leven"
+
+msgid "Quad Damage"
+msgstr "Quadra schade"
+
+msgid "WarShell"
+msgstr "WarShell"
+
+msgid "Regeneration"
+msgstr "Herstelling"
+
+msgid "Ammo Pack Weak"
+msgstr "Zwak ammunitie pakket"
+
+msgid "Ammo Pack Strong"
+msgstr "Sterk ammunitie pakket"
+
+msgid "Ammo Pack"
+msgstr "Ammunitie pakket"
+
+msgid "say:"
+msgstr "zeg:"
+
