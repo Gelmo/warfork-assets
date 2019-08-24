@@ -57,3 +57,11 @@ include chat
 include strafe
 include stunned
 
+
+if %SCOREBOARD == 1
+setCursor 0 0
+setAlign 0 0
+setSize 800 600
+setColor 0 0 0 0.3
+drawPicByName *whiteImage
+endif

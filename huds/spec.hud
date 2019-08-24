@@ -53,4 +53,12 @@ include weaponcross
 endif //if %MATCH_STATE < #MATCH_STATE_POSTMATCH
 
 include awards
-include chat
+include spec/chat
+
+if %SCOREBOARD == 1
+setCursor 0 0
+setAlign 0 0
+setSize 800 600
+setColor 0 0 0 0.3
+drawPicByName *whiteImage
+endif
