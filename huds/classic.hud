@@ -57,7 +57,6 @@ include chat
 include strafe
 include stunned
 
-
 if %SCOREBOARD == 1
 setCursor 0 0
 setAlign 0 0

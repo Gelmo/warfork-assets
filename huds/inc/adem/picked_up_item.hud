@@ -1,19 +1,37 @@
+if %SCOREBOARD == 0 //don't show if scoreboard is shown
 if %SHOW_PICKUP
 if %PICKUP_ITEM	
 	setFontFamily "Droid Sans"
 	setFontStyle "Bold"
 	setFontSize %VIDHEIGHT / 45
-		
-	//shadow	
+	setCursor -22 + #WIDTH / 2, 475
+
+	//pickup item pro outline
 	setAlign #LEFT, #TOP
-	setColor 0, 0, 0, 1
-	setCursor -22 + #WIDTH / 2, 470
+	setColor 0 0 0 1
 	drawItemName %PICKUP_ITEM
+	moveCursor 0, -1
+	drawItemName %PICKUP_ITEM
+	moveCursor 1, 0
+	drawItemName %PICKUP_ITEM
+	moveCursor 0, 1
+	drawItemName %PICKUP_ITEM
+	moveCursor -1, 0
+
+	//pickup time pro outline
 	moveCursor -7, 0
 	setAlign #RIGHT, #TOP
+	setColor 0 0 0 1
 	drawClock
+	moveCursor 0, -1
+	drawClock
+	moveCursor 1, 0
+	drawClock
+	moveCursor 0, 1
+	drawClock
+	moveCursor -0.5, -0.5
 	moveCursor 7, 0
-
+	
 	//color depends on picket item
 	setColor  1 0.9 0.2 1 //default is yellow
 	if %PICKUP_ITEM == #ITEM_RED_ARMOR
@@ -84,7 +102,6 @@ if %PICKUP_ITEM
 	endif
 	
 	setAlign #LEFT, #TOP
-	moveCursor -1, -1
 	drawItemName %PICKUP_ITEM
 	moveCursor -7, 0
 	setAlign #RIGHT, #TOP
@@ -92,3 +109,4 @@ if %PICKUP_ITEM
 	setFontStyle Normal
 endif
 endif
+endif //if %SCOREBOARD == 0

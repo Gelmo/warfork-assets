@@ -11,14 +11,14 @@ if %DOWNLOAD_IN_PROGRESS
 
 	setColor 1 1 1 1
 	setFontFamily "Droid Sans"
-	setFontSize 14
-	moveCursor 4, 14
+	setFontSize %VIDHEIGHT / 50
+	moveCursor 4, 15
 
 	setAlign #LEFT, #MIDDLE
 	drawString "Download:"
 
 	setCursor 760, 5
-	moveCursor 0, 14
+	moveCursor 0, 15
 
 	setAlign #LEFT, #MIDDLE
 	moveCursor -11, 0
