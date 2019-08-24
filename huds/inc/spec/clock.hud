@@ -21,11 +21,14 @@ setColor 1 1 1 0.95
 drawClock
 setFontStyle "normal"
 
-// draws Warmup
+// MATCH STATES
+moveCursor 0, 27
+setFontFamily con_fontSystem
+setFontSize %VIDHEIGHT / 43
+setColor 0.4 1 0.4 0.5
 if %MATCH_STATE == #MATCH_STATE_WARMUP
-	moveCursor 0, 27
-	setFontFamily con_fontSystem
-	setFontSize %VIDHEIGHT / 43
-	setColor 0.4 1 0.4 0.5
 	drawString "Warmup"
+endif
+if %OVERTIME
+	drawString "Overtime"
 endif

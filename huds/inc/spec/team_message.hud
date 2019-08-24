@@ -6,7 +6,7 @@ setFontSize %VIDHEIGHT / 52
 if %MESSAGE_ALPHA
 	setAlign 3 2
 	setCursor #WIDTH / 2, 54
-	moveCursor -115 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor -115 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	moveCursor 1, 1
 	setColor 0 0 0 1
 	drawStatString %MESSAGE_ALPHA
@@ -18,7 +18,7 @@ endif
 if %MESSAGE_BETA
 	setAlign 3 2
 	setCursor #WIDTH / 2, 54
-	moveCursor 115 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor 115 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	moveCursor 1, 1
 	setColor 0 0 0 1
 	drawStatString %MESSAGE_BETA

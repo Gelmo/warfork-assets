@@ -6,7 +6,7 @@ if %TEAMBASED == 0 ////moves a bar to the top in not team based GT
 	moveCursor 0, -38
 endif
 
-setSize 500 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 100
+setSize 500 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 100
 setColor 0 0 0 0.55
 drawPicByName "gfx/hud/default/top_bar"
 
@@ -22,10 +22,10 @@ if %TEAMBASED == 0 //not team based GT
 	setCursor #WIDTH, #HEIGHT - 50
 	setAlign #RIGHT, #BOTTOM
 	setColor 0 0 0 0.5
-	setSize 62 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 50
+	setSize 62 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 50
 	drawPicByName gfx/hud/default/ammo_bar
 
-	setSize 20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 20
+	setSize 20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 20
 	setColorToTeamColor #TEAM_ALPHA
 	setAlign #middle, #TOP
 	setColorAlpha 1
@@ -35,18 +35,18 @@ endif
 endif //if %SCORE != #NOTSET
 
 if %TEAM > 1 //don't show in dm n stuffz
-	setSize 32 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 32
+	setSize 32 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 32
 	
 	setCursor #WIDTH / 2, 3
 	setAlign 3 1
-	moveCursor -110 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor -110 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	setColor 0 0 0 0.5
 	setColorToTeamColor #TEAM_ALPHA
 	drawCleanStatString #TEAM_ALPHA_NAME
 	
 	setCursor #WIDTH / 2, 3
 	setAlign 1 1
-	moveCursor 110 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor 110 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	setColorToTeamColor #TEAM_BETA
 	drawCleanStatString #TEAM_BETA_NAME
 
@@ -54,18 +54,18 @@ endif
 
 if %TEAM_ALPHA_SCORE != #NOTSET
 if %TEAM_BETA_SCORE != #NOTSET
-	setSize 28 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 28
+	setSize 28 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 28
 	
 	setCursor #WIDTH / 2, 4
 	setAlign 3 1
-	moveCursor -20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor -20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	setColorToTeamColor #TEAM_ALPHA
 	setColorAlpha 0.95
 	drawNum %TEAM_ALPHA_SCORE
 
 	setCursor #WIDTH / 2, 4
 	setAlign 1 1
-	moveCursor 20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor 20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	setColorToTeamColor #TEAM_BETA
 	setColorAlpha 0.95
 	drawNum %TEAM_BETA_SCORE

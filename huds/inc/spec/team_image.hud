@@ -1,7 +1,7 @@
 //
 // Team game icons
 //
-setSize 24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 24
+setSize 24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 24
 
 // bomb carrier
 // team flag status
@@ -9,15 +9,15 @@ setAlign 2 1
 setCursor #WIDTH / 2, 5
 
 if %TEAM == #TEAM_ALPHA
-	moveCursor -80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor -80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	if %TEAM_ALPHA_SCORE >= 10
-		moveCursor -16 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor -16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	endif
 endif
 if %TEAM == #TEAM_BETA
-	moveCursor 80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor 80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	if %TEAM_BETA_SCORE >= 10
-		moveCursor -16 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor -16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	endif
 endif
 if %IMAGE_SELF
@@ -30,15 +30,15 @@ setAlign 2 1
 setCursor #WIDTH / 2, 5
 
 if %TEAM == #TEAM_ALPHA
-	moveCursor -80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor -80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	if %TEAM_BETA_SCORE >= 10
-		moveCursor 16 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor 16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	endif
 endif
 if %TEAM == #TEAM_BETA
-	moveCursor 80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor 80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	if %TEAM_ALPHA_SCORE >= 10
-		moveCursor 16 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor 16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	endif
 endif
 if %IMAGE_OTHER
@@ -58,9 +58,9 @@ if %TEAM == #TEAM_SPECTATOR
 	if %IMAGE_ALPHA
 		setAlign 3 1
 		setCursor #WIDTH / 2, 5
-		moveCursor -80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 1
+		moveCursor -80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 1
 		if %TEAM_ALPHA_SCORE >= 10
-			moveCursor -16 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		setColorToTeamColor #TEAM_ALPHA
 		drawPicByIndex %IMAGE_ALPHA
@@ -70,9 +70,9 @@ if %TEAM == #TEAM_SPECTATOR
 	if %IMAGE_BETA
 		setAlign 1 1
 		setCursor #WIDTH / 2, 5
-		moveCursor 80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 1
+		moveCursor 80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 1
 		if %TEAM_BETA_SCORE >= 10
-			moveCursor 16 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		setColorToTeamColor #TEAM_BETA
 		drawPicByIndex %IMAGE_BETA
