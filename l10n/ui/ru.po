@@ -92,7 +92,7 @@ msgid "Score more points than other players and receive the \"Fair Play\" award 
 msgstr "Заработайте больше всего очков и получи награду \"Fair Play\""
 
 #. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocke"
+msgid "Frag an opponent in mid-air with a rocket"
 msgstr "Попадите ракетой в соперника, находящегося в воздухе"
 
 #. Award: Bomb Planted!
