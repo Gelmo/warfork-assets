@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 10:55+0000\n"
-"PO-Revision-Date: 2016-03-26 10:55+0000\n"
+"POT-Creation-Date: 2016-12-05 19:41+0000\n"
+"PO-Revision-Date: 2016-12-05 19:41+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -152,7 +152,7 @@ msgid "Frag an opponent 2 times in a short time frame"
 msgstr "Uccidi un avversario 2 volte in poco tempo"
 
 msgid "View match info"
-msgstr "Visualizza partita"
+msgstr "Vedi info partita"
 
 #. Award: Fraglord!
 msgid "Get 15 frags in a row without getting fragged"
@@ -700,8 +700,8 @@ msgstr "Opzioni modello squadra"
 msgid "Fullbright skin"
 msgstr "Monocolore"
 
-msgid "Force your team as ALPHA"
-msgstr "Forza la tua squadra come ALPHA"
+msgid "Force your team as FORBIDDEN"
+msgstr "Forza la tua squadra come FORBIDDEN"
 
 msgid "Graphics profile"
 msgstr "Profilo grafico"

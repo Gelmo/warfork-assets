@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-07 15:01+0000\n"
-"PO-Revision-Date: 2016-03-07 15:01+0000\n"
+"POT-Creation-Date: 2016-07-26 15:41+0000\n"
+"PO-Revision-Date: 2016-07-26 15:41+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: pt_br\n"
@@ -25,7 +25,7 @@ msgstr "Armadura livre"
 
 #. Vsay/Quickmenu item
 msgid "Area secured"
-msgstr "Área protegida"
+msgstr "Área segura"
 
 #. Vsay/Quickmenu item
 msgid "No problem"
@@ -148,7 +148,7 @@ msgid "say (to all):"
 msgstr "dizer (para todos):"
 
 msgid "say (to team):"
-msgstr "dizer (para o time):"
+msgstr "dizer (para a equipe):"
 
 msgid "Connection timed out"
 msgstr "Conexão expirou"
@@ -203,7 +203,7 @@ msgid "Rocket Launcher"
 msgstr "Lança-Foguetes"
 
 msgid "Plasmagun"
-msgstr "Rifle de Plasma"
+msgstr "Metralhadora de Plasma"
 
 msgid "Lasergun"
 msgstr "Laser"
@@ -278,7 +278,7 @@ msgid "Red Armor"
 msgstr "Armadura Vermelha"
 
 msgid "Armor Shard"
-msgstr "Pedaço de Armadura"
+msgstr "Fragmento de Armadura"
 
 msgid "5 Health"
 msgstr "5 de Vida"

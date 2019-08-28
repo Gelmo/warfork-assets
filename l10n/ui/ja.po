@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 10:55+0000\n"
-"PO-Revision-Date: 2016-03-26 10:55+0000\n"
+"POT-Creation-Date: 2016-04-03 16:14+0000\n"
+"PO-Revision-Date: 2016-04-03 16:14+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: ja\n"
@@ -11,15 +11,131 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgid "Enter practice mode"
+msgstr "プラクティスモードに入る"
+
+msgid "Leave practice mode"
+msgstr "プラクティスモードを出る"
+
+msgid "Enable noclip mode"
+msgstr "noclipモードにする"
+
+msgid "Disable noclip mode"
+msgstr "noclipモードを外す"
+
+msgid "Save position"
+msgstr "位置をセーブする"
+
+msgid "Load saved position"
+msgstr "セーブした位置をロードする"
+
+msgid "Clear saved position"
+msgstr "セーブした位置を解除する"
+
+#. Award: On Fire!
+msgid "Get 5 frags in a row without getting fragged"
+msgstr "フラグを取られずに続けて５フラグ取る"
+
+#. Award: God Mode!
+msgid "Get 25 frags in a row without getting fragged"
+msgstr "フラグを取られずに続けて２５フラグ取る"
+
+#. Award: Direct Grenade Hit!
+msgid "Hit an opponent directly with a grenade a few times"
+msgstr "グレネードを使って数回敵に直接当てる"
+
+#. Award: Last Call Defuse!
+msgid "Defuse the bomb at the last second"
+msgstr "最後数秒で爆弾を除去する"
+
+#. Award: Extermination!
+msgid "Get 20 frags in a row without getting fragged"
+msgstr "フラグを取られずに続けて２０フラグ取る"
+
+#. Award: Raging!
+msgid "Get 10 frags in a row without getting fragged"
+msgstr "フラグを取られずに続けて１０フラグ取る"
+
+#. Award: Win 1000 matches
+msgid "Congratulations! You have won 1000 matches!"
+msgstr "おめでとう！あなたは1000勝しました！"
+
+#. Award: Flag Defense!
+msgid "Defend your flag or flag carrier"
+msgstr "あなたのフラグまたはフラグの運び手を守る"
+
+#. Award: Player of the Match!
+msgid "Score more points than other players and receive the \"Fair Play\" award in a single match"
+msgstr "他のプレイヤーよりも多くのポイントを入れてシングルマッチで\"Fair Play\"実績を受け取る"
+
+#. Award: Bomb Planted!
+msgid "Plant the bomb at a bomb site"
+msgstr "爆弾サイトに爆弾を設置する"
+
+#. Award: Win 100 matches
+msgid "Wow! You have won 100 matches!"
+msgstr "わぁっ！あなたは100勝しました！"
+
+#. Award: Play 1000 matches
+msgid "Wow! You have played 1000 matches!"
+msgstr "わぁっ！あなたは1000戦行いました！"
+
+#. Award: Play 500 matches
+msgid "Wow! You have played 500 matches!"
+msgstr "わぁっ！あなたは500戦行いました！"
+
+#. Award: Ninja Defuse!
+msgid "Defuse the bomb without being seen by the opponent"
+msgstr "敵に見られずに爆弾を除去する"
+
+#. Award: Direct Rocket Hit!
+msgid "Hit an opponent directly with a rocket a few times"
+msgstr "ロケットを使って数回敵に直接当てる"
+
+#. Award: Win 250 matches
+msgid "Congratulations! You have won 250 matches!"
+msgstr "おめでとう！あなたは250勝しました！"
+
+#. Award: Fast Plant!
+msgid "Plant the bomb within 10 seconds"
+msgstr "１０秒以内に爆弾を設置する"
+
+msgid "View match info"
+msgstr "対戦情報を見る"
+
+#. Award: Fraglord!
+msgid "Get 15 frags in a row without getting fragged"
+msgstr "フラグを取られずに続けて１５フラグ取る"
+
 #. UI slider for video brightness
 msgid "Brightness"
 msgstr "明るさ"
 
+#. Award: Win 500 matches
+msgid "Congratulations! You have won 500 matches!"
+msgstr "おめでとう！あなたは500勝しました！"
+
+#. UI option cg_gunbob
+msgid "Enable weapon animation"
+msgstr "weapon animationを有効にする"
+
+#. Award: Play 100 matches
+msgid "Wow! You have played 100 matches!"
+msgstr "Wow！あなたは100戦行いました！"
+
 msgid "Quick menu"
 msgstr "クイックメニュー"
 
+#. Award: Play 250 matches
+msgid "Wow! You have played 250 matches!"
+msgstr "Wow！あなたは250戦行いました！"
+
 msgid "Version %s of %s is available."
 msgstr "%sのバージョン%sが使用可能です。"
+
+#. Award: Bomb Defused!
+msgid "Defuse the bomb"
+msgstr "爆弾を除去する"
 
 msgid "Open in browser"
 msgstr "ブラウザーで開く"
@@ -64,6 +180,9 @@ msgstr "low"
 msgid "medium"
 msgstr "medium"
 
+msgid "View awards"
+msgstr "実績を見る"
+
 #. Logout from forbidden.gg
 msgid "Logout"
 msgstr "ログアウト"
@@ -90,6 +209,12 @@ msgstr "オフライン"
 #. Short form of "Accuracy", it should 6 symbols max!
 msgid "Acc"
 msgstr "精度"
+
+msgid "Time played:"
+msgstr "プレイ時間:"
+
+msgid "Awards"
+msgstr "実績"
 
 #. Bots' skill
 msgid "easy"
@@ -149,6 +274,9 @@ msgstr "スコアボード"
 msgid "Show pressed keys"
 msgstr "押したキーの表示"
 
+msgid "Join"
+msgstr "入る"
+
 #. "Clan Arena" description
 msgid "Team game mode where you aim to eliminate the entire other team before your team dies. Clan Arena has no item pickups, you spawn with all weapons."
 msgstr "アイテムとリスポーンはなし、最初から全武器を所持。自チームが全員撃破される前に相手を撃破する、実力重視の本気マッチ。"
@@ -184,6 +312,10 @@ msgstr "チャットを開く"
 msgid "Acceleration on forward jumping"
 msgstr "前進ジャンプで加速"
 
+#. Toggles autohop possibility while pressing +moveup
+msgid "Disable autohop"
+msgstr "autohopを無効"
+
 #. Gamepad setting
 msgid "Horizontal stick sensitivity"
 msgstr "左右スティックの感度"
@@ -200,14 +332,43 @@ msgstr "チャットメッセージ音"
 msgid "Keep playing sounds in background"
 msgstr "非アクティブ時でも音を鳴らす"
 
+#. Bots' number
+msgid "Bots: %s"
+msgstr "Bots: %s"
+
 msgid "The selected HUD may not be optimized for touchscreen input."
 msgstr "選択されたHUDはタッチ入力に最適化できません。"
+
+#. UI option for cl_maxfps
+msgid "Framerate (FPS) limit"
+msgstr "フレームレート制限"
+
+#. Back to the previous menu
+msgid "Back"
+msgstr "戻る"
+
+msgid "Use the selected model for all players"
+msgstr "全てのプレイヤーに選択したモデルを使う"
+
+msgid "Use the selected color for all players"
+msgstr "全てのプレイヤーに選択した色を使う"
 
 msgid "Don't ask me again"
 msgstr "次回から尋ねない"
 
+#. Button that manually starts tutorial map
+msgid "Gameplay tutorial"
+msgstr "ゲームプレイチュートリアル"
+
 msgid "You are about to launch the tutorial stage of Warfork. Continue?"
 msgstr "Warforkのチュートリアルステージを始めます。続けますか？"
+
+msgid "Welcome to Warfork!"
+msgstr "Warforkへようこそ！"
+
+#. Callvote option "shuffle"
+msgid "Shuffles teams"
+msgstr "チームをシャッフルする"
 
 #. Password reset link
 msgid "Forgot your password?"
@@ -345,8 +506,8 @@ msgstr "チームモデルオプション"
 msgid "Fullbright skin"
 msgstr "蛍光スキン"
 
-msgid "Force your team as ALPHA"
-msgstr "自分のチームを\"Alpha\"にする"
+msgid "Force your team as FORBIDDEN"
+msgstr "自分のチームを\"FORBIDDEN\"にする"
 
 msgid "Graphics profile"
 msgstr "グラフィックプロファイル"

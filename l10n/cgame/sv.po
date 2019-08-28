@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:03+0000\n"
-"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"POT-Creation-Date: 2016-04-03 16:16+0000\n"
+"PO-Revision-Date: 2016-04-03 16:16+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: sv\n"
@@ -11,11 +11,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Set yourself READY using the in-game menu to start the match!"
-msgstr "Gör dig själv REDO i spelmenyn för att starta matchen!"
-
-msgid "Waiting for players."
-msgstr "Väntar på spelare."
+#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+msgid "Chasers"
+msgstr "Följare"
 
 msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
 msgstr "Du är i utmanarkön i väntan på din tur att spela.\nAnvänd spelmenyn för att lämna kön."
@@ -23,13 +21,19 @@ msgstr "Du är i utmanarkön i väntan på din tur att spela.\nAnvänd spelmenyn
 msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
 msgstr "Använd spelmenyn för att gå med i utmanarkön.\nEndast spelare i kön kommer att få sin tur att spela mot den sista vinnaren."
 
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr "Gör dig själv REDO i spelmenyn för att starta matchen!"
+
+msgid "Waiting for players."
+msgstr "Väntar på spelare."
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
-msgstr "Spelaren har gått in i övningsläget."
+msgstr "Gick in i övningsläget"
 
 #. User has left practice mode in Race
 msgid "Left practice mode"
-msgstr "Lämnat övningsläget."
+msgstr "Lämnade övningsläget"
 
 #. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
@@ -60,7 +64,7 @@ msgid "You are shooting at your team-mates!"
 msgstr "Du skjuter på dina lagmedlemmar!"
 
 msgid "Don't shoot at members of your team!"
-msgstr "Skjut inte på dina lagmedlemmar!"
+msgstr "Skjut inte på medlemmar av ditt lag!"
 
 #. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
 msgid "YOU TEAMFRAGGED %s"
@@ -102,7 +106,7 @@ msgid "someplace"
 msgstr "någonstans"
 
 msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Gör dig själv REDO att starta matchen!\nDu kan använda spelmenyn eller eller helt enkelt trycka 'F4'.\n'ESC' för in-game meny eller 'ENTER' för in-game chatt."
+msgstr "Gör dig själv REDO att starta matchen!\nDu kan använda spelmenyn eller eller helt enkelt trycka 'F4'.\n'ESC' för spelmenyn eller 'ENTER' för in-game chatt."
 
 msgid "Waiting... %s"
 msgstr "Väntar... %s"
@@ -133,7 +137,7 @@ msgid "Name"
 msgstr "Namn"
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' för in-game meny eller 'ENTER' för in-game chatt.\nMusknapparna för att växla åskådarlägen.\nDetta meddelande kan döljas genom att avaktivera 'hjälp' i menyn för spelare-inställningar."
+msgstr "'ESC' för spelmenyn eller 'ENTER' för in-game chatt.\nMusknapparna för att växla åskådarlägen.\nDetta meddelande kan döljas genom att avaktivera 'hjälp' i menyn för spelare-inställningar."
 
 msgid "Bomb defused!"
 msgstr "Bomb desarmerad!"
@@ -193,7 +197,7 @@ msgstr "Bästa på servern:"
 
 #. Race
 msgid "Alpha time:"
-msgstr "Alphatid:"
+msgstr "Alfatid:"
 
 #. Race
 msgid "Beta time:"
@@ -232,20 +236,20 @@ msgid "Warmup"
 msgstr "Uppvärmning"
 
 msgid "Low Ammo"
-msgstr "Lite Ammo"
+msgstr "Låg Ammunition"
 
 msgid "Out Of Ammo"
-msgstr "Ingen Ammo"
+msgstr "Ingen Ammunition"
 
 msgid "Waiting for players.\n'ESC' for in-game menu."
 msgstr "Väntar på spelare.\n'ESC' för spelmeny."
 
 msgid "Message of the day:"
-msgstr "Dagens budskap:"
+msgstr "Dagens meddelande:"
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' för in-game meny eller 'ENTER' för in-game chatt.\nDu är i utmanarens kö väntandes för att det ska bli din tur att spela.\nAnvänd in-game meny för att gå ur kön.\n\nAnvänd musknapparna för att byta visnings läge."
+msgstr "'ESC' för spelmenyn eller 'ENTER' för in-game chatt.\nDu är i utmanarkön väntandes på din tur att spela.\nAnvänd spelmenyn för att gå ur kön.\n\nAnvänd musknapparna för att växla mellanåskådarlägen."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' för in-game meny eller 'ENTER' för in-game chatt.\nAnvänd in-game menyn eller tryck 'F3' för att gå med i utmanarnas kö.\nEndast spelare i kön får en chans att spela mot den sista vinnaren.\n\nAnvänd musknapparna för att växla mellan åskådarlägen."
+msgstr "'ESC' för spelmenyn eller 'ENTER' för in-game chatt.\nAnvänd spelmenyn eller tryck 'F3' för att gå med i utmanarkön.\nEndast spelare i kön får en chans att spela mot den sista vinnaren.\n\nAnvänd musknapparna för att växla mellan åskådarlägen."
 

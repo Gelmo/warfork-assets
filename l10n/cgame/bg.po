@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:03+0000\n"
-"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"POT-Creation-Date: 2016-04-03 16:16+0000\n"
+"PO-Revision-Date: 2016-04-03 16:16+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: bg\n"
@@ -11,17 +11,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Set yourself READY using the in-game menu to start the match!"
-msgstr "Направете се ГОТОВ с помощта на менюто за да започнете мача!"
-
-msgid "Waiting for players."
-msgstr "Изчакване за играчи."
-
 msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
 msgstr "Вие сте в опашката за претенденти и чакате за вашият ред.\nИзползвайте менюто в играта за да излезете от опашката."
 
 msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
 msgstr "Използвате менюто за да се наредите на опашката за претенденти.\nЕдин играч от опашката ще има право да играе срещу последният победител."
+
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr "Направете се ГОТОВ с помощта на менюто за да започнете мача!"
+
+msgid "Waiting for players."
+msgstr "Изчакване за играчи."
 
 #. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"

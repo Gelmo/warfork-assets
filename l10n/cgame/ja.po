@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:03+0000\n"
-"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"POT-Creation-Date: 2016-04-03 16:16+0000\n"
+"PO-Revision-Date: 2016-04-03 16:16+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: ja\n"
@@ -10,6 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Waiting for players."
+msgstr "プレイヤーを待っています。"
+
+#. User has entered practice mode in Race
+msgid "Entered practice mode"
+msgstr "プラクティスモードに入りました"
+
+#. User has left practice mode in Race
+msgid "Left practice mode"
+msgstr "プラクティスモードを出ました"
 
 msgid "Teams are uneven. Please switch into another team."
 msgstr "チームが互角ではありません。別のチームへ動いてください。"

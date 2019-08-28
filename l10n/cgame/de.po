@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:03+0000\n"
-"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"POT-Creation-Date: 2016-12-05 19:39+0000\n"
+"PO-Revision-Date: 2016-12-05 19:39+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -11,17 +11,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Set yourself READY using the in-game menu to start the match!"
-msgstr "Stelle dich als BEREIT über das Spiel-Menü, um das Match zu starten!"
-
-msgid "Waiting for players."
-msgstr "Warte auf Spieler."
+#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+msgid "Chasers"
+msgstr "Persönliche zuschauer"
 
 msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
 msgstr "Du bist in der Herausforderer-Warteschlange und wartest auf deinen Zug.\nBenutze das Spiel-Menü um die Warteschlange zu verlassen."
 
 msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
 msgstr "Benutze das Spiel-Menü um die Herausforderer-Warteschlange zu betreten.\nNur Spieler in der Warteschlange können gegen den letzten Gewinner spielen."
+
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr "Stelle dich als BEREIT über das Spiel-Menü, um das Match zu starten!"
+
+msgid "Waiting for players."
+msgstr "Warte auf Spieler."
 
 #. User has entered practice mode in Race
 msgid "Entered practice mode"

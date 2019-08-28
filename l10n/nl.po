@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:04+0000\n"
-"PO-Revision-Date: 2016-03-26 11:04+0000\n"
+"POT-Creation-Date: 2016-04-03 16:14+0000\n"
+"PO-Revision-Date: 2016-04-03 16:14+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: nl_lu\n"
@@ -10,6 +10,130 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Vsay/Quickmenu item
+msgid "Need offense"
+msgstr "Aanval nodig"
+
+#. Vsay/Quickmenu item
+msgid "Need help"
+msgstr "Hulp nodig"
+
+#. Vsay/Quickmenu item
+msgid "Armor free"
+msgstr "Pantser beschikbaar"
+
+#. Vsay/Quickmenu item
+msgid "Area secured"
+msgstr "Gebied veilig"
+
+#. Vsay/Quickmenu item
+msgid "No problem"
+msgstr "Geen probleem"
+
+#. Vsay/Quickmenu item
+msgid "Defend!"
+msgstr "Verdedigen!"
+
+#. Vsay/Quickmenu item
+msgid "Defend A!"
+msgstr "Verdedig A!"
+
+#. Vsay/Quickmenu item
+msgid "Defend B!"
+msgstr "Verdedig B!"
+
+#. Vsay/Quickmenu item
+msgid "Attack!"
+msgstr "Aanvallen!"
+
+#. Vsay/Quickmenu item
+msgid "Attack A!"
+msgstr "Val A aan!"
+
+#. Vsay/Quickmenu item
+msgid "Attack B!"
+msgstr "Val B aan!"
+
+#. Vsay/Quickmenu item
+msgid "Need backup"
+msgstr "Versterking nodig"
+
+#. Vsay/Quickmenu item
+msgid "Need defense"
+msgstr "Verdediging nodig"
+
+#. Vsay/Quickmenu item
+msgid "Roger"
+msgstr "Begrepen"
+
+#. Vsay/Quickmenu item
+msgid "Negative"
+msgstr "Negatief"
+
+#. Vsay/Quickmenu item
+msgid "Go to quad"
+msgstr "Ga naar quad"
+
+#. Vsay/Quickmenu item
+msgid "Go to powerup"
+msgstr "Ga naar powerup"
+
+#. Vsay/Quickmenu item
+msgid "Need health"
+msgstr "Leven nodig"
+
+#. Vsay/Quickmenu item
+msgid "Need weapon"
+msgstr "Wapen nodig"
+
+#. Vsay/Quickmenu item
+msgid "Need armor"
+msgstr "Pantser nodig"
+
+#. Vsay/Quickmenu item
+msgid "On defense"
+msgstr "Ik verdedig"
+
+#. Vsay/Quickmenu item
+msgid "On offense"
+msgstr "Ik val aan"
+
+#. Vsay/Quickmenu item
+msgid "Yes"
+msgstr "Ja"
+
+#. Vsay/Quickmenu item
+msgid "No"
+msgstr "Nee"
+
+#. Vsay/Quickmenu item
+msgid "Oops"
+msgstr "Oeps"
+
+#. Vsay/Quickmenu item
+msgid "Sorry"
+msgstr "Sorry"
+
+#. Vsay/Quickmenu item
+msgid "Thanks"
+msgstr "Bedankt"
+
+#. Vsay/Quickmenu item
+msgid "Yeehaa"
+msgstr "Yeehaa"
+
+#. Vsay/Quickmenu item
+msgid "Good game"
+msgstr "Goed gespeeld"
+
+#. Vsay/Quickmenu item
+msgid "Booo"
+msgstr "Booo"
+
+#. Vsay/Quickmenu item
+msgid "Affirmative"
+msgstr "Bevestigend"
 
 msgid "MM Login: Password error"
 msgstr "MM Login: Wachtwoord fout"
@@ -27,11 +151,11 @@ msgid "say (to team):"
 msgstr "Zeggen (naar team):"
 
 msgid "Connection timed out"
-msgstr "Connectie verlopen"
+msgstr "Verbinding verlopen"
 
 #. Bomb option, enables projectile for Gunblade
 msgid "Strong Gunblade"
-msgstr "Sterk Geweerzwaard"
+msgstr "Sterk Mesgeweer"
 
 msgid "MM Login: authentication timeout"
 msgstr "MM Login: authenticatie verlopen"
@@ -157,10 +281,10 @@ msgid "Armor Shard"
 msgstr "Pantserstuk"
 
 msgid "5 Health"
-msgstr "5 Leven"
+msgstr "5 Levenspunten"
 
 msgid "25 Health"
-msgstr "25 Leven"
+msgstr "25 Levenspunten"
 
 msgid "50 Health"
 msgstr "50 Levenspunten"
@@ -172,13 +296,13 @@ msgid "Ultra Health"
 msgstr "Ultra Leven"
 
 msgid "Quad Damage"
-msgstr "Quadra schade"
+msgstr "Viervoudige Schade"
 
 msgid "WarShell"
-msgstr "WarShell"
+msgstr "OorlogsSchild"
 
 msgid "Regeneration"
-msgstr "Herstelling"
+msgstr "Leven Herstelling"
 
 msgid "Ammo Pack Weak"
 msgstr "Zwak ammunitie pakket"

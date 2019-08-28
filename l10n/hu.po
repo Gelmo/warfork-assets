@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:04+0000\n"
-"PO-Revision-Date: 2016-03-26 11:04+0000\n"
+"POT-Creation-Date: 2016-04-03 16:14+0000\n"
+"PO-Revision-Date: 2016-04-03 16:14+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: hu\n"
@@ -18,6 +18,10 @@ msgstr "Támadást kérek"
 #. Vsay/Quickmenu item
 msgid "Need help"
 msgstr "Segítséget kérek"
+
+#. Vsay/Quickmenu item
+msgid "Armor free"
+msgstr "Páncél ingyenes"
 
 #. Vsay/Quickmenu item
 msgid "Area secured"
@@ -68,6 +72,14 @@ msgid "Negative"
 msgstr "Negatív"
 
 #. Vsay/Quickmenu item
+msgid "Go to quad"
+msgstr "Tovább a quad"
+
+#. Vsay/Quickmenu item
+msgid "Go to powerup"
+msgstr "Tovább a powerup"
+
+#. Vsay/Quickmenu item
 msgid "Need health"
 msgstr "Élet kell"
 
@@ -114,6 +126,10 @@ msgstr "Huhúú"
 #. Vsay/Quickmenu item
 msgid "Good game"
 msgstr "Jó meccs volt"
+
+#. Vsay/Quickmenu item
+msgid "Booo"
+msgstr "Booo"
 
 #. Vsay/Quickmenu item
 msgid "Affirmative"

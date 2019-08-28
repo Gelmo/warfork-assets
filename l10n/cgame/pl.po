@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:03+0000\n"
-"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"POT-Creation-Date: 2016-12-05 19:39+0000\n"
+"PO-Revision-Date: 2016-12-05 19:39+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -11,17 +11,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "Set yourself READY using the in-game menu to start the match!"
-msgstr "Ustaw swój stan na GOTÓW za pomocą menu by rozpocząć mecz!"
-
-msgid "Waiting for players."
-msgstr "Oczekiwanie na graczy."
+#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+msgid "Chasers"
+msgstr "Obserwujący"
 
 msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
 msgstr "Podjąłeś wyzwanie! Czekaj na swoją kolej!\nUżyj menu, aby opuścić kolejkę."
 
 msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
 msgstr "Użyj menu by dołączyć do kolejki.\nTylko gracze z kolejki będą brani, by zmierzyć się z ostatnim zwycięzcą pojedynku."
+
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr "Ustaw swój stan na GOTÓW za pomocą menu by rozpocząć mecz!"
+
+msgid "Waiting for players."
+msgstr "Oczekiwanie na graczy."
+
+#. User has entered practice mode in Race
+msgid "Entered practice mode"
+msgstr "Uruchomiono tryb ćwiczeniowy"
+
+#. User has left practice mode in Race
+msgid "Left practice mode"
+msgstr "Opuszczono tryb ćwiczeniowy"
 
 #. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
@@ -31,7 +43,7 @@ msgid "Teams are uneven. Please switch into another team."
 msgstr "Drużyny są nierówne. Dołącz do drugiej drużyny."
 
 msgid "PROTECT THE BOMB SITES!"
-msgstr "CHROŃ BS-Y!"
+msgstr "OCHRANIAJ CELE!"
 
 msgid "TEAMDAMAGE PUNISHMENT!"
 msgstr "KARA ZA STRZAŁY DO ZESPOŁU!"

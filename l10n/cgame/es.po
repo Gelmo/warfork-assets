@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:03+0000\n"
-"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"POT-Creation-Date: 2016-04-03 16:16+0000\n"
+"PO-Revision-Date: 2016-04-03 16:16+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: es\n"
@@ -11,17 +11,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Set yourself READY using the in-game menu to start the match!"
-msgstr "Ponte 'PREPARADO' usando el menú para empezar la partida!"
-
-msgid "Waiting for players."
-msgstr "Esperando más jugadores."
+#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+msgid "Chasers"
+msgstr "Seguidores"
 
 msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
 msgstr "Estas en la cola de los desafiadores esperando tu turno.\nUsa el menú para salir de la cola."
 
 msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
 msgstr "Usa el menú para entrar en la cola de los desafiadores.\nSolo jugadores en la cola tendrán un turno de jugar contra el ultimo ganador."
+
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr "Ponte 'PREPARADO' usando el menú para empezar la partida!"
+
+msgid "Waiting for players."
+msgstr "Esperando más jugadores."
+
+#. User has entered practice mode in Race
+msgid "Entered practice mode"
+msgstr "Entró a modo práctica"
+
+#. User has left practice mode in Race
+msgid "Left practice mode"
+msgstr "Salió de modo práctica"
 
 #. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"

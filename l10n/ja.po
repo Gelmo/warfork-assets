@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:04+0000\n"
-"PO-Revision-Date: 2016-03-26 11:04+0000\n"
+"POT-Creation-Date: 2016-04-03 16:14+0000\n"
+"PO-Revision-Date: 2016-04-03 16:14+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: ja\n"
@@ -12,12 +12,68 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. Vsay/Quickmenu item
+msgid "Need offense"
+msgstr "攻めが必要だ"
+
+#. Vsay/Quickmenu item
+msgid "Need help"
+msgstr "助けが要る"
+
+#. Vsay/Quickmenu item
+msgid "No problem"
+msgstr "問題ない"
+
+#. Vsay/Quickmenu item
+msgid "Defend!"
+msgstr "守れ！"
+
+#. Vsay/Quickmenu item
+msgid "Defend A!"
+msgstr "Aを守れ！"
+
+#. Vsay/Quickmenu item
+msgid "Defend B!"
+msgstr "Bを守れ！"
+
+#. Vsay/Quickmenu item
+msgid "Attack!"
+msgstr "攻めろ！"
+
+#. Vsay/Quickmenu item
+msgid "Attack A!"
+msgstr "Aを攻めろ！"
+
+#. Vsay/Quickmenu item
+msgid "Attack B!"
+msgstr "Bを攻めろ！"
+
+#. Vsay/Quickmenu item
+msgid "Need backup"
+msgstr "後援が必要だ"
+
+#. Vsay/Quickmenu item
+msgid "Need defense"
+msgstr "守備が必要だ"
+
+#. Vsay/Quickmenu item
 msgid "Roger"
 msgstr "了解"
 
 #. Vsay/Quickmenu item
 msgid "Negative"
 msgstr "反対"
+
+#. Vsay/Quickmenu item
+msgid "Need health"
+msgstr "ヘルスが必要だ"
+
+#. Vsay/Quickmenu item
+msgid "Need weapon"
+msgstr "武器が要る"
+
+#. Vsay/Quickmenu item
+msgid "Need armor"
+msgstr "アーマーが要る"
 
 #. Vsay/Quickmenu item
 msgid "Yes"

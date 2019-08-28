@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 11:03+0000\n"
-"PO-Revision-Date: 2016-03-26 11:03+0000\n"
+"POT-Creation-Date: 2016-04-03 16:16+0000\n"
+"PO-Revision-Date: 2016-04-03 16:16+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -11,17 +11,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "Set yourself READY using the in-game menu to start the match!"
-msgstr "Підтвердіть свою готовність, скориставшись ігровим меню, щоб почати матч!"
-
-msgid "Waiting for players."
-msgstr "Очікування гравців."
+#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+msgid "Chasers"
+msgstr "Персональні глядачі"
 
 msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
 msgstr "Зараз ви знаходитеся в черзі гравців, що кинули виклик і очікуючих своєї гри.\nВи можете скористатися ігровим меню, щоб стати спостерігачем."
 
 msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
 msgstr "Використайте ігрове меню, щоб кинути виклик.\nТільки гравці, що кинули виклик, зможуть грати з переможцем останнього матчу."
+
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr "Підтвердіть свою готовність, скориставшись ігровим меню, щоб почати матч!"
+
+msgid "Waiting for players."
+msgstr "Очікування гравців."
 
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
