@@ -700,8 +700,8 @@ msgstr "Team model options"
 msgid "Fullbright skin"
 msgstr "Fullbright skin"
 
-msgid "Force your team as ALPHA"
-msgstr "Force your team as ALPHA"
+msgid "Force your team as FORBIDDEN"
+msgstr "Force your team as FORBIDDEN"
 
 msgid "Graphics profile"
 msgstr "Graphics profile"
