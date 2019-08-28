@@ -342,7 +342,7 @@ msgid "No data yet"
 msgstr "Нет данных"
 
 msgid "No friends yet"
-msgstr "Пока друзей нет"
+msgstr "Друзей пока нет"
 
 msgid "Connected to"
 msgstr "Подключился к"
@@ -532,7 +532,7 @@ msgid "Cast a vote"
 msgstr "Проголосовать"
 
 msgid "Color correction"
-msgstr "Цветокоррекция"
+msgstr "Цветовая коррекция"
 
 msgid "Use the selected model for all players"
 msgstr "Применить эту модель для всех игроков"
@@ -731,7 +731,7 @@ msgid "vertex lighting"
 msgstr "вершинное освещение"
 
 msgid "lightmaps"
-msgstr "карты освещенности"
+msgstr "карты освещённости"
 
 msgid "per-pixel lighting"
 msgstr "попиксельное освещение"
@@ -752,7 +752,7 @@ msgid "Greyscale lighting"
 msgstr "Полутоновое освещение"
 
 msgid "Use solid colors for world"
-msgstr "Закрашивать стены"
+msgstr "Закрашивать стены и пол"
 
 msgid "Sound module"
 msgstr "Звуковой модуль"
@@ -1213,7 +1213,7 @@ msgid "Sets the number of minutes after which the warmup ends"
 msgstr "Устанавливает длительность разминки в минутах"
 
 msgid "Sets the length of the overtime"
-msgstr "Устанавливает длительность овертайма"
+msgstr "Устанавливает длительность дополнительного времени"
 
 msgid "Specify 0 to enable sudden death mode"
 msgstr "Укажите 0 для включения режима \"победного фрага\""
