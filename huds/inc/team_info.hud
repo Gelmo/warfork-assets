@@ -25,7 +25,7 @@ if %TEAM >= #TEAM_ALPHA
 	setFontSize %VIDHEIGHT / 44
 	setColor 1 1 1 0.9
 	setCursor #WIDTH, 500
-	moveCursor -5 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor -5 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	setAlign #RIGHT, #BOTTOM
 	drawTeamInfo
 	drawTeamMates
@@ -36,7 +36,7 @@ if %IMAGE_SELF
 		setColorToTeamColor %TEAM
 		setCursor 360, 450
 		setAlign #RIGHT, #MIDDLE
-		setSize 64 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 64
+		setSize 64 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 64
 		drawPicByIndex %IMAGE_SELF
 endif
 
@@ -45,7 +45,7 @@ if %IMAGE_OTHER
 		setColorToTeamColor %TEAM_ENEMY
 		setCursor 440, 450
 		setAlign #LEFT, #MIDDLE
-		setSize 64 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 64
+		setSize 64 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 64
 		drawPicByIndex %IMAGE_OTHER
 endif
 
@@ -53,7 +53,7 @@ if %IMAGE_ALPHA
 		setColorToTeamColor #TEAM_ALPHA
 		setCursor 300, 40
 		setAlign #RIGHT, #BOTTOM
-		setSize 32 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 32
+		setSize 32 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 32
 		drawPicByIndex %IMAGE_ALPHA
 endif
 
@@ -61,7 +61,7 @@ if %IMAGE_BETA
 		setColorToTeamColor #TEAM_BETA
 		setCursor 500, 40
 		setAlign #LEFT, #BOTTOM
-		setSize 32 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 32
+		setSize 32 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 32
 		drawPicByIndex %IMAGE_BETA
 endif
 
@@ -72,7 +72,7 @@ endif
 
 if %PROGRESS_OTHER
 
-	setSize 64 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 64
+	setSize 64 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 64
 	setCursor 416, 460
 	setAlign #CENTER, #MIDDLE
 
@@ -89,7 +89,7 @@ if %PROGRESS_OTHER
 	endif
 
 	// eye candy layer
-	setSize 82 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 82
+	setSize 82 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 82
 	setColor 1, 0.95, 0.825, 0.4
 	if %VIDHEIGHT <= 600
 		drawPicByName "gfx/hud/kuhjoe/middle_toyish_lowres"
@@ -102,7 +102,7 @@ endif
 
 if %PROGRESS_SELF
 
-	setSize 64 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 64
+	setSize 64 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 64
 	setCursor 384, 440
 	setAlign #CENTER, #MIDDLE
 
@@ -119,7 +119,7 @@ if %PROGRESS_SELF
 	endif
 
 	// eye candy layer
-	setSize 82 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 82
+	setSize 82 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 82
 	setColor 1, 0.95, 0.825, 0.4
 	if %VIDHEIGHT <= 600
 		drawPicByName "gfx/hud/kuhjoe/middle_toyish_lowres"
@@ -132,7 +132,7 @@ endif
 
 if %PROGRESS_ALPHA
 
-	setSize 48 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 48
+	setSize 48 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 48
 	//setCursor 330, 450
 	setAlign #CENTER, #MIDDLE
 	setCursor 286, 24
@@ -150,7 +150,7 @@ if %PROGRESS_ALPHA
 	endif
 
 	// eye candy layer
-	setSize 64 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 64
+	setSize 64 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 64
 	setColor 1, 0.95, 0.825, 0.4
 	if %VIDHEIGHT <= 600
 		drawPicByName "gfx/hud/kuhjoe/middle_toyish_lowres"
@@ -163,7 +163,7 @@ endif
 
 if %PROGRESS_BETA
 
-	setSize 48 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 48
+	setSize 48 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 48
 	//setCursor 470, 450
 	setAlign #CENTER, #MIDDLE
 	setCursor 514, 24
@@ -181,7 +181,7 @@ if %PROGRESS_BETA
 	endif
 
 	// eye candy layer
-	setSize 64 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 64
+	setSize 64 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 64
 	setColor 1, 0.95, 0.825, 0.4
 	if %VIDHEIGHT <= 600
 		drawPicByName "gfx/hud/kuhjoe/middle_toyish_lowres"

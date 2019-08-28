@@ -93,6 +93,3 @@ endif //if %SPEED != #NOTSET
 endif
 endif
 endif
-
-
-

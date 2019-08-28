@@ -2,7 +2,7 @@
 if %TEAM_ALPHA_SCORE != #NOTSET
 
 	setColorToTeamColor #TEAM_ALPHA
-	setSize 28 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 28
+	setSize 28 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 28
 	setAlign #RIGHT 1
 	setCursor 325, 7
 	if %TEAM == #TEAM_ALPHA
@@ -19,7 +19,7 @@ endif
 if %TEAM_BETA_SCORE != #NOTSET
 
 	setColorToTeamColor #TEAM_BETA
-	setSize 28 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 28
+	setSize 28 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 28
 	setAlign #LEFT 1
 	setCursor 475, 7
 

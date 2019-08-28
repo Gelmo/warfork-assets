@@ -5,7 +5,7 @@ if %RACE == 0
 if %INDIVIDUAL == 0
 
 	setColor 1, 1, 1, 1
-	setSize 16 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 16
+	setSize 16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 16
 	setAlign #LEFT, #BOTTOM
 	setCursor 58, 550
 	drawNum %SCORE
@@ -43,7 +43,7 @@ if %TEAMBASED && %INDIVIDUAL
 	drawString "Spread:"
 
 	setColor 1, 1, 1, 1
-	setSize 16 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 16
+	setSize 16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 16
 	setAlign #LEFT, #BOTTOM
 	setCursor 60, 548
 

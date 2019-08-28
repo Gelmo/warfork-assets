@@ -7,14 +7,14 @@ ifnot %SOFTKEYBOARD
 endif
 
 setAlign 1 1
-setSize #WIDTH - 370 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 130
-setCursor 10 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 85
+setSize #WIDTH - 370 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 130
+setCursor 10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 85
 if %MATCH_STATE < #MATCH_STATE_POSTMATCH
-	moveCursor 175 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor 175 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 endif
 if %MATCH_STATE >= #MATCH_STATE_POSTMATCH
 	if %CHAT_MODE && %SOFTKEYBOARD
-		moveCursor 175 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor 175 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	endif
 endif
 ifnot %CHAT_MODE && %SOFTKEYBOARD
@@ -31,10 +31,10 @@ if %CHAT_MODE == 0
 	setColor 0 0 0 0
 endif
 
-drawChat 7 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 6, "gfx/2d/chat1"
+drawChat 7 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 6, "gfx/2d/chat1"
 
 if %CHAT_MODE > 0
-	setSize 32 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 32
-	moveCursor #WIDTH - 410 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 90
+	setSize 32 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 32
+	moveCursor #WIDTH - 410 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 90
 	drawPicByName "gfx/2d/bubblechat"
 endif

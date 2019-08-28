@@ -4,10 +4,10 @@ setColor 1, 1, 1, 1
 setCursor 400 110
 
 if %SCOREBOARD == 0
-setAlign #CENTER, #TOP
+	setAlign #CENTER, #TOP
 endif
 if %SCOREBOARD != 0
-setAlign #CENTER, #BOTTOM
+	setAlign #CENTER, #BOTTOM
 endif
 
 drawAwards

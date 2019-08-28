@@ -12,7 +12,7 @@ if %TUTORIAL != 0
 		if %SPEED >= 30 //hack avoiding crazy bg animation at stacking in corners
 			setCursor #WIDTH / 2, -0.7 * %SPEED - 30 // (#HEIGHT*0.33)/(320-30)=0.7
 		endif
-		setSize 750 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, #HEIGHT * 0.33
+		setSize 750 * 1.333 * %VIDHEIGHT / %VIDWIDTH, #HEIGHT * 0.33
 		setColor 1 1 1 1.0
 		drawPicByName gfx/hud/help_bg //background for le text
 

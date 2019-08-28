@@ -11,7 +11,7 @@ if %MATCH_STATE <= #MATCH_STATE_PLAYTIME
 			if %SPEED < 90
 				// tutorial grip instructions
 				setCursor #WIDTH * 0.5, 420
-				setSize 360 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 90
+				setSize 360 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 90
 				setColorAlpha 0.25
 				if %SPEED > 50
 					setColorAlpha 0.25 - 0.00625 * %SPEED - 50
@@ -37,12 +37,12 @@ if %MATCH_STATE <= #MATCH_STATE_PLAYTIME
 			if %TOUCH_FLIP > 0
 				moveCursor #WIDTH, 0
 			endif
-			moveCursor %TOUCH_FLIP * -10 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
-			moveCursor %TOUCH_FLIP * -256 * %TOUCH_SCALE * 0.01 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
+			moveCursor %TOUCH_FLIP * -10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor %TOUCH_FLIP * -256 * %TOUCH_SCALE * 0.01 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
 			setSize #WIDTH, #HEIGHT // extend the area to the edges of the screen
 			touchAttack
 			ifnot %SCOREBOARD
-				setSize 256 * %TOUCH_SCALE * 0.01 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
+				setSize 256 * %TOUCH_SCALE * 0.01 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
 				setColorAlpha 0.3 + %TOUCH_ATTACK * 0.3
 				if %TOUCH_FLIP > 0
 					drawPicByName "gfx/hud/keys/act_fire_wide"
@@ -58,12 +58,12 @@ if %MATCH_STATE <= #MATCH_STATE_PLAYTIME
 			if %TOUCH_FLIP < 0
 				moveCursor #WIDTH, 0
 			endif
-			moveCursor %TOUCH_FLIP * 10 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
-			moveCursor %TOUCH_FLIP * 256 * %TOUCH_SCALE * 0.01 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
+			moveCursor %TOUCH_FLIP * 10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor %TOUCH_FLIP * 256 * %TOUCH_SCALE * 0.01 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
 			setSize #WIDTH, #HEIGHT // extend the area to the edges of the screen
 			touchJump
 			ifnot %SCOREBOARD
-				setSize 256 * %TOUCH_SCALE * 0.01 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
+				setSize 256 * %TOUCH_SCALE * 0.01 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
 				setColorAlpha 0.3
 				if %TOUCH_UPMOVE > 0
 					setColorAlpha 0.6
@@ -76,7 +76,7 @@ if %MATCH_STATE <= #MATCH_STATE_PLAYTIME
 				endif
 			endif
 
-			setSize 128 * %TOUCH_SCALE * 0.01 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
+			setSize 128 * %TOUCH_SCALE * 0.01 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
 
 			// special
 			setAlign #CENTER + %TOUCH_FLIP, #TOP
@@ -84,8 +84,8 @@ if %MATCH_STATE <= #MATCH_STATE_PLAYTIME
 			if %TOUCH_FLIP > 0
 				moveCursor #WIDTH, 0
 			endif
-			moveCursor %TOUCH_FLIP * -10 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
-			moveCursor %TOUCH_FLIP * -144 * %TOUCH_SCALE * 0.01 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
+			moveCursor %TOUCH_FLIP * -10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor %TOUCH_FLIP * -144 * %TOUCH_SCALE * 0.01 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
 			touchSpecial
 			ifnot %SCOREBOARD
 				setColorAlpha 0.3 + %TOUCH_SPECIAL * 0.3
@@ -103,8 +103,8 @@ if %MATCH_STATE <= #MATCH_STATE_PLAYTIME
 			if %TOUCH_FLIP < 0
 				moveCursor #WIDTH, 0
 			endif
-			moveCursor %TOUCH_FLIP * 10 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
-			moveCursor %TOUCH_FLIP * 144 * %TOUCH_SCALE * 0.01 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
+			moveCursor %TOUCH_FLIP * 10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor %TOUCH_FLIP * 144 * %TOUCH_SCALE * 0.01 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
 			touchCrouch
 			ifnot %SCOREBOARD
 				setColorAlpha 0.3
@@ -140,8 +140,8 @@ if %MATCH_STATE <= #MATCH_STATE_PLAYTIME
 		if %INSTANTRESPAWN
 		ifnot %SCOREBOARD
 			setAlign #RIGHT, #TOP
-			setCursor #WIDTH - 10 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 40
-			setSize 128 * %TOUCH_SCALE * 0.01 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
+			setCursor #WIDTH - 10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 40
+			setSize 128 * %TOUCH_SCALE * 0.01 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128 * %TOUCH_SCALE * 0.01
 			touchAttack
 			setColorAlpha 0.3 + %TOUCH_ATTACK * 0.3
 			drawPicByName "gfx/hud/keys/key_right"
@@ -152,8 +152,8 @@ if %MATCH_STATE <= #MATCH_STATE_PLAYTIME
 
 	if %REALTEAM == #TEAM_SPECTATOR
 		setAlign #RIGHT, #TOP
-		setCursor #WIDTH - 10 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 10
-		setSize 128 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128
+		setCursor #WIDTH - 10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 10
+		setSize 128 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128
 		touchAttack
 		setColorAlpha 0.3 + %TOUCH_ATTACK * 0.3
 		drawPicByName "gfx/hud/keys/act_cam"
@@ -171,8 +171,8 @@ endif
 
 if %MATCH_STATE >= #MATCH_STATE_WAITEXIT
 	setAlign #RIGHT, #TOP
-	setCursor #WIDTH - 10 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 10
-	setSize 128 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 128
+	setCursor #WIDTH - 10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 10
+	setSize 128 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 128
 	touchAttack
 	setColorAlpha 0.3 + %TOUCH_ATTACK * 0.3
 	drawPicByName "gfx/hud/keys/key_right"

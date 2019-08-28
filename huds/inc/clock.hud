@@ -6,7 +6,7 @@ setFontSize %VIDHEIGHT / 22
 setAlign #CENTER, #MIDDLE
 
 setColor 0, 0, 0, 1
-setSize 32 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 32
+setSize 32 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 32
 drawClock
 
 // change color according to item
@@ -33,15 +33,18 @@ endif
 // draws clock
 setAlign #CENTER, #MIDDLE
 moveCursor -2, -2   //colored clock position
-setSize 32 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 32
+setSize 32 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 32
 drawClock
 
-//draws Warmup
+// MATCH STATES
 setFontFamily con_fontSystem
 setFontSize %VIDHEIGHT / 48
 setAlign 2 1
 setCursor #WIDTH / 2, 50
+setColor 0.4 1 0.4 0.5
 if %MATCH_STATE == #MATCH_STATE_WARMUP
-	setColor 0.4 1 0.4 0.5
 	drawString "Warmup"
+endif
+if %OVERTIME
+	drawString "Overtime"
 endif

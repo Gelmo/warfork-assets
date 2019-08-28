@@ -10,7 +10,7 @@ setFontSize %VIDHEIGHT / 50
 // no ammo warning
 if 0 >= %AMMO
 	//shadow
-	setSize 24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 24
+	setSize 24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 24
 	setCursor #WIDTH / 2 , 50 + #HEIGHT / 2
 	moveCursor 1, 1
 	setColor 0 0 0 0.8
