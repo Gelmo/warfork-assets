@@ -1,12 +1,12 @@
-setSize 68 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 68
+setSize 68 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 68
 
 if %TOUCH_FLIP > 0
 	setAlign #LEFT, #BOTTOM
-	setCursor 5 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, #HEIGHT - 5
+	setCursor 5 * 1.333 * %VIDHEIGHT / %VIDWIDTH, #HEIGHT - 5
 endif
 if %TOUCH_FLIP < 0
 	setAlign #RIGHT, #BOTTOM
-	setCursor #WIDTH - 5 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, #HEIGHT - 5
+	setCursor #WIDTH - 5 * 1.333 * %VIDHEIGHT / %VIDWIDTH, #HEIGHT - 5
 endif
 touchScores
 setColor 1, 1, 1, 0.3 + %SCOREBOARD * 0.3
@@ -18,7 +18,7 @@ if %TOUCH_FLIP < 0
 endif
 
 if %QUICKMENU
-	moveCursor 68 * %TOUCH_FLIP * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor 68 * %TOUCH_FLIP * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	touchQuickMenu %TOUCH_FLIP
 	setColor 1, 1, 1, 0.3
 	if %QUICKMENU > 1

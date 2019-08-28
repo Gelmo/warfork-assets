@@ -3,7 +3,7 @@ setCursor #WIDTH / 2, 0
 // Top score/clock background
 if %TEAM > 1 // if not #TEAM_PLAYER or #TEAM_SPECTATOR
 	setAlign 2 1
-	setSize 395 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 40
+	setSize 395 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 40
 	setColorToTeamColor %TEAM
 	setColorAlpha 0.25
 	drawPicByName "gfx/hud/default/top_bar"
@@ -40,15 +40,18 @@ if %SHOW_PICKUP > 0
 	endif
 endif
 drawClock
-setSize 120 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 40
+setSize 120 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 40
 touchScores
 
-// Warmup
+// MATCH STATES
+setFontFamily con_fontSystem
+setFontSize %VIDHEIGHT / 48
+setAlign 2 1
+setCursor #WIDTH / 2, 40
+setColor 0.4 1 0.4 0.5
 if %MATCH_STATE == #MATCH_STATE_WARMUP
-	setFontFamily con_fontSystem
-	setFontSize %VIDHEIGHT / 48
-	setAlign 2 1
-	setCursor #WIDTH / 2, 40
-	setColor 0.4 1 0.4 0.5
 	drawString "Warmup"
+endif
+if %OVERTIME
+	drawString "Overtime"
 endif

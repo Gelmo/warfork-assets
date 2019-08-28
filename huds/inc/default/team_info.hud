@@ -7,7 +7,7 @@ setFontFamily con_fontSystem
 setFontSize %VIDHEIGHT / 44
 
 setAlign 3 3
-setColor 1 1 1 0.7
+setColor 1 1 1 0.9
 setCursor #WIDTH, #HEIGHT
-moveCursor -5 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, -80
+moveCursor -5 * 1.333 * %VIDHEIGHT / %VIDWIDTH, -80
 drawTeamInfo

@@ -34,12 +34,12 @@ if %MESSAGE_ALPHA
 		setFontSize %VIDHEIGHT / 22
 		setAlign #RIGHT #MIDDLE
 		setColor 0 0 0 1
-		moveCursor -105 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor -105 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		if %TEAM_ALPHA_SCORE >= 10
-			moveCursor -20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		if %IMAGE_SELF
-			moveCursor -24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		moveCursor 1 1
 		drawStringRepeatConfigString "?" %MESSAGE_ALPHA
@@ -47,10 +47,10 @@ if %MESSAGE_ALPHA
 		moveCursor -1 -1
 		drawStringRepeatConfigString "?" %MESSAGE_ALPHA
 		if %TEAM_ALPHA_SCORE >= 10
-			moveCursor 20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		if %IMAGE_SELF
-			moveCursor 24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 	endif
 
@@ -59,12 +59,12 @@ if %MESSAGE_ALPHA
 		setFontSize %VIDHEIGHT / 22
 		setAlign #LEFT #MIDDLE
 		setColor 0 0 0 1
-		moveCursor 105 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor 105 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		if %TEAM_ALPHA_SCORE >= 10
-			moveCursor 20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		if %IMAGE_BETA
-			moveCursor 24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		moveCursor 1 1
 		drawStringRepeatConfigString "?" %MESSAGE_ALPHA
@@ -72,10 +72,10 @@ if %MESSAGE_ALPHA
 		moveCursor -1, -1
 		drawStringRepeatConfigString "?" %MESSAGE_ALPHA
 		if %TEAM_ALPHA_SCORE >= 10
-			moveCursor -20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		if %IMAGE_BETA
-			moveCursor -24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 	endif
 endif
@@ -87,12 +87,12 @@ if %MESSAGE_BETA
 		setFontSize %VIDHEIGHT / 22
 		setAlign #RIGHT #MIDDLE
 		setColor 0 0 0 1
-		moveCursor -105 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor -105 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		if %TEAM_BETA_SCORE >= 10
-			moveCursor -20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		if %IMAGE_SELF
-			moveCursor -24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		moveCursor 1 1
 		drawStringRepeatConfigString "?" %MESSAGE_BETA
@@ -100,10 +100,10 @@ if %MESSAGE_BETA
 		moveCursor -1 -1
 		drawStringRepeatConfigString "?" %MESSAGE_BETA
 		if %TEAM_BETA_SCORE >= 10
-			moveCursor 20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		if %IMAGE_SELF
-			moveCursor 24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 	endif
 
@@ -112,12 +112,12 @@ if %MESSAGE_BETA
 		setFontSize %VIDHEIGHT / 22
 		setAlign #LEFT #MIDDLE
 		setColor 0 0 0 1
-		moveCursor 105 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+		moveCursor 105 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		if %TEAM_BETA_SCORE >= 10
-			moveCursor 20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		if %IMAGE_BETA
-			moveCursor 24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor 24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		moveCursor 1 1
 		drawStringRepeatConfigString "?" %MESSAGE_BETA
@@ -125,10 +125,10 @@ if %MESSAGE_BETA
 		moveCursor -1 -1
 		drawStringRepeatConfigString "?" %MESSAGE_BETA
 		if %TEAM_BETA_SCORE >= 10
-			moveCursor -20 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 		if %IMAGE_BETA
-			moveCursor -24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+			moveCursor -24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 		endif
 	endif
 endif

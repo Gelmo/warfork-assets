@@ -1,4 +1,4 @@
-setSize 24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 24
+setSize 24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 24
 if %HEALTH > 100
 	drawPicByItemIndex #ITEM_MEGA_HEALTH
 	setColor 1 0 1 1

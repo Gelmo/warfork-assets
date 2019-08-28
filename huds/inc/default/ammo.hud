@@ -1,12 +1,12 @@
 setCursor #WIDTH #HEIGHT
-moveCursor -40 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, -40
+moveCursor -40 * 1.333 * %VIDHEIGHT / %VIDWIDTH, -40
 if %WEAPON_ITEM
 	setAlign 3 2
-	setSize 64 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 64
+	setSize 64 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 64
 	drawWeaponIcon
 endif
 
-moveCursor -5 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 4
+moveCursor -5 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 4
 if %INSTAGIB == 0
 	if %WEAPON_ITEM != #WEAP_GUNBLADE
 		if %AMMO
@@ -15,7 +15,7 @@ if %INSTAGIB == 0
 				setColor 1 0.6 0.6 1
 			endif
 			setAlign 2 1
-			setSize 24 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 24
+			setSize 24 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 24
 			drawNum %AMMO
 		endif
 	endif

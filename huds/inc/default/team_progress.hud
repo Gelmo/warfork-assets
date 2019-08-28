@@ -3,10 +3,10 @@
 //
 //Team progress stats are used to indicate the state of team actions in gametypes, such as flag unlocks in ctf.
 if %PROGRESS_SELF
-	setSize 132 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 12
+	setSize 132 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 12
 	setAlign 3 1
 	setCursor #WIDTH / 2, 0
-	moveCursor -80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 28
+	moveCursor -80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 28
 
 	// Bar
 	setColor 0 0 0 0.5
@@ -27,16 +27,16 @@ if %PROGRESS_SELF
 	if %PROGRESS_SELF > 0
 		setColor 0 1 0 0.9
 	endif
-	setSize 12 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 12
-	moveCursor -3 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	setSize 12 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 12
+	moveCursor -3 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	drawNum %PROGRESS_SELF
 endif
 
 if %PROGRESS_OTHER
-	setSize 132 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 12
+	setSize 132 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 12
 	setAlign 1 1
 	setCursor #WIDTH / 2, 0
-	moveCursor 80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 28
+	moveCursor 80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 28
 
 	// Bar
 	setColor 0 0 0 0.5
@@ -57,8 +57,8 @@ if %PROGRESS_OTHER
 	if %PROGRESS_OTHER > 0
 		setColor 0 1 0 0.9
 	endif
-	setSize 12 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 12
-	moveCursor 3 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	setSize 12 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 12
+	moveCursor 3 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	drawNum %PROGRESS_OTHER
 endif
 
@@ -66,10 +66,10 @@ endif
 // Draws progress when in freefly.
 //
 if %PROGRESS_ALPHA
-	setSize 132 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 12
+	setSize 132 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 12
 	setAlign 3 1
 	setCursor #WIDTH / 2, 0
-	moveCursor -80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 28
+	moveCursor -80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 28
 
 	// Bar
 	setColor 0 0 0 0.5
@@ -90,16 +90,16 @@ if %PROGRESS_ALPHA
 	if %PROGRESS_ALPHA > 0
 		setColor 0 1 0 0.9
 	endif
-	setSize 12 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 12
-	moveCursor -3 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	setSize 12 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 12
+	moveCursor -3 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	drawNum %PROGRESS_ALPHA
 endif
 
 if %PROGRESS_BETA
-	setSize 132 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 12
+	setSize 132 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 12
 	setAlign 1 1
 	setCursor #WIDTH / 2, 0
-	moveCursor 80 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 28
+	moveCursor 80 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 28
 
 	// Bar
 	setColor 0 0 0 0.5
@@ -120,7 +120,7 @@ if %PROGRESS_BETA
 	if %PROGRESS_BETA > 0
 		setColor 0 1 0 0.9
 	endif
-	setSize 12 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 12
-	moveCursor 3 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	setSize 12 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 12
+	moveCursor 3 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	drawNum %PROGRESS_BETA
 endif

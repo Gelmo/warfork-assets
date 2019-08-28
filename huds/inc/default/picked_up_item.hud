@@ -13,7 +13,7 @@ if %PICKUP_ITEM
 	setColor 1, 1, 1, 1
 	drawString \+
 
-	moveCursor 12 * 1.3333333333 * %VIDHEIGHT / %VIDWIDTH, 0
+	moveCursor 12 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 0
 	moveCursor 1, 1
 	setColor 0, 0, 0, 1
 	drawItemName %PICKUP_ITEM
