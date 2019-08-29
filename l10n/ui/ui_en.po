@@ -777,8 +777,8 @@ msgstr "Effects volume"
 msgid "Announcer volume"
 msgstr "Announcer volume"
 
-msgid "Voice chat volume"
-msgstr "Voice chat volume"
+msgid "Voice commands volume"
+msgstr "Voice commands volume"
 
 msgid "Hit sounds volume"
 msgstr "Hit sounds volume"
@@ -795,8 +795,8 @@ msgstr "Actions"
 msgid "Weapons"
 msgstr "Weapons"
 
-msgid "Voice chat"
-msgstr "Voice chat"
+msgid "Voice commands"
+msgstr "Voice commands"
 
 msgid "Saved"
 msgstr "Saved"

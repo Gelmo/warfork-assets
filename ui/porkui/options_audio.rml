@@ -189,7 +189,7 @@
 				<div id="announcer-volume-txt" class="slider-value"></div>
 				<br />
 				
-				<div class="title">Voice chat volume</div>
+				<div class="title">Voice commands volume</div>
 				<input id="voice-chat-volume" cvar="cg_volume_voicechats" class="slider" type="range" min="0.0" max="1.0" step="0.05" value="1.0" realtime="1" onchange="$onVoiceChatVolChange"/>
 				<div id="voice-chat-volume-txt" class="slider-value"></div>
 				<br />
