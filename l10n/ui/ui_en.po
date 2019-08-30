@@ -655,8 +655,8 @@ msgstr "FOV while using zoom"
 msgid "Simple items"
 msgstr "Simple items"
 
-msgid "Show teammates' names"
-msgstr "Show teammates' names"
+msgid "Show teammates' indicators"
+msgstr "Show teammates' indicators"
 
 msgid "Show help"
 msgstr "Show help"
