@@ -354,6 +354,10 @@
 						<input cvar="cg_autoaction_stats" type="checkbox" realtime="1"/>
 						<br/>
 						
+						<br/>
+						<hr class="nicehr" />
+						<br/>
+						
 						<div class="title">Acceleration on forward jumping</div>
 						<input cvar="cg_movementStyle" type="checkbox" realtime="1"/>
 						<br/>
@@ -361,9 +365,17 @@
 						<div class="title">Disable autohop</div>
 						<input cvar="cg_noAutohop" type="checkbox" realtime="1"/>
 						<br/>
+						
+						<br/>
+						<hr class="nicehr" />
+						<br/>
 
 						<div class="title">Enable view animation</div>
 						<input cvar="cg_viewBob" type="checkbox" realtime="1"/>
+						<br/>
+
+						<div class="title">Show cartoon hit effect</div>
+						<input cvar="cg_cartoonHitEffect" type="checkbox" realtime="1"/>
 						<br/>
 					</optionsform>
 				</panel>

@@ -174,10 +174,6 @@ msgstr "Enable weapon animation"
 msgid "Frag a fast-moving opponent"
 msgstr "Frag a fast-moving opponent"
 
-#. UI option cg_viewBob, animates view camera on landing from high jumps.
-msgid "Enable view animation"
-msgstr "Enable view animation"
-
 #. Award: Play 100 matches
 msgid "Wow! You have played 100 matches!"
 msgstr "Wow! You have played 100 matches!"
@@ -444,6 +440,14 @@ msgstr "Acceleration on forward jumping"
 #. Toggles autohop possibility while pressing +moveup
 msgid "Disable autohop"
 msgstr "Disable autohop"
+
+#. UI option for cg_viewBob, animates view camera on landing from high jumps.
+msgid "Enable view animation"
+msgstr "Enable view animation"
+
+#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
+msgid "Show cartoon hit effect"
+msgstr "Show cartoon hit effect"
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
