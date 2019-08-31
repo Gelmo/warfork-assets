@@ -689,14 +689,6 @@ msgstr "Endmatch screenshot"
 msgid "Save match stats"
 msgstr "Save match stats"
 
-#. First team
-msgid "Forbidden"
-msgstr "Forbidden"
-
-#. Second team
-msgid "Icy"
-msgstr "Icy"
-
 msgid "Players"
 msgstr "Players"
 
