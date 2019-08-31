@@ -576,9 +576,6 @@ msgstr "Forgot your password?"
 msgid "Race"
 msgstr "Race"
 
-msgid "News"
-msgstr "News"
-
 msgid "New Game"
 msgstr "New Game"
 
@@ -640,6 +637,7 @@ msgstr "Weapon handedness"
 msgid "default"
 msgstr "default"
 
+#. gun position
 msgid "right"
 msgstr "right"
 
@@ -647,6 +645,7 @@ msgstr "right"
 msgid "left"
 msgstr "left"
 
+#. gun position
 msgid "center"
 msgstr "center"
 
@@ -659,9 +658,11 @@ msgstr "FOV while using zoom"
 msgid "Simple items"
 msgstr "Simple items"
 
+#. Shows indicators at the top of the teammates, even if they are not visible through the walls
 msgid "Show teammates' indicators"
 msgstr "Show teammates' indicators"
 
+#. Shows help messages at the top of the screen in-game
 msgid "Show help"
 msgstr "Show help"
 
@@ -698,6 +699,7 @@ msgstr "Team model options"
 msgid "Fullbright skin"
 msgstr "Fullbright skin"
 
+#. Forces your color and model to the one that team Forbidden has, "FORBIDDEN" shouldn't be translated
 msgid "Force your team as FORBIDDEN"
 msgstr "Force your team as FORBIDDEN"
 
