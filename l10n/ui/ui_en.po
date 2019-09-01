@@ -30,15 +30,6 @@ msgstr "Quit"
 msgid "Please join us on Discord (link below) to participate in pickup games, game discussion, and more!"
 msgstr "Please join us on Discord (link below) to participate in pickup games, game discussion, and more!"
 
-msgid "Discord"
-msgstr "Discord"
-
-msgid "Twitter"
-msgstr "Twitter"
-
-msgid "Twitch"
-msgstr "Twitch"
-
 msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or Chasseur de Bots."
 msgstr "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or Chasseur de Bots."
 

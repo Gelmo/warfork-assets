@@ -20,13 +20,10 @@
 
 	<br/>
 	<span class="smaller">
-
 		<a href="https://discord.gg/VY95TKZ" id="login-resetpassword" target="_browser">Discord</a>
-
 		<a href="https://twitter.com/forbiddenicy" id="login-resetpassword" target="_browser">Twitter</a>
-
-	<a href="https://www.twitch.tv/warforktv" id="login-resetpassword" target="_browser">Twitch</a>
-
+		<a href="https://www.twitch.tv/warforktv" id="login-resetpassword" target="_browser">Twitch</a>
+		<a href="https://www.transifex.com/team-forbidden-llc/warfork/" id="login-resetpassword" target="_browser">Transifex</a>
 	<br/>
 	<br/>
     
