@@ -22,6 +22,7 @@
 		Cvar cg_crosshair_strong( "cg_crosshair_strong", "0", ::CVAR_ARCHIVE );
 		Cvar cg_clientHUD( "cg_clientHUD", "", ::CVAR_ARCHIVE );
 		Cvar cg_specHUD( "cg_specHUD", "", ::CVAR_ARCHIVE );
+		bool allowVidRestart = false;
 
 		void onPlayerLoad( Element @body, Event @evt )
 		{
@@ -182,6 +183,19 @@
 			}
 			updateCrosshair( cvar, black, white );
 		}
+		
+		void allowRestart()
+		{	
+			allowVidRestart = true;
+		}
+		
+		void vidRestart() {	
+			if( allowVidRestart ) {
+			game.execAppend ( "vid_restart\n" );
+			}
+			allowVidRestart = false;
+		}
+
 
 	</script>
 </head>
@@ -342,6 +356,37 @@
 				<tab class="side-tab">Misc</tab>
 				<panel class="dropshadow">
 					<optionsform id="misc-options-form" onsubmit="$OptionsForm_OnSubmit">
+					
+						<div class="title">Language</div>
+						<select id="lang-selector" cvar="lang" realtime="1" onfocus="allowRestart();" onchange="vidRestart();">
+							<option value="en">English</option>
+							<option value="be">Belarusian</option>
+							<option value="bg">Bulgarian</option>
+							<option value="de">German</option>
+							<option value="es">Spanish</option>
+							<option value="fi">Finnish</option>
+							<option value="fr">French</option>
+							<option value="hu">Hungarian</option>
+							<option value="it">Italian</option>
+							<option value="ja">Japanese</option>
+							<option value="lt">Lithuanian</option>
+							<option value="nl">Dutch</option>
+							<option value="pl">Polish</option>
+							<option value="pt">Portuguese</option>
+							<option value="pt_br">Portuguese (Brazil)</option>
+							<option value="ro">Romanian</option>
+							<option value="ru">Russian</option>
+							<option value="sv">Swedish</option>
+							<option value="tr">Turkish</option>
+							<option value="uk">Ukrainian</option>
+							<option value="zh">Chinese</option>
+						</select>
+						<br/>
+						
+						<br/>
+						<hr class="nicehr" />
+						<br/>
+					
 						<div class="title">Automatically record demos</div>
 						<input cvar="cg_autoaction_demo" type="checkbox" realtime="1"/>
 						<br/>
