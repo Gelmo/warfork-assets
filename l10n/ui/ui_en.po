@@ -16,8 +16,8 @@ msgid "Home"
 msgstr "Home"
 
 #. Top button
-msgid "New Game"
-msgstr "New Game"
+msgid "Play"
+msgstr "Play"
 
 #. Top button
 msgid "Options"
@@ -776,8 +776,8 @@ msgstr "Gametype"
 msgid "Match browser"
 msgstr "Match browser"
 
-msgid "Local game"
-msgstr "Local game"
+msgid "Host game"
+msgstr "Host game"
 
 msgid "Demo browser"
 msgstr "Demo browser"

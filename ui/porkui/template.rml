@@ -189,7 +189,7 @@
 	<!-- Main navigation bar -->
 	<div id="navi">
 		<a href="index.rml" id="link_profile">Home</a>	
-		<a href="#" id="link_game" onclick="$openTutorialDialog">New Game</a>		
+		<a href="#" id="link_game" onclick="$openTutorialDialog">Play</a>		
 		<a href="options.rml" id="link_options">Options</a>
 		<a href="#" id="link_quit" onclick="OpenQuitDialog();">Quit</a>
 	</div>

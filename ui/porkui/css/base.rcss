@@ -268,7 +268,7 @@ a:hover, a:focus {
 
 /* in-ui titles for inputs */
 
-/* must be div.title, not .title, because .title is also map title in the local game datagrid */
+/* must be div.title, not .title, because .title is also map title in the host game datagrid */
 div.title, .optionstext {
 	padding-left: 15%;
 	display: inline-block;
