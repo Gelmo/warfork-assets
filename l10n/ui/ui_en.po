@@ -11,6 +11,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#. Start/home page top button
+msgid "Home"
+msgstr "Home"
+
+#. Top button
+msgid "New Game"
+msgstr "New Game"
+
+#. Top button
+msgid "Options"
+msgstr "Options"
+
+#. Top button
+msgid "Quit"
+msgstr "Quit"
+
+msgid "Please join us on Discord (link below) to participate in pickup games, game discussion, and more!"
+msgstr "Please join us on Discord (link below) to participate in pickup games, game discussion, and more!"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Twitch"
+msgstr "Twitch"
+
+msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or Chasseur de Bots."
+msgstr "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or Chasseur de Bots."
+
 msgid "Restart race"
 msgstr "Restart race"
 
@@ -35,204 +66,46 @@ msgstr "Load saved position"
 msgid "Clear saved position"
 msgstr "Clear saved position"
 
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Get 5 frags in a row without getting fragged"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Get 25 frags in a row without getting fragged"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Keep the Mega Health under your control"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "Frag an opponent 3 times in a short time frame"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "Hit an opponent directly with a grenade a few times"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "Defuse the bomb at the last second"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "Recover your flag from the opponent carrying it"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Get 20 frags in a row without getting fragged"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Frag an opponent in mid-air with a grenade"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Get 10 frags in a row without getting fragged"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Congratulations! You have won 1000 matches!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "Frag an opponent 4 times in a short time frame"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "Defend your flag or flag carrier"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in a single match"
-msgstr "Score more points than other players and receive the \"Fair Play\" award in a single match"
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "Frag an opponent in mid-air with a rocket"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "Plant the bomb at a bomb site"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "Wow! You have won 100 matches!"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "Show respect to your opponents during the post-match intermission"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "Wow! You have played 1000 matches!"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "Wow! You have played 500 matches!"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "Defuse the bomb without being seen by the opponent"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "Hit an opponent directly with a rocket a few times"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Congratulations! You have won 250 matches!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Frag the entire opposing team in Bomb and Defuse"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Plant the bomb within 10 seconds"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Frag the bomb-carrying opponent"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "Frag an opponent while moving at high speed"
-
 #. Touch devices intro text
 msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your device as shown in the picture, with four of your fingers in front of the screen, to make sure you can perform movement tricks, aim and fire at the same time."
 msgstr "Warfork is a fast-paced game with advanced movement. When playing, hold your device as shown in the picture, with four of your fingers in front of the screen, to make sure you can perform movement tricks, aim and fire at the same time."
 
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "Frag an opponent 2 times in a short time frame"
-
 msgid "View match info"
 msgstr "View match info"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Get 15 frags in a row without getting fragged"
 
 #. UI slider for video brightness
 msgid "Brightness"
 msgstr "Brightness"
 
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Congratulations! You have won 500 matches!"
-
 #. UI option cg_gunbob
 msgid "Enable weapon animation"
 msgstr "Enable weapon animation"
 
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Frag a fast-moving opponent"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "Wow! You have played 100 matches!"
-
 msgid "Quick menu"
 msgstr "Quick menu"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "Wow! You have played 250 matches!"
 
 msgid "Version %s of %s is available."
 msgstr "Version %s of %s is available."
 
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Defuse the bomb"
-
 msgid "Click OK for more information."
 msgstr "Click OK for more information."
 
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr "Register to Warfork during QuakeNet launch event"
-
 msgid "Open in browser"
 msgstr "Open in browser"
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
 
 #. HUD option
 msgid "Match timer"
 msgstr "Match timer"
 
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Frag the opponent who has your flag"
-
 #. Match timer option
 msgid "count down"
 msgstr "count down"
-
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "Keep the Red Armor under your control"
 
 #. Match timer option
 msgid "count up"
 msgstr "count up"
 
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr "Score the first frag for your team in the match"
 
-#. Start page in UI
-msgid "Home"
-msgstr "Home"
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
@@ -371,6 +244,10 @@ msgstr "Scoreboard"
 #. UI's cg_showPressedKeys
 msgid "Show pressed keys"
 msgstr "Show pressed keys"
+
+#. Language selector
+msgid "Language"
+msgstr "Language"
 
 msgid "Join"
 msgstr "Join"
@@ -576,20 +453,11 @@ msgstr "Forgot your password?"
 msgid "Race"
 msgstr "Race"
 
-msgid "New Game"
-msgstr "New Game"
-
 msgid "Profile"
 msgstr "Profile"
 
 msgid "Chat"
 msgstr "Chat"
-
-msgid "Options"
-msgstr "Options"
-
-msgid "Quit"
-msgstr "Quit"
 
 msgid "Player"
 msgstr "Player"
@@ -1134,18 +1002,23 @@ msgstr "Carrier opt-in"
 msgid "Carrier opt-out"
 msgstr "Carrier opt-out"
 
+#. Selects classes in CTF Tactics
 msgid "Select class"
 msgstr "Select class"
 
+#. CTF Tactics class
 msgid "Grunt"
 msgstr "Grunt"
 
+#. CTF Tactics class
 msgid "Medic"
 msgstr "Medic"
 
+#. CTF Tactics class
 msgid "Runner"
 msgstr "Runner"
 
+#. CTF Tactics class
 msgid "Engineer"
 msgstr "Engineer"
 
@@ -1320,18 +1193,159 @@ msgstr "Searching for game servers..."
 msgid "Browse servers manually"
 msgstr "Browse servers manually"
 
-msgid "Please join us on Discord (link below) to participate in pickup games, game discussion, and more!"
-msgstr "Please join us on Discord (link below) to participate in pickup games, game discussion, and more!"
+#. Award: On Fire!
+msgid "Get 5 frags in a row without getting fragged"
+msgstr "Get 5 frags in a row without getting fragged"
 
-msgid "Discord"
-msgstr "Discord"
+#. Award: God Mode!
+msgid "Get 25 frags in a row without getting fragged"
+msgstr "Get 25 frags in a row without getting fragged"
 
-msgid "Twitter"
-msgstr "Twitter"
+#. Award: Mega-Health Control!
+msgid "Keep the Mega Health under your control"
+msgstr "Keep the Mega Health under your control"
 
-msgid "Twitch"
-msgstr "Twitch"
+#. Award: Triple Frag!
+msgid "Frag an opponent 3 times in a short time frame"
+msgstr "Frag an opponent 3 times in a short time frame"
 
-msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or Chasseur de Bots."
-msgstr "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or Chasseur de Bots."
+#. Award: Direct Grenade Hit!
+msgid "Hit an opponent directly with a grenade a few times"
+msgstr "Hit an opponent directly with a grenade a few times"
 
+#. Award: Last Call Defuse!
+msgid "Defuse the bomb at the last second"
+msgstr "Defuse the bomb at the last second"
+
+#. Award: Flag Recovery!
+msgid "Recover your flag from the opponent carrying it"
+msgstr "Recover your flag from the opponent carrying it"
+
+#. Award: Extermination!
+msgid "Get 20 frags in a row without getting fragged"
+msgstr "Get 20 frags in a row without getting fragged"
+
+#. Award: Air Grenade!
+msgid "Frag an opponent in mid-air with a grenade"
+msgstr "Frag an opponent in mid-air with a grenade"
+
+#. Award: Raging!
+msgid "Get 10 frags in a row without getting fragged"
+msgstr "Get 10 frags in a row without getting fragged"
+
+#. Award: Win 1000 matches
+msgid "Congratulations! You have won 1000 matches!"
+msgstr "Congratulations! You have won 1000 matches!"
+
+#. Award: Quadruple Frag!
+msgid "Frag an opponent 4 times in a short time frame"
+msgstr "Frag an opponent 4 times in a short time frame"
+
+#. Award: Flag Defense!
+msgid "Defend your flag or flag carrier"
+msgstr "Defend your flag or flag carrier"
+
+#. Award: Player of the Match!
+msgid "Score more points than other players and receive the \"Fair Play\" award in a single match"
+msgstr "Score more points than other players and receive the \"Fair Play\" award in a single match"
+
+#. Award: Air Rocket!
+msgid "Frag an opponent in mid-air with a rocket"
+msgstr "Frag an opponent in mid-air with a rocket"
+
+#. Award: Bomb Planted!
+msgid "Plant the bomb at a bomb site"
+msgstr "Plant the bomb at a bomb site"
+
+#. Award: Win 100 matches
+msgid "Wow! You have won 100 matches!"
+msgstr "Wow! You have won 100 matches!"
+
+#. Award: Fair Play!
+msgid "Show respect to your opponents during the post-match intermission"
+msgstr "Show respect to your opponents during the post-match intermission"
+
+#. Award: Play 1000 matches
+msgid "Wow! You have played 1000 matches!"
+msgstr "Wow! You have played 1000 matches!"
+
+#. Award: Play 500 matches
+msgid "Wow! You have played 500 matches!"
+msgstr "Wow! You have played 500 matches!"
+
+#. Award: Ninja Defuse!
+msgid "Defuse the bomb without being seen by the opponent"
+msgstr "Defuse the bomb without being seen by the opponent"
+
+#. Award: Direct Rocket Hit!
+msgid "Hit an opponent directly with a rocket a few times"
+msgstr "Hit an opponent directly with a rocket a few times"
+
+#. Award: Win 250 matches
+msgid "Congratulations! You have won 250 matches!"
+msgstr "Congratulations! You have won 250 matches!"
+
+#. Award: King of Bongo!
+msgid "Frag the entire opposing team in Bomb and Defuse"
+msgstr "Frag the entire opposing team in Bomb and Defuse"
+
+#. Award: Fast Plant!
+msgid "Plant the bomb within 10 seconds"
+msgstr "Plant the bomb within 10 seconds"
+
+#. Award: Bomb Carrier Frag!
+msgid "Frag the bomb-carrying opponent"
+msgstr "Frag the bomb-carrying opponent"
+
+#. Award: Meep Meep!
+msgid "Frag an opponent while moving at high speed"
+msgstr "Frag an opponent while moving at high speed"
+
+#. Award: Double Frag!
+msgid "Frag an opponent 2 times in a short time frame"
+msgstr "Frag an opponent 2 times in a short time frame"
+
+#. Award: Fraglord!
+msgid "Get 15 frags in a row without getting fragged"
+msgstr "Get 15 frags in a row without getting fragged"
+
+
+#. Award: Win 500 matches
+msgid "Congratulations! You have won 500 matches!"
+msgstr "Congratulations! You have won 500 matches!"
+
+#. Award: Coyote Wins!
+msgid "Frag a fast-moving opponent"
+msgstr "Frag a fast-moving opponent"
+
+#. Award: Play 100 matches
+msgid "Wow! You have played 100 matches!"
+msgstr "Wow! You have played 100 matches!"
+
+#. Award: Play 250 matches
+msgid "Wow! You have played 250 matches!"
+msgstr "Wow! You have played 250 matches!"
+
+#. Award: Bomb Defused!
+msgid "Defuse the bomb"
+msgstr "Defuse the bomb"
+
+#. Award: Quakenet Exclusive!
+msgid "Register to Warfork during QuakeNet launch event"
+msgstr "Register to Warfork during QuakeNet launch event"
+
+#. Award: Accuracy!
+msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
+msgstr "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
+
+#. Award: Flag Carrier Frag!
+msgid "Frag the opponent who has your flag"
+msgstr "Frag the opponent who has your flag"
+
+#. Award: Red Armor Control!
+msgid "Keep the Red Armor under your control"
+msgstr "Keep the Red Armor under your control"
+
+#. Award: First Frag!
+msgid "Score the first frag for your team in the match"
+msgstr "Score the first frag for your team in the match"
