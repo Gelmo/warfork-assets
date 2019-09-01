@@ -359,27 +359,27 @@
 					
 						<div class="title">Language</div>
 						<select id="lang-selector" cvar="lang" realtime="1" onfocus="allowRestart();" onchange="vidRestart();">
-							<option value="en">English</option>
-							<option value="be">Belarusian</option>
-							<option value="bg">Bulgarian</option>
-							<option value="de">German</option>
-							<option value="es">Spanish</option>
-							<option value="fi">Finnish</option>
-							<option value="fr">French</option>
-							<option value="hu">Hungarian</option>
-							<option value="it">Italian</option>
-							<option value="ja">Japanese</option>
-							<option value="lt">Lithuanian</option>
-							<option value="nl">Dutch</option>
-							<option value="pl">Polish</option>
-							<option value="pt">Portuguese</option>
-							<option value="pt_br">Portuguese (Brazil)</option>
-							<option value="ro">Romanian</option>
-							<option value="ru">Russian</option>
-							<option value="sv">Swedish</option>
-							<option value="tr">Turkish</option>
-							<option value="uk">Ukrainian</option>
-							<option value="zh">Chinese</option>
+							<option value="en">[en] English</option>
+							<option value="be">[be] Беларуская</option>
+							<option value="bg">[bg] Български</option>
+							<option value="de">[de] Deutsch</option>
+							<option value="es">[es] Español</option>
+							<option value="fi">[fi] Suomi</option>
+							<option value="fr">[fr] Français</option>
+							<option value="hu">[hu] Magyar</option>
+							<option value="it">[it] Italiano</option>
+							<option value="ja">[ja] 日本語</option>
+							<option value="lt">[lt] Lietuvių</option>
+							<option value="nl">[nl] Nederlands</option>
+							<option value="pl">[pl] Polski</option>
+							<option value="pt">[pt] Português</option>
+							<option value="pt_br">[pt_br] Português-Brasil</option>
+							<option value="ro">[ro] Română</option>
+							<option value="ru">[ru] Русский</option>
+							<option value="sv">[sv] Svenska</option>
+							<option value="tr">[tr] Türkçe</option>
+							<option value="uk">[uk] Українська</option>
+							<option value="zh">[zh] 简体中文</option>
 						</select>
 						<br/>
 						
