@@ -1,7 +1,8 @@
 /* Common */
 input.text, input.password, input.checkbox,
 scrollbarvertical,
-select, dataselect, keyselect {
+select, dataselect, keyselect,
+select selectbox, dataselect selectbox {
 	border-top: 1dp #272134;
 	border-right: 1dp #272134;
 	border-bottom: 1dp #272134;
@@ -169,7 +170,7 @@ colorselector color:selected, colorselector color:focus {
 /* Selects */
 
 select, dataselect, keyselect {
-	max-width: 25%;
+	width: 30%;
 	display: inline-block;
 	text-align: left;
 	padding: 2dp 4dp;
@@ -186,10 +187,10 @@ select:focus, dataselect:focus, keyselect:focus/*, input.range slidertrack:focus
 }
 
 select selectbox, dataselect selectbox {
-	max-height: 8em;
+	max-height: 10em;
 	padding: 4dp;
 	padding-left: 8dp;
-	overflow-y: scroll;	
+	overflow-y: auto;	
 	background-color: #141219;	
 }
 
@@ -205,7 +206,7 @@ input.range slidertrack {
 }
 
 input.range {
-	max-width: 25%;
+	max-width: 30%;
 	height: 24dp;
 	padding: 0dp;
 	margin-bottom: 8dp;

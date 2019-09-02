@@ -358,7 +358,7 @@
 					<optionsform id="misc-options-form" onsubmit="$OptionsForm_OnSubmit">
 					
 						<div class="title">Language</div>
-						<select id="lang-selector" cvar="lang" realtime="1" onfocus="allowRestart();" onchange="vidRestart();">
+						<select style="width:32%;" id="lang-selector" cvar="lang" realtime="1" onfocus="allowRestart();" onchange="vidRestart();">
 							<option value="en">[en] English</option>
 							<option value="be">[be] Беларуская</option>
 							<option value="bg">[bg] Български</option>
