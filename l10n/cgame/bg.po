@@ -1,21 +1,23 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:16+0000\n"
-"PO-Revision-Date: 2016-04-03 16:16+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: bg\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Bulgarian (https://www.transifex.com/team-forbidden-llc/teams/102732/bg/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
-msgstr "Вие сте в опашката за претенденти и чакате за вашият ред.\nИзползвайте менюто в играта за да излезете от опашката."
-
-msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
-msgstr "Използвате менюто за да се наредите на опашката за претенденти.\nЕдин играч от опашката ще има право да играе срещу последният победител."
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
+msgid "Chasers"
+msgstr ""
 
 msgid "Set yourself READY using the in-game menu to start the match!"
 msgstr "Направете се ГОТОВ с помощта на менюто за да започнете мача!"
@@ -23,7 +25,17 @@ msgstr "Направете се ГОТОВ с помощта на менюто �
 msgid "Waiting for players."
 msgstr "Изчакване за играчи."
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. User has entered practice mode in Race
+msgid "Entered practice mode"
+msgstr ""
+
+#. User has left practice mode in Race
+msgid "Left practice mode"
+msgstr ""
+
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Разл"
 
@@ -54,11 +66,13 @@ msgstr "Стреляш по съотборниците си!"
 msgid "Don't shoot at members of your team!"
 msgstr "Не стреляй по съотборниците си!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "ТИ ЗАСТРЕЛЯ СЪОТБОРНИК %s"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "ТИ ЗАСТРЕЛЯ %s"
 
@@ -93,9 +107,6 @@ msgstr "ВНЕЗАПНА СМЪРТ"
 msgid "someplace"
 msgstr "някъде"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Направете се ГОТОВ за да започнете мача!\nМоже да иползвате менюто или просто натиснете 'F4'.\n'ESC' за да отидете в менюто или 'ENTER' за да отворите чата."
-
 msgid "Waiting... %s"
 msgstr "Очакване... %s"
 
@@ -123,9 +134,6 @@ msgstr "Няма кого да наблюдавате"
 
 msgid "Name"
 msgstr "Име"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' за да отидете в менюто или 'ENTER' за да отворите чата.\nБутоните на мишката за да смените режима на спектиране.\nТова съобщение може да бъде скрито, като изключите 'помощ' в менюто за настройка на играча."
 
 msgid "Bomb defused!"
 msgstr "Бомбата е обезвредена!"
@@ -155,7 +163,9 @@ msgstr "Умир"
 msgid "Ping"
 msgstr "Лаг"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Време за таг"
 
@@ -229,15 +239,56 @@ msgstr "Малко Патрони"
 msgid "Out Of Ammo"
 msgstr "Няма Патрони"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "Изчакване за играчи.\n'ESC' за да отворите менюто."
-
 msgid "Message of the day:"
 msgstr "Съобщение на деня:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' за да отидете в менюто или 'ENTER' за да отворите чата.\nВие сте в опашката за претенденти и чакате за вашият ред.\nИзползвайте менюто в играта за да излезете от опашката.\n\nИползвайте бутоните на мишката за да смените режима на спектиране."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "Изчакване за играчи.\n"
+"'ESC' за да отворите менюто."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' за да отидете в менюто или 'ENTER' за да отворите чата.\nИзползвате менюто или натиснете 'F3' за да се наредите на опашката за претенденти.\nЕдин играч от опашката ще има право да играе срещу последният победител.\n\nИползвайте бутоните на мишката за да смените режима на спектиране."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' за да отидете в менюто или 'ENTER' за да отворите чата.\n"
+"Вие сте в опашката за претенденти и чакате за вашият ред.\n"
+"Използвайте менюто в играта за да излезете от опашката.\n"
+"\n"
+"Иползвайте бутоните на мишката за да смените режима на спектиране."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' за да отидете в менюто или 'ENTER' за да отворите чата.\n"
+"Използвате менюто или натиснете 'F3' за да се наредите на опашката за претенденти.\n"
+"Един играч от опашката ще има право да играе срещу последният победител.\n"
+"\n"
+"Иползвайте бутоните на мишката за да смените режима на спектиране."
+
+msgid "You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr "Вие сте в опашката за претенденти и чакате за вашият ред.\n"
+"Използвайте менюто в играта за да излезете от опашката."
+
+msgid "Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr "Използвате менюто за да се наредите на опашката за претенденти.\n"
+"Един играч от опашката ще има право да играе срещу последният победител."
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Направете се ГОТОВ за да започнете мача!\n"
+"Може да иползвате менюто или просто натиснете 'F4'.\n"
+"'ESC' за да отидете в менюто или 'ENTER' за да отворите чата."
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "'ESC' за да отидете в менюто или 'ENTER' за да отворите чата.\n"
+"Бутоните на мишката за да смените режима на спектиране.\n"
+"Това съобщение може да бъде скрито, като изключите 'помощ' в менюто за настройка на играча."

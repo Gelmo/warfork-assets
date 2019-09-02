@@ -1,17 +1,41 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:16+0000\n"
-"PO-Revision-Date: 2016-04-03 16:16+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: tr\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Turkish (https://www.transifex.com/team-forbidden-llc/teams/102732/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
+msgid "Chasers"
+msgstr ""
+
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr ""
+
+msgid "Waiting for players."
+msgstr ""
+
+#. User has entered practice mode in Race
+msgid "Entered practice mode"
+msgstr ""
+
+#. User has left practice mode in Race
+msgid "Left practice mode"
+msgstr ""
+
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Net"
 
@@ -42,11 +66,13 @@ msgstr "Takım arkadaşlarına ateş ediyorsun!"
 msgid "Don't shoot at members of your team!"
 msgstr "Takım arkadaşlarına ateş etme!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "TAKIM ARKADAŞIN %s İ ÖLDÜRDÜN"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "%s İ ÖLDÜRDÜN"
 
@@ -81,9 +107,6 @@ msgstr "ANI ÖLÜM"
 msgid "someplace"
 msgstr "bir yerde"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Oyunu başlatmak için kendini HAZIR olarak ayarla\nOyun içi menüyü kullanabilir ya da basitçe 'F4'e basabilrsin\nOyun içi menü için 'ESC' oyun içi sohbet için 'ENTER'"
-
 msgid "Waiting... %s"
 msgstr "Bekleniyor... %s"
 
@@ -111,9 +134,6 @@ msgstr "İzlenecek biri yok"
 
 msgid "Name"
 msgstr "İsim"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "Oyun içi menü için 'ESC' oyun içi sohbet için 'ENTER'\nSeyirci modunu değiştirmek için fare tuşlarını kullan.\nAyarlar menüsünden 'yardım'ı kapatarak bu mesajı gizleyebilirsin."
 
 msgid "Bomb defused!"
 msgstr "Bomba imha edildi!"
@@ -143,7 +163,9 @@ msgstr "De"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Tagtime"
 
@@ -217,15 +239,56 @@ msgstr "Az Mermi"
 msgid "Out Of Ammo"
 msgstr "Mermi bitti"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "Oyuncular bekleniyor.\nOyun içi menüye dönmek için 'ESC'"
-
 msgid "Message of the day:"
 msgstr "Günün Mesajı:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "Oyun içi menü için 'ESC' oyun içi sohbet için 'ENTER'\nOynama sıranın gelmesi için bekliyorsun.\nSıradan çıkmak için oyun içi menüyü kullan.\n\nSeyirci modunu değiştirmek için fare tuşlarını kullan."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "Oyuncular bekleniyor.\n"
+"Oyun içi menüye dönmek için 'ESC'"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "Oyun içi menü için 'ESC' oyun içi sohbet için 'ENTER'\nSıraya girmek için oyun içi menüyü kullan ya da 'F3' e bas.\nSadece sıradaki oyuncular galiple karşılaşmak için şans kazanır.\n\nSeyirci modunu değiştirmek için fare tuşlarını kullan."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "Oyun içi menü için 'ESC' oyun içi sohbet için 'ENTER'\n"
+"Oynama sıranın gelmesi için bekliyorsun.\n"
+"Sıradan çıkmak için oyun içi menüyü kullan.\n"
+"\n"
+"Seyirci modunu değiştirmek için fare tuşlarını kullan."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "Oyun içi menü için 'ESC' oyun içi sohbet için 'ENTER'\n"
+"Sıraya girmek için oyun içi menüyü kullan ya da 'F3' e bas.\n"
+"Sadece sıradaki oyuncular galiple karşılaşmak için şans kazanır.\n"
+"\n"
+"Seyirci modunu değiştirmek için fare tuşlarını kullan."
+
+msgid ""
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr ""
+
+msgid ""
+"Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr ""
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Oyunu başlatmak için kendini HAZIR olarak ayarla\n"
+"Oyun içi menüyü kullanabilir ya da basitçe 'F4'e basabilrsin\n"
+"Oyun içi menü için 'ESC' oyun içi sohbet için 'ENTER'"
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "Oyun içi menü için 'ESC' oyun içi sohbet için 'ENTER'\n"
+"Seyirci modunu değiştirmek için fare tuşlarını kullan.\n"
+"Ayarlar menüsünden 'yardım'ı kapatarak bu mesajı gizleyebilirsin."

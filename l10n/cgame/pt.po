@@ -1,21 +1,23 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:16+0000\n"
-"PO-Revision-Date: 2016-04-03 16:16+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: pt_pt\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Portuguese (https://www.transifex.com/team-forbidden-llc/teams/102732/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
-msgstr "Você está na fila dos participantes à espera da sua vez de jogar.\nUse o menu do jogo, para sair da fila."
-
-msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
-msgstr "Use o menu do jogo, para entrar na fila dos participantes.\nApenas os jogadores na fila terão a oportunidade de enfrentar o último vencedor."
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
+msgid "Chasers"
+msgstr ""
 
 msgid "Set yourself READY using the in-game menu to start the match!"
 msgstr "Mostre-se como PREPARADO usando o menu do jogo para começar a partida!"
@@ -23,7 +25,17 @@ msgstr "Mostre-se como PREPARADO usando o menu do jogo para começar a partida!"
 msgid "Waiting for players."
 msgstr "À espera de jogadores."
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. User has entered practice mode in Race
+msgid "Entered practice mode"
+msgstr ""
+
+#. User has left practice mode in Race
+msgid "Left practice mode"
+msgstr ""
+
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "FME"
 
@@ -54,11 +66,13 @@ msgstr "Está a disparar contra os seus colegas de equipa!"
 msgid "Don't shoot at members of your team!"
 msgstr "Não dispare contra os seus colegas de equipa!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "DESTRUIU O SEU COLEGA %s"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "DESTRUIU %s"
 
@@ -93,9 +107,6 @@ msgstr "MORTE SÚBITA"
 msgid "someplace"
 msgstr "algum lugar"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Mostre-se como PREPARADO para começar a partida!\nUse o menu do jogo ou simplesmente pressione 'F4'.\n'ESC' para ir ao menu ou 'ENTER' para abrir o chat."
-
 msgid "Waiting... %s"
 msgstr "Esperando...%s"
 
@@ -123,9 +134,6 @@ msgstr "Ninguém para seguir"
 
 msgid "Name"
 msgstr "Nome"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' para ir ao menu ou 'ENTER' para abrir o chat.\nUse os botões do rato para selecionar o modo de espectador.\nEsta mensagem pode ser retirada desativando 'ajuda' no menu do jogador."
 
 msgid "Bomb defused!"
 msgstr "Bomba desarmada!"
@@ -155,7 +163,9 @@ msgstr "Mrts"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Tempo de tag"
 
@@ -229,15 +239,56 @@ msgstr "Pouca Munição"
 msgid "Out Of Ammo"
 msgstr "Sem Munição"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "À espera de jogadores.\n'ESC' para ir ao menu."
-
 msgid "Message of the day:"
 msgstr "Mensagem do Dia:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' para ir ao menu ou 'ENTER' para abrir o chat.\nVocê está na fila dos participantes à espera da sua vez de jogar.\nUse o menu do jogo, para sair da fila.\n\nUse os botões do rato para selecionar o modo de espectador."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "À espera de jogadores.\n"
+"'ESC' para ir ao menu."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' para ir ao menu ou 'ENTER' para abrir o chat.\nUse o menu do jogo, ou pressione 'F3', para entrar na fila dos participantes.\nApenas os jogadores na fila terão a oportunidade de enfrentar o último vencedor.\n\nUse os botões do rato para selecionar o modo de espectador."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' para ir ao menu ou 'ENTER' para abrir o chat.\n"
+"Você está na fila dos participantes à espera da sua vez de jogar.\n"
+"Use o menu do jogo, para sair da fila.\n"
+"\n"
+"Use os botões do rato para selecionar o modo de espectador."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' para ir ao menu ou 'ENTER' para abrir o chat.\n"
+"Use o menu do jogo, ou pressione 'F3', para entrar na fila dos participantes.\n"
+"Apenas os jogadores na fila terão a oportunidade de enfrentar o último vencedor.\n"
+"\n"
+"Use os botões do rato para selecionar o modo de espectador."
+
+msgid "You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr "Você está na fila dos participantes à espera da sua vez de jogar.\n"
+"Use o menu do jogo, para sair da fila."
+
+msgid "Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr "Use o menu do jogo, para entrar na fila dos participantes.\n"
+"Apenas os jogadores na fila terão a oportunidade de enfrentar o último vencedor."
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Mostre-se como PREPARADO para começar a partida!\n"
+"Use o menu do jogo ou simplesmente pressione 'F4'.\n"
+"'ESC' para ir ao menu ou 'ENTER' para abrir o chat."
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "'ESC' para ir ao menu ou 'ENTER' para abrir o chat.\n"
+"Use os botões do rato para selecionar o modo de espectador.\n"
+"Esta mensagem pode ser retirada desativando 'ajuda' no menu do jogador."

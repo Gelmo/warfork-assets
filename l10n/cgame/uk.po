@@ -1,25 +1,23 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:16+0000\n"
-"PO-Revision-Date: 2016-04-03 16:16+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: uk\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Ukrainian (https://www.transifex.com/team-forbidden-llc/teams/102732/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
-#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
 msgid "Chasers"
 msgstr "Персональні глядачі"
-
-msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
-msgstr "Зараз ви знаходитеся в черзі гравців, що кинули виклик і очікуючих своєї гри.\nВи можете скористатися ігровим меню, щоб стати спостерігачем."
-
-msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
-msgstr "Використайте ігрове меню, щоб кинути виклик.\nТільки гравці, що кинули виклик, зможуть грати з переможцем останнього матчу."
 
 msgid "Set yourself READY using the in-game menu to start the match!"
 msgstr "Підтвердіть свою готовність, скориставшись ігровим меню, щоб почати матч!"
@@ -35,7 +33,9 @@ msgstr "Ви увійшли в тренувальний режим"
 msgid "Left practice mode"
 msgstr "Ви залишили тренувальний режим"
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Різн"
 
@@ -66,11 +66,13 @@ msgstr "Ви ведете вогонь по своїх!"
 msgid "Don't shoot at members of your team!"
 msgstr "Не стріляйте у своїх!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "ВИ ПОМИЛКОВО ЗНИЩИЛИ %s"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "ВИ ЗНИЩИЛИ %s"
 
@@ -105,9 +107,6 @@ msgstr "Миттєва смерть"
 msgid "someplace"
 msgstr "десь"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Підтвердіть свою готовність для того, щоб почати матч!\nДля цього скористайтеся ігровим меню або клавішею 'F4'.\nНатисніть 'ESC' для виклику ігрового меню або 'ENTER', щоб перейти в ігровий чат."
-
 msgid "Waiting... %s"
 msgstr "Почекайте... %s"
 
@@ -135,9 +134,6 @@ msgstr "Немає гравців для спостереження"
 
 msgid "Name"
 msgstr "Ім'я"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "Натисніть 'ESC' для виклику ігрового меню або 'ENTER', щоб перейти в ігровий чат.\nВикористайте кнопки миші для перемикання між режимами спостереження.\nПоказ цього повідомлення можна відключити в меню налаштувань гравця."
 
 msgid "Bomb defused!"
 msgstr "Бомба знешкоджена!"
@@ -167,7 +163,9 @@ msgstr "См"
 msgid "Ping"
 msgstr "Пінг"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Час мітки"
 
@@ -241,15 +239,56 @@ msgstr "Мало набоїв"
 msgid "Out Of Ammo"
 msgstr "Немає набоїв"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "Очікування гравців.\nНатисніть 'ESC' для виклику ігрового меню."
-
 msgid "Message of the day:"
 msgstr "Новина дня:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "Натисніть 'ESC' для виклику ігрового меню або 'ENTER', щоб перейти в ігровий чат.\nЗараз ви знаходитеся в черзі гравців, що кинули виклик і очікуючих своєї гри.\nВи можете скористатися ігровим меню, щоб стати спостерігачем.\n\nВикористайте кнопки миші для перемикання між режимами спостереження."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "Очікування гравців.\n"
+"Натисніть 'ESC' для виклику ігрового меню."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "Натисніть 'ESC' для виклику ігрового меню або 'ENTER', щоб перейти в ігровий чат.\nВикористайте ігрове меню або натисніть 'F3', щоб кинути виклик.\nТільки гравці, що кинули виклик, зможуть грати з переможцем останнього матчу.\n\nВикористайте кнопки миші для перемикання між режимами спостереження."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "Натисніть 'ESC' для виклику ігрового меню або 'ENTER', щоб перейти в ігровий чат.\n"
+"Зараз ви знаходитеся в черзі гравців, що кинули виклик і очікуючих своєї гри.\n"
+"Ви можете скористатися ігровим меню, щоб стати спостерігачем.\n"
+"\n"
+"Використайте кнопки миші для перемикання між режимами спостереження."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "Натисніть 'ESC' для виклику ігрового меню або 'ENTER', щоб перейти в ігровий чат.\n"
+"Використайте ігрове меню або натисніть 'F3', щоб кинути виклик.\n"
+"Тільки гравці, що кинули виклик, зможуть грати з переможцем останнього матчу.\n"
+"\n"
+"Використайте кнопки миші для перемикання між режимами спостереження."
+
+msgid "You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr "Зараз ви знаходитеся в черзі гравців, що кинули виклик і очікуючих своєї гри.\n"
+"Ви можете скористатися ігровим меню, щоб стати спостерігачем."
+
+msgid "Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr "Використайте ігрове меню, щоб кинути виклик.\n"
+"Тільки гравці, що кинули виклик, зможуть грати з переможцем останнього матчу."
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Підтвердіть свою готовність для того, щоб почати матч!\n"
+"Для цього скористайтеся ігровим меню або клавішею 'F4'.\n"
+"Натисніть 'ESC' для виклику ігрового меню або 'ENTER', щоб перейти в ігровий чат."
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "Натисніть 'ESC' для виклику ігрового меню або 'ENTER', щоб перейти в ігровий чат.\n"
+"Використайте кнопки миші для перемикання між режимами спостереження.\n"
+"Показ цього повідомлення можна відключити в меню налаштувань гравця."

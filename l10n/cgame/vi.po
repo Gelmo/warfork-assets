@@ -1,38 +1,37 @@
 # Translators:
-# Andrei Stepanov <adem4ik@gmail.com>, 2019
-# Abdul Mubader <zddastan@gmail.com>, 2019
+# Phạm Đức "DuyMazino" Bảo Duy <duymazino@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-06 11:03+0000\n"
 "PO-Revision-Date: 2019-08-28 19:42+0000\n"
-"Last-Translator: Abdul Mubader <zddastan@gmail.com>, 2019\n"
-"Language-Team: French (https://www.transifex.com/team-forbidden-llc/teams/102732/fr/)\n"
+"Last-Translator: Phạm Đức \"DuyMazino\" Bảo Duy <duymazino@gmail.com>, 2019\n"
+"Language-Team: Vietnamese (https://www.transifex.com/team-forbidden-llc/teams/102732/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. "Personal spectators", a list of spectators who watch the same POV, or
 #. watching you playing.
 msgid "Chasers"
-msgstr "Poursuiveurs"
+msgstr ""
 
 msgid "Set yourself READY using the in-game menu to start the match!"
-msgstr "Indiquez lorsque vous êtes PRÊT en utilisant le menu à commencer le match !"
+msgstr "Dùng Menu để SẴN SÀNG và bắt đầu chơi!"
 
 msgid "Waiting for players."
-msgstr "En attente de joueurs."
+msgstr "Đang đợi người chơi khác."
 
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
-msgstr "Mode entraînement entré"
+msgstr "Đã vào Chế độ Tập luyện"
 
 #. User has left practice mode in Race
 msgid "Left practice mode"
-msgstr "Mode entraînement quitté"
+msgstr "Đã thoát Chế độ Tập luyện"
 
 #. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
 #. Net = Frags - Deaths - Team Kills, see
@@ -41,125 +40,125 @@ msgid "Net"
 msgstr "Net"
 
 msgid "Teams are uneven. Please switch into another team."
-msgstr "Équipes déséquilibrées. Merci de changer d'équipe."
+msgstr "Đội chơi không cân bằng. Xin chuyển qua đội khác."
 
 msgid "PROTECT THE BOMB SITES!"
-msgstr "PROTÉGEZ LES CIBLES DE L'ATTAQUE À LA BOMBE !"
+msgstr "BẢO VỆ BOMBSITE!"
 
 msgid "TEAMDAMAGE PUNISHMENT!"
-msgstr "PUNITION POUR TIR AMI !"
+msgstr "TRỪNG PHẠT VÌ BẮN ĐỒNG ĐỘI"
 
 msgid "DO NOT DAMAGE TEAMMATES!"
-msgstr "NE BLESSEZ PAS VOS COÉQUIPIERS !"
+msgstr "KHÔNG ĐƯỢC BẮN ĐỒNG ĐỘI"
 
 msgid "The bomb carrier has been fragged!"
-msgstr "Le porteur de la bombe a été fraggé !"
+msgstr "Người mang bom đã bị giết!"
 
 msgid "OFFENSE WINS!"
-msgstr "VICTOIRE DES ATTAQUANTS !"
+msgstr "PHE CÔNG THẮNG!"
 
 msgid "DEFENSE WINS!"
-msgstr "VICTOIRE DES DÉFENSEURS !"
+msgstr "PHE THỦ THẮNG!"
 
 msgid "You are shooting at your team-mates!"
-msgstr "Attention, vous tirez sur les membres de votre équipe !"
+msgstr "Bạn đang bắn đồng đội!"
 
 msgid "Don't shoot at members of your team!"
-msgstr "Ne tirez pas sur les membres de votre équipe !"
+msgstr "Đừng bắn đồng đội!"
 
 #. Please, don't use "kill/death" for the translation of "frag", try to find
 #. something more neutral
 msgid "YOU TEAMFRAGGED %s"
-msgstr "VOUS AVEZ FRAGGÉ VOTRE COÉQUIPIER %s"
+msgstr "BẠN BẮN NHẦM "
 
 #. Please, don't use "kill/death" for the translation of "frag", try to find
 #. something more neutral
 msgid "YOU FRAGGED %s"
-msgstr "VOUS AVEZ FRAGGÉ %s"
+msgstr "BẠN VỪA TIÊU DIỆT %s"
 
 #. For Race gametype - "no record", "no best time"
 msgid "no time"
-msgstr "Pas de chrono"
+msgstr "Không kết quả"
 
 #. race
 msgid "Time"
-msgstr "Chrono"
+msgstr "Thời Gian"
 
 msgid "DESTROY THE TARGETS!"
-msgstr "DÉTRUISEZ LES CIBLES !"
+msgstr "HỦY DIỆT MỤC TIÊU!"
 
 msgid "Timelimit hit!"
-msgstr "Fin du temps imparti !"
+msgstr "Hết thời gian!"
 
 msgid "The attacking team has lost the bomb!!!"
-msgstr "Les attaquants ont perdu la bombe !"
+msgstr "Phe Công đã mất bom!!!"
 
 msgid "MATCH ABORTED"
-msgstr "MATCH ANNULÉ"
+msgstr "TRẬN ĐẤU BỊ HỦY"
 
 msgid "COUNTDOWN ABORTED"
-msgstr "DÉCOMPTE ANNULÉ"
+msgstr "ĐÃ HỦY ĐẾM NGƯỢC "
 
 #. center print if there is sudden death overtime needed
 msgid "SUDDEN DEATH"
-msgstr "MORT SUBITE"
+msgstr ""
 
 #. Default location name, when there is none of them presented on the map
 msgid "someplace"
-msgstr "quelque part"
+msgstr "Nơi nào đó"
 
 msgid "Waiting... %s"
-msgstr "En attente... %s"
+msgstr "Đang đợi... %s"
 
 msgid "Match will resume in %s seconds"
-msgstr "Reprise du match dans %s secondes"
+msgstr "Trận đấu se tiếp tục sau %s giây"
 
 msgid "Match will resume in 1 second"
-msgstr "Reprise du match dans 1 seconde"
+msgstr "Trận đấu sẽ tiếp tục sau 1 giây"
 
 msgid "Match paused"
-msgstr "Interruption du match"
+msgstr "Trận đấu tạm dừng"
 
 msgid "Match resumed"
-msgstr "Reprise du match"
+msgstr "Trận đấu tiếp tục"
 
 msgid "%s has the bomb!"
-msgstr "%s a la bombe !"
+msgstr "%s đang giữ bom!"
 
 msgid "Bomb planted at %s!"
-msgstr "Bombe amorcée à %s !"
+msgstr "Bom được đặt ở %s!"
 
 #. chase = spectate
 msgid "No one to chase"
-msgstr "Il n'y a personne à suivre"
+msgstr "Không có ai để theo dõi"
 
 msgid "Name"
-msgstr "Nom"
+msgstr "Tên"
 
 msgid "Bomb defused!"
-msgstr "Bombe désamorcée !"
+msgstr "Bom đã được gỡ!"
 
 msgid "Clan"
 msgstr "Clan"
 
 msgid "Score"
-msgstr "Score"
+msgstr "Điểm"
 
 #. Short form of "Score"
 msgid "Sco"
-msgstr "Sco"
+msgstr "Đ"
 
 #. Short form of "Frags", please, don't use "kill/death" for the translation
 msgid "Fra"
-msgstr "Fra"
+msgstr "M"
 
 #. Short form of "Suicides"
 msgid "Sui"
-msgstr "Sui"
+msgstr "Tự Tử"
 
 #. Short form of "Deaths"
 msgid "De"
-msgstr "De"
+msgstr "C"
 
 msgid "Ping"
 msgstr "Ping"
@@ -168,128 +167,128 @@ msgstr "Ping"
 #. frag the tagged player. Tagged player gets score for each second he/she
 #. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
-msgstr "Temps en mode \"marqué\""
+msgstr "TagTime"
 
 msgid "Racing"
-msgstr "En course"
+msgstr "Đang Đua"
 
 msgid "Spectators"
-msgstr "Spectateurs"
+msgstr "Người Xem"
 
 msgid "Challengers"
-msgstr "Challengers"
+msgstr "Người Thách Đấu"
 
 msgid "Weapon stats"
-msgstr "Statistiques armes"
+msgstr "Chỉ số VK"
 
 #. Race time
 msgid "Time:"
-msgstr "Chrono :"
+msgstr "Thời gian:"
 
 #. Race
 msgid "Best:"
-msgstr "Record :"
+msgstr "Tốt Nhất:"
 
 #. Race
 msgid "Srv Best:"
-msgstr "Record serveur :"
+msgstr "Nhanh Nhất Srv"
 
 #. Race
 msgid "Alpha time:"
-msgstr "Temps Alpha :"
+msgstr "Thời Gian Alpha:"
 
 #. Race
 msgid "Beta time:"
-msgstr "Temps Beta :"
+msgstr "Thời Gian Beta:"
 
 #. When some Items get picked up
 msgid "Picked up:"
-msgstr "Trouvé :"
+msgstr "Nhặt lên lúc:"
 
 msgid "Points:"
-msgstr "Points :"
+msgstr "Điểm:"
 
 #. Difference of the scores/points
 msgid "Spread:"
-msgstr "Diff :"
+msgstr "Khác Biệt:"
 
 msgid "Download:"
-msgstr "Téléchargement :"
+msgstr "Tải Xuống:"
 
 msgid "Download progress:"
-msgstr "Progression du téléchargement :"
+msgstr "Quá trình tải:"
 
 #. HUD indicator of stun
 msgid "STUNNED"
-msgstr "SONNÉ"
+msgstr "BỊ CHOÁNG"
 
 #. Race
 msgid "Personal best:"
-msgstr "Record personnel :"
+msgstr "Kỉ lục cá nhân:"
 
 #. Race
 msgid "Server record:"
-msgstr "Record serveur :"
+msgstr "Kỉ lục Server:"
 
 msgid "Warmup"
-msgstr "Échauffement"
+msgstr "Khởi Động"
 
 msgid "Low Ammo"
-msgstr "Peu de munitions"
+msgstr "Lượng Đạn Thấp"
 
 msgid "Out Of Ammo"
-msgstr "Plus de munitions"
+msgstr "Hết Đạn"
 
 msgid "Message of the day:"
-msgstr "Message du jour :"
+msgstr "Tin nhắn của ngày:"
 
 msgid "Waiting for players.\n"
 "'ESC' for in-game menu."
-msgstr "En attente de joueurs.\n"
-"\"Echap\" pour le menu."
+msgstr "Đang đợi người chơi.\n"
+"'ESC' để vào menu."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "You are inside the challengers queue waiting for your turn to play.\n"
 "Use the in-game menu to exit the queue.\n"
 "\n"
 "Use the mouse buttons for switching spectator modes."
-msgstr "\"Echap\" pour le menu ou \"Entrée\" pour le chat.\n"
-"Vous êtes dans la file et attendez votre tour de jouer.\n"
-"Utilisez le menu pour sortir de la file d'attente.\n"
+msgstr "'ESC' để bật menu hoặc 'ENTER' để trò chuyện.\n"
+"Bạn đang trong hàng chờ thách đấu.\n"
+"Dùng menu trong trận để thoát hàng chờ.\n"
 "\n"
-"Cliquez pour alterner entre les différents points de vue du mode \"spectateur\"."
+"Nhấp chuột để chuyển chế độ theo dõi."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "Use the in-game menu or press 'F3' to enter the challengers queue.\n"
 "Only players in the queue will have a turn to play against the last winner.\n"
 "\n"
 "Use the mouse buttons for switching spectator modes."
-msgstr "\"Echap\" pour le menu ou \"Entrée\" pour le chat.\n"
-"Utilisez le menu ou appuyez sur la touche \"F3\" pour entrer dans la file d'attente.\n"
-"Seuls les joueurs de la file d'attente pourront jouer à leur tour contre le dernier vainqueur.\n"
+msgstr "'ESC' để bật menu hoặc 'ENTER' để trò chuyện.\n"
+"Dùng menu trong trận hoặc 'F3' để vào hàng chờ tách đấu.\n"
+"Chỉ người trong hàng chờ mới có thể chơi.\n"
 "\n"
-"Cliquez pour alterner entre les différents points de vue du mode \"spectateur\"."
+"Nhấp chuột để chuyển chế độ theo dõi."
 
 msgid "You are inside the challengers queue waiting for your turn to play.\n"
 "Use the in-game menu to exit the queue."
-msgstr "Vous êtes dans la file et attendez votre tour de jouer.\n"
-"Utilisez le menu pour sortir de la file d'attente."
+msgstr "Bạn đang ở trong hàng chờ thách đấu.\n"
+"Sử dụng Menu trong trận để thoát hàng chờ."
 
 msgid "Use the in-game menu to enter the challengers queue.\n"
 "Only players in the queue will have a turn to play against the last winner."
-msgstr "Utilisez le menu pour entrer dans la file d'attente.\n"
-"Seuls les joueurs de la file d'attente pourront jouer à leur tour contre le dernier vainqueur."
+msgstr "Sử dụng Menu trong trận để vào hàng chờ.\n"
+"Chỉ người chơi trong hàng chờ có thể đấu với người thắng cuộc."
 
 msgid "Set yourself READY to start the match!\n"
 "You can use the in-game menu or simply press 'F4'.\n"
 "'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Indiquez lorsque vous êtes PRÊT à commencer le match !\n"
-"Vous pouvez utiliser le menu ou appuyer simplement sur la touche \"F4\".\n"
-"\"Echap\" pour le menu ou \"Entrée\" pour le chat."
+msgstr "SẴN SÀNG để bắt đầu trận!\n"
+"Bạn có thể dùng Menu hoặc nhấp \"F4\"\n"
+"'ESC' để bật Menu trong trận và 'ENTER' để trò chuyện."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "Mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
-msgstr "\"Echap\" pour le menu ou \"Entrée\" pour le chat.\n"
-"Cliquez pour alterner entre les différents points de vue du mode \"spectateur\".\n"
-"Ce message peut-être caché en désactivant l'aide dans le menu des options de joueur."
+msgstr "'ESC' để sử dụng Menu và 'ENTER' để trò chuyện.\n"
+"Nhấp chuột để thay đổi chế độ xem.\n"
+"Tin nhắn này có thể được ẩn đi bằng việc tắt \"Hiện Giúp Đỡ\" trong Menu Linh Tinh."

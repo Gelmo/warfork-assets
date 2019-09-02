@@ -1,25 +1,23 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-12-05 19:39+0000\n"
-"PO-Revision-Date: 2016-12-05 19:39+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: hu\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Hungarian (https://www.transifex.com/team-forbidden-llc/teams/102732/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
 msgid "Chasers"
 msgstr "Személyes nézők"
-
-msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
-msgstr "A kihívók sorában vagy, várakozol a sorra kerülésre.\nA játékbeli menüt használhatod a kilépéshez."
-
-msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
-msgstr "Használd a játékbeli menüt, hogy belépj a kihívók sorába.\nCsak a sorban álló játékosoknak van lehetősége játszani a győztessel."
 
 msgid "Set yourself READY using the in-game menu to start the match!"
 msgstr "Állítsd magad FELKÉSZÜLT-re a játékbeli menüben a meccs indításához!"
@@ -35,7 +33,9 @@ msgstr "Beléptél a gyakorló módba"
 msgid "Left practice mode"
 msgstr "Elhagytad a gyakorló módot"
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Külö"
 
@@ -66,11 +66,13 @@ msgstr "A csapattársadat sebzed!"
 msgid "Don't shoot at members of your team!"
 msgstr "Ne lőj a csapattársaidra!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "ELINTÉZTED %s CSAPATTÁRSADAT"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "ELINTÉZTED %s-T"
 
@@ -105,9 +107,6 @@ msgstr "HIRTELEN HALÁL"
 msgid "someplace"
 msgstr "valahol"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Állítsd magad FELKÉSZÜLT-re a meccs kezdéséhez!\nHasználd a játékbeli menüt, vagy nyomj F4-et.\nNyomj ESC-et a menühöz, vagy ENTERT a chat-hez."
-
 msgid "Waiting... %s"
 msgstr "Várakozás... %s"
 
@@ -135,9 +134,6 @@ msgstr "Nincs kit követni"
 
 msgid "Name"
 msgstr "Név"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' a menü eléréséhez vagy 'ENTER' a chateléshez\nEgér gombok a megfigyelő módok váltásához.\nEz az üzenet kikapcsolható a 'segítség'  kikapcsolásával a játékos beállítás menüben."
 
 msgid "Bomb defused!"
 msgstr "Bomba hatástalanítva!"
@@ -167,7 +163,9 @@ msgstr "Hal"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Részidő"
 
@@ -241,15 +239,56 @@ msgstr "Kevés lőszer "
 msgid "Out Of Ammo"
 msgstr "Lőszer kifogyott"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "Várakozás a többi játékosra.\nNyomjon ESC-et a belső játékmenühöz."
-
 msgid "Message of the day:"
 msgstr "A nap üzenete:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "Nyomj 'ESC'-et a menühöz, vagy 'ENTER'-t a chat-hez.\nA kihívók sorában vagy, várakozol, hogy sorra kerülj.\nHasználd a menüt, hogy kilépj a sorból.\n\nHasználd az egér gombokat a megfigyelő módok váltásához."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "Várakozás a többi játékosra.\n"
+"Nyomjon ESC-et a belső játékmenühöz."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "Nyomj 'ESC'-et a menühöz, vagy 'ENTER'-t a chat-hez.\nHasználd a játékbeli menüt, vagy nyomj 'F3'-mat, hogy belépj a kihívók sorába.\nCsak a sorban álló játékosoknak van lehetősége játszani a legutóbbi győztessel.\n\nHasználd az egér gombokat a megfigyelő módok váltásához."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "Nyomj 'ESC'-et a menühöz, vagy 'ENTER'-t a chat-hez.\n"
+"A kihívók sorában vagy, várakozol, hogy sorra kerülj.\n"
+"Használd a menüt, hogy kilépj a sorból.\n"
+"\n"
+"Használd az egér gombokat a megfigyelő módok váltásához."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "Nyomj 'ESC'-et a menühöz, vagy 'ENTER'-t a chat-hez.\n"
+"Használd a játékbeli menüt, vagy nyomj 'F3'-mat, hogy belépj a kihívók sorába.\n"
+"Csak a sorban álló játékosoknak van lehetősége játszani a legutóbbi győztessel.\n"
+"\n"
+"Használd az egér gombokat a megfigyelő módok váltásához."
+
+msgid "You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr "A kihívók sorában vagy, várakozol a sorra kerülésre.\n"
+"A játékbeli menüt használhatod a kilépéshez."
+
+msgid "Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr "Használd a játékbeli menüt, hogy belépj a kihívók sorába.\n"
+"Csak a sorban álló játékosoknak van lehetősége játszani a győztessel."
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Állítsd magad FELKÉSZÜLT-re a meccs kezdéséhez!\n"
+"Használd a játékbeli menüt, vagy nyomj F4-et.\n"
+"Nyomj ESC-et a menühöz, vagy ENTERT a chat-hez."
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "'ESC' a menü eléréséhez vagy 'ENTER' a chateléshez\n"
+"Egér gombok a megfigyelő módok váltásához.\n"
+"Ez az üzenet kikapcsolható a 'segítség'  kikapcsolásával a játékos beállítás menüben."

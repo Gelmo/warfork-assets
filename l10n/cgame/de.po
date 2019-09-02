@@ -1,25 +1,23 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-12-05 19:39+0000\n"
-"PO-Revision-Date: 2016-12-05 19:39+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: de\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: German (https://www.transifex.com/team-forbidden-llc/teams/102732/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
 msgid "Chasers"
 msgstr "Persönliche zuschauer"
-
-msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
-msgstr "Du bist in der Herausforderer-Warteschlange und wartest auf deinen Zug.\nBenutze das Spiel-Menü um die Warteschlange zu verlassen."
-
-msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
-msgstr "Benutze das Spiel-Menü um die Herausforderer-Warteschlange zu betreten.\nNur Spieler in der Warteschlange können gegen den letzten Gewinner spielen."
 
 msgid "Set yourself READY using the in-game menu to start the match!"
 msgstr "Stelle dich als BEREIT über das Spiel-Menü, um das Match zu starten!"
@@ -35,7 +33,9 @@ msgstr "Übungsmodus beigetreten"
 msgid "Left practice mode"
 msgstr "Übungsmodus verlassen"
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Punkte"
 
@@ -66,11 +66,13 @@ msgstr "Du schießt auf deine Teammitglieder!"
 msgid "Don't shoot at members of your team!"
 msgstr "Schieß' nicht auf Teammitglieder!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "DU HAST TEAMMITGLIED %s ERLEDIGT"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "DU HAST %s ERLEDIGT"
 
@@ -105,9 +107,6 @@ msgstr "SUDDEN DEATH"
 msgid "someplace"
 msgstr "irgendwo"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Stelle dich als BEREIT um das Match zu starten!\nDu kannst das Spiel-Menü benutzen oder einfach 'F4' drücken.\n'Esc' für das Spiel-Menü oder 'Enter' für den Spiel-Chat."
-
 msgid "Waiting... %s"
 msgstr "Warten...%s"
 
@@ -135,9 +134,6 @@ msgstr "Niemand zum Beobachten"
 
 msgid "Name"
 msgstr "Name"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'Esc' für Spiel-Menü oder 'Enter' für Spiel-Chat.\nMaustasten um zwischen Zuschauer-Modi zu wechseln.\nDiese Nachricht kann durch abschalten von 'Hilfe' im Spieler Setup-Menü versteckt werden."
 
 msgid "Bomb defused!"
 msgstr "Bombe entschärft!"
@@ -167,7 +163,9 @@ msgstr "Td"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Gejagter"
 
@@ -241,15 +239,56 @@ msgstr "Wenig Munition"
 msgid "Out Of Ammo"
 msgstr "Keine Munition"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "Warte auf Spieler.\n'ESC' für das in-game Menü."
-
 msgid "Message of the day:"
 msgstr "Mitteilung des Tages:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'Esc' für Spiel-Menü oder 'Enter' für Spiel-Chat.\nDu bist in der Herausforderer-Warteschlange und wartest auf deinen Zug.\nBenutze das Spiel-Menü um die Warteschlange zu verlassen.\n\nBenutze die Maustasten um zwischen Zuschauer-Modi zu wechseln."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "Warte auf Spieler.\n"
+"'ESC' für das in-game Menü."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'Esc' für Spiel-Menü oder 'Enter' für Spiel-Chat.\nBenutze das Spiel-Menü oder drücke 'F3' um die Herausforderer-Warteschlange zu betreten.\nNur Spieler in der Warteschlange können gegen den letzten Gewinner spielen.\n\nBenutze die Maustasten um zwischen Zuschauer-Modi zu wechseln."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'Esc' für Spiel-Menü oder 'Enter' für Spiel-Chat.\n"
+"Du bist in der Herausforderer-Warteschlange und wartest auf deinen Zug.\n"
+"Benutze das Spiel-Menü um die Warteschlange zu verlassen.\n"
+"\n"
+"Benutze die Maustasten um zwischen Zuschauer-Modi zu wechseln."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'Esc' für Spiel-Menü oder 'Enter' für Spiel-Chat.\n"
+"Benutze das Spiel-Menü oder drücke 'F3' um die Herausforderer-Warteschlange zu betreten.\n"
+"Nur Spieler in der Warteschlange können gegen den letzten Gewinner spielen.\n"
+"\n"
+"Benutze die Maustasten um zwischen Zuschauer-Modi zu wechseln."
+
+msgid "You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr "Du bist in der Herausforderer-Warteschlange und wartest auf deinen Zug.\n"
+"Benutze das Spiel-Menü um die Warteschlange zu verlassen."
+
+msgid "Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr "Benutze das Spiel-Menü um die Herausforderer-Warteschlange zu betreten.\n"
+"Nur Spieler in der Warteschlange können gegen den letzten Gewinner spielen."
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Stelle dich als BEREIT um das Match zu starten!\n"
+"Du kannst das Spiel-Menü benutzen oder einfach 'F4' drücken.\n"
+"'Esc' für das Spiel-Menü oder 'Enter' für den Spiel-Chat."
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "'Esc' für Spiel-Menü oder 'Enter' für Spiel-Chat.\n"
+"Maustasten um zwischen Zuschauer-Modi zu wechseln.\n"
+"Diese Nachricht kann durch abschalten von 'Hilfe' im Spieler Setup-Menü versteckt werden."

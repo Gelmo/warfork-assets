@@ -1,25 +1,23 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2019-08-28 19:20+0000\n"
-"PO-Revision-Date: 2019-08-28 19:20+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: cs\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Czech (https://www.transifex.com/team-forbidden-llc/teams/102732/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
 
-#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
 msgid "Chasers"
 msgstr "Diváci"
-
-msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
-msgstr "Jste ve frontě hráčů čekajících na vstup do hry.\nPoužijte herní menu pro opuštění fronty."
-
-msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
-msgstr "Použijte herní menu pro vstup do fronty hráčů čekajících na vstup do hry.\nS posledním vítězem se mohou utkat pouze hráči ve frontě."
 
 msgid "Set yourself READY using the in-game menu to start the match!"
 msgstr "Označte se jako PŘIPRAVEN pomocí herního menu pro zahájení hry."
@@ -35,7 +33,9 @@ msgstr "V tréninkovém režimu"
 msgid "Left practice mode"
 msgstr "Tréninkový režim ukončen"
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Sko"
 
@@ -66,11 +66,13 @@ msgstr "Střílíte po spoluhráčích!"
 msgid "Don't shoot at members of your team!"
 msgstr "Nestřílejte na spoluhráče!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "ZNEŠKODNIL JSI SPOLUHRÁČE %s"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "ZNEŠKODNIL JSI %s"
 
@@ -105,9 +107,6 @@ msgstr "NÁHLÁ SMRT"
 msgid "someplace"
 msgstr "neurčené místo"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Označte se jako PŘIPRAVEN pro zahájení hry.\nPoužijte herní menu, nebo stiskněte 'F4'.\n'ESC' pro herní menu, 'ENTER' pro chat."
-
 msgid "Waiting... %s"
 msgstr "Vyčkejte... %s"
 
@@ -135,9 +134,6 @@ msgstr "Žádní hráči ke sledování"
 
 msgid "Name"
 msgstr "Jméno"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' pro herní menu, 'ENTER' pro chat.\nTlačítka myši pro změnu režimu diváka.\nTato zpráva může být skryta vypnutím 'nápovědy' v menu nastavení hráče."
 
 msgid "Bomb defused!"
 msgstr "Bomba zneškodněna!"
@@ -167,7 +163,9 @@ msgstr "Sm"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "TagČas"
 
@@ -241,15 +239,56 @@ msgstr "Málo munice"
 msgid "Out Of Ammo"
 msgstr "Bez munice"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "Čekání na hráče.\n'ESC' pro herní menu."
-
 msgid "Message of the day:"
 msgstr "Zpráva dne:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' pro herní menu, 'ENTER' pro chat.\nJste ve frontě pro vstup do hry.\nPoužijte herní menu pro vystoupení z fronty.\n\nPoužijte tlačítka myši pro změnu režimu sledování."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "Čekání na hráče.\n"
+"'ESC' pro herní menu."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' pro herní menu, 'ENTER' pro chat.\nPoužijte herní menu nebo stiskněte 'F3' pro vstup do fronty hráčů.\nProti poslednímu vítězi mohou hrát pouze hráči ve frontě.\n\nPoužijte tlačítka myši pro změnu režimu sledování."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' pro herní menu, 'ENTER' pro chat.\n"
+"Jste ve frontě pro vstup do hry.\n"
+"Použijte herní menu pro vystoupení z fronty.\n"
+"\n"
+"Použijte tlačítka myši pro změnu režimu sledování."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' pro herní menu, 'ENTER' pro chat.\n"
+"Použijte herní menu nebo stiskněte 'F3' pro vstup do fronty hráčů.\n"
+"Proti poslednímu vítězi mohou hrát pouze hráči ve frontě.\n"
+"\n"
+"Použijte tlačítka myši pro změnu režimu sledování."
+
+msgid "You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr "Jste ve frontě hráčů čekajících na vstup do hry.\n"
+"Použijte herní menu pro opuštění fronty."
+
+msgid "Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr "Použijte herní menu pro vstup do fronty hráčů čekajících na vstup do hry.\n"
+"S posledním vítězem se mohou utkat pouze hráči ve frontě."
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Označte se jako PŘIPRAVEN pro zahájení hry.\n"
+"Použijte herní menu, nebo stiskněte 'F4'.\n"
+"'ESC' pro herní menu, 'ENTER' pro chat."
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "'ESC' pro herní menu, 'ENTER' pro chat.\n"
+"Tlačítka myši pro změnu režimu diváka.\n"
+"Tato zpráva může být skryta vypnutím 'nápovědy' v menu nastavení hráče."

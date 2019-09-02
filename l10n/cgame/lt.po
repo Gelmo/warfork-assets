@@ -1,17 +1,41 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:16+0000\n"
-"PO-Revision-Date: 2016-04-03 16:16+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: lt\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Lithuanian (https://www.transifex.com/team-forbidden-llc/teams/102732/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
+msgid "Chasers"
+msgstr ""
+
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr ""
+
+msgid "Waiting for players."
+msgstr ""
+
+#. User has entered practice mode in Race
+msgid "Entered practice mode"
+msgstr ""
+
+#. User has left practice mode in Race
+msgid "Left practice mode"
+msgstr ""
+
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Rez"
 
@@ -42,11 +66,13 @@ msgstr "Tu šaudai į savo komandos narius!"
 msgid "Don't shoot at members of your team!"
 msgstr "Nešaudyk į savo komandos narius!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "TU NUFRAGINAI KOMANDOS ŽAIDĖJĄ %s"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "TU NUFRAGINAI %s"
 
@@ -81,9 +107,6 @@ msgstr "STAIGI MIRTIS"
 msgid "someplace"
 msgstr "kažkur"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Pasiruoškite, kad galėtumėt pradėti varžybas!\nJūs galite naudoti žaidimo meniu arba paspausti 'F4'.\n'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui."
-
 msgid "Waiting... %s"
 msgstr "Laukiama... %s"
 
@@ -111,9 +134,6 @@ msgstr "Nėra ko stebėti"
 
 msgid "Name"
 msgstr "Vardas"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui.\nPėles mygtukai keičia stebėtojo režimus.\nŠitas pranešimas gali būti išjungtas 'help' žaidėjo nustatymo meniu."
 
 msgid "Bomb defused!"
 msgstr "Bomba nukenksminta!"
@@ -143,7 +163,9 @@ msgstr "Mir"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Pažymėjimo laikas"
 
@@ -217,15 +239,56 @@ msgstr "Mažai šovinių"
 msgid "Out Of Ammo"
 msgstr "Baigėsi šoviniai"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "Laukiama žaidėjų.\n'ESC' žaidimo meniu parodymui."
-
 msgid "Message of the day:"
 msgstr "Dienos pranešimas:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui.\nJūs esate varžovų sąraše laukiančių savo eilės žaisti.\nNaudokite žaidimo meniu, kad išeitumėte iš sąrašo.\n\nNaudokite pelės mygtukus žiūrovo režimams keisti."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "Laukiama žaidėjų.\n"
+"'ESC' žaidimo meniu parodymui."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui.\nNaudokite žaidimo meniu arba spauskite 'F3', kad įeitumėte į varžovų sąrašą.\nTik žaidėjai, kurie yra eilėje, galės žaisti prieš paskutio žaidimo laimėtoju.\n\nNaudokite pelės mygtukus žiūrovo režimams keisti."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui.\n"
+"Jūs esate varžovų sąraše laukiančių savo eilės žaisti.\n"
+"Naudokite žaidimo meniu, kad išeitumėte iš sąrašo.\n"
+"\n"
+"Naudokite pelės mygtukus žiūrovo režimams keisti."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui.\n"
+"Naudokite žaidimo meniu arba spauskite 'F3', kad įeitumėte į varžovų sąrašą.\n"
+"Tik žaidėjai, kurie yra eilėje, galės žaisti prieš paskutio žaidimo laimėtoju.\n"
+"\n"
+"Naudokite pelės mygtukus žiūrovo režimams keisti."
+
+msgid ""
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr ""
+
+msgid ""
+"Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr ""
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Pasiruoškite, kad galėtumėt pradėti varžybas!\n"
+"Jūs galite naudoti žaidimo meniu arba paspausti 'F4'.\n"
+"'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui."
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui.\n"
+"Pėles mygtukai keičia stebėtojo režimus.\n"
+"Šitas pranešimas gali būti išjungtas 'help' žaidėjo nustatymo meniu."

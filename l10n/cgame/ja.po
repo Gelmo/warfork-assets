@@ -1,15 +1,26 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:16+0000\n"
-"PO-Revision-Date: 2016-04-03 16:16+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: ja\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/team-forbidden-llc/teams/102732/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
+msgid "Chasers"
+msgstr ""
+
+msgid "Set yourself READY using the in-game menu to start the match!"
+msgstr ""
 
 msgid "Waiting for players."
 msgstr "プレイヤーを待っています。"
@@ -21,6 +32,12 @@ msgstr "プラクティスモードに入りました"
 #. User has left practice mode in Race
 msgid "Left practice mode"
 msgstr "プラクティスモードを出ました"
+
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
+msgid "Net"
+msgstr ""
 
 msgid "Teams are uneven. Please switch into another team."
 msgstr "チームが互角ではありません。別のチームへ動いてください。"
@@ -49,11 +66,13 @@ msgstr "チームメイトを攻撃した！"
 msgid "Don't shoot at members of your team!"
 msgstr "チームメイトに攻撃するな！"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "YOU TEAMFRAGGED %s"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "YOU FRAGGED %s"
 
@@ -74,6 +93,12 @@ msgstr "タイムリミット超過！"
 msgid "The attacking team has lost the bomb!!!"
 msgstr "攻撃チームは爆弾を落とした！"
 
+msgid "MATCH ABORTED"
+msgstr ""
+
+msgid "COUNTDOWN ABORTED"
+msgstr ""
+
 #. center print if there is sudden death overtime needed
 msgid "SUDDEN DEATH"
 msgstr "サドンデス"
@@ -81,9 +106,6 @@ msgstr "サドンデス"
 #. Default location name, when there is none of them presented on the map
 msgid "someplace"
 msgstr "名も無き場所"
-
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "READY状態にしてマッチを始めよう。\n'F4'を押すかゲーム内メニューでREADY状態にできます。\n'ESC'でゲーム内メニューを、'ENTER'でゲーム内チャットを開きます。"
 
 msgid "Waiting... %s"
 msgstr "Waiting... %s"
@@ -113,9 +135,6 @@ msgstr "観戦する相手がいません"
 msgid "Name"
 msgstr "名前"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC'でゲーム内メニューを、'ENTER'でゲーム内チャットを開きます。\nマウスクリックで観戦モードを切り替えられます。\nこのメッセージはオプション内で''help'を無効化することで隠すことができます。"
-
 msgid "Bomb defused!"
 msgstr "爆弾が解除された！"
 
@@ -144,7 +163,9 @@ msgstr "デス"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "タグタイム"
 
@@ -218,15 +239,56 @@ msgstr "弾薬残り少量"
 msgid "Out Of Ammo"
 msgstr "弾薬切れ"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "プレイヤーを待っています.\n'ESC'でゲーム中のメニューを呼び出します."
-
 msgid "Message of the day:"
 msgstr "今日の言葉:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC'でゲーム内メニューを、'ENTER'でゲーム内チャットを開きます。\n挑戦者キューに参加し、自身のターンが来るのを待っています。\nゲーム内メニューかもしくはコンソールに'spec'と入力することでキューから外れることができます。\n\nマウスクリックで観戦モードを切り替えられます。"
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "プレイヤーを待っています.\n"
+"'ESC'でゲーム中のメニューを呼び出します."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC'でゲーム内メニューを、'ENTER'でゲーム内チャットを開きます。\nゲーム内メニューかもしくは'F3'を押すことで挑戦者キューに参入します。\nキュー内にいるプレイヤーのみに勝者と戦闘する順番が回ってきます。\n\nマウスクリックで観戦モードを切り替えられます。"
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC'でゲーム内メニューを、'ENTER'でゲーム内チャットを開きます。\n"
+"挑戦者キューに参加し、自身のターンが来るのを待っています。\n"
+"ゲーム内メニューかもしくはコンソールに'spec'と入力することでキューから外れることができます。\n"
+"\n"
+"マウスクリックで観戦モードを切り替えられます。"
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC'でゲーム内メニューを、'ENTER'でゲーム内チャットを開きます。\n"
+"ゲーム内メニューかもしくは'F3'を押すことで挑戦者キューに参入します。\n"
+"キュー内にいるプレイヤーのみに勝者と戦闘する順番が回ってきます。\n"
+"\n"
+"マウスクリックで観戦モードを切り替えられます。"
+
+msgid ""
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr ""
+
+msgid ""
+"Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr ""
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "READY状態にしてマッチを始めよう。\n"
+"'F4'を押すかゲーム内メニューでREADY状態にできます。\n"
+"'ESC'でゲーム内メニューを、'ENTER'でゲーム内チャットを開きます。"
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "'ESC'でゲーム内メニューを、'ENTER'でゲーム内チャットを開きます。\n"
+"マウスクリックで観戦モードを切り替えられます。\n"
+"このメッセージはオプション内で''help'を無効化することで隠すことができます。"

@@ -1,25 +1,23 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-12-05 19:39+0000\n"
-"PO-Revision-Date: 2016-12-05 19:39+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: nl_lu\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Dutch (https://www.transifex.com/team-forbidden-llc/teams/102732/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
 msgid "Chasers"
 msgstr "Volgers"
-
-msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
-msgstr "Je bevindt je in de uitdagers wachtrij wachtend op jouw beurt om te spelen. Gebruik het in-game menu om de wachtrij te verlaten."
-
-msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
-msgstr "Gebruik het in-game menu om deel te nemen aan de uitdagers wachtrij. Alleen spelers in deze wachtrij komen aan de beurt om tegen de laatste winnaar te spelen."
 
 msgid "Set yourself READY using the in-game menu to start the match!"
 msgstr "Zet jezelf GEREED in het in-game menu om de wedstrijd te starten!"
@@ -35,7 +33,9 @@ msgstr "Oefenmodus betreden"
 msgid "Left practice mode"
 msgstr "Oefenmodus verlaten"
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Net"
 
@@ -66,11 +66,13 @@ msgstr "Je schiet op je teamgenoten!"
 msgid "Don't shoot at members of your team!"
 msgstr "Schiet niet op je teamgenoten!"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "JE HEBT %s GETEAMFRAGT"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "JE HEBT %s GEFRAGT"
 
@@ -105,9 +107,6 @@ msgstr "SUDDEN DEATH"
 msgid "someplace"
 msgstr "ergens"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
-msgstr "Zet jezelf GEREED om de wedstrijd te starten!\nJe kunt dit in het in-game menu doen of door 'F4' in te drukken.\n'ESC' voor in-game menu of 'ENTER' for in-game chat."
-
 msgid "Waiting... %s"
 msgstr "Wachtend... %s"
 
@@ -135,9 +134,6 @@ msgstr "Niemand om te volgen"
 
 msgid "Name"
 msgstr "Naam"
-
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' voor in-game menu of 'ENTER' voor in-game chat.\nMuis knoppen voor veranderen toeschouwer modus.\nDit bericht kan worden verborgen door 'help' uit te zetten in het speler opties menu."
 
 msgid "Bomb defused!"
 msgstr "Bom ontmanteld!"
@@ -167,7 +163,9 @@ msgstr "Do"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Markeertijd"
 
@@ -241,15 +239,58 @@ msgstr "Weinig munitie"
 msgid "Out Of Ammo"
 msgstr "Geen munitie over"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
-msgstr "Wachten op andere spelers.\nDruk op 'ESC' voor het menu."
-
 msgid "Message of the day:"
 msgstr "Bericht van de dag:"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' voor in-game menu of 'ENTER' for in-game chat.\nJe bevindt je in de uitdagers wachtrij wachtend op je beurt om te spelen.\nGebruik het menu om de wachtrij te verlaten.\n\nGebruik de muisknoppen om van toeschouwer modus te veranderen."
+msgid "Waiting for players.\n"
+"'ESC' for in-game menu."
+msgstr "Wachten op andere spelers.\n"
+"Druk op 'ESC' voor het menu."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
-msgstr "'ESC' voor in-game menu of 'ENTER' voor in-game chat.\nGebruik het in-game menu of druk op 'F3' om aan de uitdagers wachtrij deel te nemen.\nAlleen spelers in deze wachtrij komen aan de beurt om tegen de laatste winnaar te spelen.\n\nGebruik de muisknoppen om van toeschouwer modus te veranderen."
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' voor in-game menu of 'ENTER' for in-game chat.\n"
+"Je bevindt je in de uitdagers wachtrij wachtend op je beurt om te spelen.\n"
+"Gebruik het menu om de wachtrij te verlaten.\n"
+"\n"
+"Gebruik de muisknoppen om van toeschouwer modus te veranderen."
 
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
+msgstr "'ESC' voor in-game menu of 'ENTER' voor in-game chat.\n"
+"Gebruik het in-game menu of druk op 'F3' om aan de uitdagers wachtrij deel te nemen.\n"
+"Alleen spelers in deze wachtrij komen aan de beurt om tegen de laatste winnaar te spelen.\n"
+"\n"
+"Gebruik de muisknoppen om van toeschouwer modus te veranderen."
+
+msgid "You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
+msgstr ""
+"Je bevindt je in de uitdagers wachtrij wachtend op jouw beurt om te spelen. "
+"Gebruik het in-game menu om de wachtrij te verlaten."
+
+msgid "Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
+msgstr "Gebruik het in-game menu om deel te nemen aan de uitdagers wachtrij. Alleen "
+"spelers in deze wachtrij komen aan de beurt om tegen de laatste winnaar te "
+"spelen."
+
+msgid "Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgstr "Zet jezelf GEREED om de wedstrijd te starten!\n"
+"Je kunt dit in het in-game menu doen of door 'F4' in te drukken.\n"
+"'ESC' voor in-game menu of 'ENTER' for in-game chat."
+
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
+msgstr "'ESC' voor in-game menu of 'ENTER' voor in-game chat.\n"
+"Muis knoppen voor veranderen toeschouwer modus.\n"
+"Dit bericht kan worden verborgen door 'help' uit te zetten in het speler opties menu."
