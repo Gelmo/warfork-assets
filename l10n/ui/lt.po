@@ -1,15 +1,76 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:14+0000\n"
-"PO-Revision-Date: 2016-04-03 16:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: lt\n"
+"POT-Creation-Date: 2016-12-05 19:41+0000\n"
+"PO-Revision-Date: 2019-08-28 19:43+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Lithuanian (https://www.transifex.com/team-forbidden-llc/teams/102732/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#. Start/home page top button
+msgid "Home"
+msgstr "Namai"
+
+#. Top button
+msgid "Play"
+msgstr "Žaisti"
+
+#. Top button
+msgid "Options"
+msgstr "Nustatymai"
+
+#. Top button
+msgid "Quit"
+msgstr "Išeiti"
+
+msgid "Please join us on Discord (link below) to participate in pickup games, game "
+"discussion, and more!"
+msgstr ""
+
+msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
+"Chasseur de Bots."
+msgstr ""
+
+msgid "Restart race"
+msgstr ""
+
+msgid "Enter practice mode"
+msgstr ""
+
+msgid "Leave practice mode"
+msgstr ""
+
+msgid "Enable noclip mode"
+msgstr ""
+
+msgid "Disable noclip mode"
+msgstr ""
+
+msgid "Save position"
+msgstr ""
+
+msgid "Load saved position"
+msgstr ""
+
+msgid "Clear saved position"
+msgstr ""
+
+#. Touch devices intro text
+msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your"
+" device as shown in the picture, with four of your fingers in front of the "
+"screen, to make sure you can perform movement tricks, aim and fire at the "
+"same time."
+msgstr ""
+
+msgid "View match info"
+msgstr ""
 
 #. UI slider for video brightness
 msgid "Brightness"
@@ -18,10 +79,6 @@ msgstr "Ryškumas"
 #. UI option cg_gunbob
 msgid "Enable weapon animation"
 msgstr "Įjungti ginklų animaciją"
-
-#. UI option cg_viewBob, animates view camera on landing from high jumps.
-msgid "Enable view animation"
-msgstr "Įjungti žiūrėjimo animaciją"
 
 msgid "Quick menu"
 msgstr "Greitas meniu"
@@ -46,10 +103,6 @@ msgstr "Atgalinis skaičiavimas"
 #. Match timer option
 msgid "count up"
 msgstr "Skaičiavimas iki"
-
-#. Start page in UI
-msgid "Home"
-msgstr "Namai"
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
@@ -170,7 +223,9 @@ msgstr "Uždaryti"
 msgid "Demo filename"
 msgstr "Įrašo pavadinimas"
 
-#. Please use as short form as possible, 8 symbols max! It's a server browser column header displaying whether the server is ranked (sends your stats to forbidden.gg).
+#. Please use as short form as possible, 8 symbols max! It's a server browser
+#. column header displaying whether the server is ranked (sends your stats to
+#. forbidden.gg).
 msgid "Ranked"
 msgstr "Reitingas"
 
@@ -189,66 +244,116 @@ msgstr "Rezultatų lentelė"
 msgid "Show pressed keys"
 msgstr "Rodyti paspaustus mygtukus"
 
+#. Language selector
+msgid "Language"
+msgstr ""
+
 msgid "Join"
 msgstr "Prisijungti"
 
 #. "Bomb'n'defuse" description
-msgid "Team game mode where in which players join either the attacking team or the defending team. Each team attempts to complete their mission objective, either planting the bomb or defending the bomb site, or eliminate the opposing team."
-msgstr "Komandų žaidimo režimas kuriame žaidėjai prisijungia prie puolėjų arba gynėjų komandos. Abi komandos bando užbaigti jų misijos tikslą, arba padėti bombą, arba apginti bombos dėjimo vietą, arba pašalinti prišingą komandą."
+msgid "Team game mode where in which players join either the attacking team or the "
+"defending team. Each team attempts to complete their mission objective, "
+"either planting the bomb or defending the bomb site, or eliminate the "
+"opposing team."
+msgstr "Komandų žaidimo režimas kuriame žaidėjai prisijungia prie puolėjų arba "
+"gynėjų komandos. Abi komandos bando užbaigti jų misijos tikslą, arba padėti "
+"bombą, arba apginti bombos dėjimo vietą, arba pašalinti prišingą komandą."
 
 #. "Clan Arena" description
-msgid "Team game mode where you aim to eliminate the entire other team before your team dies. Clan Arena has no item pickups, you spawn with all weapons."
-msgstr "Komandų žaidimo režimas kuriame jūs turite siekti pašalinti visą kitą komandą kol nemirė jūsų komanda. Klanų Arena neturi daiktų paėmimų, jūs atsirandate su visais ginklais."
+msgid "Team game mode where you aim to eliminate the entire other team before your "
+"team dies. Clan Arena has no item pickups, you spawn with all weapons."
+msgstr "Komandų žaidimo režimas kuriame jūs turite siekti pašalinti visą kitą "
+"komandą kol nemirė jūsų komanda. Klanų Arena neturi daiktų paėmimų, jūs "
+"atsirandate su visais ginklais."
 
 #. "Capture the Flag" description
-msgid "Team game mode where the goal is to acquire the enemy teams flag and return it to your base."
-msgstr "Komandų žaidimo režimas kuriame tikslas yra pasiekti priešų komandos vėliavą ir gražinti ją į savo bazę."
+msgid "Team game mode where the goal is to acquire the enemy teams flag and return "
+"it to your base."
+msgstr "Komandų žaidimo režimas kuriame tikslas yra pasiekti priešų komandos vėliavą"
+" ir gražinti ją į savo bazę."
 
 #. "Capture the Flag: Tactics" description
-msgid "Capture the Flag with highly specialized classes. This version of CTF needs team co-operation between the classes to win!"
-msgstr "Capture the Flag su labai specializuotomis klasėmis. Šitoje CTF versijoje reikia komandų bendradarbiavimo tarp klasių, kad laimėtumėte."
+msgid "Capture the Flag with highly specialized classes. This version of CTF needs "
+"team co-operation between the classes to win!"
+msgstr "Capture the Flag su labai specializuotomis klasėmis. Šitoje CTF versijoje "
+"reikia komandų bendradarbiavimo tarp klasių, kad laimėtumėte."
 
 #. "Duel Arena" description
-msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished before each round. The winner of the round is challenged by the next player in the queue."
-msgstr "Nugalėti daugumą priešininkų 1-prieš-1 kovoje. Tavo arsenalas yra pilnai papildytas prieš kiekvieną raundą. Raundo laimėtojui yra metamas iššūkis kitam žaidėjui eilėje."
+msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
+"before each round. The winner of the round is challenged by the next player "
+"in the queue."
+msgstr "Nugalėti daugumą priešininkų 1-prieš-1 kovoje. Tavo arsenalas yra pilnai "
+"papildytas prieš kiekvieną raundą. Raundo laimėtojui yra metamas iššūkis "
+"kitam žaidėjui eilėje."
 
 #. "Deathmatch" description
-msgid "The goal of a deathmatch game is to frag as many other players as possible until the time or frag limit is reached."
-msgstr "Deathmatch tikslas yra nužudyti kiek įmanoma daugiau kitų žaidėjų kol nepasibaigė laiko ar rezultato limitas."
+msgid "The goal of a deathmatch game is to frag as many other players as possible "
+"until the time or frag limit is reached."
+msgstr "Deathmatch tikslas yra nužudyti kiek įmanoma daugiau kitų žaidėjų kol "
+"nepasibaigė laiko ar rezultato limitas."
 
 #. "Duel" description
-msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a draw there will be added 120 seconds overtime. The player who does the most frags wins the map."
-msgstr "Dvikova yra 1 prieš 1 žaidimo režimas. Standartinės varžybos tęsiasi 10 minučių, jeigu yra lygiosios, tai bus pridėta 120 sekundžių viršvalandžių. Žaidėjas kuris turi daugiausia nužudymų laimi žemėlapį."
+msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a "
+"draw there will be added 120 seconds overtime. The player who does the most "
+"frags wins the map."
+msgstr "Dvikova yra 1 prieš 1 žaidimo režimas. Standartinės varžybos tęsiasi 10 "
+"minučių, jeigu yra lygiosios, tai bus pridėta 120 sekundžių viršvalandžių. "
+"Žaidėjas kuris turi daugiausia nužudymų laimi žemėlapį."
 
 #. "Free for All" description
-msgid "The goal of a FFA game is to frag as many other players as possible until the time or frag limit is reached. Unlike in DM, you spawn with weapons and ammunition."
-msgstr "FFA žaidimo tikslas yra nužudyti kiek įmanoma daugiau kitų žaidėjų kol nepasibaigė laiko ar rezultato limitas. Skirtingai nuo DM, jūs atsirandate su ginklais ir amunicija."
+msgid "The goal of a FFA game is to frag as many other players as possible until "
+"the time or frag limit is reached. Unlike in DM, you spawn with weapons and "
+"ammunition."
+msgstr "FFA žaidimo tikslas yra nužudyti kiek įmanoma daugiau kitų žaidėjų kol "
+"nepasibaigė laiko ar rezultato limitas. Skirtingai nuo DM, jūs atsirandate "
+"su ginklais ir amunicija."
 
 #. "Headhunt" description
-msgid "Game mode where one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. The person who frags the tagged player, becomes tagged."
-msgstr "Žaidimo rėžimas kur vienas žaidėjas yra pažymėtas ir visi kita žaidėjai bando nužudyti pažymėtą žaidėją. Pažymėtas žaidėjas gauna taškų už kiekvieną sekundę kol išlieka gyvas. Asmuo, kuris nužudo pažymėtą žaidėją, būna pažymėtas."
+msgid "Game mode where one player is tagged and all other players attempt to frag "
+"the tagged player. Tagged player gets score for each second he/she stays "
+"alive. The person who frags the tagged player, becomes tagged."
+msgstr "Žaidimo rėžimas kur vienas žaidėjas yra pažymėtas ir visi kita žaidėjai "
+"bando nužudyti pažymėtą žaidėją. Pažymėtas žaidėjas gauna taškų už kiekvieną"
+" sekundę kol išlieka gyvas. Asmuo, kuris nužudo pažymėtą žaidėją, būna "
+"pažymėtas."
 
 #. "Race" description
-msgid "The goal of the race game mode is to finish the map or sector as quickly as possible!"
-msgstr "Lenktynių žaidimo tikslas yra užbaigti žemėlapį ar sektorių kaip galima greičiau!"
+msgid "The goal of the race game mode is to finish the map or sector as quickly as "
+"possible!"
+msgstr "Lenktynių žaidimo tikslas yra užbaigti žemėlapį ar sektorių kaip galima "
+"greičiau!"
 
 #. "Team Deathmatch" description
-msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as many players of the opposing team as possible until the time or frag limit is reached."
-msgstr "Komanda-prieš-komanda žaidimo tipas. Team deathmatch žaidimo tikslas nužudyti kiek įmanoma daugiau kitų komandos žaidėjų kol nepasibaigė laiko ar rezultato limitas."
+msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as "
+"many players of the opposing team as possible until the time or frag limit "
+"is reached."
+msgstr "Komanda-prieš-komanda žaidimo tipas. Team deathmatch žaidimo tikslas "
+"nužudyti kiek įmanoma daugiau kitų komandos žaidėjų kol nepasibaigė laiko ar"
+" rezultato limitas."
 
-#. "Team Domination" description. Different areas = map places = objects. those areas are indicated. Once any team gets control over 3 areas - it gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
-msgid "Team based game mode where teams attempt to gain control of three different areas in the map. The team who gains control of all three objects, wins the round."
-msgstr "Komandomis remiantis žaidimo tipas, kur komandos bando gauti triejų skirtingų plotų kontrolę žemėlapyje. Komanda, kuri gauna visų triejų objektų kontrolę, laimi raundą."
+#. "Team Domination" description. Different areas = map places = objects.
+#. those areas are indicated. Once any team gets control over 3 areas - it
+#. gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
+msgid "Team based game mode where teams attempt to gain control of three different "
+"areas in the map. The team who gains control of all three objects, wins the "
+"round."
+msgstr "Komandomis remiantis žaidimo tipas, kur komandos bando gauti triejų "
+"skirtingų plotų kontrolę žemėlapyje. Komanda, kuri gauna visų triejų objektų"
+" kontrolę, laimi raundą."
 
 msgid "Open chat"
 msgstr "Atidaryti čatą"
 
-msgid "The game server is suggesting you can watch this match on WarforkTV. Do you agree?"
+msgid "The game server is suggesting you can watch this match on WarforkTV. Do you "
+"agree?"
 msgstr "Žaidimo server siūlo žiūrėti šias rungtynes per WarforkTV. Ar sutinkate?"
 
 #. %s - hostname, ip:port, time
-msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s seconds..."
-msgstr "Jus busite automatiškai prijungtas prie WarforkTV serverio \"%s\" %s po %s sekundžių..."
+msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s "
+"seconds..."
+msgstr "Jus busite automatiškai prijungtas prie WarforkTV serverio \"%s\" %s po %s "
+"sekundžių..."
 
 #. This option enables movement with +forward bunny hopping aka newmovement
 msgid "Acceleration on forward jumping"
@@ -257,6 +362,14 @@ msgstr "Akceleracija kai šokinėji į priekį"
 #. Toggles autohop possibility while pressing +moveup
 msgid "Disable autohop"
 msgstr "Išjungti automatišką šokinėjimą"
+
+#. UI option for cg_viewBob, animates view camera on landing from high jumps.
+msgid "Enable view animation"
+msgstr "Įjungti žiūrėjimo animaciją"
+
+#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
+msgid "Show cartoon hit effect"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
@@ -298,7 +411,8 @@ msgstr "Sukeisti gamepad lazdeles"
 msgid "Chat message sound"
 msgstr "Chat'inimo žinutės garsas"
 
-#. Toggles possibility to play ingame sounds while its window is unfocused or minimized
+#. Toggles possibility to play ingame sounds while its window is unfocused or
+#. minimized
 msgid "Keep playing sounds in background"
 msgstr "Nuolat leisti garsus fone"
 
@@ -354,8 +468,10 @@ msgid "Use the selected color for all players"
 msgstr "Naudoti pasirinktą spalvą visiems žaidėjams"
 
 #. "Tutorial" gametype description
-msgid "Game mode which provides hints on basic Warfork movements and allows the player to play a duel match against an AI-controlled opponent."
-msgstr "Žaidimo tipas kuris suteikia patarimų apie pagrindinius Warfork judėjimus ir leidžia žaidėjui žaisti dvikovą prieš AI-kontroliuojamą priešininką."
+msgid "Game mode which provides hints on basic Warfork movements and allows the "
+"player to play a duel match against an AI-controlled opponent."
+msgstr "Žaidimo tipas kuris suteikia patarimų apie pagrindinius Warfork judėjimus ir"
+" leidžia žaidėjui žaisti dvikovą prieš AI-kontroliuojamą priešininką."
 
 msgid "Don't ask me again"
 msgstr "Neklausti dar kartą"
@@ -370,8 +486,10 @@ msgstr "Jūs ketinate pradėti Warfork pamokymo etapą. Tęsti?"
 msgid "Welcome to Warfork!"
 msgstr "Sveiki atvykę į Warfork!"
 
-msgid "Perhaps you would like to learn the basics of the gameplay and test your combat skills on our tutorial?"
-msgstr "Galbūt jūs norėtumėte išmokti žaidimo pagrindų ir išmėginti jūsų kovojimo įgūdžius mūsų pamokymuose?"
+msgid "Perhaps you would like to learn the basics of the gameplay and test your "
+"combat skills on our tutorial?"
+msgstr "Galbūt jūs norėtumėte išmokti žaidimo pagrindų ir išmėginti jūsų kovojimo "
+"įgūdžius mūsų pamokymuose?"
 
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
@@ -385,23 +503,11 @@ msgstr "Pamiršote savo slaptažodį?"
 msgid "Race"
 msgstr "Lenktynės"
 
-msgid "News"
-msgstr "Naujienos"
-
-msgid "New Game"
-msgstr "Naujas žaidimas"
-
 msgid "Profile"
 msgstr "Profilis"
 
 msgid "Chat"
 msgstr "Čatas"
-
-msgid "Options"
-msgstr "Nustatymai"
-
-msgid "Quit"
-msgstr "Išeiti"
 
 msgid "Player"
 msgstr "Žaidėjas"
@@ -449,6 +555,7 @@ msgstr "Ginklo pozicija"
 msgid "default"
 msgstr "numatytasis"
 
+#. gun position
 msgid "right"
 msgstr "dešineje"
 
@@ -456,6 +563,7 @@ msgstr "dešineje"
 msgid "left"
 msgstr "kaireje"
 
+#. gun position
 msgid "center"
 msgstr "centre"
 
@@ -468,9 +576,12 @@ msgstr "Matymo laukas naudojant priartinimą"
 msgid "Simple items"
 msgstr "Supaprastinti daiktai"
 
-msgid "Show teammates' names"
-msgstr "Rodyti komandos narių vardus"
+#. Shows indicators at the top of the teammates, even if they are not visible
+#. through the walls
+msgid "Show teammates' indicators"
+msgstr ""
 
+#. Shows help messages at the top of the screen in-game
 msgid "Show help"
 msgstr "Rodyti pagalbą"
 
@@ -478,7 +589,7 @@ msgid "Show weapon model"
 msgstr "Rodyti ginklo modelį"
 
 msgid "Show minimap"
-msgstr " Rodyti Mini-žemėlapį"
+msgstr "Rodyti Mini-žemėlapį"
 
 msgid "Show FPS counter"
 msgstr "Rodyti FPS"
@@ -498,12 +609,6 @@ msgstr "Ekrano nuorauka po varžybų"
 msgid "Save match stats"
 msgstr "Išsaugoti varžybų statistiką"
 
-msgid "Alpha"
-msgstr "Alfa"
-
-msgid "Beta"
-msgstr "Beta"
-
 msgid "Players"
 msgstr "Žaidėjai"
 
@@ -513,6 +618,8 @@ msgstr "Komandos narių nustatymai"
 msgid "Fullbright skin"
 msgstr "Ryški oda"
 
+#. Forces your color and model to the one that team Forbidden has, "FORBIDDEN"
+#. shouldn't be translated
 msgid "Force your team as FORBIDDEN"
 msgstr "Priversti savo komandą kaip FORBIDDEN"
 
@@ -588,8 +695,8 @@ msgstr "Efektų garsumas"
 msgid "Announcer volume"
 msgstr "Pranešėjo garsumas"
 
-msgid "Voice chat volume"
-msgstr "Balso pokalbių garsumas"
+msgid "Voice commands volume"
+msgstr ""
 
 msgid "Hit sounds volume"
 msgstr "Pataikymo garsų garsumas"
@@ -606,8 +713,8 @@ msgstr "Veiksmai"
 msgid "Weapons"
 msgstr "Ginklai"
 
-msgid "Voice chat"
-msgstr "Balso pokalbiai"
+msgid "Voice commands"
+msgstr ""
 
 msgid "Saved"
 msgstr "Išsaugota"
@@ -682,8 +789,10 @@ msgstr "Komandos čatas"
 msgid "Login to forbidden.gg"
 msgstr "Prisijungimas prie forbidden.gg"
 
-msgid "Login with your forbidden.gg account to save your statistics and match results."
-msgstr "Prisijungite prie forbidden.gg, kad galėtumėte išsaugoti statistiką ir varžybų rezultatus."
+msgid "Login with your forbidden.gg account to save your statistics and match "
+"results."
+msgstr "Prisijungite prie forbidden.gg, kad galėtumėte išsaugoti statistiką ir "
+"varžybų rezultatus."
 
 msgid "Don't have an account?"
 msgstr "Neturite paskyros?"
@@ -730,8 +839,8 @@ msgstr "Žaidimo tipas"
 msgid "Match browser"
 msgstr "Rungtynių naršyklė"
 
-msgid "Local game"
-msgstr "Vietinis žaidimas"
+msgid "Host game"
+msgstr ""
 
 msgid "Demo browser"
 msgstr "Demo naršyklė"
@@ -865,7 +974,8 @@ msgstr "Žaidimo meniu"
 msgid "Call a vote"
 msgstr "Pradėti balsavimą"
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam"
 msgstr "Persekioti"
 
@@ -896,7 +1006,8 @@ msgstr "Serveris buvo išjungtas"
 msgid "Server restarted"
 msgstr "Serveris persikrovė"
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam mode"
 msgstr "Persekiojimo vaizdo režimas"
 
@@ -947,18 +1058,23 @@ msgstr "Pasirinkti nešiotoją"
 msgid "Carrier opt-out"
 msgstr "Atsisakyti nešiotojo"
 
+#. Selects classes in CTF Tactics
 msgid "Select class"
 msgstr "Pasirinkti kategoriją"
 
+#. CTF Tactics class
 msgid "Grunt"
 msgstr "Pėstininkas"
 
+#. CTF Tactics class
 msgid "Medic"
 msgstr "Medikas"
 
+#. CTF Tactics class
 msgid "Runner"
 msgstr "Bėgikas"
 
+#. CTF Tactics class
 msgid "Engineer"
 msgstr "Enžinierius"
 
@@ -1118,9 +1234,6 @@ msgstr "Siunčiama %s iš serverio %s k/s greičiu"
 msgid "Downloading %s from the web at %s k/s"
 msgstr "Siunčiama %s iš tinklalapio %s k/s greičiu"
 
-msgid "Play"
-msgstr "Žaisti"
-
 msgid "Reload"
 msgstr "Perkrauti"
 
@@ -1133,3 +1246,159 @@ msgstr "Ieškoma žaidimo serverių..."
 msgid "Browse servers manually"
 msgstr "Naršyti po serverius rankiniu būdu"
 
+#. Award: On Fire!
+msgid "Get 5 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: God Mode!
+msgid "Get 25 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: Mega-Health Control!
+msgid "Keep the Mega Health under your control"
+msgstr ""
+
+#. Award: Triple Frag!
+msgid "Frag an opponent 3 times in a short time frame"
+msgstr ""
+
+#. Award: Direct Grenade Hit!
+msgid "Hit an opponent directly with a grenade a few times"
+msgstr ""
+
+#. Award: Last Call Defuse!
+msgid "Defuse the bomb at the last second"
+msgstr ""
+
+#. Award: Flag Recovery!
+msgid "Recover your flag from the opponent carrying it"
+msgstr ""
+
+#. Award: Extermination!
+msgid "Get 20 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: Air Grenade!
+msgid "Frag an opponent in mid-air with a grenade"
+msgstr ""
+
+#. Award: Raging!
+msgid "Get 10 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: Win 1000 matches
+msgid "Congratulations! You have won 1000 matches!"
+msgstr ""
+
+#. Award: Quadruple Frag!
+msgid "Frag an opponent 4 times in a short time frame"
+msgstr ""
+
+#. Award: Flag Defense!
+msgid "Defend your flag or flag carrier"
+msgstr ""
+
+#. Award: Player of the Match!
+msgid "Score more points than other players and receive the \"Fair Play\" award in "
+"a single match"
+msgstr ""
+
+#. Award: Air Rocket!
+msgid "Frag an opponent in mid-air with a rocket"
+msgstr ""
+
+#. Award: Bomb Planted!
+msgid "Plant the bomb at a bomb site"
+msgstr ""
+
+#. Award: Win 100 matches
+msgid "Wow! You have won 100 matches!"
+msgstr ""
+
+#. Award: Fair Play!
+msgid "Show respect to your opponents during the post-match intermission"
+msgstr ""
+
+#. Award: Play 1000 matches
+msgid "Wow! You have played 1000 matches!"
+msgstr ""
+
+#. Award: Play 500 matches
+msgid "Wow! You have played 500 matches!"
+msgstr ""
+
+#. Award: Ninja Defuse!
+msgid "Defuse the bomb without being seen by the opponent"
+msgstr ""
+
+#. Award: Direct Rocket Hit!
+msgid "Hit an opponent directly with a rocket a few times"
+msgstr ""
+
+#. Award: Win 250 matches
+msgid "Congratulations! You have won 250 matches!"
+msgstr ""
+
+#. Award: King of Bongo!
+msgid "Frag the entire opposing team in Bomb and Defuse"
+msgstr ""
+
+#. Award: Fast Plant!
+msgid "Plant the bomb within 10 seconds"
+msgstr ""
+
+#. Award: Bomb Carrier Frag!
+msgid "Frag the bomb-carrying opponent"
+msgstr ""
+
+#. Award: Meep Meep!
+msgid "Frag an opponent while moving at high speed"
+msgstr ""
+
+#. Award: Double Frag!
+msgid "Frag an opponent 2 times in a short time frame"
+msgstr ""
+
+#. Award: Fraglord!
+msgid "Get 15 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: Win 500 matches
+msgid "Congratulations! You have won 500 matches!"
+msgstr ""
+
+#. Award: Coyote Wins!
+msgid "Frag a fast-moving opponent"
+msgstr ""
+
+#. Award: Play 100 matches
+msgid "Wow! You have played 100 matches!"
+msgstr ""
+
+#. Award: Play 250 matches
+msgid "Wow! You have played 250 matches!"
+msgstr ""
+
+#. Award: Bomb Defused!
+msgid "Defuse the bomb"
+msgstr ""
+
+#. Award: Quakenet Exclusive!
+msgid "Register to Warfork during QuakeNet launch event"
+msgstr ""
+
+#. Award: Accuracy!
+msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
+msgstr ""
+
+#. Award: Flag Carrier Frag!
+msgid "Frag the opponent who has your flag"
+msgstr ""
+
+#. Award: Red Armor Control!
+msgid "Keep the Red Armor under your control"
+msgstr ""
+
+#. Award: First Frag!
+msgid "Score the first frag for your team in the match"
+msgstr ""

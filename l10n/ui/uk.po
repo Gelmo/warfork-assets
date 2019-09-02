@@ -1,15 +1,42 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:14+0000\n"
-"PO-Revision-Date: 2016-04-03 16:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: uk\n"
+"POT-Creation-Date: 2016-12-05 19:41+0000\n"
+"PO-Revision-Date: 2019-08-28 19:43+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Ukrainian (https://www.transifex.com/team-forbidden-llc/teams/102732/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#. Start/home page top button
+msgid "Home"
+msgstr "Головна"
+
+#. Top button
+msgid "Play"
+msgstr "Грати"
+
+#. Top button
+msgid "Options"
+msgstr "Опції"
+
+#. Top button
+msgid "Quit"
+msgstr "Вихід"
+
+msgid "Please join us on Discord (link below) to participate in pickup games, game "
+"discussion, and more!"
+msgstr ""
+
+msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
+"Chasseur de Bots."
+msgstr ""
 
 msgid "Restart race"
 msgstr "Перезапустити гонку"
@@ -35,208 +62,50 @@ msgstr "Завантажити збережену позицію"
 msgid "Clear saved position"
 msgstr "Очистити збережену позицію"
 
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Заробіть 5 фрагів протягом одного життя"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Заробіть 25 фрагів протягом одного життя"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Постійно підбирайте Мегаздоров'я"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "Фрагніте суперника 3 рази за короткий проміжок часу"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "Потрапте пару раз гранатою прямо в суперника"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "Знешкодити бомбу на останній секунді"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "Приберіть свій прапор у суперника"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Заробіть 20 фрагів протягом одного життя"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Потрапте гранатою в суперника, що знаходиться в повітрі"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Заробіть 10 фрагів протягом одного життя"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Вітаємо! Ви здобули перемогу в 1000 матчах!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "Фрагніте суперника 4 рази за короткий проміжок часу"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "Захистіть свій прапор і переносника прапора"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in a single match"
-msgstr "Заробіть найбільше очок і отримай нагороду \"Fair Play\""
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "Потрапте ракетою в суперника, що знаходиться в повітрі"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "Встановіть бомбу в одній з двох точок суперника"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "Ого! Ви стали переможцем в 100 матчах!"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "Проявіть повагу до суперника після закінчення матчу"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "Браво! Ви виграли 1000 матчів!"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "Відмінно! Ви виграли 500 матчів!"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "Обезвредьте бомбу непомітно для суперника"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "Потрапте кілька разів ракетою прямо в суперника"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Вітаємо! Ви перемогли в 250 матчах!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Фрагніте всіх гравців з ворожої команди в режимі Bomb and Defuse"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Встановіть бомбу протягом 10 секунд"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Фрагніте переносника бомби з ворожої команди"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "Фрагніте суперника на високій швидкості"
-
 #. Touch devices intro text
-msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your device as shown in the picture, with four of your fingers in front of the screen, to make sure you can perform movement tricks, aim and fire at the same time."
-msgstr "Warfork вимагає швидких дій і реакції. Під час гри тримайте свій пристрій, як показано на зображенні, те щоб чотири ваших пальця перебували перед екраном, і ви могли використовувати прийоми пересування, прицілюватися і стріляти одночасно."
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "Фрагніте суперника 2 рази за короткий проміжок часу"
+msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your"
+" device as shown in the picture, with four of your fingers in front of the "
+"screen, to make sure you can perform movement tricks, aim and fire at the "
+"same time."
+msgstr "Warfork вимагає швидких дій і реакції. Під час гри тримайте свій пристрій, "
+"як показано на зображенні, те щоб чотири ваших пальця перебували перед "
+"екраном, і ви могли використовувати прийоми пересування, прицілюватися і "
+"стріляти одночасно."
 
 msgid "View match info"
 msgstr "Статистика матчу"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Заробіть 15 фрагів протягом одного життя"
 
 #. UI slider for video brightness
 msgid "Brightness"
 msgstr "Яскравість"
 
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Вітаємо! Ви закінчили 500 матчів з перемогою!"
-
 #. UI option cg_gunbob
 msgid "Enable weapon animation"
 msgstr "Включити анімацію зброї"
 
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Фрагніте мчить суперника"
-
-#. UI option cg_viewBob, animates view camera on landing from high jumps.
-msgid "Enable view animation"
-msgstr "Анімація камери при приземленні"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "Чудово! Ви вже зіграли 100 матчів!"
-
 msgid "Quick menu"
 msgstr "Гаряче меню"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "Здорово! Ви підкорили позначку в 250 матчів!"
 
 msgid "Version %s of %s is available."
 msgstr "Доступна версія оновлення %s для %s."
 
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Знешкодить бомбу"
-
 msgid "Click OK for more information."
 msgstr "Натисніть ОК для отримання більш докладної інформації."
 
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr "Увійдіть в Warfork під час старту роботи QuakeNet"
-
 msgid "Open in browser"
 msgstr "Відкрити в браузері"
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "Потрапте 3 рази без промаху з Електроболта або Інстагана"
 
 #. HUD option
 msgid "Match timer"
 msgstr "Таймер матчу"
 
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Фрагніте суперника, який вкрав твій прапор"
-
 #. Match timer option
 msgid "count down"
 msgstr "зворотний відлік"
 
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "Підбирайте червону броню, не віддаючи її ворогові"
-
 #. Match timer option
 msgid "count up"
 msgstr "прямий відлік"
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr "Заробіть перший фраг в матчі для своєї команди"
-
-#. Start page in UI
-msgid "Home"
-msgstr "Головна"
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
@@ -357,7 +226,9 @@ msgstr "Закрити"
 msgid "Demo filename"
 msgstr "Назва файлу демо"
 
-#. Please use as short form as possible, 8 symbols max! It's a server browser column header displaying whether the server is ranked (sends your stats to forbidden.gg).
+#. Please use as short form as possible, 8 symbols max! It's a server browser
+#. column header displaying whether the server is ranked (sends your stats to
+#. forbidden.gg).
 msgid "Ranked"
 msgstr "Ранговий"
 
@@ -376,66 +247,116 @@ msgstr "Таблиця результатів"
 msgid "Show pressed keys"
 msgstr "Показувати натиснуті клавіші"
 
+#. Language selector
+msgid "Language"
+msgstr "Мова"
+
 msgid "Join"
 msgstr "Приєднатися"
 
 #. "Bomb'n'defuse" description
-msgid "Team game mode where in which players join either the attacking team or the defending team. Each team attempts to complete their mission objective, either planting the bomb or defending the bomb site, or eliminate the opposing team."
-msgstr "Командний режим, в якому гравці приєднуються до атакуючої або такої, що обороняється сторони. Мета кожної із сторін - знищити усіх гравців протилежної сторони або виконати свою місію шляхом підривання або знешкодження бомби."
+msgid "Team game mode where in which players join either the attacking team or the "
+"defending team. Each team attempts to complete their mission objective, "
+"either planting the bomb or defending the bomb site, or eliminate the "
+"opposing team."
+msgstr "Командний режим, в якому гравці приєднуються до атакуючої або такої, що "
+"обороняється сторони. Мета кожної із сторін - знищити усіх гравців "
+"протилежної сторони або виконати свою місію шляхом підривання або "
+"знешкодження бомби."
 
 #. "Clan Arena" description
-msgid "Team game mode where you aim to eliminate the entire other team before your team dies. Clan Arena has no item pickups, you spawn with all weapons."
-msgstr "Командний режим, де кожна із сторін намагається виграти раунд шляхом знищення усіх гравців іншої сторони. На початку кожного раунду гравці респаунятся з повним арсеналом зброї. На карті відсутні які-небудь предмети для підбору."
+msgid "Team game mode where you aim to eliminate the entire other team before your "
+"team dies. Clan Arena has no item pickups, you spawn with all weapons."
+msgstr "Командний режим, де кожна із сторін намагається виграти раунд шляхом "
+"знищення усіх гравців іншої сторони. На початку кожного раунду гравці "
+"респаунятся з повним арсеналом зброї. На карті відсутні які-небудь предмети "
+"для підбору."
 
 #. "Capture the Flag" description
-msgid "Team game mode where the goal is to acquire the enemy teams flag and return it to your base."
-msgstr "Режим, в якому гравці розбиваються на дві команди, намагаються захопити прапор супротивника і принести його до свого прапора, щоб отримати окуляри."
+msgid "Team game mode where the goal is to acquire the enemy teams flag and return "
+"it to your base."
+msgstr "Режим, в якому гравці розбиваються на дві команди, намагаються захопити "
+"прапор супротивника і принести його до свого прапора, щоб отримати окуляри."
 
 #. "Capture the Flag: Tactics" description
-msgid "Capture the Flag with highly specialized classes. This version of CTF needs team co-operation between the classes to win!"
-msgstr "Режим, в якому гравці розбиваються на дві команди, намагаються захопити прапор супротивника і принести його до свого прапора, щоб отримати окуляри. Кожен гравець може вибрати один з чотирьох доступних класів."
+msgid "Capture the Flag with highly specialized classes. This version of CTF needs "
+"team co-operation between the classes to win!"
+msgstr "Режим, в якому гравці розбиваються на дві команди, намагаються захопити "
+"прапор супротивника і принести його до свого прапора, щоб отримати окуляри. "
+"Кожен гравець може вибрати один з чотирьох доступних класів."
 
 #. "Duel Arena" description
-msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished before each round. The winner of the round is challenged by the next player in the queue."
-msgstr "Поєдинок між двома гравцями. На початку кожного раунду гравці отримують повний арсенал зброї. Переможець раунду зустрічається з наступним гравцем з черги."
+msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
+"before each round. The winner of the round is challenged by the next player "
+"in the queue."
+msgstr "Поєдинок між двома гравцями. На початку кожного раунду гравці отримують "
+"повний арсенал зброї. Переможець раунду зустрічається з наступним гравцем з "
+"черги."
 
 #. "Deathmatch" description
-msgid "The goal of a deathmatch game is to frag as many other players as possible until the time or frag limit is reached."
-msgstr "Метою цього режиму є отримання фрагов за допомогою знищення інших гравців за обмежений час або до набору певної кількості фрагов."
+msgid "The goal of a deathmatch game is to frag as many other players as possible "
+"until the time or frag limit is reached."
+msgstr "Метою цього режиму є отримання фрагов за допомогою знищення інших гравців за"
+" обмежений час або до набору певної кількості фрагов."
 
 #. "Duel" description
-msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a draw there will be added 120 seconds overtime. The player who does the most frags wins the map."
-msgstr "Поєдинок між двома суперниками. Виграє гравець, що набрав найбільшу кількість фрагов за обмежений проміжок часу — звичайно 10 хвилин."
+msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a "
+"draw there will be added 120 seconds overtime. The player who does the most "
+"frags wins the map."
+msgstr "Поєдинок між двома суперниками. Виграє гравець, що набрав найбільшу "
+"кількість фрагов за обмежений проміжок часу — звичайно 10 хвилин."
 
 #. "Free for All" description
-msgid "The goal of a FFA game is to frag as many other players as possible until the time or frag limit is reached. Unlike in DM, you spawn with weapons and ammunition."
-msgstr "Метою цього режиму є отримання фрагов за допомогою знищення інших гравців за обмежений час або до набору певної кількості фрагов. Гравці отримують все зброї при респауне, а на карті є тільки патрони до них."
+msgid "The goal of a FFA game is to frag as many other players as possible until "
+"the time or frag limit is reached. Unlike in DM, you spawn with weapons and "
+"ammunition."
+msgstr "Метою цього режиму є отримання фрагов за допомогою знищення інших гравців за"
+" обмежений час або до набору певної кількості фрагов. Гравці отримують все "
+"зброї при респауне, а на карті є тільки патрони до них."
 
 #. "Headhunt" description
-msgid "Game mode where one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. The person who frags the tagged player, becomes tagged."
-msgstr "Режим, в якому одному з гравців дістається роль \"міченого\", а інші гравці намагаються знищити його. З часом \"мічений\", залишаючись в живих, отримує очко за кожну секунду. Гравець знищив \"міченого\", сам стає ним."
+msgid "Game mode where one player is tagged and all other players attempt to frag "
+"the tagged player. Tagged player gets score for each second he/she stays "
+"alive. The person who frags the tagged player, becomes tagged."
+msgstr "Режим, в якому одному з гравців дістається роль \"міченого\", а інші гравці "
+"намагаються знищити його. З часом \"мічений\", залишаючись в живих, отримує "
+"очко за кожну секунду. Гравець знищив \"міченого\", сам стає ним."
 
 #. "Race" description
-msgid "The goal of the race game mode is to finish the map or sector as quickly as possible!"
-msgstr "Метою цього режиму є швидкісне проходження карт або ділянок. Переможцем є гравець, що досяг фінішу за найменший час."
+msgid "The goal of the race game mode is to finish the map or sector as quickly as "
+"possible!"
+msgstr "Метою цього режиму є швидкісне проходження карт або ділянок. Переможцем є "
+"гравець, що досяг фінішу за найменший час."
 
 #. "Team Deathmatch" description
-msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as many players of the opposing team as possible until the time or frag limit is reached."
-msgstr "Режим, де гравці розбиваються на команди і змагаються в командному заліку по загальній кількості фрагов, набраному за певний проміжок часу, або по досягненню ліміту фрагов."
+msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as "
+"many players of the opposing team as possible until the time or frag limit "
+"is reached."
+msgstr "Режим, де гравці розбиваються на команди і змагаються в командному заліку по"
+" загальній кількості фрагов, набраному за певний проміжок часу, або по "
+"досягненню ліміту фрагов."
 
-#. "Team Domination" description. Different areas = map places = objects. those areas are indicated. Once any team gets control over 3 areas - it gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
-msgid "Team based game mode where teams attempt to gain control of three different areas in the map. The team who gains control of all three objects, wins the round."
-msgstr "Командний режим, в якому кожна із сторін намагається захопити контроль трьома певними областями карти з метою перемоги в раунді."
+#. "Team Domination" description. Different areas = map places = objects.
+#. those areas are indicated. Once any team gets control over 3 areas - it
+#. gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
+msgid "Team based game mode where teams attempt to gain control of three different "
+"areas in the map. The team who gains control of all three objects, wins the "
+"round."
+msgstr "Командний режим, в якому кожна із сторін намагається захопити контроль "
+"трьома певними областями карти з метою перемоги в раунді."
 
 msgid "Open chat"
 msgstr "Відкрити чат"
 
-msgid "The game server is suggesting you can watch this match on WarforkTV. Do you agree?"
+msgid "The game server is suggesting you can watch this match on WarforkTV. Do you "
+"agree?"
 msgstr "Ігровий сервер пропонує подивитися цей матч на WarforkTV. Ви згодні?"
 
 #. %s - hostname, ip:port, time
-msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s seconds..."
-msgstr "Ви будете автоматично перенаправлені на сервер WarforkTV \\\"%s\\\", %s через %s з..."
+msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s "
+"seconds..."
+msgstr "Ви будете автоматично перенаправлені на сервер WarforkTV \\\"%s\\\", %s "
+"через %s з..."
 
 #. This option enables movement with +forward bunny hopping aka newmovement
 msgid "Acceleration on forward jumping"
@@ -444,6 +365,14 @@ msgstr "Прискорення при стрибках вперед"
 #. Toggles autohop possibility while pressing +moveup
 msgid "Disable autohop"
 msgstr "Відключити автоприжкі"
+
+#. UI option for cg_viewBob, animates view camera on landing from high jumps.
+msgid "Enable view animation"
+msgstr "Анімація камери при приземленні"
+
+#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
+msgid "Show cartoon hit effect"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
@@ -485,7 +414,8 @@ msgstr "Обміняти місцями міні-джойстики"
 msgid "Chat message sound"
 msgstr "Звук повідомлення в чаті"
 
-#. Toggles possibility to play ingame sounds while its window is unfocused or minimized
+#. Toggles possibility to play ingame sounds while its window is unfocused or
+#. minimized
 msgid "Keep playing sounds in background"
 msgstr "Програвати звуки, якщо вікно в тлі"
 
@@ -541,8 +471,10 @@ msgid "Use the selected color for all players"
 msgstr "Використовувати вибраний колір для всіх гравців"
 
 #. "Tutorial" gametype description
-msgid "Game mode which provides hints on basic Warfork movements and allows the player to play a duel match against an AI-controlled opponent."
-msgstr "Навчальний режим гри, що надає підказки по базовим рухам у грі, а так само дозволяє зіграти дуель проти бота."
+msgid "Game mode which provides hints on basic Warfork movements and allows the "
+"player to play a duel match against an AI-controlled opponent."
+msgstr "Навчальний режим гри, що надає підказки по базовим рухам у грі, а так само "
+"дозволяє зіграти дуель проти бота."
 
 msgid "Don't ask me again"
 msgstr "Більше не питати"
@@ -552,13 +484,16 @@ msgid "Gameplay tutorial"
 msgstr "Пройти навчання"
 
 msgid "You are about to launch the tutorial stage of Warfork. Continue?"
-msgstr "Ви збираєтеся запустити рівень, навчальний основам Warfork. Продовжити?"
+msgstr ""
+"Ви збираєтеся запустити рівень, навчальний основам Warfork. Продовжити?"
 
 msgid "Welcome to Warfork!"
 msgstr "Ласкаво просимо в Warfork!"
 
-msgid "Perhaps you would like to learn the basics of the gameplay and test your combat skills on our tutorial?"
-msgstr "Можливо ви хочете вивчити основи гри і перевірити свої сили на нашому навчальному рівні?"
+msgid "Perhaps you would like to learn the basics of the gameplay and test your "
+"combat skills on our tutorial?"
+msgstr "Можливо ви хочете вивчити основи гри і перевірити свої сили на нашому "
+"навчальному рівні?"
 
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
@@ -572,23 +507,11 @@ msgstr "Забули свій пароль?"
 msgid "Race"
 msgstr "Гонка"
 
-msgid "News"
-msgstr "Новини"
-
-msgid "New Game"
-msgstr "Нова гра"
-
 msgid "Profile"
 msgstr "Профіль"
 
 msgid "Chat"
 msgstr "Чат"
-
-msgid "Options"
-msgstr "Опції"
-
-msgid "Quit"
-msgstr "Вихід"
 
 msgid "Player"
 msgstr "Гравець"
@@ -636,6 +559,7 @@ msgstr "Положення зброї"
 msgid "default"
 msgstr "за замовчуванням"
 
+#. gun position
 msgid "right"
 msgstr "праворуч"
 
@@ -643,6 +567,7 @@ msgstr "праворуч"
 msgid "left"
 msgstr "ліворуч"
 
+#. gun position
 msgid "center"
 msgstr "по центру"
 
@@ -655,9 +580,12 @@ msgstr "Кут огляду при збільшенні"
 msgid "Simple items"
 msgstr "Прості предмети"
 
-msgid "Show teammates' names"
-msgstr "Показувати імена членів команди"
+#. Shows indicators at the top of the teammates, even if they are not visible
+#. through the walls
+msgid "Show teammates' indicators"
+msgstr ""
 
+#. Shows help messages at the top of the screen in-game
 msgid "Show help"
 msgstr "Показувати підказки"
 
@@ -685,12 +613,6 @@ msgstr "Робити скріншот в кінці матчу"
 msgid "Save match stats"
 msgstr "Зберігати статистику матчу"
 
-msgid "Alpha"
-msgstr "Альфа"
-
-msgid "Beta"
-msgstr "Бета"
-
 msgid "Players"
 msgstr "Гравці"
 
@@ -700,6 +622,8 @@ msgstr "Налаштування вигляду гравців"
 msgid "Fullbright skin"
 msgstr "Полнояскравий скін"
 
+#. Forces your color and model to the one that team Forbidden has, "FORBIDDEN"
+#. shouldn't be translated
 msgid "Force your team as FORBIDDEN"
 msgstr "Завжди використовувати модель FORBIDDEN для союзників"
 
@@ -775,8 +699,8 @@ msgstr "Гучність звукових ефектів"
 msgid "Announcer volume"
 msgstr "Гучність коментатора"
 
-msgid "Voice chat volume"
-msgstr "Гучність голосового чату"
+msgid "Voice commands volume"
+msgstr ""
 
 msgid "Hit sounds volume"
 msgstr "Гучність влучень в ціль"
@@ -793,8 +717,8 @@ msgstr "Дії"
 msgid "Weapons"
 msgstr "Зброя"
 
-msgid "Voice chat"
-msgstr "Голосовий чат"
+msgid "Voice commands"
+msgstr ""
 
 msgid "Saved"
 msgstr "Збережено"
@@ -869,8 +793,10 @@ msgstr "Командний чат"
 msgid "Login to forbidden.gg"
 msgstr "Підключення до forbidden.gg"
 
-msgid "Login with your forbidden.gg account to save your statistics and match results."
-msgstr "Підключіться до forbidden.gg, щоб зберігати результати ваших матчів і статистику."
+msgid "Login with your forbidden.gg account to save your statistics and match "
+"results."
+msgstr "Підключіться до forbidden.gg, щоб зберігати результати ваших матчів і "
+"статистику."
 
 msgid "Don't have an account?"
 msgstr "Ще нема аккаунта?"
@@ -917,8 +843,8 @@ msgstr "Режим гри"
 msgid "Match browser"
 msgstr "Браузер матчів"
 
-msgid "Local game"
-msgstr "Локальна гра"
+msgid "Host game"
+msgstr ""
 
 msgid "Demo browser"
 msgstr "Браузер демо"
@@ -1052,7 +978,8 @@ msgstr "Iгрове меню"
 msgid "Call a vote"
 msgstr "Проголосувати"
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam"
 msgstr "Камера спостереження"
 
@@ -1083,7 +1010,8 @@ msgstr "Сервер був вимкнений"
 msgid "Server restarted"
 msgstr "Сервер був перезапущений"
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam mode"
 msgstr "Режим камери"
 
@@ -1134,18 +1062,23 @@ msgstr "Стати постачальником бомби"
 msgid "Carrier opt-out"
 msgstr "Відмовитися від постачання бомби"
 
+#. Selects classes in CTF Tactics
 msgid "Select class"
 msgstr "Вибір класу"
 
+#. CTF Tactics class
 msgid "Grunt"
 msgstr "Піхотинець"
 
+#. CTF Tactics class
 msgid "Medic"
 msgstr "Медик"
 
+#. CTF Tactics class
 msgid "Runner"
 msgstr "Бігун"
 
+#. CTF Tactics class
 msgid "Engineer"
 msgstr "Інженер"
 
@@ -1305,9 +1238,6 @@ msgstr "Завантажується %s з серверу зі швидкіст�
 msgid "Downloading %s from the web at %s k/s"
 msgstr "Завантажується %s з web зі швидкістю %s кб/c"
 
-msgid "Play"
-msgstr "Грати"
-
 msgid "Reload"
 msgstr "Оновити"
 
@@ -1320,3 +1250,159 @@ msgstr "Відбувається пошук серверів ..."
 msgid "Browse servers manually"
 msgstr "Шукати сервера вручну"
 
+#. Award: On Fire!
+msgid "Get 5 frags in a row without getting fragged"
+msgstr "Заробіть 5 фрагів протягом одного життя"
+
+#. Award: God Mode!
+msgid "Get 25 frags in a row without getting fragged"
+msgstr "Заробіть 25 фрагів протягом одного життя"
+
+#. Award: Mega-Health Control!
+msgid "Keep the Mega Health under your control"
+msgstr "Постійно підбирайте Мегаздоров'я"
+
+#. Award: Triple Frag!
+msgid "Frag an opponent 3 times in a short time frame"
+msgstr "Фрагніте суперника 3 рази за короткий проміжок часу"
+
+#. Award: Direct Grenade Hit!
+msgid "Hit an opponent directly with a grenade a few times"
+msgstr "Потрапте пару раз гранатою прямо в суперника"
+
+#. Award: Last Call Defuse!
+msgid "Defuse the bomb at the last second"
+msgstr "Знешкодити бомбу на останній секунді"
+
+#. Award: Flag Recovery!
+msgid "Recover your flag from the opponent carrying it"
+msgstr "Приберіть свій прапор у суперника"
+
+#. Award: Extermination!
+msgid "Get 20 frags in a row without getting fragged"
+msgstr "Заробіть 20 фрагів протягом одного життя"
+
+#. Award: Air Grenade!
+msgid "Frag an opponent in mid-air with a grenade"
+msgstr "Потрапте гранатою в суперника, що знаходиться в повітрі"
+
+#. Award: Raging!
+msgid "Get 10 frags in a row without getting fragged"
+msgstr "Заробіть 10 фрагів протягом одного життя"
+
+#. Award: Win 1000 matches
+msgid "Congratulations! You have won 1000 matches!"
+msgstr "Вітаємо! Ви здобули перемогу в 1000 матчах!"
+
+#. Award: Quadruple Frag!
+msgid "Frag an opponent 4 times in a short time frame"
+msgstr "Фрагніте суперника 4 рази за короткий проміжок часу"
+
+#. Award: Flag Defense!
+msgid "Defend your flag or flag carrier"
+msgstr "Захистіть свій прапор і переносника прапора"
+
+#. Award: Player of the Match!
+msgid "Score more points than other players and receive the \"Fair Play\" award in "
+"a single match"
+msgstr "Заробіть найбільше очок і отримай нагороду \"Fair Play\""
+
+#. Award: Air Rocket!
+msgid "Frag an opponent in mid-air with a rocket"
+msgstr "Потрапте ракетою в суперника, що знаходиться в повітрі"
+
+#. Award: Bomb Planted!
+msgid "Plant the bomb at a bomb site"
+msgstr "Встановіть бомбу в одній з двох точок суперника"
+
+#. Award: Win 100 matches
+msgid "Wow! You have won 100 matches!"
+msgstr "Ого! Ви стали переможцем в 100 матчах!"
+
+#. Award: Fair Play!
+msgid "Show respect to your opponents during the post-match intermission"
+msgstr "Проявіть повагу до суперника після закінчення матчу"
+
+#. Award: Play 1000 matches
+msgid "Wow! You have played 1000 matches!"
+msgstr "Браво! Ви виграли 1000 матчів!"
+
+#. Award: Play 500 matches
+msgid "Wow! You have played 500 matches!"
+msgstr "Відмінно! Ви виграли 500 матчів!"
+
+#. Award: Ninja Defuse!
+msgid "Defuse the bomb without being seen by the opponent"
+msgstr "Обезвредьте бомбу непомітно для суперника"
+
+#. Award: Direct Rocket Hit!
+msgid "Hit an opponent directly with a rocket a few times"
+msgstr "Потрапте кілька разів ракетою прямо в суперника"
+
+#. Award: Win 250 matches
+msgid "Congratulations! You have won 250 matches!"
+msgstr "Вітаємо! Ви перемогли в 250 матчах!"
+
+#. Award: King of Bongo!
+msgid "Frag the entire opposing team in Bomb and Defuse"
+msgstr "Фрагніте всіх гравців з ворожої команди в режимі Bomb and Defuse"
+
+#. Award: Fast Plant!
+msgid "Plant the bomb within 10 seconds"
+msgstr "Встановіть бомбу протягом 10 секунд"
+
+#. Award: Bomb Carrier Frag!
+msgid "Frag the bomb-carrying opponent"
+msgstr "Фрагніте переносника бомби з ворожої команди"
+
+#. Award: Meep Meep!
+msgid "Frag an opponent while moving at high speed"
+msgstr "Фрагніте суперника на високій швидкості"
+
+#. Award: Double Frag!
+msgid "Frag an opponent 2 times in a short time frame"
+msgstr "Фрагніте суперника 2 рази за короткий проміжок часу"
+
+#. Award: Fraglord!
+msgid "Get 15 frags in a row without getting fragged"
+msgstr "Заробіть 15 фрагів протягом одного життя"
+
+#. Award: Win 500 matches
+msgid "Congratulations! You have won 500 matches!"
+msgstr "Вітаємо! Ви закінчили 500 матчів з перемогою!"
+
+#. Award: Coyote Wins!
+msgid "Frag a fast-moving opponent"
+msgstr "Фрагніте мчить суперника"
+
+#. Award: Play 100 matches
+msgid "Wow! You have played 100 matches!"
+msgstr "Чудово! Ви вже зіграли 100 матчів!"
+
+#. Award: Play 250 matches
+msgid "Wow! You have played 250 matches!"
+msgstr "Здорово! Ви підкорили позначку в 250 матчів!"
+
+#. Award: Bomb Defused!
+msgid "Defuse the bomb"
+msgstr "Знешкодить бомбу"
+
+#. Award: Quakenet Exclusive!
+msgid "Register to Warfork during QuakeNet launch event"
+msgstr "Увійдіть в Warfork під час старту роботи QuakeNet"
+
+#. Award: Accuracy!
+msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
+msgstr "Потрапте 3 рази без промаху з Електроболта або Інстагана"
+
+#. Award: Flag Carrier Frag!
+msgid "Frag the opponent who has your flag"
+msgstr "Фрагніте суперника, який вкрав твій прапор"
+
+#. Award: Red Armor Control!
+msgid "Keep the Red Armor under your control"
+msgstr "Підбирайте червону броню, не віддаючи її ворогові"
+
+#. Award: First Frag!
+msgid "Score the first frag for your team in the match"
+msgstr "Заробіть перший фраг в матчі для своєї команди"

@@ -1,15 +1,43 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# ping kwan <remdy@hotmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-05 19:41+0000\n"
-"PO-Revision-Date: 2016-12-05 19:41+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: zh\n"
+"PO-Revision-Date: 2019-08-28 19:43+0000\n"
+"Last-Translator: ping kwan <remdy@hotmail.com>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/team-forbidden-llc/teams/102732/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Start/home page top button
+msgid "Home"
+msgstr "主页"
+
+#. Top button
+msgid "Play"
+msgstr "开始游戏"
+
+#. Top button
+msgid "Options"
+msgstr "选项"
+
+#. Top button
+msgid "Quit"
+msgstr "退出"
+
+msgid "Please join us on Discord (link below) to participate in pickup games, game "
+"discussion, and more!"
+msgstr "请加入我们的Discord(下方链接)参与游戏, 互动, 以及更多!"
+
+msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
+"Chasseur de Bots."
+msgstr "免责声明：Warfork与Wasow，Warsow Team，Chasseur de Bots无任何关联"
 
 msgid "Restart race"
 msgstr "重新开始比赛"
@@ -21,7 +49,7 @@ msgid "Leave practice mode"
 msgstr "离开练习模式"
 
 msgid "Enable noclip mode"
-msgstr "使用穿墙模式"
+msgstr "开启穿墙模式"
 
 msgid "Disable noclip mode"
 msgstr "禁用穿墙模式"
@@ -30,213 +58,53 @@ msgid "Save position"
 msgstr "保存位置"
 
 msgid "Load saved position"
-msgstr "载入已保存位置"
+msgstr "载入保存点"
 
 msgid "Clear saved position"
-msgstr "清除已保存位置"
-
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "不被击杀的情况下连续击杀对手 5 次。"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "不被击杀的情况下连续击杀对手 25 次。"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "保持 Mega Health 在你的控制下"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "在短时间内击杀对手 3 次"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "多次用榴弹发射器直接击杀对手"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "在最后一秒拆除炸弹"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "从对手那里夺回你的旗帜"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "不被击杀的情况下连续击杀对手 20 次"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "使用榴弹发射器击杀在空中的对手"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "不被击杀的情况下连续击杀对手 10 次"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "恭喜！你已赢得了 1000 场比赛！"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "在短时间内击杀对手 4 次"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "保护你的旗子或旗子争夺者"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in a single match"
-msgstr "在一场比赛中得分超过其他玩家并获得“公平竞赛”奖"
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "用火箭发射器击杀在空中的对手"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "放置炸弹在炸弹区"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "哇！你已经赢得了 100 场比赛！"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "尊重你的对手在赛后间歇期"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "哇！你已经进行了 1000 场比赛！"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "哇！你已经进行了 500 场比赛！"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "不被对手看见的情况下拆除炸弹"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "多次用火箭发射器直接击杀对手"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "恭喜！你已经赢得了 250 场比赛！"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "在炸弹模式中击杀对方整个团队。"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "10 秒内安放炸弹"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "击杀携带炸弹的对手"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "在高速移动的情况下击杀对手"
+msgstr "清除保存点"
 
 #. Touch devices intro text
-msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your device as shown in the picture, with four of your fingers in front of the screen, to make sure you can perform movement tricks, aim and fire at the same time."
-msgstr "Warfork 是一款需要高级运动技巧的快节奏游戏。当游戏开始时，在屏幕前用四只手指按照图片所示操作你的设备，确保你可以在同一时间展现运动技巧、瞄准并开火。"
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "在短时间内击杀对手 2 次"
+msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your"
+" device as shown in the picture, with four of your fingers in front of the "
+"screen, to make sure you can perform movement tricks, aim and fire at the "
+"same time."
+msgstr "Warfork "
+"是一款需要高级运动技巧的快节奏游戏。当游戏开始时，在屏幕前用四只手指按照图片所示操作你的设备，确保你可以在同一时间展现运动技巧、瞄准并开火。"
 
 msgid "View match info"
 msgstr "查看比赛信息"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "不被击杀的情况下连续击杀对手 15 次"
 
 #. UI slider for video brightness
 msgid "Brightness"
 msgstr "亮度"
 
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "恭喜！你已经赢得了 500 场比赛！"
-
 #. UI option cg_gunbob
 msgid "Enable weapon animation"
 msgstr "启动武器动作"
 
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "击杀高速移动的对手"
-
-#. UI option cg_viewBob, animates view camera on landing from high jumps.
-msgid "Enable view animation"
-msgstr "启用视图动画"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "哇！你已经进行了 100 场比赛！"
-
 msgid "Quick menu"
 msgstr "快捷菜单"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "哇！你已经进行了 250 场比赛！"
 
 msgid "Version %s of %s is available."
 msgstr "版本 %s  %s 可用。"
 
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "拆除炸弹"
-
 msgid "Click OK for more information."
 msgstr "点击OK来取得更多资讯。"
 
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr "注册 Warfork 当 QuakeNet 活动开始时。"
-
 msgid "Open in browser"
 msgstr "在浏览器打开"
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "用电光枪或即时武器在不射空的情况下击中同一对手 3 次"
 
 #. HUD option
 msgid "Match timer"
 msgstr "计时器"
 
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "击杀之前击杀过你的对手。"
-
 #. Match timer option
 msgid "count down"
 msgstr "倒数"
 
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "保持红甲在你的控制下"
-
 #. Match timer option
 msgid "count up"
 msgstr "计时"
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr "在比赛中为你的团队完成首次击杀"
-
-#. Start page in UI
-msgid "Home"
-msgstr "主页"
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
@@ -252,7 +120,7 @@ msgstr "高"
 
 #. Graphics profile's name
 msgid "high+"
-msgstr "非常高"
+msgstr "极致"
 
 #. Graphics profile's name
 msgid "low"
@@ -260,10 +128,14 @@ msgstr "低"
 
 #. Graphics profile's name / Bots' skill
 msgid "medium"
-msgstr "普通"
+msgstr "中"
+
+#. Graphics profile's name
+msgid "stream"
+msgstr "串流"
 
 msgid "Accuracy details"
-msgstr "精确细节"
+msgstr "命中率详情"
 
 msgid "View awards"
 msgstr "查看奖励"
@@ -292,7 +164,7 @@ msgid "Frags / deaths"
 msgstr "击杀 / 死亡"
 
 msgid "Friends"
-msgstr "朋友"
+msgstr "好友"
 
 #. Friend status
 msgid "Offline"
@@ -303,7 +175,7 @@ msgid "Acc"
 msgstr "命中率"
 
 msgid "Time played:"
-msgstr "游戏时长"
+msgstr "游戏时长："
 
 msgid "Awards"
 msgstr "奖励"
@@ -351,9 +223,11 @@ msgid "Close"
 msgstr "关闭"
 
 msgid "Demo filename"
-msgstr "录像名字"
+msgstr "录像名称"
 
-#. Please use as short form as possible, 8 symbols max! It's a server browser column header displaying whether the server is ranked (sends your stats to forbidden.gg).
+#. Please use as short form as possible, 8 symbols max! It's a server browser
+#. column header displaying whether the server is ranked (sends your stats to
+#. forbidden.gg).
 msgid "Ranked"
 msgstr "排名"
 
@@ -372,62 +246,94 @@ msgstr "计分板"
 msgid "Show pressed keys"
 msgstr "显示按键"
 
+#. Language selector
+msgid "Language"
+msgstr "语言"
+
 msgid "Join"
 msgstr "加入"
 
 #. "Bomb'n'defuse" description
-msgid "Team game mode where in which players join either the attacking team or the defending team. Each team attempts to complete their mission objective, either planting the bomb or defending the bomb site, or eliminate the opposing team."
+msgid "Team game mode where in which players join either the attacking team or the "
+"defending team. Each team attempts to complete their mission objective, "
+"either planting the bomb or defending the bomb site, or eliminate the "
+"opposing team."
 msgstr "团队游戏模式中，玩家加入进攻方或防守方。每队努力达成他们的任务目标，或安置炸弹或防守炸弹安置点，或消灭对方团队。"
 
 #. "Clan Arena" description
-msgid "Team game mode where you aim to eliminate the entire other team before your team dies. Clan Arena has no item pickups, you spawn with all weapons."
+msgid "Team game mode where you aim to eliminate the entire other team before your "
+"team dies. Clan Arena has no item pickups, you spawn with all weapons."
 msgstr "团队游戏模式中，你的目标是在己方团队死亡之前消灭所有其他的团队。团队竞技中，不能拾取武器，你重生即拥有所有武器。"
 
 #. "Capture the Flag" description
-msgid "Team game mode where the goal is to acquire the enemy teams flag and return it to your base."
+msgid "Team game mode where the goal is to acquire the enemy teams flag and return "
+"it to your base."
 msgstr "团队游戏模式中，目标是夺取敌方团队旗帜并返回到你的基地。"
 
 #. "Capture the Flag: Tactics" description
-msgid "Capture the Flag with highly specialized classes. This version of CTF needs team co-operation between the classes to win!"
+msgid "Capture the Flag with highly specialized classes. This version of CTF needs "
+"team co-operation between the classes to win!"
 msgstr "高度专业级别的夺旗模式。此版本的 CTF 需要不同级别的团队合作以赢得胜利。"
 
 #. "Duel Arena" description
-msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished before each round. The winner of the round is challenged by the next player in the queue."
+msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
+"before each round. The winner of the round is challenged by the next player "
+"in the queue."
 msgstr "在 1 对 1 作战击败大多数对手。你的武器库每轮前都会重新装满。一轮的赢家接受队列中下一个玩家的挑战。"
 
 #. "Deathmatch" description
-msgid "The goal of a deathmatch game is to frag as many other players as possible until the time or frag limit is reached."
+msgid "The goal of a deathmatch game is to frag as many other players as possible "
+"until the time or frag limit is reached."
 msgstr "死亡竞赛的目标是尽可能多地击杀其他玩家直到时间结束或达到 Frag 上限。"
 
 #. "Duel" description
-msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a draw there will be added 120 seconds overtime. The player who does the most frags wins the map."
+msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a "
+"draw there will be added 120 seconds overtime. The player who does the most "
+"frags wins the map."
 msgstr "决斗是 1 对 1 的游戏模式。标准比赛持续 10 分钟，如果出现平均将进行 120 秒的加时赛。获得 Frag 最多的玩家赢得胜利。"
 
 #. "Free for All" description
-msgid "The goal of a FFA game is to frag as many other players as possible until the time or frag limit is reached. Unlike in DM, you spawn with weapons and ammunition."
+msgid "The goal of a FFA game is to frag as many other players as possible until "
+"the time or frag limit is reached. Unlike in DM, you spawn with weapons and "
+"ammunition."
 msgstr "FFA 的游戏目标是尽可能多地击杀其他玩家直到时间结束或达到 Frag 上限。不同于 DM，你重生时即拥有武器和弹药。"
 
 #. "Headhunt" description
-msgid "Game mode where one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. The person who frags the tagged player, becomes tagged."
+msgid "Game mode where one player is tagged and all other players attempt to frag "
+"the tagged player. Tagged player gets score for each second he/she stays "
+"alive. The person who frags the tagged player, becomes tagged."
 msgstr "在此游戏模式中，其中一个玩家被标记，其他玩家需击杀此被标记的玩家。被标记的玩家每存活一秒即可得分。击杀被标记者的玩家成为新的被标记玩家。"
 
 #. "Race" description
-msgid "The goal of the race game mode is to finish the map or sector as quickly as possible!"
+msgid "The goal of the race game mode is to finish the map or sector as quickly as "
+"possible!"
 msgstr "赛跑游戏模式的目标是尽可能快地完成地图或区域。"
 
 #. "Team Deathmatch" description
-msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as many players of the opposing team as possible until the time or frag limit is reached."
+msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as "
+"many players of the opposing team as possible until the time or frag limit "
+"is reached."
 msgstr "游戏模式为团队对抗团队。团队死亡竞赛模式的目标是尽可能多地击杀对方团队的玩家直到时间结束或达到 Frag 上限。"
 
-#. "Team Domination" description. Different areas = map places = objects. those areas are indicated. Once any team gets control over 3 areas - it gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
-msgid "Team based game mode where teams attempt to gain control of three different areas in the map. The team who gains control of all three objects, wins the round."
+#. "Team Domination" description. Different areas = map places = objects.
+#. those areas are indicated. Once any team gets control over 3 areas - it
+#. gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
+msgid "Team based game mode where teams attempt to gain control of three different "
+"areas in the map. The team who gains control of all three objects, wins the "
+"round."
 msgstr "此团队游戏模式中，团队要努力控制地图上三个不同的区域。控制所有三个区域的团队即赢得该回合。"
 
 msgid "Open chat"
 msgstr "开启对话"
 
-msgid "The game server is suggesting you can watch this match on WarforkTV. Do you agree?"
+msgid "The game server is suggesting you can watch this match on WarforkTV. Do you "
+"agree?"
 msgstr "游戏服务器建议你可以在 WarsouTV 上观看这场比赛。你同意吗？"
+
+#. %s - hostname, ip:port, time
+msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s "
+"seconds..."
+msgstr "%s秒后你将自动连接到在%s的WarforkTV服务器\"%s\"..."
 
 #. This option enables movement with +forward bunny hopping aka newmovement
 msgid "Acceleration on forward jumping"
@@ -436,6 +342,14 @@ msgstr "加速向前跳跃"
 #. Toggles autohop possibility while pressing +moveup
 msgid "Disable autohop"
 msgstr "禁用自动跳过"
+
+#. UI option for cg_viewBob, animates view camera on landing from high jumps.
+msgid "Enable view animation"
+msgstr "启用视图动画"
+
+#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
+msgid "Show cartoon hit effect"
+msgstr "开启卡通受击表现"
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
@@ -452,6 +366,10 @@ msgstr "反转触控视角"
 #. Touch screen setting
 msgid "Touch controls size"
 msgstr "触控尺寸"
+
+#. Touch screen setting
+msgid "Flip touch controls"
+msgstr "翻转触摸控制"
 
 #. Gamepad setting
 msgid "Horizontal stick sensitivity"
@@ -473,13 +391,20 @@ msgstr "交换手柄摇杆"
 msgid "Chat message sound"
 msgstr "\"聊天消息音效"
 
-#. Toggles possibility to play ingame sounds while its window is unfocused or minimized
+#. Toggles possibility to play ingame sounds while its window is unfocused or
+#. minimized
 msgid "Keep playing sounds in background"
 msgstr "切换至桌面后依然播放声音"
 
+msgid "Play on a ranked server to start tracking your stats."
+msgstr "在排位服务器玩追踪你的数据"
+
 #. Bots' number
 msgid "Bots: %s"
-msgstr "电脑： %s"
+msgstr "机器人： %s"
+
+msgid "The selected HUD may not be optimized for touchscreen input."
+msgstr "选中的界面布局可能无法针对触摸优化"
 
 #. r_dynamiclight
 msgid "Dynamic lights"
@@ -496,6 +421,10 @@ msgstr "逐像素光"
 #. disable popup window with suggested server in server browser
 msgid "Don't suggest servers"
 msgstr "不要建议服务器"
+
+#. Gamepad setting
+msgid "Gamepad look acceleration"
+msgstr "手柄视角加速"
 
 #. UI option for cl_maxfps
 msgid "Framerate (FPS) limit"
@@ -519,7 +448,8 @@ msgid "Use the selected color for all players"
 msgstr "为所有的玩家使用选定的颜色"
 
 #. "Tutorial" gametype description
-msgid "Game mode which provides hints on basic Warfork movements and allows the player to play a duel match against an AI-controlled opponent."
+msgid "Game mode which provides hints on basic Warfork movements and allows the "
+"player to play a duel match against an AI-controlled opponent."
 msgstr "该游戏模式中，提供 Warfork 基础动作提示并让玩家和 AI 进行一场决斗比赛。"
 
 msgid "Don't ask me again"
@@ -527,42 +457,35 @@ msgstr "不再询问"
 
 #. Button that manually starts tutorial map
 msgid "Gameplay tutorial"
-msgstr "游戏教程"
+msgstr "新手教程"
 
 msgid "You are about to launch the tutorial stage of Warfork. Continue?"
-msgstr "你将要连接到 Warfork 的教程阶段。继续？"
+msgstr "你将要进入Warfork的新手教学，是否继续？"
 
 msgid "Welcome to Warfork!"
-msgstr "欢迎来到 Warfork！"
+msgstr "欢迎来到Warfork！"
 
-msgid "Perhaps you would like to learn the basics of the gameplay and test your combat skills on our tutorial?"
-msgstr "也许你想学习游戏的基础知识并在我们的教程中测试作战技能？"
+msgid "Perhaps you would like to learn the basics of the gameplay and test your "
+"combat skills on our tutorial?"
+msgstr "也许你想学习游戏的基础操作并在我们的教程中练习一下？"
 
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
-msgstr "更换团队"
+msgstr "更换队伍"
 
 #. Password reset link
 msgid "Forgot your password?"
 msgstr "你忘记密码了？"
 
-msgid "News"
-msgstr "新闻"
-
-msgid "New Game"
-msgstr "新游戏"
+#. "Race" tab in the server browser
+msgid "Race"
+msgstr "竞速"
 
 msgid "Profile"
 msgstr "个人档案"
 
 msgid "Chat"
 msgstr "聊天"
-
-msgid "Options"
-msgstr "选项"
-
-msgid "Quit"
-msgstr "退出"
 
 msgid "Player"
 msgstr "玩家"
@@ -605,11 +528,12 @@ msgid "Crosshair"
 msgstr "准心"
 
 msgid "Weapon handedness"
-msgstr "武器位置"
+msgstr "持枪位置"
 
 msgid "default"
 msgstr "默认"
 
+#. gun position
 msgid "right"
 msgstr "右边"
 
@@ -617,6 +541,7 @@ msgstr "右边"
 msgid "left"
 msgstr "左边"
 
+#. gun position
 msgid "center"
 msgstr "中间"
 
@@ -629,9 +554,12 @@ msgstr "放大的FOV视角"
 msgid "Simple items"
 msgstr "简单物品"
 
-msgid "Show teammates' names"
-msgstr "显示队友名字"
+#. Shows indicators at the top of the teammates, even if they are not visible
+#. through the walls
+msgid "Show teammates' indicators"
+msgstr "显示队友标识"
 
+#. Shows help messages at the top of the screen in-game
 msgid "Show help"
 msgstr "显示帮助"
 
@@ -659,12 +587,6 @@ msgstr "比赛结束截屏"
 msgid "Save match stats"
 msgstr "保存比赛统计"
 
-msgid "Alpha"
-msgstr "Alpha队"
-
-msgid "Beta"
-msgstr "Beta队"
-
 msgid "Players"
 msgstr "玩家"
 
@@ -674,6 +596,8 @@ msgstr "队伍模型选项"
 msgid "Fullbright skin"
 msgstr "高亮皮肤"
 
+#. Forces your color and model to the one that team Forbidden has, "FORBIDDEN"
+#. shouldn't be translated
 msgid "Force your team as FORBIDDEN"
 msgstr "强制已方队伍为\"FORBIDDEN\""
 
@@ -749,8 +673,8 @@ msgstr "效果音量"
 msgid "Announcer volume"
 msgstr "解说音量"
 
-msgid "Voice chat volume"
-msgstr "语音聊天音量"
+msgid "Voice commands volume"
+msgstr "麦克风音量"
 
 msgid "Hit sounds volume"
 msgstr "命中音音量"
@@ -767,8 +691,8 @@ msgstr "动作"
 msgid "Weapons"
 msgstr "武器"
 
-msgid "Voice chat"
-msgstr "语音聊天"
+msgid "Voice commands"
+msgstr "麦克风控制"
 
 msgid "Saved"
 msgstr "保存"
@@ -780,7 +704,7 @@ msgid "Mouse acceleration"
 msgstr "鼠标加速度"
 
 msgid "Mouse filter"
-msgstr "鼠标过滤"
+msgstr "平滑鼠标"
 
 msgid "Invert mouse"
 msgstr "反转鼠标"
@@ -843,7 +767,8 @@ msgstr "团队聊天"
 msgid "Login to forbidden.gg"
 msgstr "登录 forbidden.gg"
 
-msgid "Login with your forbidden.gg account to save your statistics and match results."
+msgid "Login with your forbidden.gg account to save your statistics and match "
+"results."
 msgstr "用你的 forbidden.gg 账号登录可以保存你的统计和比赛结果。"
 
 msgid "Don't have an account?"
@@ -859,7 +784,7 @@ msgid "Password"
 msgstr "密码"
 
 msgid "Remember login"
-msgstr "保留登录"
+msgstr "自动登录"
 
 msgid "Login"
 msgstr "登录"
@@ -880,7 +805,7 @@ msgid "Favorites"
 msgstr "收藏"
 
 msgid "Ping"
-msgstr "网速"
+msgstr "延迟"
 
 msgid "Hostname"
 msgstr "主机名"
@@ -891,8 +816,8 @@ msgstr "游戏类型"
 msgid "Match browser"
 msgstr "比赛浏览器"
 
-msgid "Local game"
-msgstr "本地游戏"
+msgid "Host game"
+msgstr "建立主机"
 
 msgid "Demo browser"
 msgstr "录像浏览器"
@@ -934,10 +859,10 @@ msgid "min."
 msgstr "最少"
 
 msgid "Bot skill level"
-msgstr "电脑等级"
+msgstr "机器人等级"
 
 msgid "Number of bots"
-msgstr "电脑数量"
+msgstr "机器人数量"
 
 msgid "Remove from favorites"
 msgstr "从收藏夹删除"
@@ -955,10 +880,10 @@ msgid "Gametype: %s"
 msgstr "游戏类型： %s"
 
 msgid "Mod: %s"
-msgstr "模式： %s"
+msgstr "Mod： %s"
 
 msgid "Ping: %s"
-msgstr "网速： %s"
+msgstr "延迟： %s"
 
 msgid "Address: %s"
 msgstr "地址： %s"
@@ -997,16 +922,16 @@ msgid "Duration: %s"
 msgstr "时间： %s"
 
 msgid "Ready!"
-msgstr "准备!"
+msgstr "准备！"
 
 msgid "Not ready!"
-msgstr "没有准备!"
+msgstr "未准备！"
 
 msgid "Join challengers queue"
-msgstr "加入挑战者列队"
+msgstr "加入挑战者队列"
 
 msgid "Leave challengers queue"
-msgstr "离开挑战者列队"
+msgstr "离开挑战者队列"
 
 msgid "Join the game"
 msgstr "加入游戏"
@@ -1026,7 +951,8 @@ msgstr "游戏菜单"
 msgid "Call a vote"
 msgstr "发起投票"
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam"
 msgstr "跟踪镜头"
 
@@ -1048,10 +974,17 @@ msgstr "按 ESC 取消"
 msgid "Downloading %s from %s at %s k/s"
 msgstr "下载 %s 从 %s 在 %s k/s"
 
+msgid "Owner left the listen server"
+msgstr "所有者离开监听服务器"
+
+msgid "Server was killed"
+msgstr "服务器进程关闭"
+
 msgid "Server restarted"
 msgstr "服务器已重新启动"
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam mode"
 msgstr "跟踪镜头模式"
 
@@ -1094,18 +1027,31 @@ msgstr "主要武器"
 msgid "Secondary weapons"
 msgstr "次要武器"
 
+#. "Bomb" gametype related option, means "I want to carry bomb"
+msgid "Carrier opt-in"
+msgstr "我想携带炸弹"
+
+#. "Bomb" gametype related option, means "I DON'T want to carry bomb"
+msgid "Carrier opt-out"
+msgstr "我不想携带炸弹"
+
+#. Selects classes in CTF Tactics
 msgid "Select class"
 msgstr "选择类别"
 
+#. CTF Tactics class
 msgid "Grunt"
 msgstr "战士"
 
+#. CTF Tactics class
 msgid "Medic"
 msgstr "医疗兵"
 
+#. CTF Tactics class
 msgid "Runner"
 msgstr "冲锋兵"
 
+#. CTF Tactics class
 msgid "Engineer"
 msgstr "工程师"
 
@@ -1134,16 +1080,16 @@ msgid "Fullscreen anti-aliasing"
 msgstr "全屏抗锯齿"
 
 msgid "Soft particles"
-msgstr "柔化粒子"
+msgstr "软粒子"
 
 msgid "Weapon opacity"
 msgstr "武器透明度"
 
 msgid "Vote yes"
-msgstr "投票赞成"
+msgstr "赞成"
 
 msgid "Vote no"
-msgstr "投票反对"
+msgstr "反对"
 
 msgid "Vote \"%s\" has been called"
 msgstr "投票 \"%s\" 已经被发起"
@@ -1157,6 +1103,12 @@ msgstr "重新启动当前地图"
 msgid "Jumps to the next map"
 msgstr "跳转到下个地图"
 
+msgid "Specify 0 to disable"
+msgstr "输入0则关闭"
+
+msgid "Sets the number of frags or caps needed to win the match"
+msgstr "设置比赛胜利所需的击杀数或最高分"
+
 msgid "Sets number of minutes after which the match ends"
 msgstr "设置比赛结束的分钟数"
 
@@ -1169,6 +1121,9 @@ msgstr "设置比赛热身时间的分钟数"
 msgid "Sets the length of the overtime"
 msgstr "设置加时赛的长度"
 
+msgid "Specify 0 to enable sudden death mode"
+msgstr "输入0开启立即死亡模式"
+
 msgid "Sets the maximum number of players in one team"
 msgstr "设置一个团队中最大玩家数"
 
@@ -1176,7 +1131,7 @@ msgid "Locks teams to disallow players joining in mid-game"
 msgstr "锁定团队，不允许玩家中途加入"
 
 msgid "Unlocks teams to allow players joining in mid-game"
-msgstr "允许玩家中途加入游戏"
+msgstr "允许玩家中途加入游戏队伍"
 
 msgid "Sets all players as ready so the match can start"
 msgstr "设置所有的玩家准备后方可开始游戏"
@@ -1187,20 +1142,74 @@ msgstr "强制玩家返回观众模式"
 msgid "Removes player from the server"
 msgstr "从此服务器中移除玩家"
 
+msgid "Removes player from the server and bans his IP-address for 15 minutes"
+msgstr "从服务器移除玩家并且封禁此IP地址15分钟"
+
+msgid "Disallows chat messages from the muted player"
+msgstr "禁止来自静音玩家的聊天讯息"
+
+msgid "Disallows voice chat messages from the muted player"
+msgstr "禁止来自静音玩家的语音聊天"
+
+msgid "Reallows chat messages from the unmuted player"
+msgstr "重新允许非静音玩家的聊天讯息"
+
+msgid "Reallows voice chat messages from the unmuted player"
+msgstr "重新允许非静音玩家的语音聊天"
+
 msgid "Sets the number of bots to play on the server"
-msgstr "设置服务器游戏时的电脑数量"
+msgstr "设置服务器游戏时的机器人数量"
+
+msgid "Toggles whether shooting teammates will do damage to them"
+msgstr "开启是否射击队友会造成伤害"
+
+msgid "Toggles whether instagun can be used for weapon jumping"
+msgstr "开启秒杀枪是否能够用来射击弹跳"
+
+msgid "Toggles the availability of instashield in instagib"
+msgstr "开启在秒杀模式允许秒杀保护"
+
+msgid "Toggles whether falling long distances deals damage"
+msgstr "开启是否允许武器超过最大射程范围"
+
+msgid "Toggles whether weapon splashes can damage self"
+msgstr "开启是否武器溅射伤害自身"
 
 msgid "Pauses the game"
 msgstr "暂停游戏"
+
+msgid "Resumes the game if in timeout"
+msgstr "恢复比赛如果比赛倒计时结束"
+
+msgid "Toggles the challenging spectators queue line"
+msgstr "开启挑战观察者排队序列"
+
+msgid "Toggles whether uneven teams is allowed"
+msgstr "开启是否允许队伍人数不均衡"
+
+msgid "Enables or disables the dropping of powerups at dying"
+msgstr "开启或关闭死亡后掉落增强道具"
+
+msgid "Enables or disables instant flag captures and unlocks"
+msgstr "开启或关闭旗帜速夺和解锁"
+
+msgid "Enables or disables the spawning of powerups"
+msgstr "开启或关闭刷新增强道具"
+
+msgid "If enabled, tag fragger will become new tag automatically"
+msgstr "如果开启，击杀者的标记会自动更新"
+
+msgid "Sets the speed at which the capture points heal their owners"
+msgstr "设置占领分数治疗占领者的速度"
+
+msgid "Sets the time in seconds between reinforcement respawn waves"
+msgstr "设置时间为秒在每轮增援重生"
 
 msgid "Downloading %s from server at %s k/s"
 msgstr "正以 %s k/s 的速度从服务器下载 %s"
 
 msgid "Downloading %s from the web at %s k/s"
 msgstr "正以 %s k/s 的速度从网络下载 %s"
-
-msgid "Play"
-msgstr "开始游戏"
 
 msgid "Reload"
 msgstr "刷新"
@@ -1214,3 +1223,159 @@ msgstr "正在寻找服务器..."
 msgid "Browse servers manually"
 msgstr "手动浏览服务器"
 
+#. Award: On Fire!
+msgid "Get 5 frags in a row without getting fragged"
+msgstr "不被击杀的情况下连续击杀对手 5 次"
+
+#. Award: God Mode!
+msgid "Get 25 frags in a row without getting fragged"
+msgstr "不被击杀的情况下连续击杀对手 25 次"
+
+#. Award: Mega-Health Control!
+msgid "Keep the Mega Health under your control"
+msgstr "保持 Mega Health 在你的控制下"
+
+#. Award: Triple Frag!
+msgid "Frag an opponent 3 times in a short time frame"
+msgstr "在短时间内击杀对手 3 次"
+
+#. Award: Direct Grenade Hit!
+msgid "Hit an opponent directly with a grenade a few times"
+msgstr "多次用榴弹发射器直接击杀对手"
+
+#. Award: Last Call Defuse!
+msgid "Defuse the bomb at the last second"
+msgstr "在最后一秒拆除炸弹"
+
+#. Award: Flag Recovery!
+msgid "Recover your flag from the opponent carrying it"
+msgstr "从对手那里夺回你的旗帜"
+
+#. Award: Extermination!
+msgid "Get 20 frags in a row without getting fragged"
+msgstr "不被击杀的情况下连续击杀对手 20 次"
+
+#. Award: Air Grenade!
+msgid "Frag an opponent in mid-air with a grenade"
+msgstr "使用榴弹发射器击杀在空中的对手"
+
+#. Award: Raging!
+msgid "Get 10 frags in a row without getting fragged"
+msgstr "不被击杀的情况下连续击杀对手 10 次"
+
+#. Award: Win 1000 matches
+msgid "Congratulations! You have won 1000 matches!"
+msgstr "恭喜！你已赢得了 1000 场比赛！"
+
+#. Award: Quadruple Frag!
+msgid "Frag an opponent 4 times in a short time frame"
+msgstr "在短时间内击杀对手 4 次"
+
+#. Award: Flag Defense!
+msgid "Defend your flag or flag carrier"
+msgstr "保护你的旗子或旗子争夺者"
+
+#. Award: Player of the Match!
+msgid "Score more points than other players and receive the \"Fair Play\" award in "
+"a single match"
+msgstr "在一场比赛中得分超过其他玩家并获得“公平竞赛”奖"
+
+#. Award: Air Rocket!
+msgid "Frag an opponent in mid-air with a rocket"
+msgstr "用火箭发射器击杀在空中的对手"
+
+#. Award: Bomb Planted!
+msgid "Plant the bomb at a bomb site"
+msgstr "放置炸弹在炸弹区"
+
+#. Award: Win 100 matches
+msgid "Wow! You have won 100 matches!"
+msgstr "哇！你已经赢得了 100 场比赛！"
+
+#. Award: Fair Play!
+msgid "Show respect to your opponents during the post-match intermission"
+msgstr "尊重你的对手在赛后间歇期"
+
+#. Award: Play 1000 matches
+msgid "Wow! You have played 1000 matches!"
+msgstr "哇！你已经进行了 1000 场比赛！"
+
+#. Award: Play 500 matches
+msgid "Wow! You have played 500 matches!"
+msgstr "哇！你已经进行了 500 场比赛！"
+
+#. Award: Ninja Defuse!
+msgid "Defuse the bomb without being seen by the opponent"
+msgstr "不被对手看见的情况下拆除炸弹"
+
+#. Award: Direct Rocket Hit!
+msgid "Hit an opponent directly with a rocket a few times"
+msgstr "多次用火箭发射器直接击杀对手"
+
+#. Award: Win 250 matches
+msgid "Congratulations! You have won 250 matches!"
+msgstr "恭喜！你已经赢得了 250 场比赛！"
+
+#. Award: King of Bongo!
+msgid "Frag the entire opposing team in Bomb and Defuse"
+msgstr "在炸弹模式中击杀对方整个团队。"
+
+#. Award: Fast Plant!
+msgid "Plant the bomb within 10 seconds"
+msgstr "10秒内安放炸弹"
+
+#. Award: Bomb Carrier Frag!
+msgid "Frag the bomb-carrying opponent"
+msgstr "击杀携带炸弹的对手"
+
+#. Award: Meep Meep!
+msgid "Frag an opponent while moving at high speed"
+msgstr "在高速移动的情况下击杀对手"
+
+#. Award: Double Frag!
+msgid "Frag an opponent 2 times in a short time frame"
+msgstr "在短时间内击杀对手 2 次"
+
+#. Award: Fraglord!
+msgid "Get 15 frags in a row without getting fragged"
+msgstr "不被击杀的情况下连续击杀对手 15 次"
+
+#. Award: Win 500 matches
+msgid "Congratulations! You have won 500 matches!"
+msgstr "恭喜！你已经赢得了 500 场比赛！"
+
+#. Award: Coyote Wins!
+msgid "Frag a fast-moving opponent"
+msgstr "击杀高速移动的对手"
+
+#. Award: Play 100 matches
+msgid "Wow! You have played 100 matches!"
+msgstr "哇！你已经进行了 100 场比赛！"
+
+#. Award: Play 250 matches
+msgid "Wow! You have played 250 matches!"
+msgstr "哇！你已经进行了 250 场比赛！"
+
+#. Award: Bomb Defused!
+msgid "Defuse the bomb"
+msgstr "拆除炸弹"
+
+#. Award: Quakenet Exclusive!
+msgid "Register to Warfork during QuakeNet launch event"
+msgstr "注册 Warfork 当 QuakeNet 活动开始时。"
+
+#. Award: Accuracy!
+msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
+msgstr "用电光枪或即时武器在不射空的情况下击中同一对手 3 次"
+
+#. Award: Flag Carrier Frag!
+msgid "Frag the opponent who has your flag"
+msgstr "击杀之前击杀过你的对手"
+
+#. Award: Red Armor Control!
+msgid "Keep the Red Armor under your control"
+msgstr "保持红甲在你的控制下"
+
+#. Award: First Frag!
+msgid "Score the first frag for your team in the match"
+msgstr "在比赛中为你的团队完成首次击杀"

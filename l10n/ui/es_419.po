@@ -1,66 +1,67 @@
 # Translators:
-# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# Hernan Gonzalez <hernan.g89@gmail.com>, 2019
+# Roman Kim <romankx1.0@gmail.com>, 2019
 # 
-msgid ""
-msgstr ""
+msgid "" msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-05 19:41+0000\n"
 "PO-Revision-Date: 2019-08-28 19:43+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
-"Language-Team: Turkish (https://www.transifex.com/team-forbidden-llc/teams/102732/tr/)\n"
+"Last-Translator: Roman Kim <romankx1.0@gmail.com>, 2019\n"
+"Language-Team: Spanish (Latin America) (https://www.transifex.com/team-forbidden-llc/teams/102732/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: es_419\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Start/home page top button
 msgid "Home"
-msgstr "Ana Sayfa"
+msgstr "Inicio"
 
 #. Top button
 msgid "Play"
-msgstr "Oyna"
+msgstr "Jugar "
 
 #. Top button
 msgid "Options"
-msgstr "Ayarlar"
+msgstr "Opciones "
 
 #. Top button
 msgid "Quit"
-msgstr "Çıkış"
+msgstr "Salir"
 
 msgid "Please join us on Discord (link below) to participate in pickup games, game "
 "discussion, and more!"
-msgstr ""
+msgstr "Por favor unete a nuestro discord (link abajo) para participar en juegos, "
+"discusiones del juego, y mas !"
 
 msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
 "Chasseur de Bots."
 msgstr ""
 
 msgid "Restart race"
-msgstr ""
+msgstr "Reiniciar carrera"
 
 msgid "Enter practice mode"
-msgstr ""
+msgstr "Entrar al modo practica"
 
 msgid "Leave practice mode"
-msgstr ""
+msgstr "Dejar el modo practica"
 
 msgid "Enable noclip mode"
-msgstr ""
+msgstr "Habilitar modo noclip"
 
 msgid "Disable noclip mode"
-msgstr ""
+msgstr "Deshabilitar modo noclip"
 
 msgid "Save position"
-msgstr ""
+msgstr "Guardar posición"
 
 msgid "Load saved position"
-msgstr ""
+msgstr "Cargar posición guardada"
 
 msgid "Clear saved position"
-msgstr ""
+msgstr "Limpiar posición guardada"
 
 #. Touch devices intro text
 msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your"
@@ -70,264 +71,248 @@ msgid "Warfork is a fast-paced game with advanced movement. When playing, hold y
 msgstr ""
 
 msgid "View match info"
-msgstr ""
+msgstr "Ver info de la partida"
 
 #. UI slider for video brightness
 msgid "Brightness"
-msgstr "Parlaklık"
+msgstr "Brillo"
 
 #. UI option cg_gunbob
 msgid "Enable weapon animation"
-msgstr "Silah animasyon etkinlestirme"
+msgstr "Activar animaciones de armas"
 
 msgid "Quick menu"
-msgstr "Hizli Menü"
+msgstr "Menú rápido"
 
 msgid "Version %s of %s is available."
-msgstr "Version %s of %s cikti."
+msgstr "Version %s de %s esta disponible."
 
 msgid "Click OK for more information."
-msgstr "Fazla bilgi icin OK'ye bas."
+msgstr "Clickea OK para más información."
 
 msgid "Open in browser"
-msgstr "Tarayıcıda aç"
+msgstr "Abrir en navegador"
 
 #. HUD option
 msgid "Match timer"
-msgstr "Oyun süresi"
+msgstr "Reloj de partida"
 
 #. Match timer option
 msgid "count down"
-msgstr "geri sayım"
+msgstr ""
 
 #. Match timer option
 msgid "count up"
-msgstr "ileri sayım"
+msgstr ""
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
-msgstr "Çıkmak istediğine emin misin?"
+msgstr "¿Seguro que querés salir?"
 
 #. Graphics profile's name
 msgid "contrast"
-msgstr "karşıtlık"
+msgstr "contraste"
 
 #. Graphics profile's name
 msgid "high"
-msgstr "Yüksek"
+msgstr "alto"
 
 #. Graphics profile's name
 msgid "high+"
-msgstr "Yüksek+"
+msgstr "alto+"
 
 #. Graphics profile's name
 msgid "low"
-msgstr "Düşük"
+msgstr "bajo"
 
 #. Graphics profile's name / Bots' skill
 msgid "medium"
-msgstr "Orta"
+msgstr "medio"
 
 #. Graphics profile's name
 msgid "stream"
-msgstr "akış"
+msgstr "stream"
 
 msgid "Accuracy details"
-msgstr "İsabet detayı"
+msgstr "Detalles de puntería"
 
 msgid "View awards"
-msgstr "Ödülleri Görüntüle"
+msgstr "Ver premios"
 
 #. Logout from forbidden.gg
 msgid "Logout"
-msgstr "Çıkış Yap"
+msgstr "Desconectar"
 
 msgid "Weapon"
-msgstr "Silah"
+msgstr "Arma"
 
 #. Weapon use percentage, it should as short as possible, 6 symbols max!
 msgid "Use"
-msgstr "Kullanım"
+msgstr "Usar"
 
 msgid "Accuracy"
-msgstr "İsabet"
+msgstr "Puntería"
 
 msgid "Wins"
-msgstr "Zafer"
+msgstr "Victorias"
 
 msgid "Losses / quits"
-msgstr "Malubiyet / Terk"
+msgstr "Derrotas / salidas"
 
 msgid "Frags / deaths"
-msgstr "Frags / deaths"
+msgstr "Frags / muertes"
 
 msgid "Friends"
-msgstr "Arkadaşlar"
+msgstr "Amigos"
 
 #. Friend status
 msgid "Offline"
-msgstr "Çevrimdışı"
+msgstr "Desconectado"
 
 #. Short form of "Accuracy", it should 6 symbols max!
 msgid "Acc"
-msgstr "İsabet"
+msgstr "Pria"
 
 msgid "Time played:"
-msgstr "Oyun Süresi"
+msgstr "Tiempo jugado:"
 
 msgid "Awards"
-msgstr "Ödüller"
+msgstr "Premios"
 
 #. Bots' skill
 msgid "easy"
-msgstr "kolay"
+msgstr "facil"
 
 #. Bots' skill
 msgid "hard"
-msgstr "zor"
+msgstr "dificil"
 
 msgid "Suggested servers"
-msgstr "Önerilen sunucular"
+msgstr "Servidores sugeridos"
 
 msgid "Less than an hour"
-msgstr "Bir saatten az"
+msgstr "Menos de una hora"
 
 msgid "1 hour"
-msgstr "1 saat"
+msgstr "1 hora"
 
 msgid "%s hours"
-msgstr "%s saat"
+msgstr "%s horas"
 
 msgid "%s days, %s hours"
-msgstr "%s gün, %s saat"
+msgstr "%s dias, %s horas"
 
 msgid "Last seen %s days ago"
-msgstr "Son görülme %s gün önce"
+msgstr "Visto hace %s dias "
 
 msgid "No data yet"
-msgstr "Henüz veri yok"
+msgstr "Todavía sin info"
 
 msgid "No friends yet"
-msgstr "Henüz arkadaş yok"
+msgstr "Todavía sin amigos"
 
 msgid "Connected to"
-msgstr "Bağlanıldı"
+msgstr "Conectado a"
 
 #. Team overlay in HUD
 msgid "Show team locations"
-msgstr "Takım konumunu göster"
+msgstr "Mostrar posicion del equipo"
 
 msgid "Close"
-msgstr "Kapat"
+msgstr "Cerrar"
 
 msgid "Demo filename"
-msgstr "Demo dosyaismi"
+msgstr "Archivo Demo"
 
 #. Please use as short form as possible, 8 symbols max! It's a server browser
 #. column header displaying whether the server is ranked (sends your stats to
 #. forbidden.gg).
 msgid "Ranked"
-msgstr "Rütbeli"
+msgstr "Clasificatoria"
 
 msgid "Password required"
-msgstr "Şifre gerekli"
+msgstr "Contraseña requerida"
 
 #. UI bind for making screenshots
 msgid "Screenshot"
-msgstr "Ekran Alıntısı"
+msgstr "Captura de pantalla"
 
 #. Key binding - hold to show the scoreboard
 msgid "Scoreboard"
-msgstr "Skor Tablosu"
+msgstr "Puntuaciones"
 
 #. UI's cg_showPressedKeys
 msgid "Show pressed keys"
-msgstr "Basılı tuşları göster"
+msgstr "Mostrar teclas presionadas"
 
 #. Language selector
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 msgid "Join"
-msgstr "Katıl"
+msgstr "Unirse"
 
 #. "Bomb'n'defuse" description
 msgid "Team game mode where in which players join either the attacking team or the "
 "defending team. Each team attempts to complete their mission objective, "
 "either planting the bomb or defending the bomb site, or eliminate the "
 "opposing team."
-msgstr "Hangi oyuncuların hücum takımı ya da savunma ekibine ya katılmak Takım oyunu"
-" modu. Her takım bomba ekim veya bomba siteyi savunan, ya da rakip takım "
-"ortadan kaldırmak ya da misyon hedefi tamamlamak için çalışır."
+msgstr ""
 
 #. "Clan Arena" description
 msgid "Team game mode where you aim to eliminate the entire other team before your "
 "team dies. Clan Arena has no item pickups, you spawn with all weapons."
-msgstr "Takım oyunu Eğer takım ölmeden önce tüm diğer takım ortadan hedefliyoruz "
-"modu. Klan Arena hiçbir öğe manyetikler vardır, tüm silahlar ile spawn."
+msgstr ""
 
 #. "Capture the Flag" description
 msgid "Team game mode where the goal is to acquire the enemy teams flag and return "
 "it to your base."
-msgstr "Amacınız düşman ekipleri bayrağı kazanmak ve tabanına dönmek için takım "
-"oyunu modu."
+msgstr ""
 
 #. "Capture the Flag: Tactics" description
 msgid "Capture the Flag with highly specialized classes. This version of CTF needs "
 "team co-operation between the classes to win!"
-msgstr "Son derece uzmanlaşmış sınıflarıyla Capture the Flag. CTF bu sürümü kazanmak"
-" için sınıflar arası ekip işbirliğini ihtiyacı var!"
+msgstr ""
 
 #. "Duel Arena" description
 msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
 "before each round. The winner of the round is challenged by the next player "
 "in the queue."
-msgstr "1-on-1 çatışmalarda çoğu rakibinizi yenin. Cephanelik tam olarak her turdan "
-"önce doldurulan. Turun galibi kuyruğunda sonraki oyuncu tarafından meydan."
+msgstr ""
 
 #. "Deathmatch" description
 msgid "The goal of a deathmatch game is to frag as many other players as possible "
 "until the time or frag limit is reached."
-msgstr "Bir deathmatch Oyunun amacı süresi veya frag limitine ulaşıldığında kadar "
-"mümkün olduğunca çok sayıda diğer oyuncular gemileri yoketmek için sıçrama "
-"olduğunu."
+msgstr ""
 
 #. "Duel" description
 msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a "
 "draw there will be added 120 seconds overtime. The player who does the most "
 "frags wins the map."
-msgstr "Düello bir 1vs1 oyun modu. 120 saniye mesai orada eklenecektir beraberlik "
-"varsa standart maç, 10 dakika sürer. En frag yapan oyuncu haritası kazanır."
+msgstr ""
 
 #. "Free for All" description
 msgid "The goal of a FFA game is to frag as many other players as possible until "
 "the time or frag limit is reached. Unlike in DM, you spawn with weapons and "
 "ammunition."
-msgstr "Bir FFA Oyunun amacı süresi veya frag limitine ulaşıldığında kadar mümkün "
-"olduğunca çok sayıda diğer oyuncular gemileri yoketmek için sıçrama "
-"olduğunu. DM aksine, silah ve mühimmat ile spawn."
+msgstr ""
 
 #. "Headhunt" description
 msgid "Game mode where one player is tagged and all other players attempt to frag "
 "the tagged player. Tagged player gets score for each second he/she stays "
 "alive. The person who frags the tagged player, becomes tagged."
-msgstr "Bir oyuncu etiketli ve tüm diğer oyuncular etiketli gemileri yoketmek için "
-"sıçrama girişimi olan oyun modu. Takip edilen oyuncu o / o hayatta kalır her"
-" saniye için puan alır. Levhası 'oyuncuya Frags kişi, etiketli hale gelir."
+msgstr ""
 
 #. "Race" description
 msgid "The goal of the race game mode is to finish the map or sector as quickly as "
 "possible!"
-msgstr "Yarış oyun modu amacı mümkün olduğunca çabuk harita ya da sektör bitirmek "
-"üzere!"
+msgstr ""
 
 #. "Team Deathmatch" description
 msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as "
 "many players of the opposing team as possible until the time or frag limit "
 "is reached."
-msgstr "Takım-vs-takım oyunu modu. Bir takım deathmatch Oyunun amacı süresi veya "
-"frag limitine ulaşıldığında kadar mümkün olduğunca rakip takımın birçok "
-"oyuncu gemileri yoketmek için sıçrama olduğunu."
+msgstr ""
 
 #. "Team Domination" description. Different areas = map places = objects.
 #. those areas are indicated. Once any team gets control over 3 areas - it
@@ -335,34 +320,31 @@ msgstr "Takım-vs-takım oyunu modu. Bir takım deathmatch Oyunun amacı süresi
 msgid "Team based game mode where teams attempt to gain control of three different "
 "areas in the map. The team who gains control of all three objects, wins the "
 "round."
-msgstr "Takım ekipleri haritasında üç farklı alanlarda denetimini ele geçirmesine "
-"girişiminde tabanlı oyun modu. Her üç nesnelerin kontrolünü kazanır ekibi, "
-"yuvarlak kazanır."
+msgstr ""
 
 msgid "Open chat"
-msgstr "Acik Sohbet"
+msgstr ""
 
 msgid "The game server is suggesting you can watch this match on WarforkTV. Do you "
 "agree?"
-msgstr "Oyun sunucusu WarforkTV bu maç izleyebilirsiniz öneriyor. Katılıyor musun?"
+msgstr ""
 
 #. %s - hostname, ip:port, time
 msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s "
 "seconds..."
-msgstr "Otomatikmen WarforkTV serverine \"%s\" in %s ve %s saniye sonra "
-"baglanacaktir..."
+msgstr ""
 
 #. This option enables movement with +forward bunny hopping aka newmovement
 msgid "Acceleration on forward jumping"
-msgstr "İleri atlama üzerinde Hızlanma"
+msgstr ""
 
 #. Toggles autohop possibility while pressing +moveup
 msgid "Disable autohop"
-msgstr "Autohop Devre disi"
+msgstr ""
 
 #. UI option for cg_viewBob, animates view camera on landing from high jumps.
 msgid "Enable view animation"
-msgstr "Görünümü animasyon etkinlestirme"
+msgstr ""
 
 #. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
 msgid "Show cartoon hit effect"
@@ -370,209 +352,206 @@ msgstr ""
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
-msgstr "Dokunmatik bakmak hassasiyeti"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch look deceleration"
-msgstr "Dokunmatik bakmak yavaşlama"
+msgstr ""
 
 #. Touch screen setting
 msgid "Invert touch look"
-msgstr "Dokunmatik görünüm ters"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch controls size"
-msgstr "Dokunmatik kontroller boyutu"
+msgstr ""
 
 #. Touch screen setting
 msgid "Flip touch controls"
-msgstr "Dokunmatik kontroller çevirmek"
+msgstr ""
 
 #. Gamepad setting
 msgid "Horizontal stick sensitivity"
-msgstr "Yatay çubuk hassasiyeti"
+msgstr ""
 
 #. Gamepad setting
 msgid "Vertical stick sensitivity"
-msgstr "Dikey çubuk hassasiyeti"
+msgstr ""
 
 #. Gamepad setting
 msgid "Invert gamepad look"
-msgstr "Haricindekileri gamepad bakmak"
+msgstr ""
 
 #. Gamepad setting
 msgid "Swap gamepad sticks"
-msgstr "Takas gamepad çubukları"
+msgstr ""
 
 #. cg_chatBeep
 msgid "Chat message sound"
-msgstr "Chat Mesaj sesi"
+msgstr ""
 
 #. Toggles possibility to play ingame sounds while its window is unfocused or
 #. minimized
 msgid "Keep playing sounds in background"
-msgstr "Arka planda sesler oynamaya devam"
+msgstr ""
 
 msgid "Play on a ranked server to start tracking your stats."
-msgstr "İstatistiklerinizi izlemeye başlamak için bir ranked server üzerinde "
-"oynayın."
+msgstr ""
 
 #. Bots' number
 msgid "Bots: %s"
-msgstr "Bots: %s"
+msgstr ""
 
 msgid "The selected HUD may not be optimized for touchscreen input."
-msgstr "Seçilen HUD dokunmatik ekran girişi için uygun şekilde olmayabilir."
+msgstr ""
 
 #. r_dynamiclight
 msgid "Dynamic lights"
-msgstr "Dynamic lights"
+msgstr ""
 
 #. Dynamic lights' setting
 msgid "simple lights"
-msgstr "simple lights"
+msgstr ""
 
 #. Dynamic lights' setting
 msgid "per-pixel lights"
-msgstr "per-pixel lights"
+msgstr ""
 
 #. disable popup window with suggested server in server browser
 msgid "Don't suggest servers"
-msgstr "sunucuları tavsiye etmem"
+msgstr ""
 
 #. Gamepad setting
 msgid "Gamepad look acceleration"
-msgstr "Gamepad bakmak hızlanma"
+msgstr ""
 
 #. UI option for cl_maxfps
 msgid "Framerate (FPS) limit"
-msgstr "Framerate (FPS) limit"
+msgstr ""
 
 #. Back to the previous menu
 msgid "Back"
-msgstr "Geri"
+msgstr ""
 
 #. Similar to "Call a vote"
 msgid "Cast a vote"
-msgstr "Bir Oyu at"
+msgstr ""
 
 msgid "Color correction"
-msgstr "Color correction"
+msgstr ""
 
 msgid "Use the selected model for all players"
-msgstr "Tüm oyuncular için seçilen modeli kullan"
+msgstr ""
 
 msgid "Use the selected color for all players"
-msgstr "Tüm oyuncular için seçilen rengi kullan"
+msgstr ""
 
 #. "Tutorial" gametype description
 msgid "Game mode which provides hints on basic Warfork movements and allows the "
 "player to play a duel match against an AI-controlled opponent."
-msgstr "AI kontrollü rakibe karşı bir düello maçı oynayacak oyuncu temel Warfork "
-"hareketleri üzerinde ipuçları sağlar ve izin veren oyun modu."
+msgstr ""
 
 msgid "Don't ask me again"
-msgstr "Bana tekrar sorma"
+msgstr ""
 
 #. Button that manually starts tutorial map
 msgid "Gameplay tutorial"
-msgstr "Oyun ögretici"
+msgstr ""
 
 msgid "You are about to launch the tutorial stage of Warfork. Continue?"
-msgstr "Sen Warfork öğretici aşamasını başlatmak üzeresiniz. Devam?"
+msgstr ""
 
 msgid "Welcome to Warfork!"
-msgstr "Warfork'a hosgeldiniz!"
+msgstr ""
 
 msgid "Perhaps you would like to learn the basics of the gameplay and test your "
 "combat skills on our tutorial?"
-msgstr "Belki oyun temellerini öğrenmek ve bizim öğretici savaş becerilerini test "
-"etmek ister misiniz?"
+msgstr ""
 
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
-msgstr "Takimlari karistir"
+msgstr ""
 
 #. Password reset link
 msgid "Forgot your password?"
-msgstr "Sifrenizi mi unuttunuz?"
+msgstr ""
 
 #. "Race" tab in the server browser
 msgid "Race"
-msgstr "Race"
+msgstr ""
 
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 msgid "Chat"
-msgstr "Sohbet"
+msgstr ""
 
 msgid "Player"
-msgstr "Oyuncu"
+msgstr ""
 
 msgid "Teams"
-msgstr "Takımlar"
+msgstr ""
 
 msgid "Video"
-msgstr "Video"
+msgstr ""
 
 msgid "Audio"
-msgstr "Ses"
+msgstr ""
 
 msgid "Input"
-msgstr "Girdi"
+msgstr ""
 
 #. Use short form as possible, alternatively you can translate it from "Apply"
 msgid "Save changes"
-msgstr "Uygula"
+msgstr ""
 
 msgid "Cancel"
-msgstr "İptal"
+msgstr ""
 
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 msgid "Name"
-msgstr "İsim"
+msgstr "Nombre"
 
 msgid "Clan"
 msgstr "Clan"
 
 msgid "Misc"
-msgstr "Karışık"
+msgstr ""
 
 msgid "Spectator HUD"
-msgstr "Seyirci HUD"
+msgstr ""
 
 msgid "Crosshair"
-msgstr "Nişangah"
+msgstr ""
 
 msgid "Weapon handedness"
-msgstr "Silah eli"
+msgstr ""
 
 msgid "default"
-msgstr "varsayiıan"
+msgstr ""
 
 #. gun position
 msgid "right"
-msgstr "sağ"
+msgstr ""
 
 #. gun position
 msgid "left"
-msgstr "sol"
+msgstr ""
 
 #. gun position
 msgid "center"
-msgstr "orta"
+msgstr ""
 
 msgid "FOV"
-msgstr "Görüş Alanı"
+msgstr ""
 
 msgid "FOV while using zoom"
-msgstr "Yakınlaştırma sırasında Görüş Alanı"
+msgstr ""
 
 msgid "Simple items"
-msgstr "Basit ögeler"
+msgstr ""
 
 #. Shows indicators at the top of the teammates, even if they are not visible
 #. through the walls
@@ -581,809 +560,809 @@ msgstr ""
 
 #. Shows help messages at the top of the screen in-game
 msgid "Show help"
-msgstr "Yardimi göster"
+msgstr ""
 
 msgid "Show weapon model"
-msgstr "Silah modelini göster"
+msgstr ""
 
 msgid "Show minimap"
-msgstr "Mini Haritayi göster"
+msgstr ""
 
 msgid "Show FPS counter"
-msgstr "FPS sayacını göster"
+msgstr ""
 
 msgid "Show speed meter"
-msgstr "Hız sayacını göster"
+msgstr ""
 
 msgid "Show damage indicator"
-msgstr "Hasar Göstergesini göster"
+msgstr ""
 
 msgid "Automatically record demos"
-msgstr "Demoları otomatik olarak kaydet"
+msgstr ""
 
 msgid "Endmatch screenshot"
-msgstr "Oyun Sonu ekran alıntısı"
+msgstr ""
 
 msgid "Save match stats"
-msgstr "Maç istatiklerini kaydet"
+msgstr ""
 
 msgid "Players"
-msgstr "Oyuncular"
+msgstr ""
 
 msgid "Team model options"
-msgstr "Takım modeli Ayarları"
+msgstr ""
 
 msgid "Fullbright skin"
-msgstr "Fullbright cilt"
+msgstr ""
 
 #. Forces your color and model to the one that team Forbidden has, "FORBIDDEN"
 #. shouldn't be translated
 msgid "Force your team as FORBIDDEN"
-msgstr "Takımınız FORBIDDEN olarak zorla"
+msgstr ""
 
 msgid "Graphics profile"
-msgstr "Grafik Profili"
+msgstr ""
 
 msgid "Fullscreen"
-msgstr "Tam Ekran"
+msgstr ""
 
 msgid "Vertical sync"
-msgstr "Dikey senkronizasyon"
+msgstr ""
 
 msgid "Screen resolution"
-msgstr "Ekran çözünürlüğü"
+msgstr ""
 
 msgid "desktop"
-msgstr "masaüstü"
+msgstr ""
 
 msgid "Texture quality"
-msgstr "Doku kalitesi"
+msgstr ""
 
 msgid "Anisotropic filtering"
-msgstr "Anisotropic süzme"
+msgstr ""
 
 msgid "Lighting quality"
-msgstr "Aydınlatma kalitesi"
+msgstr ""
 
 msgid "vertex lighting"
-msgstr "Köşe Aydınlatma"
+msgstr ""
 
 msgid "lightmaps"
-msgstr "Işık haritalari"
+msgstr ""
 
 msgid "per-pixel lighting"
-msgstr "Pixel başına Aydınlatma"
+msgstr ""
 
 msgid "Shadows"
-msgstr "Gölgeler"
+msgstr ""
 
 msgid "off"
-msgstr "kapalı"
+msgstr ""
 
 msgid "simple shadows"
-msgstr "basit gölgeler"
+msgstr ""
 
 msgid "shadowmaps"
-msgstr "Gölge Haritaları"
+msgstr ""
 
 msgid "Greyscale lighting"
-msgstr "Gri tonlama Aydınlatma"
+msgstr ""
 
 msgid "Use solid colors for world"
-msgstr "Dünya için düz Renkler kullan"
+msgstr ""
 
 msgid "Sound module"
-msgstr "Ses modülü"
+msgstr ""
 
 msgid "no sound"
-msgstr "Sessiz"
+msgstr ""
 
 msgid "Sound volume"
-msgstr "Ses seviyesi"
+msgstr ""
 
 msgid "Music volume"
-msgstr "Müzik seviyesi"
+msgstr ""
 
 msgid "Players volume"
-msgstr "Oyuncu ses seviyesi"
+msgstr ""
 
 msgid "Effects volume"
-msgstr "Efekt ses seviyesi"
+msgstr ""
 
 msgid "Announcer volume"
-msgstr "spiker ses seviyesi"
+msgstr ""
 
 msgid "Voice commands volume"
 msgstr ""
 
 msgid "Hit sounds volume"
-msgstr "Vur sesleri hacim"
+msgstr ""
 
 msgid "Mouse"
-msgstr "Fare"
+msgstr ""
 
 msgid "Movement"
-msgstr "Hareket"
+msgstr ""
 
 msgid "Actions"
-msgstr "Eylemler"
+msgstr ""
 
 msgid "Weapons"
-msgstr "Silahlar"
+msgstr ""
 
 msgid "Voice commands"
 msgstr ""
 
 msgid "Saved"
-msgstr "Kayıtlı"
+msgstr ""
 
 msgid "Mouse sensitivity"
-msgstr "Fare hassasiyeti"
+msgstr ""
 
 msgid "Mouse acceleration"
-msgstr "Fare hızı"
+msgstr ""
 
 msgid "Mouse filter"
-msgstr "Fare filtre"
+msgstr ""
 
 msgid "Invert mouse"
-msgstr "Ters yönlü fare"
+msgstr ""
 
 msgid "Forward"
-msgstr "İleri"
+msgstr ""
 
 #. bind for "move back"
 msgid "Backward"
-msgstr "Geri"
+msgstr ""
 
 msgid "Left"
-msgstr "Sola"
+msgstr ""
 
 msgid "Right"
-msgstr "Sağa"
+msgstr ""
 
 msgid "Up / jump"
-msgstr "Yukarı / zıplama"
+msgstr ""
 
 msgid "Down / crouch"
-msgstr "Aşaği / çömelme"
+msgstr ""
 
 msgid "Dash / walljump"
-msgstr "Hamle / Duvar atlayis"
+msgstr ""
 
 msgid "Run / walk"
-msgstr "Koşma / yürüme"
+msgstr ""
 
 msgid "Attack"
-msgstr "Saldırı"
+msgstr ""
 
 msgid "Previous weapon"
-msgstr "önceki Silah"
+msgstr ""
 
 msgid "Next weapon"
-msgstr "sonraki Silah"
+msgstr ""
 
 msgid "Last weapon"
-msgstr "son Silah"
+msgstr ""
 
 msgid "Zoom"
-msgstr "Yakınlaştırma"
+msgstr ""
 
 msgid "Drop weapon"
-msgstr "Silahı bırak"
+msgstr ""
 
 msgid "Drop bomb / flag"
-msgstr "Bomba / bayrağı bırak"
+msgstr ""
 
 msgid "Class action 1"
-msgstr "Class action 1"
+msgstr ""
 
 msgid "Class action 2"
-msgstr " Class action 2"
+msgstr ""
 
 msgid "Team chat"
-msgstr "Takım sohbeti"
+msgstr ""
 
 msgid "Login to forbidden.gg"
-msgstr "forbidden.gg'e giriş yap"
+msgstr ""
 
 msgid "Login with your forbidden.gg account to save your statistics and match "
 "results."
-msgstr "İstatistikleri ve Maç sonuçlarını kaydetmek için forbidden.gg hesabı ile "
-"giriş yap."
+msgstr ""
 
 msgid "Don't have an account?"
-msgstr "Hesabın yok mu?"
+msgstr ""
 
 msgid "Register for a free account here."
-msgstr "Burda Ücretsiz Hesap oluştur."
+msgstr ""
 
 msgid "Username"
-msgstr "Kullanıcıı Adı"
+msgstr ""
 
 msgid "Password"
-msgstr "Şifre"
+msgstr ""
 
 msgid "Remember login"
-msgstr "Girişi hatırla"
+msgstr ""
 
 msgid "Login"
-msgstr "Giriş"
+msgstr ""
 
 msgid "Normal weapons"
-msgstr "Normal silahlar"
+msgstr ""
 
 msgid "Instagib"
-msgstr "Instagib"
+msgstr ""
 
 msgid "TV"
-msgstr "TV"
+msgstr ""
 
 msgid "Watch on TV"
-msgstr "TV de izle"
+msgstr ""
 
 msgid "Favorites"
-msgstr "Favoriler"
+msgstr ""
 
 msgid "Ping"
 msgstr "Ping"
 
 msgid "Hostname"
-msgstr "Hostisim"
+msgstr ""
 
 msgid "Gametype"
-msgstr "Oyun türü"
+msgstr ""
 
 msgid "Match browser"
-msgstr "Maç tarayıcı"
+msgstr ""
 
 msgid "Host game"
 msgstr ""
 
 msgid "Demo browser"
-msgstr "Demo Tarayici"
+msgstr ""
 
 msgid "Stop"
-msgstr "Dur"
+msgstr ""
 
 msgid "Refresh"
-msgstr "Yenile"
+msgstr ""
 
 msgid "Map"
-msgstr "Harita"
+msgstr ""
 
 msgid "Title"
-msgstr "Başlık"
+msgstr ""
 
 msgid "Mapname"
-msgstr "Harita Ismi"
+msgstr ""
 
 msgid "Start game"
-msgstr "Oyunu başlat"
+msgstr ""
 
 msgid "Server name"
-msgstr "Sunucu adı"
+msgstr ""
 
 msgid "Public server"
-msgstr "Kamu Sunucu"
+msgstr ""
 
 msgid "Score limit"
-msgstr "Puan sınırı"
+msgstr ""
 
 msgid "Max players"
-msgstr "Maks Oyuncu"
+msgstr ""
 
 msgid "Time limit"
-msgstr "Zaman sınırı"
+msgstr ""
 
 msgid "min."
-msgstr "min."
+msgstr ""
 
 msgid "Bot skill level"
-msgstr "Bot yetenek seviyesi"
+msgstr ""
 
 msgid "Number of bots"
-msgstr "Bot sayısı"
+msgstr ""
 
 msgid "Remove from favorites"
-msgstr "Favorilerden sil"
+msgstr ""
 
 msgid "Add to favorites"
-msgstr "Favorilere yükle"
+msgstr ""
 
 msgid "Map: %s"
-msgstr "Harita: %s"
+msgstr ""
 
 msgid "Players: %s"
-msgstr "Oyuncu: %s"
+msgstr ""
 
 msgid "Gametype: %s"
-msgstr "Oyun türü: %s"
+msgstr ""
 
 msgid "Mod: %s"
-msgstr "Mod: %s"
+msgstr ""
 
 msgid "Ping: %s"
-msgstr "Ping: %s"
+msgstr ""
 
 msgid "Address: %s"
-msgstr "Adres: %s"
+msgstr ""
 
 msgid "IRC server connection"
-msgstr "IRC Sunucu bağlantısı"
+msgstr ""
 
 msgid "Server port"
-msgstr "Sunucu Port"
+msgstr ""
 
 msgid "Nickname"
-msgstr "Rumuz"
+msgstr ""
 
 msgid "Channels"
-msgstr "Kanallar"
+msgstr ""
 
 msgid "Connect"
-msgstr "Bağlan"
+msgstr ""
 
 msgid "Disconnect"
-msgstr "Bağlantıyı kes"
+msgstr ""
 
 msgid "Send"
-msgstr "Gönder"
+msgstr ""
 
 msgid "Date: %s"
-msgstr "Tarih: %s"
+msgstr ""
 
 msgid "Match: %s"
-msgstr "Maç: %s"
+msgstr ""
 
 msgid "Score: %s"
-msgstr "Puan: %s"
+msgstr ""
 
 msgid "Duration: %s"
-msgstr "Süre: %s"
+msgstr ""
 
 msgid "Ready!"
-msgstr "Hazır!"
+msgstr ""
 
 msgid "Not ready!"
-msgstr "Hazır değil!"
+msgstr ""
 
 msgid "Join challengers queue"
-msgstr "Meydan okuyucu kuyruğuna katıl"
+msgstr ""
 
 msgid "Leave challengers queue"
-msgstr "Meydan okuyucu kuyruğundan çık"
+msgstr ""
 
 msgid "Join the game"
-msgstr "Oyuna katıl"
+msgstr ""
 
 msgid "Join any team"
-msgstr "Herhangi takıma katıl"
+msgstr ""
 
 msgid "Join %s"
-msgstr "Katıl %s"
+msgstr ""
 
 msgid "Spectate"
-msgstr "İzle"
+msgstr ""
 
 msgid "Game menu"
-msgstr "Oyun Menüsü"
+msgstr ""
 
 msgid "Call a vote"
-msgstr "Oylama yap"
+msgstr ""
 
 #. Spectators options like follow fragger, follow flag carrier or free cam,
 #. etc.
 msgid "Chasecam"
-msgstr "Seyir Kamerası"
+msgstr ""
 
 msgid "Main menu"
-msgstr "Ana Menü"
+msgstr ""
 
 msgid "Return to game"
-msgstr "Oyuna geri dön"
+msgstr ""
 
 msgid "\"%s\" options"
-msgstr "\"%s\" Ayarlar"
+msgstr ""
 
 msgid "Refused: %s"
-msgstr "Reddetti: %s"
+msgstr ""
 
 msgid "Press ESC to cancel"
-msgstr "İptal etmek için ESC tuşuna bas"
+msgstr ""
 
 msgid "Downloading %s from %s at %s k/s"
-msgstr "%s , %s 'den %s k/s indiriliyor"
+msgstr ""
 
 msgid "Owner left the listen server"
-msgstr "Sahibi dinleme sunucusundan çıktı"
+msgstr ""
 
 msgid "Server was killed"
-msgstr "Server öldürüldü"
+msgstr ""
 
 msgid "Server restarted"
-msgstr "Server yeniden başlatıldı"
+msgstr ""
 
 #. Spectators options like follow fragger, follow flag carrier or free cam,
 #. etc.
 msgid "Chasecam mode"
-msgstr "Seyir Kamerası Modu"
+msgstr ""
 
 msgid "Auto"
-msgstr "Oto"
+msgstr ""
 
 msgid "Objectives"
-msgstr "Hedefler"
+msgstr ""
 
 msgid "Powerups"
-msgstr "Güçlendirmeler"
+msgstr ""
 
 msgid "Fraggers"
-msgstr "Fraggers"
+msgstr ""
 
 msgid "Highest score"
-msgstr "En yüksek Puan"
+msgstr ""
 
 msgid "Enable"
-msgstr "Etkinleştir"
+msgstr ""
 
 msgid "Disable"
-msgstr "Etkisizleştir"
+msgstr ""
 
 msgid "Watch"
-msgstr "İzle"
+msgstr ""
 
 msgid "Viewers"
-msgstr "Seyirciler"
+msgstr ""
 
 msgid "Reconnect"
-msgstr "Yeniden Bağlan"
+msgstr ""
 
 msgid "Votes"
-msgstr "Oylar"
+msgstr ""
 
 msgid "Primary weapons"
-msgstr "Birincil Silahlar"
+msgstr ""
 
 msgid "Secondary weapons"
-msgstr "İkincil Silahlar"
+msgstr ""
 
 #. "Bomb" gametype related option, means "I want to carry bomb"
 msgid "Carrier opt-in"
-msgstr "Bombayı bana ver"
+msgstr ""
 
 #. "Bomb" gametype related option, means "I DON'T want to carry bomb"
 msgid "Carrier opt-out"
-msgstr "Bombayı bana verme"
+msgstr ""
 
 #. Selects classes in CTF Tactics
 msgid "Select class"
-msgstr "Sınıf seç"
+msgstr ""
 
 #. CTF Tactics class
 msgid "Grunt"
-msgstr "Homurtu"
+msgstr ""
 
 #. CTF Tactics class
 msgid "Medic"
-msgstr "Doktor"
+msgstr ""
 
 #. CTF Tactics class
 msgid "Runner"
-msgstr "Koşucu"
+msgstr ""
 
 #. CTF Tactics class
 msgid "Engineer"
-msgstr "Mühendis"
+msgstr ""
 
 msgid "Connection failed"
-msgstr "Bağlantı başarısız oldu"
+msgstr ""
 
 msgid "Connection terminated"
-msgstr "Bağlantı sonlandırıldı"
+msgstr ""
 
 msgid "Connection error"
-msgstr "Bağlantı Hatası"
+msgstr ""
 
 msgid "Couldn't connect to %s"
-msgstr "%s 'ya bağlanılamadı"
+msgstr ""
 
 msgid "Connection was terminated by %s"
-msgstr "Bağlantı %s tarafından sonlandırıldı"
+msgstr ""
 
 msgid "Error connecting to %s"
-msgstr "%s 'ya bağlanırken hata"
+msgstr ""
 
 msgid "Reason: %s"
-msgstr "Sebep: %s"
+msgstr ""
 
 msgid "Fullscreen anti-aliasing"
-msgstr "Tam Ekran anti-aliasing"
+msgstr ""
 
 msgid "Soft particles"
-msgstr "Yumuşak parçacıklar"
+msgstr ""
 
 msgid "Weapon opacity"
-msgstr "Silah opaklığı"
+msgstr ""
 
 msgid "Vote yes"
-msgstr "'Evet' oyla"
+msgstr ""
 
 msgid "Vote no"
-msgstr "'Hayır' oyla"
+msgstr ""
 
 msgid "Vote \"%s\" has been called"
-msgstr "\"%s\" oy kullanıldı"
+msgstr ""
 
 msgid "Changes map"
-msgstr "Haritayı değiştir"
+msgstr ""
 
 msgid "Restarts current map"
-msgstr "Mevcut haritayı yeniden başlat"
+msgstr ""
 
 msgid "Jumps to the next map"
-msgstr "Gelecek haritaya geç"
+msgstr ""
 
 msgid "Specify 0 to disable"
-msgstr "Specify 0 kapat"
+msgstr ""
 
 msgid "Sets the number of frags or caps needed to win the match"
-msgstr "Maci kazanmak icin gereken Frags veya caps sayısını ayarlar"
+msgstr ""
 
 msgid "Sets number of minutes after which the match ends"
-msgstr "Kaç dakika sonra maçın biteceğini belirler"
+msgstr ""
 
 msgid "Changes the gametype"
-msgstr "Oyun tipini değiştirir"
+msgstr ""
 
 msgid "Sets the number of minutes after which the warmup ends"
-msgstr "Kaç dakika sonra ısınma süresinin biteceğini belirler"
+msgstr ""
 
 msgid "Sets the length of the overtime"
-msgstr "Mesai uzunluğunu belirler"
+msgstr ""
 
 msgid "Specify 0 to enable sudden death mode"
-msgstr "Specify 0 ani ölüm modunu etkinlestirmek icin"
+msgstr ""
 
 msgid "Sets the maximum number of players in one team"
-msgstr "Bir takımda en fazla kaç oyuncu olabileceğini ayarlar"
+msgstr ""
 
 msgid "Locks teams to disallow players joining in mid-game"
-msgstr "Oyun sırasında yeni oyuncuların katılmaması için takımları kilitler"
+msgstr ""
 
 msgid "Unlocks teams to allow players joining in mid-game"
-msgstr "Oyun sırasında yeni oyuncuların katılabilmesi içn takım kilidini kaldırır"
+msgstr ""
 
 msgid "Sets all players as ready so the match can start"
-msgstr "Oyunun başlaması için tüm oyuncuları hazır yapar"
+msgstr ""
 
 msgid "Forces player back to spectator mode"
-msgstr "Oyuncuları seyirci moduna çeker"
+msgstr ""
 
 msgid "Removes player from the server"
-msgstr "Oyuncuyu sunucudan atar"
+msgstr ""
 
 msgid "Removes player from the server and bans his IP-address for 15 minutes"
-msgstr "Oyuncuyu Serverden atar ve IP-Adresini 15 dakika icin yasaklar"
+msgstr ""
 
 msgid "Disallows chat messages from the muted player"
-msgstr "Susturulan oyuncudan sohbet mesajları alınmasını engeller"
+msgstr ""
 
 msgid "Disallows voice chat messages from the muted player"
-msgstr "Susturulan oyuncudan sesli sohbet mesajları alınmasını engeller"
+msgstr ""
 
 msgid "Reallows chat messages from the unmuted player"
-msgstr "Susturulan oyuncudan sohbet mesajları alınmaması engelini kaldırır"
+msgstr ""
 
 msgid "Reallows voice chat messages from the unmuted player"
-msgstr "Susturulan oyuncudan sesli sohbet mesajları alınmaması engelini kaldırır"
+msgstr ""
 
 msgid "Sets the number of bots to play on the server"
-msgstr "Sunucuda oynayan bot sayısını ayarlar"
+msgstr ""
 
 msgid "Toggles whether shooting teammates will do damage to them"
-msgstr "Takım hasarını etkinleştirir/etkisizleştir"
+msgstr ""
 
 msgid "Toggles whether instagun can be used for weapon jumping"
-msgstr "Instagun silah atlama icin kullanilip kullanilamayacagini acar"
+msgstr ""
 
 msgid "Toggles the availability of instashield in instagib"
-msgstr "Instagib olarak instashield kullanilabilirligini acar"
+msgstr ""
 
 msgid "Toggles whether falling long distances deals damage"
-msgstr "Düşüş hasarını açar/kapatır"
+msgstr ""
 
 msgid "Toggles whether weapon splashes can damage self"
-msgstr "Silahın oyuncuya hasar verip vermeyeceğini ayarlar"
+msgstr ""
 
 msgid "Pauses the game"
-msgstr "Oyunu durdurur"
+msgstr ""
 
 msgid "Resumes the game if in timeout"
-msgstr "Timeoutdaki oyunu devam ettirir"
+msgstr ""
 
 msgid "Toggles the challenging spectators queue line"
-msgstr "Zorlu seyirci kuyrugu hattini acar"
+msgstr ""
 
 msgid "Toggles whether uneven teams is allowed"
-msgstr "Düzensiz takim olup gecis yapar birakilir"
+msgstr ""
 
 msgid "Enables or disables the dropping of powerups at dying"
-msgstr "Etkinlestirir veya ölmekte de powerups birakarak devre disi birakir"
+msgstr ""
 
 msgid "Enables or disables instant flag captures and unlocks"
-msgstr "Etkinlestirir veya anlik bayrak yakalar ve actigini devre disi birakir"
+msgstr ""
 
 msgid "Enables or disables the spawning of powerups"
-msgstr "Etkinlestirir veya powerups yumurtlama devre disi birakir"
+msgstr ""
 
 msgid "If enabled, tag fragger will become new tag automatically"
-msgstr "Etkinse etiketi Fragger otomatik olarak yeni etiket olacak"
+msgstr ""
 
 msgid "Sets the speed at which the capture points heal their owners"
-msgstr "Yakalama noktalari sahiplerini iyilesmek hangi hizini ayarlar"
+msgstr ""
 
 msgid "Sets the time in seconds between reinforcement respawn waves"
-msgstr "Takviye respawn dalgalar arasindaki saniye cinsinden ayarlar"
+msgstr ""
 
 msgid "Downloading %s from server at %s k/s"
-msgstr "%s sunucudan %s k/s indiriliyor"
+msgstr ""
 
 msgid "Downloading %s from the web at %s k/s"
-msgstr "%s internetten %s k/s hızla indiriliyor"
+msgstr ""
 
 msgid "Reload"
-msgstr "Yenile"
+msgstr ""
 
 msgid "Logging in, hold on..."
-msgstr "Oturum açılıyor, bekleyin..."
+msgstr ""
 
 msgid "Searching for game servers..."
-msgstr "Oyun sunucuları aranıyor..."
+msgstr ""
 
 msgid "Browse servers manually"
-msgstr "Sunucuları el ile tara"
+msgstr ""
 
 #. Award: On Fire!
 msgid "Get 5 frags in a row without getting fragged"
-msgstr ""
+msgstr "Obtén 5 frags en fila sin haber muerto"
 
 #. Award: God Mode!
 msgid "Get 25 frags in a row without getting fragged"
-msgstr ""
+msgstr "Obtén 25 frags en cadena sin haber muerto"
 
 #. Award: Mega-Health Control!
 msgid "Keep the Mega Health under your control"
-msgstr ""
+msgstr "Mantén la Mega Vida bajo tu control"
 
 #. Award: Triple Frag!
 msgid "Frag an opponent 3 times in a short time frame"
-msgstr ""
+msgstr "Fragea un oponente 3 veces en un corto período de tiempo"
 
 #. Award: Direct Grenade Hit!
 msgid "Hit an opponent directly with a grenade a few times"
-msgstr ""
+msgstr "Acierta a un oponente directamente con una granada numerosas veces"
 
 #. Award: Last Call Defuse!
 msgid "Defuse the bomb at the last second"
-msgstr ""
+msgstr "Desactiva la bomba en el último segundo"
 
 #. Award: Flag Recovery!
 msgid "Recover your flag from the opponent carrying it"
-msgstr ""
+msgstr "Recupera tu bandera del portador enemigo"
 
 #. Award: Extermination!
 msgid "Get 20 frags in a row without getting fragged"
-msgstr ""
+msgstr "Obtén 20 frags en una cadena sin haber muerto."
 
 #. Award: Air Grenade!
 msgid "Frag an opponent in mid-air with a grenade"
-msgstr ""
+msgstr "Fragea un oponente con una granada aerea"
 
 #. Award: Raging!
 msgid "Get 10 frags in a row without getting fragged"
-msgstr ""
+msgstr "Obtén 10 frags en cadena sin haber muerto"
 
 #. Award: Win 1000 matches
 msgid "Congratulations! You have won 1000 matches!"
-msgstr ""
+msgstr "¡Felicitaciones! Has ganado 1000 partidas!"
 
 #. Award: Quadruple Frag!
 msgid "Frag an opponent 4 times in a short time frame"
-msgstr ""
+msgstr "Fragea un oponente 4 veces en un corto período de tiempo"
 
 #. Award: Flag Defense!
 msgid "Defend your flag or flag carrier"
-msgstr ""
+msgstr "Defiende tu bandera o al portador"
 
 #. Award: Player of the Match!
 msgid "Score more points than other players and receive the \"Fair Play\" award in "
 "a single match"
-msgstr ""
+msgstr "Obtén mas puntos que otros jugadores y recibe el premio \\\"Juego Justo\\\" "
+"en la misma partida"
 
 #. Award: Air Rocket!
 msgid "Frag an opponent in mid-air with a rocket"
-msgstr ""
+msgstr "Fragea un oponente con un cohete aereo"
 
 #. Award: Bomb Planted!
 msgid "Plant the bomb at a bomb site"
-msgstr ""
+msgstr "Planta la bomba en un sitio de bomba"
 
 #. Award: Win 100 matches
 msgid "Wow! You have won 100 matches!"
-msgstr ""
+msgstr "¡Wow! ¡Has ganado 100 partidas!"
 
 #. Award: Fair Play!
 msgid "Show respect to your opponents during the post-match intermission"
-msgstr ""
+msgstr "Muestra respeto a tus oponentes al final de la partida"
 
 #. Award: Play 1000 matches
 msgid "Wow! You have played 1000 matches!"
-msgstr ""
+msgstr "¡Wow! ¡Has jugado 1000 partidas!"
 
 #. Award: Play 500 matches
 msgid "Wow! You have played 500 matches!"
-msgstr ""
+msgstr "¡Wow! ¡Has jugado 500 partidas!"
 
 #. Award: Ninja Defuse!
 msgid "Defuse the bomb without being seen by the opponent"
-msgstr ""
+msgstr "Desactiva la bomba sin ser visto por el oponente"
 
 #. Award: Direct Rocket Hit!
 msgid "Hit an opponent directly with a rocket a few times"
-msgstr ""
+msgstr "Acierta un oponente directamente con un cohete numerosas veces"
 
 #. Award: Win 250 matches
 msgid "Congratulations! You have won 250 matches!"
-msgstr ""
+msgstr "Felicitaciones! Has ganado 250 partidas!"
 
 #. Award: King of Bongo!
 msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr ""
+msgstr "Fragea a todo el equipo oponente en Bomb&Defuse"
 
 #. Award: Fast Plant!
 msgid "Plant the bomb within 10 seconds"
-msgstr ""
+msgstr "Planta la bomba en 10 segundos"
 
 #. Award: Bomb Carrier Frag!
 msgid "Frag the bomb-carrying opponent"
-msgstr ""
+msgstr "Fragea al portador de bomba enemigo"
 
 #. Award: Meep Meep!
 msgid "Frag an opponent while moving at high speed"
-msgstr ""
+msgstr "Fragea un oponente mientras te mueves a alta velocidad"
 
 #. Award: Double Frag!
 msgid "Frag an opponent 2 times in a short time frame"
-msgstr ""
+msgstr "Fragea un oponente 2 veces en un corto período de tiempo"
 
 #. Award: Fraglord!
 msgid "Get 15 frags in a row without getting fragged"
-msgstr ""
+msgstr "Obtén 15 frags en fila sin haber muerto"
 
 #. Award: Win 500 matches
 msgid "Congratulations! You have won 500 matches!"
-msgstr ""
+msgstr "Felicitaciones! Has ganado 500 partidas!"
 
 #. Award: Coyote Wins!
 msgid "Frag a fast-moving opponent"
-msgstr ""
+msgstr "Mata a un objetivo veloz"
 
 #. Award: Play 100 matches
 msgid "Wow! You have played 100 matches!"
-msgstr ""
+msgstr "¡Wow! ¡Has jugado 100 partidas!"
 
 #. Award: Play 250 matches
 msgid "Wow! You have played 250 matches!"
-msgstr ""
+msgstr "¡Wow! ¡Has jugado 250 partidas!"
 
 #. Award: Bomb Defused!
 msgid "Defuse the bomb"
-msgstr ""
+msgstr "Desactiva la bomba"
 
 #. Award: Quakenet Exclusive!
 msgid "Register to Warfork during QuakeNet launch event"
-msgstr ""
+msgstr "Registrate en Warfork durante el QuakeNet evento de lanzamiento"
 
 #. Award: Accuracy!
 msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
@@ -1391,12 +1370,12 @@ msgstr ""
 
 #. Award: Flag Carrier Frag!
 msgid "Frag the opponent who has your flag"
-msgstr ""
+msgstr "Fragea al oponente que tiene tu bandera"
 
 #. Award: Red Armor Control!
 msgid "Keep the Red Armor under your control"
-msgstr ""
+msgstr "Mantén el control de la Armadura Roja"
 
 #. Award: First Frag!
 msgid "Score the first frag for your team in the match"
-msgstr ""
+msgstr "Obtén el primer frag para tu equipo en la partida"

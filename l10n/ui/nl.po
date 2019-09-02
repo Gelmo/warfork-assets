@@ -1,619 +1,515 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# Rob Wolf Bruinsma <robertb.1996@hotmail.nl>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:14+0000\n"
-"PO-Revision-Date: 2016-04-03 16:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: nl_lu\n"
+"POT-Creation-Date: 2016-12-05 19:41+0000\n"
+"PO-Revision-Date: 2019-08-28 19:43+0000\n"
+"Last-Translator: Rob Wolf Bruinsma <robertb.1996@hotmail.nl>, 2019\n"
+"Language-Team: Dutch (https://www.transifex.com/team-forbidden-llc/teams/102732/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Start/home page top button
+msgid "Home"
+msgstr ""
+
+#. Top button
+msgid "Play"
+msgstr ""
+
+#. Top button
+msgid "Options"
+msgstr ""
+
+#. Top button
+msgid "Quit"
+msgstr ""
+
+msgid "Please join us on Discord (link below) to participate in pickup games, game "
+"discussion, and more!"
+msgstr ""
+
+msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
+"Chasseur de Bots."
+msgstr ""
 
 msgid "Restart race"
 msgstr "Herstart race"
 
 msgid "Enter practice mode"
-msgstr "Begin oefenmodus"
+msgstr "Ga naar oefenmodus"
 
 msgid "Leave practice mode"
 msgstr "Verlaat oefenmodus"
 
 msgid "Enable noclip mode"
-msgstr "Inschakelen noclip modus"
+msgstr "Noclip aan"
 
 msgid "Disable noclip mode"
-msgstr "Uitschakelen noclip modus"
+msgstr "Noclip uit"
 
 msgid "Save position"
-msgstr "Positie opslaan"
+msgstr "Sla positie op"
 
 msgid "Load saved position"
-msgstr "Opgeslagen positie laden"
+msgstr "Laad opgeslagen posities"
 
 msgid "Clear saved position"
-msgstr "Opgeslagen positie wissen"
-
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Behaal 5 frags op rij zonder gefragged te worden"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Behaal 25 frags op rij zonder gefragged te worden"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Hou controle over de Megahealth"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "Frag een tegenstander 3 keer in een korte tijd"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "Raak een regenstander met een aantal directe granaten"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "Ontmantel de bom op het laatste moment"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "Herover jouw vlag uit de handen van de tegenstander"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Behaal 20 frags op rij zonder gefragged te worden"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Frag een tegenstander midden in de lucht met een granaat"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Behaal 10 frags op rij zonder gefragged te worden"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Gefeliciteerd! Je hebt 1000 wedstrijden gewonnen!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "Frag een tegenstander 4 keer in korte tijd"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "Verdedig jouw vlag of de vlagdrager"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in a single match"
-msgstr "Behaal meer punten dan andere spelers en ontvang de \"Eerlijk Spel\" prijs in een enkele wedstrijd"
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "Frag een tegenstander midden in de lucht met een raket"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "Plaats de bom op de bomplaats"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "Wauw! Je hebt 100 wedstrijden gewonnen!"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "Toon respect naar je tegenstanders na afloop van de wedstrijd"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "Wauw! Je hebt 1000 wedstrijden gespeeld!"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "Wauw! Je hebt 500 wedstrijden gespeeld!"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "Ontmantel de bom zonder door de tegenstander gezien te worden"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "Raak een tegenstander met een aantal directe raketten"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Gefeliciteerd! Je hebt 250 wedstrijden gewonnen!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Frag het gehele vijandige team in Bomb and Defuse"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Plaats de bom binnen 10 seconden"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Frag de vijandige bomdrager"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "Frag een tegenstander terwijl je snel beweegt"
+msgstr "Verwijder opgeslagen positie"
 
 #. Touch devices intro text
-msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your device as shown in the picture, with four of your fingers in front of the screen, to make sure you can perform movement tricks, aim and fire at the same time."
-msgstr "Warfork is een spel met snelle actie en complexe bewegingen. Hou tijdens het spelen het apparaat vast zoals afgebeeld, met vier van je vingers op het scherm, zodat je tegelijkertijd trucs kunt uitvoeren, mikken en schieten."
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "Frag een tegenstander 2 keer in korte tijd"
+msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your"
+" device as shown in the picture, with four of your fingers in front of the "
+"screen, to make sure you can perform movement tricks, aim and fire at the "
+"same time."
+msgstr ""
 
 msgid "View match info"
-msgstr "Bekijk wedstrijd informatie"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Behaal 15 frags op rij zonder gefragged te worden"
+msgstr "Kijk match informatie"
 
 #. UI slider for video brightness
 msgid "Brightness"
-msgstr "Helderheid"
-
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Gefeliciteerd! Je hebt 500 wedstrijden gewonnen!"
+msgstr ""
 
 #. UI option cg_gunbob
 msgid "Enable weapon animation"
-msgstr "Wapen animaties inschakelen"
-
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Frag een snel bewegende tegenstander"
-
-#. UI option cg_viewBob, animates view camera on landing from high jumps.
-msgid "Enable view animation"
-msgstr "Gezichtsveld animaties inschakelen"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "Wauw! Je hebt 100 wedstrijden gespeeld!"
+msgstr ""
 
 msgid "Quick menu"
-msgstr "Snelmenu"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "Wauw! Je hebt 250 wedstrijden gespeeld!"
+msgstr ""
 
 msgid "Version %s of %s is available."
-msgstr "Versie %s van %s is beschikbaar."
-
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Ontmantel de bom"
+msgstr ""
 
 msgid "Click OK for more information."
-msgstr "Klik OK voor meer informatie"
-
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr "Registreer bij Warfork tijdens QuakeNet launch event"
+msgstr ""
 
 msgid "Open in browser"
-msgstr "Openen in browser"
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "Raak een tegenstander 3 keer met de Electrobolt of Instawapen zonder te missen"
+msgstr ""
 
 #. HUD option
 msgid "Match timer"
-msgstr "Wedstrijd klok"
-
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Frag de tegenstander die jouw vlag heeft"
+msgstr ""
 
 #. Match timer option
 msgid "count down"
-msgstr "tel af"
-
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "Hou controle over het Rode Pantser"
+msgstr ""
 
 #. Match timer option
 msgid "count up"
-msgstr "tel omhoog"
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr "Behaal de eerste frag voor jouw team in de wedstrijd"
-
-#. Start page in UI
-msgid "Home"
-msgstr "Begin"
+msgstr ""
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
-msgstr "Weet je zeker dat je wilt stoppen?"
+msgstr ""
 
 #. Graphics profile's name
 msgid "contrast"
-msgstr "contrast"
+msgstr ""
 
 #. Graphics profile's name
 msgid "high"
-msgstr "hoog"
+msgstr ""
 
 #. Graphics profile's name
 msgid "high+"
-msgstr "hoog+"
+msgstr ""
 
 #. Graphics profile's name
 msgid "low"
-msgstr "laag"
+msgstr ""
 
 #. Graphics profile's name / Bots' skill
 msgid "medium"
-msgstr "gemiddeld"
+msgstr ""
 
 #. Graphics profile's name
 msgid "stream"
-msgstr "Uitzenden"
+msgstr ""
 
 msgid "Accuracy details"
-msgstr "Nauwkeurigheids-informatie"
+msgstr ""
 
 msgid "View awards"
-msgstr "Bekijk prijzen"
+msgstr ""
 
 #. Logout from forbidden.gg
 msgid "Logout"
-msgstr "Uitloggen"
+msgstr ""
 
 msgid "Weapon"
-msgstr "Wapen"
+msgstr ""
 
 #. Weapon use percentage, it should as short as possible, 6 symbols max!
 msgid "Use"
-msgstr "Gebr."
+msgstr ""
 
 msgid "Accuracy"
 msgstr "Nauwkeurigheid"
 
 msgid "Wins"
-msgstr "Gewonnen"
+msgstr ""
 
 msgid "Losses / quits"
-msgstr "Verloren / afgehaakt"
+msgstr ""
 
 msgid "Frags / deaths"
-msgstr "Frags / gestorven"
+msgstr ""
 
 msgid "Friends"
-msgstr "Vrienden"
+msgstr ""
 
 #. Friend status
 msgid "Offline"
-msgstr "Offline"
+msgstr ""
 
 #. Short form of "Accuracy", it should 6 symbols max!
 msgid "Acc"
-msgstr "Nauwk."
+msgstr ""
 
 msgid "Time played:"
-msgstr "Tijd gespeeld:"
+msgstr ""
 
 msgid "Awards"
-msgstr "Prijzen"
+msgstr ""
 
 #. Bots' skill
 msgid "easy"
-msgstr "makkelijk"
+msgstr ""
 
 #. Bots' skill
 msgid "hard"
-msgstr "moeilijk"
+msgstr ""
 
 msgid "Suggested servers"
-msgstr "Aanbevolen servers"
+msgstr ""
 
 msgid "Less than an hour"
-msgstr "Minder dan een uur"
+msgstr ""
 
 msgid "1 hour"
-msgstr "1 uur"
+msgstr ""
 
 msgid "%s hours"
-msgstr "%s uren"
+msgstr ""
 
 msgid "%s days, %s hours"
-msgstr "%s dagen, %s uren"
+msgstr ""
 
 msgid "Last seen %s days ago"
-msgstr "%s dagen geleden voor het laatst gezien"
+msgstr ""
 
 msgid "No data yet"
-msgstr "Nog geen gegevens"
+msgstr ""
 
 msgid "No friends yet"
-msgstr "Nog geen vrienden"
+msgstr ""
 
 msgid "Connected to"
-msgstr "Verbonden met"
+msgstr ""
 
 #. Team overlay in HUD
 msgid "Show team locations"
-msgstr "Toon team locaties"
+msgstr ""
 
 msgid "Close"
-msgstr "Sluiten"
+msgstr ""
 
 msgid "Demo filename"
-msgstr "Opname bestandsnaam"
+msgstr ""
 
-#. Please use as short form as possible, 8 symbols max! It's a server browser column header displaying whether the server is ranked (sends your stats to forbidden.gg).
+#. Please use as short form as possible, 8 symbols max! It's a server browser
+#. column header displaying whether the server is ranked (sends your stats to
+#. forbidden.gg).
 msgid "Ranked"
-msgstr "Ranked"
+msgstr ""
 
 msgid "Password required"
-msgstr "Wachtwoord vereist"
+msgstr ""
 
 #. UI bind for making screenshots
 msgid "Screenshot"
-msgstr "Schermopname"
+msgstr ""
 
 #. Key binding - hold to show the scoreboard
 msgid "Scoreboard"
-msgstr "Scorebord"
+msgstr ""
 
 #. UI's cg_showPressedKeys
 msgid "Show pressed keys"
-msgstr "Laat ingedrukte toetsen zien"
+msgstr ""
+
+#. Language selector
+msgid "Language"
+msgstr ""
 
 msgid "Join"
-msgstr "Meedoen"
+msgstr ""
 
 #. "Bomb'n'defuse" description
-msgid "Team game mode where in which players join either the attacking team or the defending team. Each team attempts to complete their mission objective, either planting the bomb or defending the bomb site, or eliminate the opposing team."
-msgstr "Team game mode waarin elke speler zich in het aanvallende of verdedigende team aansluit. Elke speler probeert zijn of haar teams doel te bereiken door de bom te planten, het verdedigen van de bomplaats of door het vijandelijke team uit te schakelen."
+msgid "Team game mode where in which players join either the attacking team or the "
+"defending team. Each team attempts to complete their mission objective, "
+"either planting the bomb or defending the bomb site, or eliminate the "
+"opposing team."
+msgstr ""
 
 #. "Clan Arena" description
-msgid "Team game mode where you aim to eliminate the entire other team before your team dies. Clan Arena has no item pickups, you spawn with all weapons."
-msgstr "Team game mode waarin je probeert om het vijandige team uit te schakelen voordat zij dit met jouw team doen. Clan Arena heeft geen pickups, je start met alle wapens."
+msgid "Team game mode where you aim to eliminate the entire other team before your "
+"team dies. Clan Arena has no item pickups, you spawn with all weapons."
+msgstr ""
 
 #. "Capture the Flag" description
-msgid "Team game mode where the goal is to acquire the enemy teams flag and return it to your base."
-msgstr "Team game mode waarin je als doel hebt om de vijandige vlag te veroveren en naar jouw basis te brengen."
+msgid "Team game mode where the goal is to acquire the enemy teams flag and return "
+"it to your base."
+msgstr ""
 
 #. "Capture the Flag: Tactics" description
-msgid "Capture the Flag with highly specialized classes. This version of CTF needs team co-operation between the classes to win!"
-msgstr "Capture the Flag met gespecialiseerde klasses. Deze variant op CTF vereist het team om samen te werken met verschillende klasses om de wedstrijd te winnen!"
+msgid "Capture the Flag with highly specialized classes. This version of CTF needs "
+"team co-operation between the classes to win!"
+msgstr ""
 
 #. "Duel Arena" description
-msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished before each round. The winner of the round is challenged by the next player in the queue."
-msgstr "Versla tegenstanders in één-op-één gevechten. Je begint elke ronde met alle wapens en volledige ammunitie. De winnaar van een ronde wordt uitgedaagd door de volgende speler uit de wachtrij."
+msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
+"before each round. The winner of the round is challenged by the next player "
+"in the queue."
+msgstr ""
 
 #. "Deathmatch" description
-msgid "The goal of a deathmatch game is to frag as many other players as possible until the time or frag limit is reached."
-msgstr "Het doel van deathmatch is om zoveel mogelijk andere spelers te fraggen tot de frag- of tijdslimiet wordt bereikt."
+msgid "The goal of a deathmatch game is to frag as many other players as possible "
+"until the time or frag limit is reached."
+msgstr ""
 
 #. "Duel" description
-msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a draw there will be added 120 seconds overtime. The player who does the most frags wins the map."
-msgstr "Duel is een één tegen één speltype. Standaard duurt een wedstrijd 10 minuten, maar bij een gelijke stand komen hier 120 seconden bij. De speler met de meeste frags wint."
+msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a "
+"draw there will be added 120 seconds overtime. The player who does the most "
+"frags wins the map."
+msgstr ""
 
 #. "Free for All" description
-msgid "The goal of a FFA game is to frag as many other players as possible until the time or frag limit is reached. Unlike in DM, you spawn with weapons and ammunition."
-msgstr "Het doel van Free for All is om zoveel mogelijk tegenstanders te fraggen tot de frag- of tijdslimiet wordt bereikt. In tegenstelling tot bij deathmatch begin je met alle wapens en volledige ammunitie."
+msgid "The goal of a FFA game is to frag as many other players as possible until "
+"the time or frag limit is reached. Unlike in DM, you spawn with weapons and "
+"ammunition."
+msgstr ""
 
 #. "Headhunt" description
-msgid "Game mode where one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. The person who frags the tagged player, becomes tagged."
-msgstr "In dit speltype wordt 1 speler gemarkeerd en proberen alle andere spelers hem te fraggen. De gemarkeerde speler krijgt punten voor elke seconde dat hij of zij in leven blijft. De speler die hem fragt wordt zelf de gemarkeerde speler."
+msgid "Game mode where one player is tagged and all other players attempt to frag "
+"the tagged player. Tagged player gets score for each second he/she stays "
+"alive. The person who frags the tagged player, becomes tagged."
+msgstr ""
 
 #. "Race" description
-msgid "The goal of the race game mode is to finish the map or sector as quickly as possible!"
-msgstr "Het doel van race is om een map in zo min mogelijk tijd af te leggen!"
+msgid "The goal of the race game mode is to finish the map or sector as quickly as "
+"possible!"
+msgstr ""
 
 #. "Team Deathmatch" description
-msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as many players of the opposing team as possible until the time or frag limit is reached."
-msgstr "Team tegen team speltype. Het doel van team deathmatch is om zoveel mogelijk tegenstanders van het vijandige team te fraggen tot de frag- of tijdslimiet wordt bereikt."
+msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as "
+"many players of the opposing team as possible until the time or frag limit "
+"is reached."
+msgstr ""
 
-#. "Team Domination" description. Different areas = map places = objects. those areas are indicated. Once any team gets control over 3 areas - it gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
-msgid "Team based game mode where teams attempt to gain control of three different areas in the map. The team who gains control of all three objects, wins the round."
-msgstr "Team gebaseerd speltype waar elk team probeert om controle te krijgen over drie gebieden in de map en zo de ronde te winnen."
+#. "Team Domination" description. Different areas = map places = objects.
+#. those areas are indicated. Once any team gets control over 3 areas - it
+#. gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
+msgid "Team based game mode where teams attempt to gain control of three different "
+"areas in the map. The team who gains control of all three objects, wins the "
+"round."
+msgstr ""
 
 msgid "Open chat"
-msgstr "Openen chat"
+msgstr ""
 
-msgid "The game server is suggesting you can watch this match on WarforkTV. Do you agree?"
-msgstr "De spelserver stelt voor dat je deze wedstrijd kijkt op WarforkTV. Ga je hiermee akkoord?"
+msgid "The game server is suggesting you can watch this match on WarforkTV. Do you "
+"agree?"
+msgstr ""
 
 #. %s - hostname, ip:port, time
-msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s seconds..."
-msgstr "Je wordt automatisch verbonden met WarforkTV server \"%s\" op \"%s\" in \"%s\""
+msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s "
+"seconds..."
+msgstr ""
 
 #. This option enables movement with +forward bunny hopping aka newmovement
 msgid "Acceleration on forward jumping"
-msgstr "Acceleratie bij voorwaartse sprong"
+msgstr ""
 
 #. Toggles autohop possibility while pressing +moveup
 msgid "Disable autohop"
-msgstr "Automatisch springen uitzetten"
+msgstr ""
+
+#. UI option for cg_viewBob, animates view camera on landing from high jumps.
+msgid "Enable view animation"
+msgstr ""
+
+#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
+msgid "Show cartoon hit effect"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
-msgstr "Aanraak-kijk gevoeligheid"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch look deceleration"
-msgstr "Aanraak-kijk deceleratie"
+msgstr ""
 
 #. Touch screen setting
 msgid "Invert touch look"
-msgstr "Aanraak-kijken omdraaien"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch controls size"
-msgstr "Aanraak-besturing grootte"
+msgstr ""
 
 #. Touch screen setting
 msgid "Flip touch controls"
-msgstr "Aanraak-besturing omdraaiën"
+msgstr ""
 
 #. Gamepad setting
 msgid "Horizontal stick sensitivity"
-msgstr "Horizontale stick gevoeligheid"
+msgstr ""
 
 #. Gamepad setting
 msgid "Vertical stick sensitivity"
-msgstr "Verticale stick gevoeligheid"
+msgstr ""
 
 #. Gamepad setting
 msgid "Invert gamepad look"
-msgstr "Gamepad kijken omdraaien"
+msgstr ""
 
 #. Gamepad setting
 msgid "Swap gamepad sticks"
-msgstr "Gamepad sticks omdraaien"
+msgstr ""
 
 #. cg_chatBeep
 msgid "Chat message sound"
-msgstr "Geluid chatbericht"
+msgstr ""
 
-#. Toggles possibility to play ingame sounds while its window is unfocused or minimized
+#. Toggles possibility to play ingame sounds while its window is unfocused or
+#. minimized
 msgid "Keep playing sounds in background"
-msgstr "Geluiden in achtergrond blijven afspelen"
+msgstr ""
 
 msgid "Play on a ranked server to start tracking your stats."
-msgstr "Spelen op ranked servers om het bijhouden van jouw statistieken te starten"
+msgstr ""
 
 #. Bots' number
 msgid "Bots: %s"
-msgstr "Bots: %s"
+msgstr ""
 
 msgid "The selected HUD may not be optimized for touchscreen input."
-msgstr "De geselecteerde HUD mag niet geoptimaliseerd worden voor touchscreen besturing"
+msgstr ""
 
 #. r_dynamiclight
 msgid "Dynamic lights"
-msgstr "Dynamische belichting"
+msgstr ""
 
 #. Dynamic lights' setting
 msgid "simple lights"
-msgstr "simpele lichten"
+msgstr ""
 
 #. Dynamic lights' setting
 msgid "per-pixel lights"
-msgstr "per-pixel lichten"
+msgstr ""
 
 #. disable popup window with suggested server in server browser
 msgid "Don't suggest servers"
-msgstr "Server suggesties uitzetten"
+msgstr ""
 
 #. Gamepad setting
 msgid "Gamepad look acceleration"
-msgstr "Gamepad-kijk acceleratie"
+msgstr ""
 
 #. UI option for cl_maxfps
 msgid "Framerate (FPS) limit"
-msgstr "Schermverversing (FPS) limiet"
+msgstr ""
 
 #. Back to the previous menu
 msgid "Back"
-msgstr "Terug"
+msgstr ""
 
 #. Similar to "Call a vote"
 msgid "Cast a vote"
-msgstr "Stem uitbrengen"
+msgstr ""
 
 msgid "Color correction"
-msgstr "Kleurcorrectie"
+msgstr ""
 
 msgid "Use the selected model for all players"
-msgstr "Gebruik het geselecteerde model voor alle spelers"
+msgstr ""
 
 msgid "Use the selected color for all players"
-msgstr "Gebruik de geselecteerde kleur voor alle spelers"
+msgstr ""
 
 #. "Tutorial" gametype description
-msgid "Game mode which provides hints on basic Warfork movements and allows the player to play a duel match against an AI-controlled opponent."
-msgstr "Speltype waarin de basis van Warfork's besturing, bewegingen, items en wapens wordt uitgelegd en de speler na afloop een duel speelt tegen een computergestuurde tegenstander"
+msgid "Game mode which provides hints on basic Warfork movements and allows the "
+"player to play a duel match against an AI-controlled opponent."
+msgstr ""
 
 msgid "Don't ask me again"
-msgstr "Vraag me niet weer"
+msgstr ""
 
 #. Button that manually starts tutorial map
 msgid "Gameplay tutorial"
-msgstr "Begin gameplay tutorial"
+msgstr ""
 
 msgid "You are about to launch the tutorial stage of Warfork. Continue?"
-msgstr "Je staat op het punt om de Warfork tutorial te starten. Doorgaan?"
+msgstr ""
 
 msgid "Welcome to Warfork!"
-msgstr "Welkom bij Warfork!"
+msgstr ""
 
-msgid "Perhaps you would like to learn the basics of the gameplay and test your combat skills on our tutorial?"
-msgstr "Wil je de beginselen van Warfork leren kennen en je gevechtsvaardigheden testen in onze tutorial?"
+msgid "Perhaps you would like to learn the basics of the gameplay and test your "
+"combat skills on our tutorial?"
+msgstr ""
 
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
-msgstr "Teams mengen"
+msgstr ""
 
 #. Password reset link
 msgid "Forgot your password?"
-msgstr "Wachtwoord vergeten?"
+msgstr ""
 
 #. "Race" tab in the server browser
 msgid "Race"
-msgstr "Race"
-
-msgid "News"
-msgstr "Nieuws"
-
-msgid "New Game"
-msgstr "Nieuw spel"
+msgstr ""
 
 msgid "Profile"
-msgstr "Profiel"
+msgstr ""
 
 msgid "Chat"
-msgstr "Chatten"
-
-msgid "Options"
-msgstr "Opties"
-
-msgid "Quit"
-msgstr "Afsluiten"
+msgstr ""
 
 msgid "Player"
-msgstr "Speler"
+msgstr ""
 
 msgid "Teams"
-msgstr "Teams"
+msgstr ""
 
 msgid "Video"
-msgstr "Beeld"
+msgstr ""
 
 msgid "Audio"
-msgstr "Geluid"
+msgstr ""
 
 msgid "Input"
-msgstr "Invoer"
+msgstr ""
 
 #. Use short form as possible, alternatively you can translate it from "Apply"
 msgid "Save changes"
-msgstr "Wijzigingen opslaan"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Annuleren"
+msgstr ""
 
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 msgid "Name"
 msgstr "Naam"
@@ -622,701 +518,863 @@ msgid "Clan"
 msgstr "Clan"
 
 msgid "Misc"
-msgstr "Divers"
+msgstr ""
 
 msgid "Spectator HUD"
-msgstr "Toeschouwer HUD"
+msgstr ""
 
 msgid "Crosshair"
-msgstr "Vizier"
+msgstr ""
 
 msgid "Weapon handedness"
-msgstr "Voorkeurshand"
+msgstr ""
 
 msgid "default"
-msgstr "Standaard"
+msgstr ""
 
+#. gun position
 msgid "right"
-msgstr "Rechts"
+msgstr ""
 
 #. gun position
 msgid "left"
-msgstr "Links"
+msgstr ""
 
+#. gun position
 msgid "center"
-msgstr "Midden"
+msgstr ""
 
 msgid "FOV"
-msgstr "Gezichtsveld"
+msgstr ""
 
 msgid "FOV while using zoom"
-msgstr "Gezichtsveld tijdens het zoomen"
+msgstr ""
 
 msgid "Simple items"
-msgstr "Eenvoudige items"
+msgstr ""
 
-msgid "Show teammates' names"
-msgstr "Toon namen teamgenoten"
+#. Shows indicators at the top of the teammates, even if they are not visible
+#. through the walls
+msgid "Show teammates' indicators"
+msgstr ""
 
+#. Shows help messages at the top of the screen in-game
 msgid "Show help"
-msgstr "Toon hulp"
+msgstr ""
 
 msgid "Show weapon model"
-msgstr "Toon het wapen"
+msgstr ""
 
 msgid "Show minimap"
-msgstr "Toon kaart"
+msgstr ""
 
 msgid "Show FPS counter"
-msgstr "Toon FPS"
+msgstr ""
 
 msgid "Show speed meter"
-msgstr "Toon snelheid"
+msgstr ""
 
 msgid "Show damage indicator"
-msgstr "Toon schade"
+msgstr ""
 
 msgid "Automatically record demos"
-msgstr "Automatisch demos opnemen"
+msgstr ""
 
 msgid "Endmatch screenshot"
-msgstr "Screenshot einde wedstrijd"
+msgstr ""
 
 msgid "Save match stats"
-msgstr "Sla wedstrijd statistieken op"
-
-msgid "Alpha"
-msgstr "Alpha"
-
-msgid "Beta"
-msgstr "Beta"
+msgstr ""
 
 msgid "Players"
-msgstr "Spelers"
+msgstr ""
 
 msgid "Team model options"
-msgstr "Team model opties"
+msgstr ""
 
 msgid "Fullbright skin"
-msgstr "Gekleurde 'Skin'"
+msgstr ""
 
+#. Forces your color and model to the one that team Forbidden has, "FORBIDDEN"
+#. shouldn't be translated
 msgid "Force your team as FORBIDDEN"
-msgstr "Forceer jouw team als FORBIDDEN"
+msgstr ""
 
 msgid "Graphics profile"
-msgstr "Grafisch profiel"
+msgstr ""
 
 msgid "Fullscreen"
-msgstr "Volledig scherm"
+msgstr ""
 
 msgid "Vertical sync"
-msgstr "Verticale synchronisatie"
+msgstr ""
 
 msgid "Screen resolution"
-msgstr "Schermresolutie"
+msgstr ""
 
 msgid "desktop"
-msgstr "Bureaublad"
+msgstr ""
 
 msgid "Texture quality"
-msgstr "Texture kwaliteit"
+msgstr ""
 
 msgid "Anisotropic filtering"
-msgstr "Anisotropische filtering"
+msgstr ""
 
 msgid "Lighting quality"
-msgstr "Lichtkwaliteit"
+msgstr ""
 
 msgid "vertex lighting"
-msgstr "Punt belichting"
+msgstr ""
 
 msgid "lightmaps"
-msgstr "Lichtkaarten"
+msgstr ""
 
 msgid "per-pixel lighting"
-msgstr "Per-pixel belichting"
+msgstr ""
 
 msgid "Shadows"
-msgstr "Schaduwen"
+msgstr ""
 
 msgid "off"
-msgstr "uit"
+msgstr ""
 
 msgid "simple shadows"
-msgstr "Eenvoudige schaduwen"
+msgstr ""
 
 msgid "shadowmaps"
-msgstr "Schaduwkaarten"
+msgstr ""
 
 msgid "Greyscale lighting"
-msgstr "Grijswaarde belichting"
+msgstr ""
 
 msgid "Use solid colors for world"
-msgstr "Gebruik kleuren voor de spelwereld"
+msgstr ""
 
 msgid "Sound module"
-msgstr "Geluidsmodule"
+msgstr ""
 
 msgid "no sound"
-msgstr "Geen geluid"
+msgstr ""
 
 msgid "Sound volume"
-msgstr "Volume"
+msgstr ""
 
 msgid "Music volume"
-msgstr "Volume muziek"
+msgstr ""
 
 msgid "Players volume"
-msgstr "Volume spelers"
+msgstr ""
 
 msgid "Effects volume"
-msgstr "Volume effecten"
+msgstr ""
 
 msgid "Announcer volume"
-msgstr "Volume aankondiger"
+msgstr ""
 
-msgid "Voice chat volume"
-msgstr "Stem chat volume"
+msgid "Voice commands volume"
+msgstr ""
 
 msgid "Hit sounds volume"
-msgstr "Volume schade geluiden"
+msgstr ""
 
 msgid "Mouse"
-msgstr "Muis"
+msgstr ""
 
 msgid "Movement"
-msgstr "Beweging"
+msgstr ""
 
 msgid "Actions"
-msgstr "Acties"
+msgstr ""
 
 msgid "Weapons"
-msgstr "Wapens"
+msgstr ""
 
-msgid "Voice chat"
-msgstr "Stem chat"
+msgid "Voice commands"
+msgstr ""
 
 msgid "Saved"
-msgstr "Opgeslagen"
+msgstr ""
 
 msgid "Mouse sensitivity"
-msgstr "Gevoeligheid muis"
+msgstr ""
 
 msgid "Mouse acceleration"
-msgstr "Versnelling muis"
+msgstr ""
 
 msgid "Mouse filter"
-msgstr "Muisfilter"
+msgstr ""
 
 msgid "Invert mouse"
-msgstr "Omgedraaide muis"
+msgstr ""
 
 msgid "Forward"
-msgstr "Vooruit"
+msgstr ""
 
 #. bind for "move back"
 msgid "Backward"
-msgstr "Achteruit"
+msgstr ""
 
 msgid "Left"
-msgstr "Links"
+msgstr ""
 
 msgid "Right"
-msgstr "Rechts"
+msgstr ""
 
 msgid "Up / jump"
-msgstr "Omhoog / spring"
+msgstr ""
 
 msgid "Down / crouch"
-msgstr "Omlaag / hurk"
+msgstr ""
 
 msgid "Dash / walljump"
-msgstr "Dash / muursprong"
+msgstr ""
 
 msgid "Run / walk"
-msgstr "Rennen / lopen"
+msgstr ""
 
 msgid "Attack"
-msgstr "Schieten"
+msgstr ""
 
 msgid "Previous weapon"
-msgstr "Vorig wapen"
+msgstr ""
 
 msgid "Next weapon"
-msgstr "Volgend wapen"
+msgstr ""
 
 msgid "Last weapon"
-msgstr "Laatste wapen"
+msgstr ""
 
 msgid "Zoom"
-msgstr "Zoom"
+msgstr ""
 
 msgid "Drop weapon"
-msgstr "Laat wapen vallen"
+msgstr ""
 
 msgid "Drop bomb / flag"
-msgstr "Laat bom / vlag vallen"
+msgstr ""
 
 msgid "Class action 1"
-msgstr "Klasse aktie 1"
+msgstr ""
 
 msgid "Class action 2"
-msgstr "Klasse aktie 2"
+msgstr ""
 
 msgid "Team chat"
-msgstr "Team chat"
+msgstr ""
 
 msgid "Login to forbidden.gg"
-msgstr "Inloggen op forbidden.gg"
+msgstr ""
 
-msgid "Login with your forbidden.gg account to save your statistics and match results."
-msgstr "Log in met je forbidden.gg account om statistieken en resultaten op te slaan."
+msgid "Login with your forbidden.gg account to save your statistics and match "
+"results."
+msgstr ""
 
 msgid "Don't have an account?"
-msgstr "Geen account?"
+msgstr ""
 
 msgid "Register for a free account here."
-msgstr "Registreer je gratis account hier."
+msgstr ""
 
 msgid "Username"
-msgstr "Gebruikersnaam"
+msgstr ""
 
 msgid "Password"
-msgstr "Wachtwoord"
+msgstr ""
 
 msgid "Remember login"
-msgstr "Onthoud login"
+msgstr ""
 
 msgid "Login"
-msgstr "Inloggen"
+msgstr ""
 
 msgid "Normal weapons"
-msgstr "Normale wapens"
+msgstr ""
 
 msgid "Instagib"
-msgstr "Instagib"
+msgstr ""
 
 msgid "TV"
-msgstr "TV"
+msgstr ""
 
 msgid "Watch on TV"
-msgstr "Bekijk op TV"
+msgstr ""
 
 msgid "Favorites"
-msgstr "Favorieten"
+msgstr ""
 
 msgid "Ping"
 msgstr "Ping"
 
 msgid "Hostname"
-msgstr "Hostnaam"
+msgstr ""
 
 msgid "Gametype"
-msgstr "Speltype"
+msgstr ""
 
 msgid "Match browser"
-msgstr "Match overzicht"
+msgstr ""
 
-msgid "Local game"
-msgstr "Lokaal spel"
+msgid "Host game"
+msgstr ""
 
 msgid "Demo browser"
-msgstr "Demo overzicht"
+msgstr ""
 
 msgid "Stop"
-msgstr "Stop"
+msgstr ""
 
 msgid "Refresh"
-msgstr "Vernieuwen"
+msgstr ""
 
 msgid "Map"
-msgstr "Map"
+msgstr ""
 
 msgid "Title"
-msgstr "Titel"
+msgstr ""
 
 msgid "Mapname"
-msgstr "Mapnaam"
+msgstr ""
 
 msgid "Start game"
-msgstr "Start spel"
+msgstr ""
 
 msgid "Server name"
-msgstr "Server naam"
+msgstr ""
 
 msgid "Public server"
-msgstr "Publieke servers"
+msgstr ""
 
 msgid "Score limit"
-msgstr "Scorelimiet"
+msgstr ""
 
 msgid "Max players"
-msgstr "Maximaal aantal spelers"
+msgstr ""
 
 msgid "Time limit"
-msgstr "Tijdslimiet"
+msgstr ""
 
 msgid "min."
-msgstr "min."
+msgstr ""
 
 msgid "Bot skill level"
-msgstr "Intelligentie bots"
+msgstr ""
 
 msgid "Number of bots"
-msgstr "Aantal bots"
+msgstr ""
 
 msgid "Remove from favorites"
-msgstr "Verwijder uit favorieten"
+msgstr ""
 
 msgid "Add to favorites"
-msgstr "Toevoegen aan favorieten"
+msgstr ""
 
 msgid "Map: %s"
-msgstr "Map: %s"
+msgstr ""
 
 msgid "Players: %s"
-msgstr "Spelers: %s"
+msgstr ""
 
 msgid "Gametype: %s"
-msgstr "Speltype: %s"
+msgstr ""
 
 msgid "Mod: %s"
-msgstr "Mod: %s"
+msgstr ""
 
 msgid "Ping: %s"
-msgstr "Ping: %s"
+msgstr ""
 
 msgid "Address: %s"
-msgstr "Adres: %s"
+msgstr ""
 
 msgid "IRC server connection"
-msgstr "Verbinding IRC server"
+msgstr ""
 
 msgid "Server port"
-msgstr "Server poort"
+msgstr ""
 
 msgid "Nickname"
-msgstr "Nickname"
+msgstr ""
 
 msgid "Channels"
-msgstr "Kanalen"
+msgstr ""
 
 msgid "Connect"
-msgstr "Verbinden"
+msgstr ""
 
 msgid "Disconnect"
-msgstr "Verbinding verbreken"
+msgstr ""
 
 msgid "Send"
-msgstr "Verzenden"
+msgstr ""
 
 msgid "Date: %s"
-msgstr "Datum: %s"
+msgstr ""
 
 msgid "Match: %s"
-msgstr "Spel: %s"
+msgstr ""
 
 msgid "Score: %s"
-msgstr "Score: %s"
+msgstr ""
 
 msgid "Duration: %s"
-msgstr "Duur: %s"
+msgstr ""
 
 msgid "Ready!"
-msgstr "Gereed!"
+msgstr ""
 
 msgid "Not ready!"
-msgstr "Niet gereed!"
+msgstr ""
 
 msgid "Join challengers queue"
-msgstr "Plaatsnemen in wachtrij"
+msgstr ""
 
 msgid "Leave challengers queue"
-msgstr "Verlaat de wachtrij"
+msgstr ""
 
 msgid "Join the game"
-msgstr "Sluit je aan bij het spel"
+msgstr ""
 
 msgid "Join any team"
-msgstr "Sluit je aan bij een team"
+msgstr ""
 
 msgid "Join %s"
-msgstr "Sluit je aan bij %s"
+msgstr ""
 
 msgid "Spectate"
-msgstr "Toeschouwen"
+msgstr ""
 
 msgid "Game menu"
-msgstr "Spelmenu"
+msgstr ""
 
 msgid "Call a vote"
-msgstr "Verzoek een stemronde"
+msgstr ""
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam"
-msgstr "Volgcamera"
+msgstr ""
 
 msgid "Main menu"
-msgstr "Hoofdmenu"
+msgstr ""
 
 msgid "Return to game"
-msgstr "Ga terug naar het spel"
+msgstr ""
 
 msgid "\"%s\" options"
-msgstr "\"%s\" opties"
+msgstr ""
 
 msgid "Refused: %s"
-msgstr "Geweigerd: %s"
+msgstr ""
 
 msgid "Press ESC to cancel"
-msgstr "Druk op ESC om te annuleren"
+msgstr ""
 
 msgid "Downloading %s from %s at %s k/s"
-msgstr "Download %s van %s @ %s kb/s"
+msgstr ""
 
 msgid "Owner left the listen server"
-msgstr "Eigenaar heeft zijn server verlaten"
+msgstr ""
 
 msgid "Server was killed"
-msgstr "Server werd gestopt"
+msgstr ""
 
 msgid "Server restarted"
-msgstr "Server herstart"
+msgstr ""
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam mode"
-msgstr "Volgcamera perspectief"
+msgstr ""
 
 msgid "Auto"
-msgstr "Аutomatisch"
+msgstr ""
 
 msgid "Objectives"
-msgstr "Doelstellingen"
+msgstr ""
 
 msgid "Powerups"
-msgstr "Powerups"
+msgstr ""
 
 msgid "Fraggers"
-msgstr "Fraggers"
+msgstr ""
 
 msgid "Highest score"
-msgstr "Hoogste score"
+msgstr ""
 
 msgid "Enable"
-msgstr "Inschakelen"
+msgstr ""
 
 msgid "Disable"
-msgstr "Uitschakelen"
+msgstr ""
 
 msgid "Watch"
-msgstr "Kijken"
+msgstr ""
 
 msgid "Viewers"
-msgstr "Toeschouwers"
+msgstr ""
 
 msgid "Reconnect"
-msgstr "Opnieuw verbinden"
+msgstr ""
 
 msgid "Votes"
-msgstr "Stemmen"
+msgstr ""
 
 msgid "Primary weapons"
-msgstr "Primaire wapens"
+msgstr ""
 
 msgid "Secondary weapons"
-msgstr "Secundaire wapens"
+msgstr ""
 
 #. "Bomb" gametype related option, means "I want to carry bomb"
 msgid "Carrier opt-in"
-msgstr "Bomdrager worden"
+msgstr ""
 
 #. "Bomb" gametype related option, means "I DON'T want to carry bomb"
 msgid "Carrier opt-out"
-msgstr "Geen bomdrager zijn"
+msgstr ""
 
+#. Selects classes in CTF Tactics
 msgid "Select class"
-msgstr "Kies klasse"
+msgstr ""
 
+#. CTF Tactics class
 msgid "Grunt"
-msgstr "Grunt"
+msgstr ""
 
+#. CTF Tactics class
 msgid "Medic"
-msgstr "Medic"
+msgstr ""
 
+#. CTF Tactics class
 msgid "Runner"
-msgstr "Runner"
+msgstr ""
 
+#. CTF Tactics class
 msgid "Engineer"
-msgstr "Engineer"
+msgstr ""
 
 msgid "Connection failed"
-msgstr "Verbinding mislukt"
+msgstr ""
 
 msgid "Connection terminated"
-msgstr "Verbinding beëindigd"
+msgstr ""
 
 msgid "Connection error"
-msgstr "Verbindingsfout"
+msgstr ""
 
 msgid "Couldn't connect to %s"
-msgstr "Kan geen verbinding maken met %s"
+msgstr ""
 
 msgid "Connection was terminated by %s"
-msgstr "Verbinding werd verbroken door %s"
+msgstr ""
 
 msgid "Error connecting to %s"
-msgstr "Fout bij het verbinden met %s"
+msgstr ""
 
 msgid "Reason: %s"
-msgstr "Reden: %s"
+msgstr ""
 
 msgid "Fullscreen anti-aliasing"
-msgstr "Volledig scherm anti-aliasing"
+msgstr ""
 
 msgid "Soft particles"
-msgstr "Zachte deeltjes"
+msgstr ""
 
 msgid "Weapon opacity"
-msgstr "Geweer ondoorzichtigheid"
+msgstr ""
 
 msgid "Vote yes"
-msgstr "Stem ja"
+msgstr ""
 
 msgid "Vote no"
-msgstr "Stem nee"
+msgstr ""
 
 msgid "Vote \"%s\" has been called"
-msgstr "Stemronde \"%s\" is afgebroken"
+msgstr ""
 
 msgid "Changes map"
-msgstr "Wijzigt map"
+msgstr ""
 
 msgid "Restarts current map"
-msgstr "Herstart huidige map"
+msgstr ""
 
 msgid "Jumps to the next map"
-msgstr "Schakelt naar de volgende map"
+msgstr ""
 
 msgid "Specify 0 to disable"
-msgstr "Specificeer 0 om uit te schakelen"
+msgstr ""
 
 msgid "Sets the number of frags or caps needed to win the match"
-msgstr "Zet het aantal frags of caps nodig om de match te winnen"
+msgstr ""
 
 msgid "Sets number of minutes after which the match ends"
-msgstr "Zet het aantal minuten dat de wedstrijd duurt"
+msgstr ""
 
 msgid "Changes the gametype"
-msgstr "Verandert het speltype"
+msgstr ""
 
 msgid "Sets the number of minutes after which the warmup ends"
-msgstr "Zet het aantal minuten dat de warming up duurt"
+msgstr ""
 
 msgid "Sets the length of the overtime"
-msgstr "Zet de duur van de extra tijd"
+msgstr ""
 
 msgid "Specify 0 to enable sudden death mode"
-msgstr "Specificeer 0 om sudden death in te schakelen"
+msgstr ""
 
 msgid "Sets the maximum number of players in one team"
-msgstr "Zet het maximale aantal spelers in een team"
+msgstr ""
 
 msgid "Locks teams to disallow players joining in mid-game"
-msgstr "Vergrendelt teams om te voorkomen dat spelers in het midden van een spel kunnen deelnemen"
+msgstr ""
 
 msgid "Unlocks teams to allow players joining in mid-game"
-msgstr "Ontgrendelt teams zodat spelers in het midden van een spel kunnen deelnemen"
+msgstr ""
 
 msgid "Sets all players as ready so the match can start"
-msgstr "Markeert alle spelers als gereed zodat de wedstrijd kan beginnen"
+msgstr ""
 
 msgid "Forces player back to spectator mode"
-msgstr "Dwingt speler terug naar toeschouwer modus"
+msgstr ""
 
 msgid "Removes player from the server"
-msgstr "Verwijdert een speler van de server"
+msgstr ""
 
 msgid "Removes player from the server and bans his IP-address for 15 minutes"
-msgstr "Verwijdert speler van de server en verbant zijn IP-adres voor 15 minuten"
+msgstr ""
 
 msgid "Disallows chat messages from the muted player"
-msgstr "Sta geen chat van een gedempte speler toe"
+msgstr ""
 
 msgid "Disallows voice chat messages from the muted player"
-msgstr "Sta geen stem chat van een gedempte speler toe"
+msgstr ""
 
 msgid "Reallows chat messages from the unmuted player"
-msgstr "Sta weer chat berichten toe van de ongedempte speler"
+msgstr ""
 
 msgid "Reallows voice chat messages from the unmuted player"
-msgstr "Sta weer spraak berichten to van de ongedempte speler"
+msgstr ""
 
 msgid "Sets the number of bots to play on the server"
-msgstr "Zet het aantal bots dat kan spelen op de server"
+msgstr ""
 
 msgid "Toggles whether shooting teammates will do damage to them"
-msgstr "Wissel tussen wel of geen schade toebrengen aan teamgenoten"
+msgstr ""
 
 msgid "Toggles whether instagun can be used for weapon jumping"
-msgstr "Bepaal of het instawapen kan worden gebruikt voor wapen sprongen"
+msgstr ""
 
 msgid "Toggles the availability of instashield in instagib"
-msgstr "Schakelt beschikbaarheid instashield in instagib aan/uit"
+msgstr ""
 
 msgid "Toggles whether falling long distances deals damage"
-msgstr "Valschade aan/uit"
+msgstr ""
 
 msgid "Toggles whether weapon splashes can damage self"
-msgstr "Schade door eigen wapens aan/uit"
+msgstr ""
 
 msgid "Pauses the game"
-msgstr "Pauzeert het spel"
+msgstr ""
 
 msgid "Resumes the game if in timeout"
-msgstr "Hervat het spel indien het gepauzeerd is"
+msgstr ""
 
 msgid "Toggles the challenging spectators queue line"
-msgstr "Schakelt toeschouwer wachtrij aan/uit"
+msgstr ""
 
 msgid "Toggles whether uneven teams is allowed"
-msgstr "Oneven teams aan/uit"
+msgstr ""
 
 msgid "Enables or disables the dropping of powerups at dying"
-msgstr "Schakelt laten vallen van powerups bij sterven aan/uit"
+msgstr ""
 
 msgid "Enables or disables instant flag captures and unlocks"
-msgstr "Schakelt direct oppakken van vlag en unlocks aan/uit"
+msgstr ""
 
 msgid "Enables or disables the spawning of powerups"
-msgstr "Schakelt spawnen van powerups aan/uit"
+msgstr ""
 
 msgid "If enabled, tag fragger will become new tag automatically"
-msgstr "Indien ingeschakeld wordt de fragger van de tagged speler automatisch getagged"
+msgstr ""
 
 msgid "Sets the speed at which the capture points heal their owners"
-msgstr "Instellen snelheid waarmee veroveringspunten leven van de eigenaar herstellen"
+msgstr ""
 
 msgid "Sets the time in seconds between reinforcement respawn waves"
-msgstr "Instellen tijd in seconden tussen versterkingsgolven"
+msgstr ""
 
 msgid "Downloading %s from server at %s k/s"
-msgstr "Downloading %s van de server met %s k/s"
+msgstr ""
 
 msgid "Downloading %s from the web at %s k/s"
-msgstr "Downloading %s van het web met %s k/s"
-
-msgid "Play"
-msgstr "Spelen"
+msgstr ""
 
 msgid "Reload"
-msgstr "Herladen"
+msgstr ""
 
 msgid "Logging in, hold on..."
-msgstr "Inloggen, even geduld..."
+msgstr ""
 
 msgid "Searching for game servers..."
-msgstr "Spelservers aan het zoeken..."
+msgstr ""
 
 msgid "Browse servers manually"
-msgstr "Zelf de servers doorbladeren"
+msgstr ""
 
+#. Award: On Fire!
+msgid "Get 5 frags in a row without getting fragged"
+msgstr "Elimineer 5 tegenstanders zonder dood te gaan"
+
+#. Award: God Mode!
+msgid "Get 25 frags in a row without getting fragged"
+msgstr "Maak 25 doden zonder zelf dood te gaan"
+
+#. Award: Mega-Health Control!
+msgid "Keep the Mega Health under your control"
+msgstr "Hou de megacontrole onder controle"
+
+#. Award: Triple Frag!
+msgid "Frag an opponent 3 times in a short time frame"
+msgstr ""
+
+#. Award: Direct Grenade Hit!
+msgid "Hit an opponent directly with a grenade a few times"
+msgstr ""
+
+#. Award: Last Call Defuse!
+msgid "Defuse the bomb at the last second"
+msgstr ""
+
+#. Award: Flag Recovery!
+msgid "Recover your flag from the opponent carrying it"
+msgstr ""
+
+#. Award: Extermination!
+msgid "Get 20 frags in a row without getting fragged"
+msgstr "Maak 20 eliminaties zonder dood te gaan"
+
+#. Award: Air Grenade!
+msgid "Frag an opponent in mid-air with a grenade"
+msgstr "Maak een eliminatie met een granaat waarbij de tegenstander in de lucht is"
+
+#. Award: Raging!
+msgid "Get 10 frags in a row without getting fragged"
+msgstr "Elimineer 10 tegenstanders zonder dood te gaan"
+
+#. Award: Win 1000 matches
+msgid "Congratulations! You have won 1000 matches!"
+msgstr "Gefeliciteerd! Je hebt 1000 potjes gewonnen!"
+
+#. Award: Quadruple Frag!
+msgid "Frag an opponent 4 times in a short time frame"
+msgstr ""
+
+#. Award: Flag Defense!
+msgid "Defend your flag or flag carrier"
+msgstr ""
+
+#. Award: Player of the Match!
+msgid "Score more points than other players and receive the \"Fair Play\" award in "
+"a single match"
+msgstr ""
+
+#. Award: Air Rocket!
+msgid "Frag an opponent in mid-air with a rocket"
+msgstr ""
+
+#. Award: Bomb Planted!
+msgid "Plant the bomb at a bomb site"
+msgstr ""
+
+#. Award: Win 100 matches
+msgid "Wow! You have won 100 matches!"
+msgstr ""
+
+#. Award: Fair Play!
+msgid "Show respect to your opponents during the post-match intermission"
+msgstr ""
+
+#. Award: Play 1000 matches
+msgid "Wow! You have played 1000 matches!"
+msgstr ""
+
+#. Award: Play 500 matches
+msgid "Wow! You have played 500 matches!"
+msgstr ""
+
+#. Award: Ninja Defuse!
+msgid "Defuse the bomb without being seen by the opponent"
+msgstr ""
+
+#. Award: Direct Rocket Hit!
+msgid "Hit an opponent directly with a rocket a few times"
+msgstr ""
+
+#. Award: Win 250 matches
+msgid "Congratulations! You have won 250 matches!"
+msgstr "Gefeliciteerd! Je hebt 250 potjes gewonnen!"
+
+#. Award: King of Bongo!
+msgid "Frag the entire opposing team in Bomb and Defuse"
+msgstr "Elimineer het gehele vijandelijke team in Bomb and Defuse"
+
+#. Award: Fast Plant!
+msgid "Plant the bomb within 10 seconds"
+msgstr "Plaats de bom binnen 10 seconden"
+
+#. Award: Bomb Carrier Frag!
+msgid "Frag the bomb-carrying opponent"
+msgstr "Elimineer de bom dragende tegenstander"
+
+#. Award: Meep Meep!
+msgid "Frag an opponent while moving at high speed"
+msgstr ""
+
+#. Award: Double Frag!
+msgid "Frag an opponent 2 times in a short time frame"
+msgstr ""
+
+#. Award: Fraglord!
+msgid "Get 15 frags in a row without getting fragged"
+msgstr "Elimineer 15 tegenstanders zonder dood te gaan"
+
+#. Award: Win 500 matches
+msgid "Congratulations! You have won 500 matches!"
+msgstr "Gefeliciteerd! Je hebt 500 potjes gewonnen!"
+
+#. Award: Coyote Wins!
+msgid "Frag a fast-moving opponent"
+msgstr "Dood een snel bewegende tegenstander"
+
+#. Award: Play 100 matches
+msgid "Wow! You have played 100 matches!"
+msgstr ""
+
+#. Award: Play 250 matches
+msgid "Wow! You have played 250 matches!"
+msgstr ""
+
+#. Award: Bomb Defused!
+msgid "Defuse the bomb"
+msgstr "Maak de bom onschadelijk"
+
+#. Award: Quakenet Exclusive!
+msgid "Register to Warfork during QuakeNet launch event"
+msgstr ""
+
+#. Award: Accuracy!
+msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
+msgstr ""
+
+#. Award: Flag Carrier Frag!
+msgid "Frag the opponent who has your flag"
+msgstr "Elimineer degene die jou vlag draagt"
+
+#. Award: Red Armor Control!
+msgid "Keep the Red Armor under your control"
+msgstr ""
+
+#. Award: First Frag!
+msgid "Score the first frag for your team in the match"
+msgstr ""

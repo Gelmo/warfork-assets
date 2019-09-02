@@ -1,22 +1,108 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:14+0000\n"
-"PO-Revision-Date: 2016-04-03 16:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: fi\n"
+"POT-Creation-Date: 2016-12-05 19:41+0000\n"
+"PO-Revision-Date: 2019-08-28 19:43+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Language-Team: Finnish (https://www.transifex.com/team-forbidden-llc/teams/102732/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Start/home page top button
+msgid "Home"
+msgstr ""
+
+#. Top button
+msgid "Play"
+msgstr "Pelaa"
+
+#. Top button
+msgid "Options"
+msgstr "Asetukset"
+
+#. Top button
+msgid "Quit"
+msgstr "Poistu"
+
+msgid "Please join us on Discord (link below) to participate in pickup games, game "
+"discussion, and more!"
+msgstr ""
+
+msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
+"Chasseur de Bots."
+msgstr ""
+
+msgid "Restart race"
+msgstr ""
+
+msgid "Enter practice mode"
+msgstr ""
+
+msgid "Leave practice mode"
+msgstr ""
+
+msgid "Enable noclip mode"
+msgstr ""
+
+msgid "Disable noclip mode"
+msgstr ""
+
+msgid "Save position"
+msgstr ""
+
+msgid "Load saved position"
+msgstr ""
+
+msgid "Clear saved position"
+msgstr ""
+
+#. Touch devices intro text
+msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your"
+" device as shown in the picture, with four of your fingers in front of the "
+"screen, to make sure you can perform movement tricks, aim and fire at the "
+"same time."
+msgstr ""
+
+msgid "View match info"
+msgstr ""
 
 #. UI slider for video brightness
 msgid "Brightness"
 msgstr "Kirkkaus"
 
+#. UI option cg_gunbob
+msgid "Enable weapon animation"
+msgstr ""
+
+msgid "Quick menu"
+msgstr ""
+
+msgid "Version %s of %s is available."
+msgstr ""
+
+msgid "Click OK for more information."
+msgstr ""
+
 msgid "Open in browser"
 msgstr "Avaa selaimessa"
+
+#. HUD option
+msgid "Match timer"
+msgstr ""
+
+#. Match timer option
+msgid "count down"
+msgstr ""
+
+#. Match timer option
+msgid "count up"
+msgstr ""
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
@@ -46,6 +132,9 @@ msgstr "keskiverto"
 msgid "stream"
 msgstr "stream"
 
+msgid "Accuracy details"
+msgstr ""
+
 msgid "View awards"
 msgstr "Katso palkintoja"
 
@@ -56,6 +145,10 @@ msgstr "Kirjaudu ulos"
 msgid "Weapon"
 msgstr "Ase"
 
+#. Weapon use percentage, it should as short as possible, 6 symbols max!
+msgid "Use"
+msgstr ""
+
 msgid "Accuracy"
 msgstr "Tarkkuus"
 
@@ -65,12 +158,22 @@ msgstr "Voitot"
 msgid "Losses / quits"
 msgstr "Häviöt / luovutukset"
 
+msgid "Frags / deaths"
+msgstr ""
+
 msgid "Friends"
 msgstr "Kaverit"
 
 #. Friend status
 msgid "Offline"
 msgstr "Kirjautunut ulos"
+
+#. Short form of "Accuracy", it should 6 symbols max!
+msgid "Acc"
+msgstr ""
+
+msgid "Time played:"
+msgstr ""
 
 msgid "Awards"
 msgstr "Palkinnot"
@@ -82,6 +185,9 @@ msgstr "Helppo"
 #. Bots' skill
 msgid "hard"
 msgstr "Vaikea"
+
+msgid "Suggested servers"
+msgstr ""
 
 msgid "Less than an hour"
 msgstr "Alle tunti"
@@ -98,8 +204,18 @@ msgstr "%s päivää, %s tuntia"
 msgid "Last seen %s days ago"
 msgstr "Nähty viimeksi %s päivää sitten"
 
+msgid "No data yet"
+msgstr ""
+
+msgid "No friends yet"
+msgstr ""
+
 msgid "Connected to"
 msgstr "Yhdistettiin"
+
+#. Team overlay in HUD
+msgid "Show team locations"
+msgstr ""
 
 msgid "Close"
 msgstr "Sulje"
@@ -107,7 +223,9 @@ msgstr "Sulje"
 msgid "Demo filename"
 msgstr "Demon nimi"
 
-#. Please use as short form as possible, 8 symbols max! It's a server browser column header displaying whether the server is ranked (sends your stats to forbidden.gg).
+#. Please use as short form as possible, 8 symbols max! It's a server browser
+#. column header displaying whether the server is ranked (sends your stats to
+#. forbidden.gg).
 msgid "Ranked"
 msgstr "Ranking"
 
@@ -122,26 +240,167 @@ msgstr "Kuvankaappaus"
 msgid "Scoreboard"
 msgstr "Pistetaulukko"
 
+#. UI's cg_showPressedKeys
+msgid "Show pressed keys"
+msgstr ""
+
+#. Language selector
+msgid "Language"
+msgstr ""
+
 msgid "Join"
 msgstr "Liity"
 
 #. "Bomb'n'defuse" description
-msgid "Team game mode where in which players join either the attacking team or the defending team. Each team attempts to complete their mission objective, either planting the bomb or defending the bomb site, or eliminate the opposing team."
-msgstr "Tiimipelimoodi, jossa pelaajat liittyvät joko hyökkäävään tai puolustavaan tiimiin. Molemmat tiimit pyrkivät saavuttamaan omat tavoitteensa, joko sijoittamalla pommin, puolustamalla pommialuetta tai eliminoimalla vastustavan tiimin."
+msgid "Team game mode where in which players join either the attacking team or the "
+"defending team. Each team attempts to complete their mission objective, "
+"either planting the bomb or defending the bomb site, or eliminate the "
+"opposing team."
+msgstr "Tiimipelimoodi, jossa pelaajat liittyvät joko hyökkäävään tai puolustavaan "
+"tiimiin. Molemmat tiimit pyrkivät saavuttamaan omat tavoitteensa, joko "
+"sijoittamalla pommin, puolustamalla pommialuetta tai eliminoimalla "
+"vastustavan tiimin."
+
+#. "Clan Arena" description
+msgid "Team game mode where you aim to eliminate the entire other team before your "
+"team dies. Clan Arena has no item pickups, you spawn with all weapons."
+msgstr ""
+
+#. "Capture the Flag" description
+msgid "Team game mode where the goal is to acquire the enemy teams flag and return "
+"it to your base."
+msgstr ""
+
+#. "Capture the Flag: Tactics" description
+msgid "Capture the Flag with highly specialized classes. This version of CTF needs "
+"team co-operation between the classes to win!"
+msgstr ""
+
+#. "Duel Arena" description
+msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
+"before each round. The winner of the round is challenged by the next player "
+"in the queue."
+msgstr ""
+
+#. "Deathmatch" description
+msgid "The goal of a deathmatch game is to frag as many other players as possible "
+"until the time or frag limit is reached."
+msgstr ""
+
+#. "Duel" description
+msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a "
+"draw there will be added 120 seconds overtime. The player who does the most "
+"frags wins the map."
+msgstr ""
+
+#. "Free for All" description
+msgid "The goal of a FFA game is to frag as many other players as possible until "
+"the time or frag limit is reached. Unlike in DM, you spawn with weapons and "
+"ammunition."
+msgstr ""
+
+#. "Headhunt" description
+msgid "Game mode where one player is tagged and all other players attempt to frag "
+"the tagged player. Tagged player gets score for each second he/she stays "
+"alive. The person who frags the tagged player, becomes tagged."
+msgstr ""
+
+#. "Race" description
+msgid "The goal of the race game mode is to finish the map or sector as quickly as "
+"possible!"
+msgstr ""
+
+#. "Team Deathmatch" description
+msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as "
+"many players of the opposing team as possible until the time or frag limit "
+"is reached."
+msgstr ""
+
+#. "Team Domination" description. Different areas = map places = objects.
+#. those areas are indicated. Once any team gets control over 3 areas - it
+#. gets a score and wins a round. Example: https://youtu.be/KAKpZUqft-w
+msgid "Team based game mode where teams attempt to gain control of three different "
+"areas in the map. The team who gains control of all three objects, wins the "
+"round."
+msgstr ""
 
 msgid "Open chat"
 msgstr "Avaa chat"
 
-msgid "The game server is suggesting you can watch this match on WarforkTV. Do you agree?"
-msgstr "Peliserveri ehdottaa sinulle tämän ottelun katsomista WarsovTV:ssä. Hyväksytkö?"
+msgid "The game server is suggesting you can watch this match on WarforkTV. Do you "
+"agree?"
+msgstr ""
+"Peliserveri ehdottaa sinulle tämän ottelun katsomista WarsovTV:ssä. "
+"Hyväksytkö?"
+
+#. %s - hostname, ip:port, time
+msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s "
+"seconds..."
+msgstr ""
+
+#. This option enables movement with +forward bunny hopping aka newmovement
+msgid "Acceleration on forward jumping"
+msgstr ""
+
+#. Toggles autohop possibility while pressing +moveup
+msgid "Disable autohop"
+msgstr ""
+
+#. UI option for cg_viewBob, animates view camera on landing from high jumps.
+msgid "Enable view animation"
+msgstr ""
+
+#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
+msgid "Show cartoon hit effect"
+msgstr ""
+
+#. Touch screen setting
+msgid "Touch look sensitivity"
+msgstr ""
+
+#. Touch screen setting
+msgid "Touch look deceleration"
+msgstr ""
+
+#. Touch screen setting
+msgid "Invert touch look"
+msgstr ""
+
+#. Touch screen setting
+msgid "Touch controls size"
+msgstr ""
+
+#. Touch screen setting
+msgid "Flip touch controls"
+msgstr ""
+
+#. Gamepad setting
+msgid "Horizontal stick sensitivity"
+msgstr ""
+
+#. Gamepad setting
+msgid "Vertical stick sensitivity"
+msgstr ""
+
+#. Gamepad setting
+msgid "Invert gamepad look"
+msgstr ""
+
+#. Gamepad setting
+msgid "Swap gamepad sticks"
+msgstr ""
 
 #. cg_chatBeep
 msgid "Chat message sound"
 msgstr "Viestin merkkiääni"
 
-#. Toggles possibility to play ingame sounds while its window is unfocused or minimized
+#. Toggles possibility to play ingame sounds while its window is unfocused or
+#. minimized
 msgid "Keep playing sounds in background"
 msgstr "Toista äänet ohjelman ollessa taustalla"
+
+msgid "Play on a ranked server to start tracking your stats."
+msgstr ""
 
 #. Bots' number
 msgid "Bots: %s"
@@ -150,37 +409,86 @@ msgstr "Botit: %s"
 msgid "The selected HUD may not be optimized for touchscreen input."
 msgstr "Valittu HUD ei ehkä ole optimoitu kosketusnäytölle."
 
+#. r_dynamiclight
+msgid "Dynamic lights"
+msgstr ""
+
+#. Dynamic lights' setting
+msgid "simple lights"
+msgstr ""
+
+#. Dynamic lights' setting
+msgid "per-pixel lights"
+msgstr ""
+
 #. disable popup window with suggested server in server browser
 msgid "Don't suggest servers"
 msgstr "Älä ehdota servereitä"
+
+#. Gamepad setting
+msgid "Gamepad look acceleration"
+msgstr ""
 
 #. UI option for cl_maxfps
 msgid "Framerate (FPS) limit"
 msgstr "Kuvataajuuden (FPS) rajoitus"
 
+#. Back to the previous menu
+msgid "Back"
+msgstr ""
+
+#. Similar to "Call a vote"
+msgid "Cast a vote"
+msgstr ""
+
+msgid "Color correction"
+msgstr ""
+
+msgid "Use the selected model for all players"
+msgstr ""
+
 msgid "Use the selected color for all players"
 msgstr "Käytä valittua väriä kaikille pelaajille"
+
+#. "Tutorial" gametype description
+msgid "Game mode which provides hints on basic Warfork movements and allows the "
+"player to play a duel match against an AI-controlled opponent."
+msgstr ""
+
+msgid "Don't ask me again"
+msgstr ""
+
+#. Button that manually starts tutorial map
+msgid "Gameplay tutorial"
+msgstr ""
+
+msgid "You are about to launch the tutorial stage of Warfork. Continue?"
+msgstr ""
 
 msgid "Welcome to Warfork!"
 msgstr "Tervetuloa Warforkan!"
 
-msgid "News"
-msgstr "Uutiset"
+msgid "Perhaps you would like to learn the basics of the gameplay and test your "
+"combat skills on our tutorial?"
+msgstr ""
 
-msgid "New Game"
-msgstr "Uusi peli"
+#. Callvote option "shuffle"
+msgid "Shuffles teams"
+msgstr ""
+
+#. Password reset link
+msgid "Forgot your password?"
+msgstr ""
+
+#. "Race" tab in the server browser
+msgid "Race"
+msgstr ""
 
 msgid "Profile"
 msgstr "Profiili"
 
 msgid "Chat"
 msgstr "Chat"
-
-msgid "Options"
-msgstr "Asetukset"
-
-msgid "Quit"
-msgstr "Poistu"
 
 msgid "Player"
 msgstr "Pelaaja"
@@ -228,6 +536,7 @@ msgstr "Asekäsi"
 msgid "default"
 msgstr "oletus"
 
+#. gun position
 msgid "right"
 msgstr "oikea"
 
@@ -235,6 +544,7 @@ msgstr "oikea"
 msgid "left"
 msgstr "vasen"
 
+#. gun position
 msgid "center"
 msgstr "keski"
 
@@ -247,9 +557,12 @@ msgstr "FOV zoomatessa"
 msgid "Simple items"
 msgstr "Yksinkertaiset esineet"
 
-msgid "Show teammates' names"
-msgstr "Näytä joukkuekavereiden nimet"
+#. Shows indicators at the top of the teammates, even if they are not visible
+#. through the walls
+msgid "Show teammates' indicators"
+msgstr ""
 
+#. Shows help messages at the top of the screen in-game
 msgid "Show help"
 msgstr "Näytä ohjeet"
 
@@ -277,12 +590,6 @@ msgstr "Ruudunkaappaus pelin loputtua"
 msgid "Save match stats"
 msgstr "Tallenna pelien tilastot"
 
-msgid "Alpha"
-msgstr "Alpha"
-
-msgid "Beta"
-msgstr "Beta"
-
 msgid "Players"
 msgstr "Pelaajat"
 
@@ -292,6 +599,8 @@ msgstr "Joukkue"
 msgid "Fullbright skin"
 msgstr "Täyskirkas pinnoite"
 
+#. Forces your color and model to the one that team Forbidden has, "FORBIDDEN"
+#. shouldn't be translated
 msgid "Force your team as FORBIDDEN"
 msgstr "Pakota joukkueesi \"FORBIDDEN\"ksi"
 
@@ -367,8 +676,8 @@ msgstr "Efektien äänenvoimakkuus"
 msgid "Announcer volume"
 msgstr "Kuuluttajan äänenvoimakkuus"
 
-msgid "Voice chat volume"
-msgstr "Äänikeskustelun voimakkuus"
+msgid "Voice commands volume"
+msgstr ""
 
 msgid "Hit sounds volume"
 msgstr "Osumaäänen voimakkuus"
@@ -385,8 +694,8 @@ msgstr "Toiminnot"
 msgid "Weapons"
 msgstr "Aseet"
 
-msgid "Voice chat"
-msgstr "Äänikeskustelu"
+msgid "Voice commands"
+msgstr ""
 
 msgid "Saved"
 msgstr "Tallennettu"
@@ -461,8 +770,10 @@ msgstr "Joukkueen chat"
 msgid "Login to forbidden.gg"
 msgstr "Kirjaudu forbidden.ggiin"
 
-msgid "Login with your forbidden.gg account to save your statistics and match results."
-msgstr "Kirjaudu sisään forbidden.gg -tunnuksillasi tallentaaksesi tilastosi ja peliesi tulokset."
+msgid "Login with your forbidden.gg account to save your statistics and match "
+"results."
+msgstr "Kirjaudu sisään forbidden.gg -tunnuksillasi tallentaaksesi tilastosi ja "
+"peliesi tulokset."
 
 msgid "Don't have an account?"
 msgstr "Etkö omista tunnusta?"
@@ -509,8 +820,8 @@ msgstr "Pelimuoto"
 msgid "Match browser"
 msgstr "Peliselain"
 
-msgid "Local game"
-msgstr "Paikallinen peli"
+msgid "Host game"
+msgstr ""
 
 msgid "Demo browser"
 msgstr "Demoselain"
@@ -644,7 +955,8 @@ msgstr "Pelivalikko"
 msgid "Call a vote"
 msgstr "Aloita äänestys"
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam"
 msgstr "Seurantakamera"
 
@@ -666,13 +978,17 @@ msgstr "Paina ESC peruuttaaksesi"
 msgid "Downloading %s from %s at %s k/s"
 msgstr "Ladataan %s sijainnista %s nopeudella %s k/s"
 
+msgid "Owner left the listen server"
+msgstr ""
+
 msgid "Server was killed"
 msgstr "Palvelin suljettiin"
 
 msgid "Server restarted"
 msgstr "Palvelin uudelleenkäynnistettiin"
 
-#. Spectators options like follow fragger, follow flag carrier or free cam, etc.
+#. Spectators options like follow fragger, follow flag carrier or free cam,
+#. etc.
 msgid "Chasecam mode"
 msgstr "Kameraseurantatila"
 
@@ -723,18 +1039,23 @@ msgstr "Haluan kantaa pommia"
 msgid "Carrier opt-out"
 msgstr "En halua kantaa pommia"
 
+#. Selects classes in CTF Tactics
 msgid "Select class"
 msgstr "Valitse hahmoluokka"
 
+#. CTF Tactics class
 msgid "Grunt"
 msgstr "Sotilas"
 
+#. CTF Tactics class
 msgid "Medic"
 msgstr "Lääkintämies"
 
+#. CTF Tactics class
 msgid "Runner"
 msgstr "Juoksija"
 
+#. CTF Tactics class
 msgid "Engineer"
 msgstr "Insinööri"
 
@@ -888,9 +1209,177 @@ msgstr "Asettaa kaappauspisteen parannusnopeuden"
 msgid "Sets the time in seconds between reinforcement respawn waves"
 msgstr "Asettaa tukijoukkojen uudelleensaapumisajan sekunneissa"
 
-msgid "Play"
-msgstr "Pelaa"
+msgid "Downloading %s from server at %s k/s"
+msgstr ""
+
+msgid "Downloading %s from the web at %s k/s"
+msgstr ""
 
 msgid "Reload"
 msgstr "Ladata uudelleen"
 
+msgid "Logging in, hold on..."
+msgstr ""
+
+msgid "Searching for game servers..."
+msgstr ""
+
+msgid "Browse servers manually"
+msgstr ""
+
+#. Award: On Fire!
+msgid "Get 5 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: God Mode!
+msgid "Get 25 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: Mega-Health Control!
+msgid "Keep the Mega Health under your control"
+msgstr ""
+
+#. Award: Triple Frag!
+msgid "Frag an opponent 3 times in a short time frame"
+msgstr ""
+
+#. Award: Direct Grenade Hit!
+msgid "Hit an opponent directly with a grenade a few times"
+msgstr ""
+
+#. Award: Last Call Defuse!
+msgid "Defuse the bomb at the last second"
+msgstr ""
+
+#. Award: Flag Recovery!
+msgid "Recover your flag from the opponent carrying it"
+msgstr ""
+
+#. Award: Extermination!
+msgid "Get 20 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: Air Grenade!
+msgid "Frag an opponent in mid-air with a grenade"
+msgstr ""
+
+#. Award: Raging!
+msgid "Get 10 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: Win 1000 matches
+msgid "Congratulations! You have won 1000 matches!"
+msgstr ""
+
+#. Award: Quadruple Frag!
+msgid "Frag an opponent 4 times in a short time frame"
+msgstr ""
+
+#. Award: Flag Defense!
+msgid "Defend your flag or flag carrier"
+msgstr ""
+
+#. Award: Player of the Match!
+msgid "Score more points than other players and receive the \"Fair Play\" award in "
+"a single match"
+msgstr ""
+
+#. Award: Air Rocket!
+msgid "Frag an opponent in mid-air with a rocket"
+msgstr ""
+
+#. Award: Bomb Planted!
+msgid "Plant the bomb at a bomb site"
+msgstr ""
+
+#. Award: Win 100 matches
+msgid "Wow! You have won 100 matches!"
+msgstr ""
+
+#. Award: Fair Play!
+msgid "Show respect to your opponents during the post-match intermission"
+msgstr ""
+
+#. Award: Play 1000 matches
+msgid "Wow! You have played 1000 matches!"
+msgstr ""
+
+#. Award: Play 500 matches
+msgid "Wow! You have played 500 matches!"
+msgstr ""
+
+#. Award: Ninja Defuse!
+msgid "Defuse the bomb without being seen by the opponent"
+msgstr ""
+
+#. Award: Direct Rocket Hit!
+msgid "Hit an opponent directly with a rocket a few times"
+msgstr ""
+
+#. Award: Win 250 matches
+msgid "Congratulations! You have won 250 matches!"
+msgstr ""
+
+#. Award: King of Bongo!
+msgid "Frag the entire opposing team in Bomb and Defuse"
+msgstr ""
+
+#. Award: Fast Plant!
+msgid "Plant the bomb within 10 seconds"
+msgstr ""
+
+#. Award: Bomb Carrier Frag!
+msgid "Frag the bomb-carrying opponent"
+msgstr ""
+
+#. Award: Meep Meep!
+msgid "Frag an opponent while moving at high speed"
+msgstr ""
+
+#. Award: Double Frag!
+msgid "Frag an opponent 2 times in a short time frame"
+msgstr ""
+
+#. Award: Fraglord!
+msgid "Get 15 frags in a row without getting fragged"
+msgstr ""
+
+#. Award: Win 500 matches
+msgid "Congratulations! You have won 500 matches!"
+msgstr ""
+
+#. Award: Coyote Wins!
+msgid "Frag a fast-moving opponent"
+msgstr ""
+
+#. Award: Play 100 matches
+msgid "Wow! You have played 100 matches!"
+msgstr ""
+
+#. Award: Play 250 matches
+msgid "Wow! You have played 250 matches!"
+msgstr ""
+
+#. Award: Bomb Defused!
+msgid "Defuse the bomb"
+msgstr ""
+
+#. Award: Quakenet Exclusive!
+msgid "Register to Warfork during QuakeNet launch event"
+msgstr ""
+
+#. Award: Accuracy!
+msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
+msgstr ""
+
+#. Award: Flag Carrier Frag!
+msgid "Frag the opponent who has your flag"
+msgstr ""
+
+#. Award: Red Armor Control!
+msgid "Keep the Red Armor under your control"
+msgstr ""
+
+#. Award: First Frag!
+msgid "Score the first frag for your team in the match"
+msgstr ""

@@ -1,333 +1,331 @@
 # Translators:
-# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# Phạm Đức "DuyMazino" Bảo Duy <duymazino@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-05 19:41+0000\n"
 "PO-Revision-Date: 2019-08-28 19:43+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
-"Language-Team: Turkish (https://www.transifex.com/team-forbidden-llc/teams/102732/tr/)\n"
+"Last-Translator: Phạm Đức \"DuyMazino\" Bảo Duy <duymazino@gmail.com>, 2019\n"
+"Language-Team: Vietnamese (https://www.transifex.com/team-forbidden-llc/teams/102732/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. Start/home page top button
 msgid "Home"
-msgstr "Ana Sayfa"
+msgstr "Trang Chủ"
 
 #. Top button
 msgid "Play"
-msgstr "Oyna"
+msgstr "Chơi"
 
 #. Top button
 msgid "Options"
-msgstr "Ayarlar"
+msgstr "Tùy Chỉnh"
 
 #. Top button
 msgid "Quit"
-msgstr "Çıkış"
+msgstr "Thoát"
 
 msgid "Please join us on Discord (link below) to participate in pickup games, game "
 "discussion, and more!"
-msgstr ""
+msgstr "Tham gia cùng chúng tôi trên Discord (liên kết bên dưới) để cùng chơi, thảo "
+"luận và nhiều hơn nữa!"
 
 msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
 "Chasseur de Bots."
-msgstr ""
+msgstr "Tuyên bố pháp lý: Warfork không hề liên quan gì đến Warsow, Warsow Team, "
+"hoặc Chasseur de Bots."
 
 msgid "Restart race"
-msgstr ""
+msgstr "Đua lại"
 
 msgid "Enter practice mode"
-msgstr ""
+msgstr "Vào Chế độ Tập Luyện"
 
 msgid "Leave practice mode"
-msgstr ""
+msgstr "Thoát Chế độ Tập Luyện"
 
 msgid "Enable noclip mode"
-msgstr ""
+msgstr "Bật Noclip"
 
 msgid "Disable noclip mode"
-msgstr ""
+msgstr "Tắt Noclip"
 
 msgid "Save position"
-msgstr ""
+msgstr "Lưu vị trí"
 
 msgid "Load saved position"
-msgstr ""
+msgstr "Tải lại vị trí"
 
 msgid "Clear saved position"
-msgstr ""
+msgstr "Xóa vị trí đã lưu"
 
 #. Touch devices intro text
 msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your"
 " device as shown in the picture, with four of your fingers in front of the "
 "screen, to make sure you can perform movement tricks, aim and fire at the "
 "same time."
-msgstr ""
+msgstr "Warfork là một trò chơi tiết tấu nhanh với cách di chuyển độc đáo. Khi đang "
+"chơi, giữ thiết bị sao cho như hình, với bốn ngón tay trước màn hình, để đảm"
+" bảo bạn có thể làm các thủ thuật di chuyển, ngắm bắn cùng một lúc"
 
 msgid "View match info"
-msgstr ""
+msgstr "Xem thông tin trận đấu"
 
 #. UI slider for video brightness
 msgid "Brightness"
-msgstr "Parlaklık"
+msgstr "Độ Sáng"
 
 #. UI option cg_gunbob
 msgid "Enable weapon animation"
-msgstr "Silah animasyon etkinlestirme"
+msgstr "Bật Anmation Vũ Khí"
 
 msgid "Quick menu"
-msgstr "Hizli Menü"
+msgstr "Menu Nhanh"
 
 msgid "Version %s of %s is available."
-msgstr "Version %s of %s cikti."
+msgstr "Phiên bản%s của %s đã sẵn sàng"
 
 msgid "Click OK for more information."
-msgstr "Fazla bilgi icin OK'ye bas."
+msgstr "Nhấn OK để xem thêm thông tin"
 
 msgid "Open in browser"
-msgstr "Tarayıcıda aç"
+msgstr "Mở trong trình duyệt"
 
 #. HUD option
 msgid "Match timer"
-msgstr "Oyun süresi"
+msgstr "Thời Gian Trận"
 
 #. Match timer option
 msgid "count down"
-msgstr "geri sayım"
+msgstr "Đếm ngược"
 
 #. Match timer option
 msgid "count up"
-msgstr "ileri sayım"
+msgstr "Đếm tới"
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
-msgstr "Çıkmak istediğine emin misin?"
+msgstr "Bạn có chắc chắn muốn Thoát?"
 
 #. Graphics profile's name
 msgid "contrast"
-msgstr "karşıtlık"
+msgstr "Tương Phản"
 
 #. Graphics profile's name
 msgid "high"
-msgstr "Yüksek"
+msgstr "Cao"
 
 #. Graphics profile's name
 msgid "high+"
-msgstr "Yüksek+"
+msgstr "Cao+"
 
 #. Graphics profile's name
 msgid "low"
-msgstr "Düşük"
+msgstr "Thấp"
 
 #. Graphics profile's name / Bots' skill
 msgid "medium"
-msgstr "Orta"
+msgstr "Trung Bình"
 
 #. Graphics profile's name
 msgid "stream"
-msgstr "akış"
+msgstr "Stream"
 
 msgid "Accuracy details"
-msgstr "İsabet detayı"
+msgstr "Chi tiết độ chuẩn xác"
 
 msgid "View awards"
-msgstr "Ödülleri Görüntüle"
+msgstr "Xem phần thưởng"
 
 #. Logout from forbidden.gg
 msgid "Logout"
-msgstr "Çıkış Yap"
+msgstr "Đăng Xuất"
 
 msgid "Weapon"
-msgstr "Silah"
+msgstr "Vũ Khí"
 
 #. Weapon use percentage, it should as short as possible, 6 symbols max!
 msgid "Use"
-msgstr "Kullanım"
+msgstr "Tương Tác"
 
 msgid "Accuracy"
-msgstr "İsabet"
+msgstr "Bắn chuẩn xác!"
 
 msgid "Wins"
-msgstr "Zafer"
+msgstr "Trận Thắng"
 
 msgid "Losses / quits"
-msgstr "Malubiyet / Terk"
+msgstr "Trận thua/Bỏ cuộc"
 
 msgid "Frags / deaths"
-msgstr "Frags / deaths"
+msgstr "Mạng / Chết"
 
 msgid "Friends"
-msgstr "Arkadaşlar"
+msgstr "Bạn Bè"
 
 #. Friend status
 msgid "Offline"
-msgstr "Çevrimdışı"
+msgstr "Không Trực Tuyến"
 
 #. Short form of "Accuracy", it should 6 symbols max!
 msgid "Acc"
-msgstr "İsabet"
+msgstr "ĐCX"
 
 msgid "Time played:"
-msgstr "Oyun Süresi"
+msgstr "Thời gian chơi:"
 
 msgid "Awards"
-msgstr "Ödüller"
+msgstr "Phần Thưởng"
 
 #. Bots' skill
 msgid "easy"
-msgstr "kolay"
+msgstr "Dễ"
 
 #. Bots' skill
 msgid "hard"
-msgstr "zor"
+msgstr "Khó"
 
 msgid "Suggested servers"
-msgstr "Önerilen sunucular"
+msgstr "Máy chủ đề nghị"
 
 msgid "Less than an hour"
-msgstr "Bir saatten az"
+msgstr "Ít hơn một giờ"
 
 msgid "1 hour"
-msgstr "1 saat"
+msgstr "1 Giờ"
 
 msgid "%s hours"
-msgstr "%s saat"
+msgstr "%s Giờ"
 
 msgid "%s days, %s hours"
-msgstr "%s gün, %s saat"
+msgstr "%s Ngày, %s Giờ"
 
 msgid "Last seen %s days ago"
-msgstr "Son görülme %s gün önce"
+msgstr "Lần cuối thấy %s ngày trước"
 
 msgid "No data yet"
-msgstr "Henüz veri yok"
+msgstr "Chưa có dữ liệu"
 
 msgid "No friends yet"
-msgstr "Henüz arkadaş yok"
+msgstr "Chưa có bạn bè"
 
 msgid "Connected to"
-msgstr "Bağlanıldı"
+msgstr "Được kết nối đến"
 
 #. Team overlay in HUD
 msgid "Show team locations"
-msgstr "Takım konumunu göster"
+msgstr "Xem vị trí đồng đội"
 
 msgid "Close"
-msgstr "Kapat"
+msgstr "Đóng"
 
 msgid "Demo filename"
-msgstr "Demo dosyaismi"
+msgstr "Tên tệp Demo"
 
 #. Please use as short form as possible, 8 symbols max! It's a server browser
 #. column header displaying whether the server is ranked (sends your stats to
 #. forbidden.gg).
 msgid "Ranked"
-msgstr "Rütbeli"
+msgstr "Xếp Hạng"
 
 msgid "Password required"
-msgstr "Şifre gerekli"
+msgstr "Cần Có Mật Khẩu"
 
 #. UI bind for making screenshots
 msgid "Screenshot"
-msgstr "Ekran Alıntısı"
+msgstr "Chụp Màn Hình"
 
 #. Key binding - hold to show the scoreboard
 msgid "Scoreboard"
-msgstr "Skor Tablosu"
+msgstr "Bảng Điểm"
 
 #. UI's cg_showPressedKeys
 msgid "Show pressed keys"
-msgstr "Basılı tuşları göster"
+msgstr "Hiện Nút Bấm"
 
 #. Language selector
 msgid "Language"
 msgstr ""
 
 msgid "Join"
-msgstr "Katıl"
+msgstr "Tham Gia Trận"
 
 #. "Bomb'n'defuse" description
 msgid "Team game mode where in which players join either the attacking team or the "
 "defending team. Each team attempts to complete their mission objective, "
 "either planting the bomb or defending the bomb site, or eliminate the "
 "opposing team."
-msgstr "Hangi oyuncuların hücum takımı ya da savunma ekibine ya katılmak Takım oyunu"
-" modu. Her takım bomba ekim veya bomba siteyi savunan, ya da rakip takım "
-"ortadan kaldırmak ya da misyon hedefi tamamlamak için çalışır."
+msgstr "Chế độ chơi tổ đội - Người chơi tham gia phe công hoặc thủ. Mỗi đội sẽ cố "
+"hoàn thành mục tiêu: Đặt bom hoặc thủ bombsite, hoặc tiêu diệt đội địch"
 
 #. "Clan Arena" description
 msgid "Team game mode where you aim to eliminate the entire other team before your "
 "team dies. Clan Arena has no item pickups, you spawn with all weapons."
-msgstr "Takım oyunu Eğer takım ölmeden önce tüm diğer takım ortadan hedefliyoruz "
-"modu. Klan Arena hiçbir öğe manyetikler vardır, tüm silahlar ile spawn."
+msgstr "Chế độ chơi tổ đội - Giết toàn bộ địch trước khi đội của bạn bị tiêu diệt. "
+"Clan Arena không có vật phẩm, bạn hồi sinh với toàn bộ vũ khí"
 
 #. "Capture the Flag" description
 msgid "Team game mode where the goal is to acquire the enemy teams flag and return "
 "it to your base."
-msgstr "Amacınız düşman ekipleri bayrağı kazanmak ve tabanına dönmek için takım "
-"oyunu modu."
+msgstr "Chế độ chơi tổ đội - Mục tiêu của bạn là mang cờ của đội địch về nhà mình"
 
 #. "Capture the Flag: Tactics" description
 msgid "Capture the Flag with highly specialized classes. This version of CTF needs "
 "team co-operation between the classes to win!"
-msgstr "Son derece uzmanlaşmış sınıflarıyla Capture the Flag. CTF bu sürümü kazanmak"
-" için sınıflar arası ekip işbirliğini ihtiyacı var!"
+msgstr "Cướp Cờ nhưng có phân vai. Phiên bản Cướp Cờ này cần có sự hợp tác để thắng."
 
 #. "Duel Arena" description
 msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
 "before each round. The winner of the round is challenged by the next player "
 "in the queue."
-msgstr "1-on-1 çatışmalarda çoğu rakibinizi yenin. Cephanelik tam olarak her turdan "
-"önce doldurulan. Turun galibi kuyruğunda sonraki oyuncu tarafından meydan."
+msgstr "Hạ đối thủ của bạn trong một trận 1-Đấu-1. Kho vũ khí của bạn được nạp lại "
+"sau mỗi vòng đấu. Người chiến thắng sẽ đấu với người tiếp theo trong hàng "
+"chờ"
 
 #. "Deathmatch" description
 msgid "The goal of a deathmatch game is to frag as many other players as possible "
 "until the time or frag limit is reached."
-msgstr "Bir deathmatch Oyunun amacı süresi veya frag limitine ulaşıldığında kadar "
-"mümkün olduğunca çok sayıda diğer oyuncular gemileri yoketmek için sıçrama "
-"olduğunu."
+msgstr "Mục tiêu của Đấu Đơn - Deathmatch là giết nhiều nhất có thể trước khi hết "
+"thời gian"
 
 #. "Duel" description
 msgid "Duel is a 1vs1 game mode. The standard match lasts 10 minutes, if there's a "
 "draw there will be added 120 seconds overtime. The player who does the most "
 "frags wins the map."
-msgstr "Düello bir 1vs1 oyun modu. 120 saniye mesai orada eklenecektir beraberlik "
-"varsa standart maç, 10 dakika sürer. En frag yapan oyuncu haritası kazanır."
+msgstr "Đấu Tay Đôi - Duel - là chế độ 1-Đấu-1. Một trận đấu dài 10 phút, nếu trận "
+"đấu hòa thì sẽ có 120 giây bù giờ. Người giết nhiều hơn sẽ thắng"
 
 #. "Free for All" description
 msgid "The goal of a FFA game is to frag as many other players as possible until "
 "the time or frag limit is reached. Unlike in DM, you spawn with weapons and "
 "ammunition."
-msgstr "Bir FFA Oyunun amacı süresi veya frag limitine ulaşıldığında kadar mümkün "
-"olduğunca çok sayıda diğer oyuncular gemileri yoketmek için sıçrama "
-"olduğunu. DM aksine, silah ve mühimmat ile spawn."
+msgstr "Mục tiêu của Đấu Tự Do - FFA - là giết nhiều nhất có thể. Tuy nhiên khác với"
+" Đấu Đơn, bạn có tất cả vũ khí"
 
 #. "Headhunt" description
 msgid "Game mode where one player is tagged and all other players attempt to frag "
 "the tagged player. Tagged player gets score for each second he/she stays "
 "alive. The person who frags the tagged player, becomes tagged."
-msgstr "Bir oyuncu etiketli ve tüm diğer oyuncular etiketli gemileri yoketmek için "
-"sıçrama girişimi olan oyun modu. Takip edilen oyuncu o / o hayatta kalır her"
-" saniye için puan alır. Levhası 'oyuncuya Frags kişi, etiketli hale gelir."
+msgstr "Trong chế độ Săn Đầu - một người chơi sẽ bị đánh dấu và các người chơi khác "
+"cần giết người bị đánh dấu. Người bị đánh dấu ăn điểm mỗi giây sống sót. "
+"Người giết người bị đánh dấu, sẽ trở nên bị đánh dấu"
 
 #. "Race" description
 msgid "The goal of the race game mode is to finish the map or sector as quickly as "
 "possible!"
-msgstr "Yarış oyun modu amacı mümkün olduğunca çabuk harita ya da sektör bitirmek "
-"üzere!"
+msgstr "Mục tiêu của chế độ Đua là hoàn thành Map nhanh nhất có thể!"
 
 #. "Team Deathmatch" description
 msgid "Team-vs-team game mode. The goal of a team deathmatch game is to frag as "
 "many players of the opposing team as possible until the time or frag limit "
 "is reached."
-msgstr "Takım-vs-takım oyunu modu. Bir takım deathmatch Oyunun amacı süresi veya "
-"frag limitine ulaşıldığında kadar mümkün olduğunca rakip takımın birçok "
-"oyuncu gemileri yoketmek için sıçrama olduğunu."
+msgstr "Chế độ Đấu Đội - Mục tiêu là giết đội địch nhiều hơn trước khi hết thời "
+"gian."
 
 #. "Team Domination" description. Different areas = map places = objects.
 #. those areas are indicated. Once any team gets control over 3 areas - it
@@ -335,1068 +333,1065 @@ msgstr "Takım-vs-takım oyunu modu. Bir takım deathmatch Oyunun amacı süresi
 msgid "Team based game mode where teams attempt to gain control of three different "
 "areas in the map. The team who gains control of all three objects, wins the "
 "round."
-msgstr "Takım ekipleri haritasında üç farklı alanlarda denetimini ele geçirmesine "
-"girişiminde tabanlı oyun modu. Her üç nesnelerin kontrolünü kazanır ekibi, "
-"yuvarlak kazanır."
+msgstr "Chế độ mà các đội sẽ giành kiểm soát 3 khu vực trên bản đồ. Đội chiếm được "
+"cả 3 điểm sẽ thắng"
 
 msgid "Open chat"
-msgstr "Acik Sohbet"
+msgstr "Chat Tổng"
 
 msgid "The game server is suggesting you can watch this match on WarforkTV. Do you "
 "agree?"
-msgstr "Oyun sunucusu WarforkTV bu maç izleyebilirsiniz öneriyor. Katılıyor musun?"
+msgstr "Máy chủ đề nghị bạn có thể xem trận đấu trên WarforkTV. Bạn có đồng ý?"
 
 #. %s - hostname, ip:port, time
 msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s "
 "seconds..."
-msgstr "Otomatikmen WarforkTV serverine \"%s\" in %s ve %s saniye sonra "
-"baglanacaktir..."
+msgstr "Bạn sẽ được kết nối tự động đến máy chủ WarforkTV \"%s\" tại địa chỉ \"%s\" "
+"trong \"%s\" giây"
 
 #. This option enables movement with +forward bunny hopping aka newmovement
 msgid "Acceleration on forward jumping"
-msgstr "İleri atlama üzerinde Hızlanma"
+msgstr "Tăng tốc khi nhảy về phía trước"
 
 #. Toggles autohop possibility while pressing +moveup
 msgid "Disable autohop"
-msgstr "Autohop Devre disi"
+msgstr "Tắt tự động nhảy"
 
 #. UI option for cg_viewBob, animates view camera on landing from high jumps.
 msgid "Enable view animation"
-msgstr "Görünümü animasyon etkinlestirme"
+msgstr "Bật Animation View"
 
 #. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
 msgid "Show cartoon hit effect"
-msgstr ""
+msgstr "Hiện hiệu ứng hoạt hình"
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
-msgstr "Dokunmatik bakmak hassasiyeti"
+msgstr "Độ Nhạy Chuột Cảm Ứng"
 
 #. Touch screen setting
 msgid "Touch look deceleration"
-msgstr "Dokunmatik bakmak yavaşlama"
+msgstr "Độ Giảm Tốc Cảm Ứng"
 
 #. Touch screen setting
 msgid "Invert touch look"
-msgstr "Dokunmatik görünüm ters"
+msgstr "Đảo Chiều Chuột Cảm Ứng"
 
 #. Touch screen setting
 msgid "Touch controls size"
-msgstr "Dokunmatik kontroller boyutu"
+msgstr "Kích cỡ Điều khiển cảm ứng"
 
 #. Touch screen setting
 msgid "Flip touch controls"
-msgstr "Dokunmatik kontroller çevirmek"
+msgstr "Xoay ngược điều khiển cảm ứng"
 
 #. Gamepad setting
 msgid "Horizontal stick sensitivity"
-msgstr "Yatay çubuk hassasiyeti"
+msgstr "Độ Nhạy Ngang Cần Nắm"
 
 #. Gamepad setting
 msgid "Vertical stick sensitivity"
-msgstr "Dikey çubuk hassasiyeti"
+msgstr "Độ Nhạy Dọc Cần Nắm"
 
 #. Gamepad setting
 msgid "Invert gamepad look"
-msgstr "Haricindekileri gamepad bakmak"
+msgstr "Đảo ngược cần nắm"
 
 #. Gamepad setting
 msgid "Swap gamepad sticks"
-msgstr "Takas gamepad çubukları"
+msgstr "Đổi chiều núm tay cầm"
 
 #. cg_chatBeep
 msgid "Chat message sound"
-msgstr "Chat Mesaj sesi"
+msgstr "Âm thanh tin nhắn"
 
 #. Toggles possibility to play ingame sounds while its window is unfocused or
 #. minimized
 msgid "Keep playing sounds in background"
-msgstr "Arka planda sesler oynamaya devam"
+msgstr "Tiếp tục chơi nhạc khi đang ở nền"
 
 msgid "Play on a ranked server to start tracking your stats."
-msgstr "İstatistiklerinizi izlemeye başlamak için bir ranked server üzerinde "
-"oynayın."
+msgstr "Chơi trên một máy chủ Xếp Hạng để theo dõi thông số của bạn"
 
 #. Bots' number
 msgid "Bots: %s"
-msgstr "Bots: %s"
+msgstr "Số lượng Bot: %s"
 
 msgid "The selected HUD may not be optimized for touchscreen input."
-msgstr "Seçilen HUD dokunmatik ekran girişi için uygun şekilde olmayabilir."
+msgstr "HUD được chọn có thể không hỗ trợ màn hình cảm ứng."
 
 #. r_dynamiclight
 msgid "Dynamic lights"
-msgstr "Dynamic lights"
+msgstr "Ánh sáng tương tác"
 
 #. Dynamic lights' setting
 msgid "simple lights"
-msgstr "simple lights"
+msgstr "Ánh sáng đơn giản"
 
 #. Dynamic lights' setting
 msgid "per-pixel lights"
-msgstr "per-pixel lights"
+msgstr "Ánh sáng theo điểm ảnh"
 
 #. disable popup window with suggested server in server browser
 msgid "Don't suggest servers"
-msgstr "sunucuları tavsiye etmem"
+msgstr "Không đề nghị máy chủ"
 
 #. Gamepad setting
 msgid "Gamepad look acceleration"
-msgstr "Gamepad bakmak hızlanma"
+msgstr "Gia tốc độ nhạy tay cầm"
 
 #. UI option for cl_maxfps
 msgid "Framerate (FPS) limit"
-msgstr "Framerate (FPS) limit"
+msgstr "Giới hạn khung hình (giây)"
 
 #. Back to the previous menu
 msgid "Back"
-msgstr "Geri"
+msgstr "Trở Về"
 
 #. Similar to "Call a vote"
 msgid "Cast a vote"
-msgstr "Bir Oyu at"
+msgstr "Bầu Chọn"
 
 msgid "Color correction"
-msgstr "Color correction"
+msgstr "Chỉnh Màu"
 
 msgid "Use the selected model for all players"
-msgstr "Tüm oyuncular için seçilen modeli kullan"
+msgstr "Sử dụng mô hình này cho toàn bộ người chơi"
 
 msgid "Use the selected color for all players"
-msgstr "Tüm oyuncular için seçilen rengi kullan"
+msgstr "Sử dụng màu này cho toàn bộ người chơi"
 
 #. "Tutorial" gametype description
 msgid "Game mode which provides hints on basic Warfork movements and allows the "
 "player to play a duel match against an AI-controlled opponent."
-msgstr "AI kontrollü rakibe karşı bir düello maçı oynayacak oyuncu temel Warfork "
-"hareketleri üzerinde ipuçları sağlar ve izin veren oyun modu."
+msgstr "Chế độ hướng dẫn giúp cho bạn hiểu về cách di chuyển trong Warfork và đấu "
+"tập với AI Máy"
 
 msgid "Don't ask me again"
-msgstr "Bana tekrar sorma"
+msgstr "Không hỏi lại"
 
 #. Button that manually starts tutorial map
 msgid "Gameplay tutorial"
-msgstr "Oyun ögretici"
+msgstr "Hướng Dẫn Chơi"
 
 msgid "You are about to launch the tutorial stage of Warfork. Continue?"
-msgstr "Sen Warfork öğretici aşamasını başlatmak üzeresiniz. Devam?"
+msgstr "Bạn chuẩn bị chơi phần Hướng Dẫn. Tiếp tục?"
 
 msgid "Welcome to Warfork!"
-msgstr "Warfork'a hosgeldiniz!"
+msgstr "Chào mừng đến với Warfork"
 
 msgid "Perhaps you would like to learn the basics of the gameplay and test your "
 "combat skills on our tutorial?"
-msgstr "Belki oyun temellerini öğrenmek ve bizim öğretici savaş becerilerini test "
-"etmek ister misiniz?"
+msgstr "Bạn có thể muốn học các bước căn bản trong phần Hướng Dẫn?"
 
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
-msgstr "Takimlari karistir"
+msgstr "Xáo trộn đội"
 
 #. Password reset link
 msgid "Forgot your password?"
-msgstr "Sifrenizi mi unuttunuz?"
+msgstr "Quên mật khẩu?"
 
 #. "Race" tab in the server browser
 msgid "Race"
-msgstr "Race"
+msgstr "Đua"
 
 msgid "Profile"
-msgstr "Profil"
+msgstr "Profile"
 
 msgid "Chat"
-msgstr "Sohbet"
+msgstr "Chat"
 
 msgid "Player"
-msgstr "Oyuncu"
+msgstr "Người Chơi"
 
 msgid "Teams"
-msgstr "Takımlar"
+msgstr "Đội"
 
 msgid "Video"
-msgstr "Video"
+msgstr "Hình Ảnh"
 
 msgid "Audio"
-msgstr "Ses"
+msgstr "Âm Thanh"
 
 msgid "Input"
-msgstr "Girdi"
+msgstr "Nút Bấm"
 
 #. Use short form as possible, alternatively you can translate it from "Apply"
 msgid "Save changes"
-msgstr "Uygula"
+msgstr "Lưu thay đổi"
 
 msgid "Cancel"
-msgstr "İptal"
+msgstr "Hủy"
 
 msgid "Model"
-msgstr "Model"
+msgstr "Mô Hình"
 
 msgid "Name"
-msgstr "İsim"
+msgstr "Tên"
 
 msgid "Clan"
 msgstr "Clan"
 
 msgid "Misc"
-msgstr "Karışık"
+msgstr "Linh Tinh"
 
 msgid "Spectator HUD"
-msgstr "Seyirci HUD"
+msgstr "HUD Theo Dõi"
 
 msgid "Crosshair"
-msgstr "Nişangah"
+msgstr "Tâm Ngắm"
 
 msgid "Weapon handedness"
-msgstr "Silah eli"
+msgstr "Vị trí súng"
 
 msgid "default"
-msgstr "varsayiıan"
+msgstr "mặc định"
 
 #. gun position
 msgid "right"
-msgstr "sağ"
+msgstr "phải"
 
 #. gun position
 msgid "left"
-msgstr "sol"
+msgstr "trái"
 
 #. gun position
 msgid "center"
-msgstr "orta"
+msgstr "Giữa"
 
 msgid "FOV"
-msgstr "Görüş Alanı"
+msgstr "FOV"
 
 msgid "FOV while using zoom"
-msgstr "Yakınlaştırma sırasında Görüş Alanı"
+msgstr "FOV khi bật ngắm"
 
 msgid "Simple items"
-msgstr "Basit ögeler"
+msgstr "Vật Phẩm Tối Giản"
 
 #. Shows indicators at the top of the teammates, even if they are not visible
 #. through the walls
 msgid "Show teammates' indicators"
-msgstr ""
+msgstr "Hiện trỏ của đồng đội"
 
 #. Shows help messages at the top of the screen in-game
 msgid "Show help"
-msgstr "Yardimi göster"
+msgstr "Hiện giúp đỡ"
 
 msgid "Show weapon model"
-msgstr "Silah modelini göster"
+msgstr "Hiện vũ khí"
 
 msgid "Show minimap"
-msgstr "Mini Haritayi göster"
+msgstr "Hiện bản đồ nhỏ"
 
 msgid "Show FPS counter"
-msgstr "FPS sayacını göster"
+msgstr "Hiện số khung hình"
 
 msgid "Show speed meter"
-msgstr "Hız sayacını göster"
+msgstr "Hiện Số Tốc Độ"
 
 msgid "Show damage indicator"
-msgstr "Hasar Göstergesini göster"
+msgstr "Hiện dấu chỉ sát thương"
 
 msgid "Automatically record demos"
-msgstr "Demoları otomatik olarak kaydet"
+msgstr "Tự động lưu Demo"
 
 msgid "Endmatch screenshot"
-msgstr "Oyun Sonu ekran alıntısı"
+msgstr "Chụp màn hình cuối trận"
 
 msgid "Save match stats"
-msgstr "Maç istatiklerini kaydet"
+msgstr "Lưu chỉ số trận"
 
 msgid "Players"
-msgstr "Oyuncular"
+msgstr "Số Người"
 
 msgid "Team model options"
-msgstr "Takım modeli Ayarları"
+msgstr "Tùy chỉnh mô hình đồng minh"
 
 msgid "Fullbright skin"
-msgstr "Fullbright cilt"
+msgstr "Skin siêu sáng"
 
 #. Forces your color and model to the one that team Forbidden has, "FORBIDDEN"
 #. shouldn't be translated
 msgid "Force your team as FORBIDDEN"
-msgstr "Takımınız FORBIDDEN olarak zorla"
+msgstr "Bắt buộc đội bạn thành FORBIDDEN"
 
 msgid "Graphics profile"
-msgstr "Grafik Profili"
+msgstr "Profile Hình Ảnh"
 
 msgid "Fullscreen"
-msgstr "Tam Ekran"
+msgstr "Toàn màn hình"
 
 msgid "Vertical sync"
-msgstr "Dikey senkronizasyon"
+msgstr "Đồng bộ dọc"
 
 msgid "Screen resolution"
-msgstr "Ekran çözünürlüğü"
+msgstr "Độ phân giải"
 
 msgid "desktop"
-msgstr "masaüstü"
+msgstr "Desktop"
 
 msgid "Texture quality"
-msgstr "Doku kalitesi"
+msgstr "Chất lượng kết cấu"
 
 msgid "Anisotropic filtering"
-msgstr "Anisotropic süzme"
+msgstr "Khử răng cưa"
 
 msgid "Lighting quality"
-msgstr "Aydınlatma kalitesi"
+msgstr "Chất lượng ánh sáng"
 
 msgid "vertex lighting"
-msgstr "Köşe Aydınlatma"
+msgstr "Ánh sáng Vertex"
 
 msgid "lightmaps"
-msgstr "Işık haritalari"
+msgstr ""
 
 msgid "per-pixel lighting"
-msgstr "Pixel başına Aydınlatma"
+msgstr "ánh sáng theo điểm ảnh"
 
 msgid "Shadows"
-msgstr "Gölgeler"
+msgstr "Đổ Bóng"
 
 msgid "off"
-msgstr "kapalı"
+msgstr "tắt"
 
 msgid "simple shadows"
-msgstr "basit gölgeler"
+msgstr "Đổ bóng tối giản"
 
 msgid "shadowmaps"
-msgstr "Gölge Haritaları"
+msgstr ""
 
 msgid "Greyscale lighting"
-msgstr "Gri tonlama Aydınlatma"
+msgstr "Áng sáng thang xám"
 
 msgid "Use solid colors for world"
-msgstr "Dünya için düz Renkler kullan"
+msgstr "Dùng màu cố định cho thế giới"
 
 msgid "Sound module"
-msgstr "Ses modülü"
+msgstr "Module Âm Thanh"
 
 msgid "no sound"
-msgstr "Sessiz"
+msgstr "Không Âm Thanh"
 
 msgid "Sound volume"
-msgstr "Ses seviyesi"
+msgstr "Âm lượng nút bấm"
 
 msgid "Music volume"
-msgstr "Müzik seviyesi"
+msgstr "Âm lượng nhạc"
 
 msgid "Players volume"
-msgstr "Oyuncu ses seviyesi"
+msgstr "Âm lượng nhân vật"
 
 msgid "Effects volume"
-msgstr "Efekt ses seviyesi"
+msgstr "Âm lượng hiệu ứng"
 
 msgid "Announcer volume"
-msgstr "spiker ses seviyesi"
+msgstr "Âm lượng thông báo"
 
 msgid "Voice commands volume"
-msgstr ""
+msgstr "Âm lượng lệnh nói"
 
 msgid "Hit sounds volume"
-msgstr "Vur sesleri hacim"
+msgstr "Âm lượng bắn trúng"
 
 msgid "Mouse"
-msgstr "Fare"
+msgstr "Chuột"
 
 msgid "Movement"
-msgstr "Hareket"
+msgstr "Di Chuyển"
 
 msgid "Actions"
-msgstr "Eylemler"
+msgstr "Tương Tác"
 
 msgid "Weapons"
-msgstr "Silahlar"
+msgstr "Vũ Khí"
 
 msgid "Voice commands"
-msgstr ""
+msgstr "Lệnh Nói"
 
 msgid "Saved"
-msgstr "Kayıtlı"
+msgstr "Đã Lưu"
 
 msgid "Mouse sensitivity"
-msgstr "Fare hassasiyeti"
+msgstr "Độ nhạy chuột"
 
 msgid "Mouse acceleration"
-msgstr "Fare hızı"
+msgstr "Gia tốc chuột"
 
 msgid "Mouse filter"
-msgstr "Fare filtre"
+msgstr "Lọc nhạy chuột"
 
 msgid "Invert mouse"
-msgstr "Ters yönlü fare"
+msgstr "Đảo ngược chuột"
 
 msgid "Forward"
-msgstr "İleri"
+msgstr "Tiến"
 
 #. bind for "move back"
 msgid "Backward"
-msgstr "Geri"
+msgstr "Lùi"
 
 msgid "Left"
-msgstr "Sola"
+msgstr "Trái"
 
 msgid "Right"
-msgstr "Sağa"
+msgstr "Phải"
 
 msgid "Up / jump"
-msgstr "Yukarı / zıplama"
+msgstr "Lên/Nhảy"
 
 msgid "Down / crouch"
-msgstr "Aşaği / çömelme"
+msgstr "Xuống/Ngồi"
 
 msgid "Dash / walljump"
-msgstr "Hamle / Duvar atlayis"
+msgstr "Lướt/Bật Tường"
 
 msgid "Run / walk"
-msgstr "Koşma / yürüme"
+msgstr "Chạy/Đi Chậm"
 
 msgid "Attack"
-msgstr "Saldırı"
+msgstr "Bắn"
 
 msgid "Previous weapon"
-msgstr "önceki Silah"
+msgstr "Vũ khí trước"
 
 msgid "Next weapon"
-msgstr "sonraki Silah"
+msgstr "Vũ khí tiếp theo"
 
 msgid "Last weapon"
-msgstr "son Silah"
+msgstr "Vũ khí vừa dùng"
 
 msgid "Zoom"
-msgstr "Yakınlaştırma"
+msgstr "Bật Ngắm"
 
 msgid "Drop weapon"
-msgstr "Silahı bırak"
+msgstr "Thả vũ khí"
 
 msgid "Drop bomb / flag"
-msgstr "Bomba / bayrağı bırak"
+msgstr "Thả Bom/Cờ"
 
 msgid "Class action 1"
-msgstr "Class action 1"
+msgstr ""
 
 msgid "Class action 2"
-msgstr " Class action 2"
+msgstr ""
 
 msgid "Team chat"
-msgstr "Takım sohbeti"
+msgstr "Chat Đội"
 
 msgid "Login to forbidden.gg"
-msgstr "forbidden.gg'e giriş yap"
+msgstr "Đăng nhập Forbidden.GG"
 
 msgid "Login with your forbidden.gg account to save your statistics and match "
 "results."
-msgstr "İstatistikleri ve Maç sonuçlarını kaydetmek için forbidden.gg hesabı ile "
-"giriş yap."
+msgstr "Đăng nhập tài khoản Forbidden.GG để lưu thông số và kết quả trận đấu"
 
 msgid "Don't have an account?"
-msgstr "Hesabın yok mu?"
+msgstr "Chưa có tài khoản?"
 
 msgid "Register for a free account here."
-msgstr "Burda Ücretsiz Hesap oluştur."
+msgstr "Đăng ký miễn phí tại đây"
 
 msgid "Username"
-msgstr "Kullanıcıı Adı"
+msgstr "Tên"
 
 msgid "Password"
-msgstr "Şifre"
+msgstr "Mật Khẩu"
 
 msgid "Remember login"
-msgstr "Girişi hatırla"
+msgstr "Ghi nhớ"
 
 msgid "Login"
-msgstr "Giriş"
+msgstr "Đăng Nhập"
 
 msgid "Normal weapons"
-msgstr "Normal silahlar"
+msgstr "Vũ Khí Thường"
 
 msgid "Instagib"
 msgstr "Instagib"
 
 msgid "TV"
-msgstr "TV"
+msgstr ""
 
 msgid "Watch on TV"
-msgstr "TV de izle"
+msgstr "Xem TV"
 
 msgid "Favorites"
-msgstr "Favoriler"
+msgstr "Ưa thích"
 
 msgid "Ping"
 msgstr "Ping"
 
 msgid "Hostname"
-msgstr "Hostisim"
+msgstr "Tên Máy Chủ"
 
 msgid "Gametype"
-msgstr "Oyun türü"
+msgstr "Chế Độ"
 
 msgid "Match browser"
-msgstr "Maç tarayıcı"
+msgstr "Duyệt Tìm Trận"
 
 msgid "Host game"
 msgstr ""
 
 msgid "Demo browser"
-msgstr "Demo Tarayici"
+msgstr "Duyệt Demo"
 
 msgid "Stop"
-msgstr "Dur"
+msgstr "Dừng"
 
 msgid "Refresh"
-msgstr "Yenile"
+msgstr "Làm Mới"
 
 msgid "Map"
-msgstr "Harita"
+msgstr "Bản Đồ"
 
 msgid "Title"
-msgstr "Başlık"
+msgstr "Tên"
 
 msgid "Mapname"
-msgstr "Harita Ismi"
+msgstr "Tên Bản Đồ"
 
 msgid "Start game"
-msgstr "Oyunu başlat"
+msgstr "Bắt Đầu"
 
 msgid "Server name"
-msgstr "Sunucu adı"
+msgstr "Tên máy chủ"
 
 msgid "Public server"
-msgstr "Kamu Sunucu"
+msgstr "Máy chủ công cộng"
 
 msgid "Score limit"
-msgstr "Puan sınırı"
+msgstr "Giới hạn điểm"
 
 msgid "Max players"
-msgstr "Maks Oyuncu"
+msgstr "Người chơi tối đa"
 
 msgid "Time limit"
-msgstr "Zaman sınırı"
+msgstr "Giới hạn thời gian"
 
 msgid "min."
-msgstr "min."
+msgstr "phút"
 
 msgid "Bot skill level"
-msgstr "Bot yetenek seviyesi"
+msgstr "Độ khó máy"
 
 msgid "Number of bots"
-msgstr "Bot sayısı"
+msgstr "Số lượng AI máy"
 
 msgid "Remove from favorites"
-msgstr "Favorilerden sil"
+msgstr "Xóa khỏi Ưa thích"
 
 msgid "Add to favorites"
-msgstr "Favorilere yükle"
+msgstr "Thêm vào Ưa thích"
 
 msgid "Map: %s"
-msgstr "Harita: %s"
+msgstr "Bản Đồ: %s"
 
 msgid "Players: %s"
-msgstr "Oyuncu: %s"
+msgstr "Người chơi: %s"
 
 msgid "Gametype: %s"
-msgstr "Oyun türü: %s"
+msgstr "Chế Độ: %s"
 
 msgid "Mod: %s"
-msgstr "Mod: %s"
+msgstr "Quản Trị: %s"
 
 msgid "Ping: %s"
 msgstr "Ping: %s"
 
 msgid "Address: %s"
-msgstr "Adres: %s"
+msgstr "Địa chỉ: %s"
 
 msgid "IRC server connection"
-msgstr "IRC Sunucu bağlantısı"
+msgstr "Kết nối máy chủ IRC"
 
 msgid "Server port"
-msgstr "Sunucu Port"
+msgstr "Cổng"
 
 msgid "Nickname"
-msgstr "Rumuz"
+msgstr "Tên Riêng"
 
 msgid "Channels"
-msgstr "Kanallar"
+msgstr "Kênh"
 
 msgid "Connect"
-msgstr "Bağlan"
+msgstr "Kết Nối"
 
 msgid "Disconnect"
-msgstr "Bağlantıyı kes"
+msgstr "Ngắt Kết Nối"
 
 msgid "Send"
-msgstr "Gönder"
+msgstr "Gửi"
 
 msgid "Date: %s"
-msgstr "Tarih: %s"
+msgstr "Ngày: %s"
 
 msgid "Match: %s"
-msgstr "Maç: %s"
+msgstr "Trận: %s"
 
 msgid "Score: %s"
-msgstr "Puan: %s"
+msgstr "Điểm: %s"
 
 msgid "Duration: %s"
-msgstr "Süre: %s"
+msgstr "Thời Gian: %s"
 
 msgid "Ready!"
-msgstr "Hazır!"
+msgstr "Sẵn Sàng!"
 
 msgid "Not ready!"
-msgstr "Hazır değil!"
+msgstr "Chưa sẵn sàng!"
 
 msgid "Join challengers queue"
-msgstr "Meydan okuyucu kuyruğuna katıl"
+msgstr "Vào hàng chờ"
 
 msgid "Leave challengers queue"
-msgstr "Meydan okuyucu kuyruğundan çık"
+msgstr "Thoát hàng chờ"
 
 msgid "Join the game"
-msgstr "Oyuna katıl"
+msgstr "Vào trận"
 
 msgid "Join any team"
-msgstr "Herhangi takıma katıl"
+msgstr "Vào bất kỳ đội"
 
 msgid "Join %s"
-msgstr "Katıl %s"
+msgstr "Vào: %s"
 
 msgid "Spectate"
-msgstr "İzle"
+msgstr "Theo Dõi"
 
 msgid "Game menu"
-msgstr "Oyun Menüsü"
+msgstr "Game Menu"
 
 msgid "Call a vote"
-msgstr "Oylama yap"
+msgstr "Bầu Chọn"
 
 #. Spectators options like follow fragger, follow flag carrier or free cam,
 #. etc.
 msgid "Chasecam"
-msgstr "Seyir Kamerası"
+msgstr "Camera đuổi"
 
 msgid "Main menu"
-msgstr "Ana Menü"
+msgstr "Menu Chính"
 
 msgid "Return to game"
-msgstr "Oyuna geri dön"
+msgstr "Trở lại trận"
 
 msgid "\"%s\" options"
-msgstr "\"%s\" Ayarlar"
+msgstr "\"%s\" lựa chọn"
 
 msgid "Refused: %s"
-msgstr "Reddetti: %s"
+msgstr "Từ chối: %s"
 
 msgid "Press ESC to cancel"
-msgstr "İptal etmek için ESC tuşuna bas"
+msgstr "Nhấn ESC để hủy"
 
 msgid "Downloading %s from %s at %s k/s"
-msgstr "%s , %s 'den %s k/s indiriliyor"
+msgstr "Đang tải %s từ %s tốc độ %s☺ Kb/s"
 
 msgid "Owner left the listen server"
-msgstr "Sahibi dinleme sunucusundan çıktı"
+msgstr ""
 
 msgid "Server was killed"
-msgstr "Server öldürüldü"
+msgstr "Máy chủ bị dừng lại"
 
 msgid "Server restarted"
-msgstr "Server yeniden başlatıldı"
+msgstr "Mảy chủ được khởi động lại"
 
 #. Spectators options like follow fragger, follow flag carrier or free cam,
 #. etc.
 msgid "Chasecam mode"
-msgstr "Seyir Kamerası Modu"
+msgstr "Chế độ Camera đuổi"
 
 msgid "Auto"
-msgstr "Oto"
+msgstr "Tự Động"
 
 msgid "Objectives"
-msgstr "Hedefler"
+msgstr "Mục Tiêu"
 
 msgid "Powerups"
-msgstr "Güçlendirmeler"
+msgstr "PowerUp"
 
 msgid "Fraggers"
-msgstr "Fraggers"
+msgstr ""
 
 msgid "Highest score"
-msgstr "En yüksek Puan"
+msgstr "Điểm Cao Nhất"
 
 msgid "Enable"
-msgstr "Etkinleştir"
+msgstr "Bật"
 
 msgid "Disable"
-msgstr "Etkisizleştir"
+msgstr "Tắt"
 
 msgid "Watch"
-msgstr "İzle"
+msgstr "Xem"
 
 msgid "Viewers"
-msgstr "Seyirciler"
+msgstr "Người Xem"
 
 msgid "Reconnect"
-msgstr "Yeniden Bağlan"
+msgstr "Kết Nối Lại"
 
 msgid "Votes"
-msgstr "Oylar"
+msgstr "Bầu"
 
 msgid "Primary weapons"
-msgstr "Birincil Silahlar"
+msgstr "Vũ khí chính"
 
 msgid "Secondary weapons"
-msgstr "İkincil Silahlar"
+msgstr "Vũ khí phụ"
 
 #. "Bomb" gametype related option, means "I want to carry bomb"
 msgid "Carrier opt-in"
-msgstr "Bombayı bana ver"
+msgstr ""
 
 #. "Bomb" gametype related option, means "I DON'T want to carry bomb"
 msgid "Carrier opt-out"
-msgstr "Bombayı bana verme"
+msgstr ""
 
 #. Selects classes in CTF Tactics
 msgid "Select class"
-msgstr "Sınıf seç"
+msgstr "Chọn Class"
 
 #. CTF Tactics class
 msgid "Grunt"
-msgstr "Homurtu"
+msgstr "Lính"
 
 #. CTF Tactics class
 msgid "Medic"
-msgstr "Doktor"
+msgstr "Hồi Máu"
 
 #. CTF Tactics class
 msgid "Runner"
-msgstr "Koşucu"
+msgstr "Tốc Độ"
 
 #. CTF Tactics class
 msgid "Engineer"
-msgstr "Mühendis"
+msgstr "Kỹ Sư"
 
 msgid "Connection failed"
-msgstr "Bağlantı başarısız oldu"
+msgstr "Kết nối thất bại"
 
 msgid "Connection terminated"
-msgstr "Bağlantı sonlandırıldı"
+msgstr "Kết nối bị hủy"
 
 msgid "Connection error"
-msgstr "Bağlantı Hatası"
+msgstr "Kết nối bị lỗi"
 
 msgid "Couldn't connect to %s"
-msgstr "%s 'ya bağlanılamadı"
+msgstr "Không thể kết nối đến %s"
 
 msgid "Connection was terminated by %s"
-msgstr "Bağlantı %s tarafından sonlandırıldı"
+msgstr "Kết nối bị hủy bởi %s"
 
 msgid "Error connecting to %s"
-msgstr "%s 'ya bağlanırken hata"
+msgstr "Lỗi khi kết nối đến %s"
 
 msgid "Reason: %s"
-msgstr "Sebep: %s"
+msgstr "Lý do: %s"
 
 msgid "Fullscreen anti-aliasing"
-msgstr "Tam Ekran anti-aliasing"
+msgstr "Khử răng cưa toàn màn hình"
 
 msgid "Soft particles"
-msgstr "Yumuşak parçacıklar"
+msgstr "Soft Particles"
 
 msgid "Weapon opacity"
-msgstr "Silah opaklığı"
+msgstr "Độ trong suốt vũ khí"
 
 msgid "Vote yes"
-msgstr "'Evet' oyla"
+msgstr "Bầu Có"
 
 msgid "Vote no"
-msgstr "'Hayır' oyla"
+msgstr "Bầu Không"
 
 msgid "Vote \"%s\" has been called"
-msgstr "\"%s\" oy kullanıldı"
+msgstr "Bầu \"%s\" đã thông qua"
 
 msgid "Changes map"
-msgstr "Haritayı değiştir"
+msgstr "Đổi bản đồ"
 
 msgid "Restarts current map"
-msgstr "Mevcut haritayı yeniden başlat"
+msgstr "Chơi lại bản đồ"
 
 msgid "Jumps to the next map"
-msgstr "Gelecek haritaya geç"
+msgstr "Nhảy đến bản đồ tiếp theo"
 
 msgid "Specify 0 to disable"
-msgstr "Specify 0 kapat"
+msgstr "Nhập số 0 để tắt"
 
 msgid "Sets the number of frags or caps needed to win the match"
-msgstr "Maci kazanmak icin gereken Frags veya caps sayısını ayarlar"
+msgstr "Đặt số lượng mạng cần giết để thắng trận"
 
 msgid "Sets number of minutes after which the match ends"
-msgstr "Kaç dakika sonra maçın biteceğini belirler"
+msgstr "Thời gian phút sau khi trận kết thúc"
 
 msgid "Changes the gametype"
-msgstr "Oyun tipini değiştirir"
+msgstr "Đổi chế độ"
 
 msgid "Sets the number of minutes after which the warmup ends"
-msgstr "Kaç dakika sonra ısınma süresinin biteceğini belirler"
+msgstr "Thiết lập số phút khởi động đầu trận"
 
 msgid "Sets the length of the overtime"
-msgstr "Mesai uzunluğunu belirler"
+msgstr "Thiết lập thời gian bù giờ"
 
 msgid "Specify 0 to enable sudden death mode"
-msgstr "Specify 0 ani ölüm modunu etkinlestirmek icin"
+msgstr "Nhập số 0 để bật Sudden Death"
 
 msgid "Sets the maximum number of players in one team"
-msgstr "Bir takımda en fazla kaç oyuncu olabileceğini ayarlar"
+msgstr "Thiết lập số người tối đa trong một đội"
 
 msgid "Locks teams to disallow players joining in mid-game"
-msgstr "Oyun sırasında yeni oyuncuların katılmaması için takımları kilitler"
+msgstr "Khóa đội nhằm không cho người khác tham gia giữa trận"
 
 msgid "Unlocks teams to allow players joining in mid-game"
-msgstr "Oyun sırasında yeni oyuncuların katılabilmesi içn takım kilidini kaldırır"
+msgstr "Mở khóa đội cho người chơi tham gia giữa trận"
 
 msgid "Sets all players as ready so the match can start"
-msgstr "Oyunun başlaması için tüm oyuncuları hazır yapar"
+msgstr "Thiết lập sẵn sàng cho toàn bộ người chơi để bắt đầu trận"
 
 msgid "Forces player back to spectator mode"
-msgstr "Oyuncuları seyirci moduna çeker"
+msgstr "Bắt người chơi phải theo dõi"
 
 msgid "Removes player from the server"
-msgstr "Oyuncuyu sunucudan atar"
+msgstr "Đá người chơi khỏi máy chủ"
 
 msgid "Removes player from the server and bans his IP-address for 15 minutes"
-msgstr "Oyuncuyu Serverden atar ve IP-Adresini 15 dakika icin yasaklar"
+msgstr "Đá người chơi khỏi máy chủ và cấm IP trong 15 phút"
 
 msgid "Disallows chat messages from the muted player"
-msgstr "Susturulan oyuncudan sohbet mesajları alınmasını engeller"
+msgstr "Khóa người chơi bị câm khỏi Chat"
 
 msgid "Disallows voice chat messages from the muted player"
-msgstr "Susturulan oyuncudan sesli sohbet mesajları alınmasını engeller"
+msgstr "Không cho phép người chơi bị câm nói Voice"
 
 msgid "Reallows chat messages from the unmuted player"
-msgstr "Susturulan oyuncudan sohbet mesajları alınmaması engelini kaldırır"
+msgstr "Cho phép người chơi không bị câm Chat"
 
 msgid "Reallows voice chat messages from the unmuted player"
-msgstr "Susturulan oyuncudan sesli sohbet mesajları alınmaması engelini kaldırır"
+msgstr "Cho phép người chơi không bị câm trò chuyện Voice"
 
 msgid "Sets the number of bots to play on the server"
-msgstr "Sunucuda oynayan bot sayısını ayarlar"
+msgstr "Đặt số lượng AI Máy trên máy chủ"
 
 msgid "Toggles whether shooting teammates will do damage to them"
-msgstr "Takım hasarını etkinleştirir/etkisizleştir"
+msgstr "Bật tắt sát thương đồng minh"
 
 msgid "Toggles whether instagun can be used for weapon jumping"
-msgstr "Instagun silah atlama icin kullanilip kullanilamayacagini acar"
+msgstr "Bật tắt sử dụng Instagun để nhảy"
 
 msgid "Toggles the availability of instashield in instagib"
-msgstr "Instagib olarak instashield kullanilabilirligini acar"
+msgstr "Bật tắt vật phẩm Instashield trong chế độ Instagib"
 
 msgid "Toggles whether falling long distances deals damage"
-msgstr "Düşüş hasarını açar/kapatır"
+msgstr "Bật tắt sát thương nhảy từ trên cao"
 
 msgid "Toggles whether weapon splashes can damage self"
-msgstr "Silahın oyuncuya hasar verip vermeyeceğini ayarlar"
+msgstr "Bật tắt sát thương diện rộng lên bản thân"
 
 msgid "Pauses the game"
-msgstr "Oyunu durdurur"
+msgstr "Dừng trận"
 
 msgid "Resumes the game if in timeout"
-msgstr "Timeoutdaki oyunu devam ettirir"
+msgstr "Tiếp tục trận sau khi nếu đang dừng"
 
 msgid "Toggles the challenging spectators queue line"
-msgstr "Zorlu seyirci kuyrugu hattini acar"
+msgstr "Bật tắt thách đấu người theo dõi trong hàng chờ"
 
 msgid "Toggles whether uneven teams is allowed"
-msgstr "Düzensiz takim olup gecis yapar birakilir"
+msgstr "Bật tắt cho phép đội không cân bằng"
 
 msgid "Enables or disables the dropping of powerups at dying"
-msgstr "Etkinlestirir veya ölmekte de powerups birakarak devre disi birakir"
+msgstr "Bật tắt cho phép thả PowerUp khi chết"
 
 msgid "Enables or disables instant flag captures and unlocks"
-msgstr "Etkinlestirir veya anlik bayrak yakalar ve actigini devre disi birakir"
+msgstr "Bật tắt cướp cờ tức thời"
 
 msgid "Enables or disables the spawning of powerups"
-msgstr "Etkinlestirir veya powerups yumurtlama devre disi birakir"
+msgstr "Bật tắt các PowerUp"
 
 msgid "If enabled, tag fragger will become new tag automatically"
-msgstr "Etkinse etiketi Fragger otomatik olarak yeni etiket olacak"
+msgstr "Nếu bật, người giết người bị Tag sẽ tự động bị đánh dấu"
 
 msgid "Sets the speed at which the capture points heal their owners"
-msgstr "Yakalama noktalari sahiplerini iyilesmek hangi hizini ayarlar"
+msgstr "Đặt tốc độ hồi máu trên điểm đang chiếm"
 
 msgid "Sets the time in seconds between reinforcement respawn waves"
-msgstr "Takviye respawn dalgalar arasindaki saniye cinsinden ayarlar"
+msgstr ""
 
 msgid "Downloading %s from server at %s k/s"
-msgstr "%s sunucudan %s k/s indiriliyor"
+msgstr "Đang tải %s từ máy chủ với tốc độ %s Kb/s"
 
 msgid "Downloading %s from the web at %s k/s"
-msgstr "%s internetten %s k/s hızla indiriliyor"
+msgstr "Đang tải %s từ web với tốc độ %s Kb/s"
 
 msgid "Reload"
-msgstr "Yenile"
+msgstr "Tải Lại"
 
 msgid "Logging in, hold on..."
-msgstr "Oturum açılıyor, bekleyin..."
+msgstr "Đang đăng nhập, xin đợi..."
 
 msgid "Searching for game servers..."
-msgstr "Oyun sunucuları aranıyor..."
+msgstr "Đang tìm máy chủ..."
 
 msgid "Browse servers manually"
-msgstr "Sunucuları el ile tara"
+msgstr "Tự duyệt qua máy chủ"
 
 #. Award: On Fire!
 msgid "Get 5 frags in a row without getting fragged"
-msgstr ""
+msgstr "Giết 5 mạng liên tiếp mà không chết"
 
 #. Award: God Mode!
 msgid "Get 25 frags in a row without getting fragged"
-msgstr ""
+msgstr "Giết 25 mạng liên tiếp mà không chết"
 
 #. Award: Mega-Health Control!
 msgid "Keep the Mega Health under your control"
-msgstr ""
+msgstr "Giữ Máu To trong tầm kiểm soát của bạn"
 
 #. Award: Triple Frag!
 msgid "Frag an opponent 3 times in a short time frame"
-msgstr ""
+msgstr "Giết một kẻ địch 3 lần trong khoảng thời gian ngắn"
 
 #. Award: Direct Grenade Hit!
 msgid "Hit an opponent directly with a grenade a few times"
-msgstr ""
+msgstr "Bắn trúng kẻ địch trực diện bằng Phóng Lựu một vài lần"
 
 #. Award: Last Call Defuse!
 msgid "Defuse the bomb at the last second"
-msgstr ""
+msgstr "Gỡ thành công bom trong giây cuối cùng"
 
 #. Award: Flag Recovery!
 msgid "Recover your flag from the opponent carrying it"
-msgstr ""
+msgstr "Lấy lại cờ đồng minh từ kẻ địch mang cờ"
 
 #. Award: Extermination!
 msgid "Get 20 frags in a row without getting fragged"
-msgstr ""
+msgstr "Giết 20 mạng liền mà không chết"
 
 #. Award: Air Grenade!
 msgid "Frag an opponent in mid-air with a grenade"
-msgstr ""
+msgstr "Giết một địch trong không trung bằng Phóng Lựu"
 
 #. Award: Raging!
 msgid "Get 10 frags in a row without getting fragged"
-msgstr ""
+msgstr "Giết 10 mạng liền mà không chết"
 
 #. Award: Win 1000 matches
 msgid "Congratulations! You have won 1000 matches!"
-msgstr ""
+msgstr "Chúc mừng! Bạn thắng 1000 trận rồi!"
 
 #. Award: Quadruple Frag!
 msgid "Frag an opponent 4 times in a short time frame"
-msgstr ""
+msgstr "Giết 4 kẻ địch trong khoảng thời gian ngắn"
 
 #. Award: Flag Defense!
 msgid "Defend your flag or flag carrier"
-msgstr ""
+msgstr "Bảo vệ cờ đồng minh hoặc người mang cờ đồng minh"
 
 #. Award: Player of the Match!
 msgid "Score more points than other players and receive the \"Fair Play\" award in "
 "a single match"
-msgstr ""
+msgstr "Đạt nhiều điểm hơn người chơi khác và nhận thành tích \"Chơi Đẹp\" trong một"
+" trận đấu"
 
 #. Award: Air Rocket!
 msgid "Frag an opponent in mid-air with a rocket"
-msgstr ""
+msgstr "Giết một kẻ địch trên không bằng Tên Lửa"
 
 #. Award: Bomb Planted!
 msgid "Plant the bomb at a bomb site"
-msgstr ""
+msgstr "Đặt bom tại bomb site"
 
 #. Award: Win 100 matches
 msgid "Wow! You have won 100 matches!"
-msgstr ""
+msgstr "Wow! Bạn đã thắng 100 trận"
 
 #. Award: Fair Play!
 msgid "Show respect to your opponents during the post-match intermission"
-msgstr ""
+msgstr "Tôn trọng đối thủ sau khi trận đấu kết thúc"
 
 #. Award: Play 1000 matches
 msgid "Wow! You have played 1000 matches!"
-msgstr ""
+msgstr "Wow! Bạn đã chơi 1000 trận"
 
 #. Award: Play 500 matches
 msgid "Wow! You have played 500 matches!"
-msgstr ""
+msgstr "Wow! Bạn đã chơi 500 trận"
 
 #. Award: Ninja Defuse!
 msgid "Defuse the bomb without being seen by the opponent"
-msgstr ""
+msgstr "Gỡ bom mà không bị địch nhìn thấy"
 
 #. Award: Direct Rocket Hit!
 msgid "Hit an opponent directly with a rocket a few times"
-msgstr ""
+msgstr "Bắn trúng trực diện địch bằng Tên Lửa vài lần"
 
 #. Award: Win 250 matches
 msgid "Congratulations! You have won 250 matches!"
-msgstr ""
+msgstr "Chúc mừng! Bạn thắng 250 trận rồi!"
 
 #. Award: King of Bongo!
 msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr ""
+msgstr "Giết toàn bộ đội địch trong Chế độ Đặt Bom"
 
 #. Award: Fast Plant!
 msgid "Plant the bomb within 10 seconds"
-msgstr ""
+msgstr "Đặt bom thành công trong 10 giây"
 
 #. Award: Bomb Carrier Frag!
 msgid "Frag the bomb-carrying opponent"
-msgstr ""
+msgstr "Giết kẻ địch đang mang bom"
 
 #. Award: Meep Meep!
 msgid "Frag an opponent while moving at high speed"
-msgstr ""
+msgstr "Giết một kẻ địch khi đang di chuyển nhanh"
 
 #. Award: Double Frag!
 msgid "Frag an opponent 2 times in a short time frame"
-msgstr ""
+msgstr "Giết một kẻ địch 2 lần trong khoảng thời gian ngắn"
 
 #. Award: Fraglord!
 msgid "Get 15 frags in a row without getting fragged"
-msgstr ""
+msgstr "Giết 15 mạng liền mà không chết"
 
 #. Award: Win 500 matches
 msgid "Congratulations! You have won 500 matches!"
-msgstr ""
+msgstr "Chúc mừng! Bạn thắng 500 trận rồi!"
 
 #. Award: Coyote Wins!
 msgid "Frag a fast-moving opponent"
-msgstr ""
+msgstr "Giết một kẻ địch di chuyển cực nhanh"
 
 #. Award: Play 100 matches
 msgid "Wow! You have played 100 matches!"
-msgstr ""
+msgstr "Wow! Bạn đã chơi 100 trận!"
 
 #. Award: Play 250 matches
 msgid "Wow! You have played 250 matches!"
-msgstr ""
+msgstr "Wow! Bạn đã chơi 250 trận!"
 
 #. Award: Bomb Defused!
 msgid "Defuse the bomb"
-msgstr ""
+msgstr "Gỡ thành công một quả bom"
 
 #. Award: Quakenet Exclusive!
 msgid "Register to Warfork during QuakeNet launch event"
-msgstr ""
+msgstr "Đăng ký Warfork trong sự kiện QuakeNet"
 
 #. Award: Accuracy!
 msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr ""
+msgstr "Bắn trúng địch 3 lần liên tiếp bằng Electrobolt hoặc Instagun"
 
 #. Award: Flag Carrier Frag!
 msgid "Frag the opponent who has your flag"
-msgstr ""
+msgstr "Giết một kẻ địch mang cờ đồng minh"
 
 #. Award: Red Armor Control!
 msgid "Keep the Red Armor under your control"
-msgstr ""
+msgstr "Giữ kiểm soát Giáp Đỏ"
 
 #. Award: First Frag!
 msgid "Score the first frag for your team in the match"
-msgstr ""
+msgstr "Giết mạng đầu tiên trong trận cho đội của bạn"
