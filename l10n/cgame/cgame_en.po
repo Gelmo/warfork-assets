@@ -191,13 +191,13 @@ msgstr "Best:"
 msgid "Srv Best:"
 msgstr "Srv Best:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Alpha time:"
+#. Race, team FORBIDDEN time
+msgid "Forbidden time:"
+msgstr "Forbidden time:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Beta time:"
+#. Race, team ICY time
+msgid "Icy time:"
+msgstr "Icy time:"
 
 #. When some Items get picked up
 msgid "Picked up:"
