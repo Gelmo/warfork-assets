@@ -1,126 +1,128 @@
 # Translators:
-# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# Camilo Beltran <cambq7@gmail.com>, 2019
+# Hernan Gonzalez <hernan.g89@gmail.com>, 2019
+# Roman Kim <romankx1.0@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-03-26 11:04+0000\n"
 "PO-Revision-Date: 2019-08-28 19:42+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
-"Language-Team: Dutch (https://www.transifex.com/team-forbidden-llc/teams/102732/nl/)\n"
+"Last-Translator: Roman Kim <romankx1.0@gmail.com>, 2019\n"
+"Language-Team: Spanish (Latin America) (https://www.transifex.com/team-forbidden-llc/teams/102732/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl\n"
+"Language: es_419\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Vsay/Quickmenu item
 msgid "Need offense"
-msgstr "Aanval nodig"
+msgstr "¡ Necesito atacantes ! "
 
 #. Vsay/Quickmenu item
 msgid "Need help"
-msgstr "Hulp nodig"
+msgstr "Necesito ayuda"
 
 #. Vsay/Quickmenu item
 msgid "Armor free"
-msgstr "Pantser beschikbaar"
+msgstr "Armadura libre"
 
 #. Vsay/Quickmenu item
 msgid "Area secured"
-msgstr "Gebied veilig"
+msgstr "Área asegurada"
 
 #. Vsay/Quickmenu item
 msgid "No problem"
-msgstr "Geen probleem"
+msgstr "No hay problema"
 
 #. Vsay/Quickmenu item
 msgid "Defend!"
-msgstr "Verdedigen!"
+msgstr "¡Defiendan!"
 
 #. Vsay/Quickmenu item
 msgid "Defend A!"
-msgstr "Verdedig A!"
+msgstr "¡Defiendan A!"
 
 #. Vsay/Quickmenu item
 msgid "Defend B!"
-msgstr "Verdedig B!"
+msgstr "¡Defiendan B!"
 
 #. Vsay/Quickmenu item
 msgid "Attack!"
-msgstr "Aanvallen!"
+msgstr "¡Ataquen!"
 
 #. Vsay/Quickmenu item
 msgid "Attack A!"
-msgstr "Val A aan!"
+msgstr "¡Ataquen A!"
 
 #. Vsay/Quickmenu item
 msgid "Attack B!"
-msgstr "Val B aan!"
+msgstr "¡Ataquen B!"
 
 #. Vsay/Quickmenu item
 msgid "Need backup"
-msgstr "Versterking nodig"
+msgstr "Necesito apoyo"
 
 #. Vsay/Quickmenu item
 msgid "Need defense"
-msgstr "Verdediging nodig"
+msgstr "¡ Necesito defensa !"
 
 #. Vsay/Quickmenu item
 msgid "Roger"
-msgstr "Begrepen"
+msgstr "Afirmativo"
 
 #. Vsay/Quickmenu item
 msgid "Negative"
-msgstr "Negatief"
+msgstr "Negativo"
 
 #. Vsay/Quickmenu item
 msgid "Go to quad"
-msgstr "Ga naar quad"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "Go to powerup"
-msgstr "Ga naar powerup"
+msgstr "Vé a mejorarte "
 
 #. Vsay/Quickmenu item
 msgid "Need health"
-msgstr "Leven nodig"
+msgstr "Necesito vida"
 
 #. Vsay/Quickmenu item
 msgid "Need weapon"
-msgstr "Wapen nodig"
+msgstr "Necesito arma"
 
 #. Vsay/Quickmenu item
 msgid "Need armor"
-msgstr "Pantser nodig"
+msgstr "Necesito armadura"
 
 #. Vsay/Quickmenu item
 msgid "On defense"
-msgstr "Ik verdedig"
+msgstr "Defendiendo"
 
 #. Vsay/Quickmenu item
 msgid "On offense"
-msgstr "Ik val aan"
+msgstr "Atacando"
 
 #. Vsay/Quickmenu item
 msgid "Yes"
-msgstr "Ja"
+msgstr "Si"
 
 #. Vsay/Quickmenu item
 msgid "No"
-msgstr "Nee"
+msgstr "No"
 
 #. Vsay/Quickmenu item
 msgid "Oops"
-msgstr "Oeps"
+msgstr "Oops"
 
 #. Vsay/Quickmenu item
 msgid "Sorry"
-msgstr "Sorry"
+msgstr "Lo siento"
 
 #. Vsay/Quickmenu item
 msgid "Thanks"
-msgstr "Bedankt"
+msgstr "Gracias"
 
 #. Vsay/Quickmenu item
 msgid "Yeehaa"
@@ -128,7 +130,7 @@ msgstr "Yeehaa"
 
 #. Vsay/Quickmenu item
 msgid "Good game"
-msgstr "Goed gespeeld"
+msgstr "Buen Juego"
 
 #. Vsay/Quickmenu item
 msgid "Booo"
@@ -136,187 +138,185 @@ msgstr "Booo"
 
 #. Vsay/Quickmenu item
 msgid "Affirmative"
-msgstr "Bevestigend"
+msgstr "Afirmativo"
 
 msgid "MM Login: Password error"
-msgstr "MM Login: Wachtwoord fout"
+msgstr "MM Login: Error de contraseña"
 
 msgid "MM Login: Can't login to MM while connected to server"
-msgstr "MM Logout: Kan niet uitloggen van MM wanneer je verbonden bent met een "
-"server"
+msgstr "MM Logout: no puedes desconectarte de MM estando conectado al servidor"
 
 msgid "Frags"
 msgstr "Frags"
 
 msgid "say (to all):"
-msgstr "Zeggen (naar iedereen):"
+msgstr "decir (a todos):"
 
 msgid "say (to team):"
-msgstr "Zeggen (naar team):"
+msgstr "decir (a equipo):"
 
 msgid "Connection timed out"
-msgstr "Verbinding verlopen"
+msgstr "Conexión perdida "
 
 #. Bomb option, enables projectile for Gunblade
 msgid "Strong Gunblade"
-msgstr "Sterk Mesgeweer"
+msgstr ""
 
 msgid "MM Login: authentication timeout"
-msgstr "MM Login: authenticatie verlopen"
+msgstr "MM Login: autenticación fuera de tiempo"
 
 msgid "MM Logout: not logged in"
-msgstr "MM Logout: Niet ingelogd"
+msgstr "MM Logout: no ingresado"
 
 msgid "MM Logout: can't logout from MM while connected to server"
-msgstr "MM Logout: kan niet uitloggen van MM wanneer je verbonden bent met een "
-"server"
+msgstr "MM Logout: no puedes desconectarte de MM estando conectado al servidor"
 
 msgid "MM Logout: Failed to force logout"
-msgstr "MM Logout: Geforceerde logout is gefaald"
+msgstr "MM Logout: Error al forzar desconexión"
 
 msgid "MM Login: StatQuery error"
-msgstr "MM Login: StatQuery error"
+msgstr "MM Login: Error de StatQuery"
 
 msgid "MM Login: Failed, no session id"
-msgstr "MM Login: Gefaald, geen sessie id"
+msgstr "MM Login: Error, sin sesión de id"
 
 msgid "MM Login: Failed to parse data at step %d"
-msgstr "MM Login: Data ontleden gefaald bij stap %d"
+msgstr "MM Login: Error al indexar en %d"
 
 msgid "%s or %s"
-msgstr "%s of %s"
+msgstr "%s o %s"
 
 msgid "yes"
-msgstr "ja"
+msgstr "si"
 
 msgid "no"
-msgstr "nee"
+msgstr "no"
 
 msgid "Gunblade"
-msgstr "Mesgeweer"
+msgstr ""
 
 msgid "Machinegun"
-msgstr "Machinegeweer"
+msgstr "Metralleta"
 
 msgid "Riotgun"
-msgstr "Jachtgeweer"
+msgstr ""
 
 msgid "Grenade Launcher"
-msgstr "Granaatwerper"
+msgstr "Lanza Granadas"
 
 msgid "Rocket Launcher"
-msgstr "Raketwerper"
+msgstr "Lanza misiles"
 
 msgid "Plasmagun"
-msgstr "Plasmawapen"
+msgstr "Arma de plasma"
 
 msgid "Lasergun"
-msgstr "Laserwapen"
+msgstr "Arma láser "
 
 msgid "Electrobolt"
-msgstr "Elektrowapen"
+msgstr ""
 
 msgid "Instagun"
-msgstr "Instawapen"
+msgstr ""
 
 msgid "Cells"
-msgstr "Cellen"
+msgstr "Células"
 
 msgid "Shells"
-msgstr "Hulzen"
+msgstr "Casquillos "
 
 msgid "Bullets"
-msgstr "Kogels"
+msgstr "Balas "
 
 msgid "Grenades"
-msgstr "Granaten"
+msgstr "Granadas"
 
 msgid "Rockets"
-msgstr "Raketten"
+msgstr "Cohetes "
 
 msgid "Plasma"
 msgstr "Plasma"
 
 msgid "Lasers"
-msgstr "Lasers"
+msgstr "Lasers "
 
 msgid "Bolts"
-msgstr "Schichten"
+msgstr ""
 
 msgid "Instas"
-msgstr "Insta"
+msgstr "Instas"
 
 msgid "Blades"
-msgstr "Messen"
+msgstr "Cuchillas"
 
 msgid "Weak bullets"
-msgstr "Zwakke kogels"
+msgstr "Balas débiles "
 
 msgid "Weak Shells"
-msgstr "Zwakke hulzen"
+msgstr "Casquillos débiles "
 
 msgid "Weak Grenades"
-msgstr "Zwakke granaten"
+msgstr "Granadas débiles "
 
 msgid "Weak Rockets"
-msgstr "Zwakke raketten"
+msgstr "Cohetes débiles "
 
 msgid "Weak Plasma"
-msgstr "Zwakke plasma"
+msgstr "Plasma débil "
 
 msgid "Weak Lasers"
-msgstr "Zwakke lasers"
+msgstr "Lasers débiles "
 
 msgid "Weak Bolts"
-msgstr "Zwakke schichten"
+msgstr ""
 
 msgid "Weak Instas"
-msgstr "Zwakke instas"
+msgstr ""
 
 msgid "Green Armor"
-msgstr "Groen pantser"
+msgstr "Armadura verde"
 
 msgid "Yellow Armor"
-msgstr "Geel pantser"
+msgstr "Armadura amarilla "
 
 msgid "Red Armor"
-msgstr "Rood pantser"
+msgstr "armadura roja "
 
 msgid "Armor Shard"
-msgstr "Pantserstuk"
+msgstr "Fragmento de armadura "
 
 msgid "5 Health"
-msgstr "5 Levenspunten"
+msgstr "5 Vida"
 
 msgid "25 Health"
-msgstr "25 Levenspunten"
+msgstr "25 Vida"
 
 msgid "50 Health"
-msgstr "50 Levenspunten"
+msgstr "50 Vida"
 
 msgid "Mega Health"
-msgstr "Mega Leven"
+msgstr "Mega Vida"
 
 msgid "Ultra Health"
-msgstr "Ultra Leven"
+msgstr "Ultra Vida"
 
 msgid "Quad Damage"
-msgstr "Viervoudige Schade"
+msgstr "Daño Quad"
 
 msgid "WarShell"
-msgstr "OorlogsSchild"
+msgstr ""
 
 msgid "Regeneration"
-msgstr "Leven Herstelling"
+msgstr "Regeneración"
 
 msgid "Ammo Pack Weak"
-msgstr "Zwak ammunitie pakket"
+msgstr "Paquete de munición débil"
 
 msgid "Ammo Pack Strong"
-msgstr "Sterk ammunitie pakket"
+msgstr "Paquete de munición fuerte"
 
 msgid "Ammo Pack"
-msgstr "Ammunitie pakket"
+msgstr "Munición"
 
 msgid "say:"
-msgstr "zeg:"
+msgstr "decir:"

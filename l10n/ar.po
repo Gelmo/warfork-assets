@@ -1,322 +1,320 @@
 # Translators:
-# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# noor aldeen <gamesforever999@yahoo.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-03-26 11:04+0000\n"
 "PO-Revision-Date: 2019-08-28 19:42+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
-"Language-Team: Dutch (https://www.transifex.com/team-forbidden-llc/teams/102732/nl/)\n"
+"Last-Translator: noor aldeen <gamesforever999@yahoo.com>, 2019\n"
+"Language-Team: Arabic (https://www.transifex.com/team-forbidden-llc/teams/102732/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
 #. Vsay/Quickmenu item
 msgid "Need offense"
-msgstr "Aanval nodig"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "Need help"
-msgstr "Hulp nodig"
+msgstr "احتاج الى مساعدة"
 
 #. Vsay/Quickmenu item
 msgid "Armor free"
-msgstr "Pantser beschikbaar"
+msgstr "درع مجانا"
 
 #. Vsay/Quickmenu item
 msgid "Area secured"
-msgstr "Gebied veilig"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "No problem"
-msgstr "Geen probleem"
+msgstr "لا توجد أي مشكلة"
 
 #. Vsay/Quickmenu item
 msgid "Defend!"
-msgstr "Verdedigen!"
+msgstr "دفاع"
 
 #. Vsay/Quickmenu item
 msgid "Defend A!"
-msgstr "Verdedig A!"
+msgstr "دافعوا في المنطقة أ"
 
 #. Vsay/Quickmenu item
 msgid "Defend B!"
-msgstr "Verdedig B!"
+msgstr "دفاع في المنطقة ب"
 
 #. Vsay/Quickmenu item
 msgid "Attack!"
-msgstr "Aanvallen!"
+msgstr "هجوم"
 
 #. Vsay/Quickmenu item
 msgid "Attack A!"
-msgstr "Val A aan!"
+msgstr "قوموا بالهجوم على المنطقة أ "
 
 #. Vsay/Quickmenu item
 msgid "Attack B!"
-msgstr "Val B aan!"
+msgstr "قوموا بالهجوم على المنطقة ب"
 
 #. Vsay/Quickmenu item
 msgid "Need backup"
-msgstr "Versterking nodig"
+msgstr "احتاج إلى دعم"
 
 #. Vsay/Quickmenu item
 msgid "Need defense"
-msgstr "Verdediging nodig"
+msgstr "احتاج إلى دفاع"
 
 #. Vsay/Quickmenu item
 msgid "Roger"
-msgstr "Begrepen"
+msgstr "حاضر"
 
 #. Vsay/Quickmenu item
 msgid "Negative"
-msgstr "Negatief"
+msgstr "لا "
 
 #. Vsay/Quickmenu item
 msgid "Go to quad"
-msgstr "Ga naar quad"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "Go to powerup"
-msgstr "Ga naar powerup"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "Need health"
-msgstr "Leven nodig"
+msgstr "اريد نقاط صحة "
 
 #. Vsay/Quickmenu item
 msgid "Need weapon"
-msgstr "Wapen nodig"
+msgstr "اريد سلاح"
 
 #. Vsay/Quickmenu item
 msgid "Need armor"
-msgstr "Pantser nodig"
+msgstr "اريد درع"
 
 #. Vsay/Quickmenu item
 msgid "On defense"
-msgstr "Ik verdedig"
+msgstr "في الدفاع"
 
 #. Vsay/Quickmenu item
 msgid "On offense"
-msgstr "Ik val aan"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "Yes"
-msgstr "Ja"
+msgstr "نعم"
 
 #. Vsay/Quickmenu item
 msgid "No"
-msgstr "Nee"
+msgstr "لا"
 
 #. Vsay/Quickmenu item
 msgid "Oops"
-msgstr "Oeps"
+msgstr "اوووبس"
 
 #. Vsay/Quickmenu item
 msgid "Sorry"
-msgstr "Sorry"
+msgstr "اسف"
 
 #. Vsay/Quickmenu item
 msgid "Thanks"
-msgstr "Bedankt"
+msgstr "شكرا"
 
 #. Vsay/Quickmenu item
 msgid "Yeehaa"
-msgstr "Yeehaa"
+msgstr "وييييهوووووو"
 
 #. Vsay/Quickmenu item
 msgid "Good game"
-msgstr "Goed gespeeld"
+msgstr "مباراة جيدة"
 
 #. Vsay/Quickmenu item
 msgid "Booo"
-msgstr "Booo"
+msgstr "اوووووو"
 
 #. Vsay/Quickmenu item
 msgid "Affirmative"
-msgstr "Bevestigend"
+msgstr ""
 
 msgid "MM Login: Password error"
-msgstr "MM Login: Wachtwoord fout"
+msgstr "خطأ في كلمة السر"
 
 msgid "MM Login: Can't login to MM while connected to server"
-msgstr "MM Logout: Kan niet uitloggen van MM wanneer je verbonden bent met een "
-"server"
+msgstr ""
 
 msgid "Frags"
-msgstr "Frags"
+msgstr ""
 
 msgid "say (to all):"
-msgstr "Zeggen (naar iedereen):"
+msgstr "عام ( للجميع )"
 
 msgid "say (to team):"
-msgstr "Zeggen (naar team):"
+msgstr "عام ( للفريق )"
 
 msgid "Connection timed out"
-msgstr "Verbinding verlopen"
+msgstr "انتهت مدة الاتصال"
 
 #. Bomb option, enables projectile for Gunblade
 msgid "Strong Gunblade"
-msgstr "Sterk Mesgeweer"
+msgstr ""
 
 msgid "MM Login: authentication timeout"
-msgstr "MM Login: authenticatie verlopen"
+msgstr ""
 
 msgid "MM Logout: not logged in"
-msgstr "MM Logout: Niet ingelogd"
+msgstr ""
 
 msgid "MM Logout: can't logout from MM while connected to server"
-msgstr "MM Logout: kan niet uitloggen van MM wanneer je verbonden bent met een "
-"server"
+msgstr ""
 
 msgid "MM Logout: Failed to force logout"
-msgstr "MM Logout: Geforceerde logout is gefaald"
+msgstr ""
 
 msgid "MM Login: StatQuery error"
-msgstr "MM Login: StatQuery error"
+msgstr ""
 
 msgid "MM Login: Failed, no session id"
-msgstr "MM Login: Gefaald, geen sessie id"
+msgstr ""
 
 msgid "MM Login: Failed to parse data at step %d"
-msgstr "MM Login: Data ontleden gefaald bij stap %d"
+msgstr ""
 
 msgid "%s or %s"
-msgstr "%s of %s"
+msgstr ""
 
 msgid "yes"
-msgstr "ja"
+msgstr "نعم"
 
 msgid "no"
-msgstr "nee"
+msgstr "لا"
 
 msgid "Gunblade"
-msgstr "Mesgeweer"
+msgstr "السلاح الرئيسي"
 
 msgid "Machinegun"
-msgstr "Machinegeweer"
+msgstr "رشاش"
 
 msgid "Riotgun"
-msgstr "Jachtgeweer"
+msgstr ""
 
 msgid "Grenade Launcher"
-msgstr "Granaatwerper"
+msgstr "قاذفة قنابل"
 
 msgid "Rocket Launcher"
-msgstr "Raketwerper"
+msgstr "قاذف صواريخ"
 
 msgid "Plasmagun"
-msgstr "Plasmawapen"
+msgstr "بلازما"
 
 msgid "Lasergun"
-msgstr "Laserwapen"
+msgstr "ليزر"
 
 msgid "Electrobolt"
-msgstr "Elektrowapen"
+msgstr ""
 
 msgid "Instagun"
-msgstr "Instawapen"
+msgstr ""
 
 msgid "Cells"
-msgstr "Cellen"
+msgstr ""
 
 msgid "Shells"
-msgstr "Hulzen"
+msgstr ""
 
 msgid "Bullets"
-msgstr "Kogels"
+msgstr "الرصاص"
 
 msgid "Grenades"
-msgstr "Granaten"
+msgstr ""
 
 msgid "Rockets"
-msgstr "Raketten"
+msgstr "الصواريخ"
 
 msgid "Plasma"
-msgstr "Plasma"
+msgstr "البلازما"
 
 msgid "Lasers"
-msgstr "Lasers"
+msgstr "الليزر"
 
 msgid "Bolts"
-msgstr "Schichten"
+msgstr ""
 
 msgid "Instas"
-msgstr "Insta"
+msgstr ""
 
 msgid "Blades"
-msgstr "Messen"
+msgstr ""
 
 msgid "Weak bullets"
-msgstr "Zwakke kogels"
+msgstr "رصاصات ضعيفة"
 
 msgid "Weak Shells"
-msgstr "Zwakke hulzen"
+msgstr "قذائف ضعيفة"
 
 msgid "Weak Grenades"
-msgstr "Zwakke granaten"
+msgstr "قنابل ضعيفة"
 
 msgid "Weak Rockets"
-msgstr "Zwakke raketten"
+msgstr "صواريخ ضعيفة"
 
 msgid "Weak Plasma"
-msgstr "Zwakke plasma"
+msgstr "بلازما ضعيفة"
 
 msgid "Weak Lasers"
-msgstr "Zwakke lasers"
+msgstr "ليزر ضعيف"
 
 msgid "Weak Bolts"
-msgstr "Zwakke schichten"
+msgstr ""
 
 msgid "Weak Instas"
-msgstr "Zwakke instas"
+msgstr ""
 
 msgid "Green Armor"
-msgstr "Groen pantser"
+msgstr "درع اخضر"
 
 msgid "Yellow Armor"
-msgstr "Geel pantser"
+msgstr "درع اصفر"
 
 msgid "Red Armor"
-msgstr "Rood pantser"
+msgstr "درع احمر"
 
 msgid "Armor Shard"
-msgstr "Pantserstuk"
+msgstr ""
 
 msgid "5 Health"
-msgstr "5 Levenspunten"
+msgstr "5 صحة"
 
 msgid "25 Health"
-msgstr "25 Levenspunten"
+msgstr "25 صحة"
 
 msgid "50 Health"
-msgstr "50 Levenspunten"
+msgstr "50 صحة"
 
 msgid "Mega Health"
-msgstr "Mega Leven"
+msgstr ""
 
 msgid "Ultra Health"
-msgstr "Ultra Leven"
+msgstr ""
 
 msgid "Quad Damage"
-msgstr "Viervoudige Schade"
+msgstr ""
 
 msgid "WarShell"
-msgstr "OorlogsSchild"
+msgstr ""
 
 msgid "Regeneration"
-msgstr "Leven Herstelling"
+msgstr ""
 
 msgid "Ammo Pack Weak"
-msgstr "Zwak ammunitie pakket"
+msgstr ""
 
 msgid "Ammo Pack Strong"
-msgstr "Sterk ammunitie pakket"
+msgstr ""
 
 msgid "Ammo Pack"
-msgstr "Ammunitie pakket"
+msgstr ""
 
 msgid "say:"
-msgstr "zeg:"
+msgstr ""

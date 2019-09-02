@@ -1,14 +1,18 @@
+# Translators:
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
+# tomo hiro <tora23812@gmail.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:14+0000\n"
-"PO-Revision-Date: 2016-04-03 16:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: ja\n"
+"POT-Creation-Date: 2016-03-26 11:04+0000\n"
+"PO-Revision-Date: 2019-08-28 19:42+0000\n"
+"Last-Translator: tomo hiro <tora23812@gmail.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/team-forbidden-llc/teams/102732/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. Vsay/Quickmenu item
@@ -18,6 +22,14 @@ msgstr "攻めが必要だ"
 #. Vsay/Quickmenu item
 msgid "Need help"
 msgstr "助けが要る"
+
+#. Vsay/Quickmenu item
+msgid "Armor free"
+msgstr ""
+
+#. Vsay/Quickmenu item
+msgid "Area secured"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "No problem"
@@ -64,6 +76,14 @@ msgid "Negative"
 msgstr "反対"
 
 #. Vsay/Quickmenu item
+msgid "Go to quad"
+msgstr ""
+
+#. Vsay/Quickmenu item
+msgid "Go to powerup"
+msgstr ""
+
+#. Vsay/Quickmenu item
 msgid "Need health"
 msgstr "ヘルスが必要だ"
 
@@ -74,6 +94,14 @@ msgstr "武器が要る"
 #. Vsay/Quickmenu item
 msgid "Need armor"
 msgstr "アーマーが要る"
+
+#. Vsay/Quickmenu item
+msgid "On defense"
+msgstr ""
+
+#. Vsay/Quickmenu item
+msgid "On offense"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "Yes"
@@ -96,8 +124,16 @@ msgid "Thanks"
 msgstr "ありがとう"
 
 #. Vsay/Quickmenu item
+msgid "Yeehaa"
+msgstr "ヒーハー"
+
+#. Vsay/Quickmenu item
 msgid "Good game"
 msgstr "お疲れ様"
+
+#. Vsay/Quickmenu item
+msgid "Booo"
+msgstr "ブー"
 
 #. Vsay/Quickmenu item
 msgid "Affirmative"
@@ -120,6 +156,10 @@ msgstr "チームチャット:"
 
 msgid "Connection timed out"
 msgstr "接続がタイムアウトしました"
+
+#. Bomb option, enables projectile for Gunblade
+msgid "Strong Gunblade"
+msgstr ""
 
 msgid "MM Login: authentication timeout"
 msgstr "MM ログイン: 認証タイムアウト"
@@ -279,4 +319,3 @@ msgstr "弾薬パック"
 
 msgid "say:"
 msgstr "チャット:"
-
