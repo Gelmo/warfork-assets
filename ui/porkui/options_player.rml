@@ -362,28 +362,28 @@
 							<option value="en">[en] English</option>
 							<option value="be">[be] Беларуская</option>
 							<option value="bg">[bg] Български</option>
-							<option value="cs">[cs] Čeština</option>
+							<!-- <option value="cs">[cs] Čeština</option> unfinished -->
 							<option value="de">[de] Deutsch</option>
-							<option value="es">[el] Ελληνικά</option>
+							<!-- <option value="el">[el] Ελληνικά</option> unfinished -->
 							<option value="es">[es] Español</option>
-							<option value="es">[es_419] Español-Latinoamérica</option>
+							<option value="es_419">[es_419] Español-Latinoamérica</option>
 							<option value="fi">[fi] Suomi</option>
 							<option value="fr">[fr] Français</option>
 							<option value="hu">[hu] Magyar</option>
 							<option value="it">[it] Italiano</option>
 							<option value="ja">[ja] 日本語</option>
 							<option value="lt">[lt] Lietuvių</option>
-							<option value="nl">[nl] Nederlands</option>
+							<!-- <option <option value="nl">[nl] Nederlands</option> unfinished -->
 							<option value="pl">[pl] Polski</option>
 							<option value="pt">[pt] Português</option>
-							<option value="pt_br">[pt_BR] Português-Brasil</option>
+							<option value="pt_BR">[pt_BR] Português-Brasil</option>
 							<option value="ro">[ro] Română</option>
 							<option value="ru">[ru] Русский</option>
 							<option value="sv">[sv] Svenska</option>
 							<option value="tr">[tr] Türkçe</option>
 							<option value="uk">[uk] Українська</option>
-							<option value="uk">[vi] Tiếng Việt</option>
-							<option value="zh">[zh_CN] 简体中文</option>
+							<option value="vi">[vi] Tiếng Việt</option>
+							<option value="zh_CN">[zh_CN] 简体中文</option>
 						</select>
 						<br/>
 						
