@@ -191,11 +191,11 @@ msgstr "Best:"
 msgid "Srv Best:"
 msgstr "Srv Best:"
 
-#. Race, team FORBIDDEN time
+#. Race, team FORBIDDEN time, do not translate Forbidden
 msgid "Forbidden time:"
 msgstr "Forbidden time:"
 
-#. Race, team ICY time
+#. Race, team ICY time, do not translate Icy
 msgid "Icy time:"
 msgstr "Icy time:"
 
@@ -228,6 +228,7 @@ msgstr "Personal best:"
 msgid "Server record:"
 msgstr "Server record:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Warmup"
 
