@@ -153,7 +153,7 @@
 				// matchname
 				meta = demo.getMeta( 'matchname' );
 				if( !meta.empty() ) {
-					metaRml += StringUtils::Format( _T( 'Match: %s' ), meta ) + '<br/>';
+					metaRml += StringUtils::Format( _T( 'Match: %s' ), meta ) + '<br/><br/>'; //for some reason it needs 2 <br/> here to the line break
 				}
 
 				// matchscore
