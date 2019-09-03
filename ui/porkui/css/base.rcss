@@ -185,7 +185,7 @@ a:hover, a:focus {
 #console {
 	position: fixed;
 	bottom: 24dp;
-	width: 100%;
+	width: 32dp;
 	height: 32dp;
 	z-index: 2;
 }
