@@ -730,6 +730,9 @@ msgstr "Mouse sensitivity"
 msgid "Mouse acceleration"
 msgstr "Mouse acceleration"
 
+msgid "Zoom sensitivity"
+msgstr "Zoom sensitivity"
+
 msgid "Mouse filter"
 msgstr "Mouse filter"
 
