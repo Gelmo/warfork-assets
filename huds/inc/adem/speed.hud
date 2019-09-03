@@ -2,12 +2,21 @@ if %SHOW_SPEED > 0
 if %SPEED != #NOTSET
 
 if %RACE == 0
-setSize 10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 10
-setColor 1 1 1 1
-setAlign 2 2
-setCursor #WIDTH / 2, #HEIGHT - 5
-drawNum %SPEED
-endif
+	if %SHOW_SPEED == 1	//original speed position
+		setSize 10 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 10
+		setColor 1 1 1 1
+		setAlign 2 2
+		setCursor #WIDTH / 2, #HEIGHT - 5
+		drawNum %SPEED
+	endif
+	if %SHOW_SPEED == 2	//alternative speed position
+		setAlign 2 2
+		setSize 16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 16
+		setColor 1 1 1 0.85
+		setCursor #WIDTH / 2, #HEIGHT - 200
+		drawNum %SPEED
+	endif
+endif //if %RACE == 0
 
 if %RACE // ported from racesow's joki
 // ------------------ BEGIN of draw speed bar ----------------------
@@ -114,7 +123,7 @@ endif
 setScale #DEFAULTSCALE //resets scale
 // ------------------ END of draw speed bar ----------------------
 
-if %RACE || %SHOW_SPEED == 2	//alternative speed position
+if %RACE
     setAlign 2 2
     setSize 16 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 16
     setColor 1 1 1 0.85
