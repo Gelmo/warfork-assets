@@ -23,6 +23,21 @@ msgstr "Set yourself READY using the in-game menu to start the match!"
 msgid "Waiting for players."
 msgstr "Waiting for players."
 
+#. Message at the start of the match
+msgid "Fight!"
+msgstr "Fight!"
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr "FIGHT!"
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr "%s MINUTES OVERTIME\n"
+
+msgid "Overtime"
+msgstr "Overtime"
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
 msgstr "Entered practice mode"
