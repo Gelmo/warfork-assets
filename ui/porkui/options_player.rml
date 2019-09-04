@@ -271,19 +271,7 @@
 							<div id="crosshair-strong-white" class="crosshair crosshairwhite" onclick="nextCrosshair(cg_crosshair_strong,crosshairStrong,crosshairStrongWhite);"/>
 						</div>
 						<br/>
-
-						<div class="title">Weapon handedness</div>
-						<select cvar="hand" realtime="1">
-							<option value="0" selected>right</option>
-							<option value="1">left</option>
-							<option value="2">center</option>
-						</select>
-						<br/>
-
-						<br/>
-						<hr class="nicehr"/>
-						<br/>
-
+						
 						<div class="title">FOV</div>
 						<input cvar="fov" type="text" class="short text" value="100" realtime="1"/>
 						<br/>
@@ -292,21 +280,14 @@
 						<input cvar="zoomfov" type="text" class="short text" value="40" realtime="1"/>
 						<br/>
 
-						<br/>
-						<hr class="nicehr" />
+						<div class="title">Weapon handedness</div>
+						<select cvar="hand" realtime="1">
+							<option value="0" selected>right</option>
+							<option value="1">left</option>
+							<option value="2">center</option>
+						</select>
 						<br/>
 						
-						<div class="title">Simple items</div>
-						<input cvar="cg_simpleItems" type="checkbox" realtime="1"/>
-						<br/>
-						
-						<div class="title">Show teammates' indicators</div>
-						<input cvar="cg_showTeamMates" type="checkbox" realtime="1"/>
-
-						<div class="title">Show help</div>
-						<input cvar="cg_showHelp" type="checkbox" realtime="1"/>
-						<br/>
-
 						<div class="title">Show weapon model</div>
 						<input cvar="cg_gun" type="checkbox" realtime="1"/>
 						<br/>
@@ -317,6 +298,17 @@
 						
 						<div class="title">Weapon opacity</div>
 						<input cvar="cg_gun_alpha" class="slider" type="range" min="0" max="1" step="0.1" value="0" realtime="1"/>
+						<br/>
+
+						<br/>
+						<hr class="nicehr" />
+						<br/>
+						
+						<div class="title">Show teammates' indicators</div>
+						<input cvar="cg_showTeamMates" type="checkbox" realtime="1"/>
+
+						<div class="title">Show help</div>
+						<input cvar="cg_showHelp" type="checkbox" realtime="1"/>
 						<br/>
 						
 						<div class="title">Show minimap</div>
@@ -343,6 +335,10 @@
 												
 						<div class="title">Show pressed keys</div>
 						<input cvar="cg_showPressedKeys" type="checkbox" realtime="1"/>
+						<br/>
+						
+						<div class="title">Show awards</div>
+						<input cvar="cg_showAwards" type="checkbox" realtime="1"/>
 						<br/>
 
 						<div id="hud-touchmovedir">
@@ -417,6 +413,10 @@
 						
 						<br/>
 						<hr class="nicehr" />
+						<br/>
+						
+						<div class="title">Simple items</div>
+						<input cvar="cg_simpleItems" type="checkbox" realtime="1"/>
 						<br/>
 
 						<div class="title">Enable view animation</div>

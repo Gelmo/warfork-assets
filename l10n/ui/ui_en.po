@@ -247,6 +247,10 @@ msgstr "Scoreboard"
 msgid "Show pressed keys"
 msgstr "Show pressed keys"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr "Show awards"
+
 #. Language selector
 msgid "Language"
 msgstr "Language"
