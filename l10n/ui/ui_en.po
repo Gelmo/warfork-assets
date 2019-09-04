@@ -618,6 +618,14 @@ msgstr "Endmatch screenshot"
 msgid "Save match stats"
 msgstr "Save match stats"
 
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr "Team Forbidden"
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr "Team Icy"
+
 msgid "Players"
 msgstr "Players"
 
