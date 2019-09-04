@@ -22,14 +22,14 @@ if %TEAMBASED == 0 //not team based GT
 	setCursor #WIDTH, #HEIGHT - 50
 	setAlign #RIGHT, #BOTTOM
 	setColor 0 0 0 0.5
-	setSize 62 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 50
+	setSize 70 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 50
 	drawPicByName gfx/hud/default/ammo_bar
 
 	setSize 20 * 1.333 * %VIDHEIGHT / %VIDWIDTH, 20
 	setColorToTeamColor #TEAM_ALPHA
 	setAlign #middle, #TOP
 	setColorAlpha 1
-	moveCursor -21 -36
+	moveCursor -24 -36
 	drawNum %SCORE
 endif
 endif //if %SCORE != #NOTSET

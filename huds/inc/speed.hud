@@ -1,4 +1,5 @@
 // speed (with shadow)
+if %SCOREBOARD == 0
 if %SHOW_SPEED
 
 	setSpecialFontFamily Virtue
@@ -13,4 +14,5 @@ if %SHOW_SPEED
 	moveCursor -1, -1
 	drawStringNum %SPEED
 
+endif
 endif
