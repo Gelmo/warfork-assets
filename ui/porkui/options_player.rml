@@ -280,7 +280,7 @@
 						<input cvar="zoomfov" type="text" class="short text" value="40" realtime="1"/>
 						<br/>
 
-						<div class="title">Weapon handedness</div>
+						<div class="title">Weapon position</div>
 						<select cvar="hand" realtime="1">
 							<option value="0" selected>right</option>
 							<option value="1">left</option>

@@ -205,7 +205,7 @@
 								</div>								
 							</panel>	
 
-							<tab class="side-tab">Players</tab>
+							<tab class="side-tab">Enemies</tab>
 						
 							<!-- PLAYERS view -->												
 							<panel class="dropshadow">

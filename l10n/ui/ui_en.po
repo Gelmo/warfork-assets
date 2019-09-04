@@ -558,8 +558,8 @@ msgstr "Spectator HUD"
 msgid "Crosshair"
 msgstr "Crosshair"
 
-msgid "Weapon handedness"
-msgstr "Weapon handedness"
+msgid "Weapon position"
+msgstr "Weapon position"
 
 msgid "default"
 msgstr "default"
@@ -626,8 +626,9 @@ msgstr "Team Forbidden"
 msgid "Team Icy"
 msgstr "Team Icy"
 
-msgid "Players"
-msgstr "Players"
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr "Enemies"
 
 msgid "Team model options"
 msgstr "Team model options"
