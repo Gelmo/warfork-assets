@@ -374,9 +374,9 @@ msgstr "Disable autohop"
 msgid "Enable view animation"
 msgstr "Enable view animation"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
-msgstr "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
+msgstr "Show critical hit effect"
 
 #. Touch screen setting
 msgid "Touch look sensitivity"

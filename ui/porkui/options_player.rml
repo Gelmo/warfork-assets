@@ -423,7 +423,7 @@
 						<input cvar="cg_viewBob" type="checkbox" realtime="1"/>
 						<br/>
 
-						<div class="title">Show cartoon hit effect</div>
+						<div class="title">Show critical hit effect</div>
 						<input cvar="cg_cartoonHitEffect" type="checkbox" realtime="1"/>
 						<br/>
 					</optionsform>
