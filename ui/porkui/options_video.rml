@@ -43,6 +43,24 @@
 			}
 		}
 		
+		void onRmaxfpsChange( Element @elem, Event @ev ) //this only works if r_multithreading = 1
+		{
+			ElementFormControl @bar = elem;
+			Element @txt = elem.getElementById( 'rmaxfps' );
+			
+			if( @bar == null || @txt == null )
+				return;
+			
+			if( bar.value.toFloat() > 250 ) //if r_maxfps > cl_maxfps default value
+			{
+				game.execAppend ( "cl_maxfps " + StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 0 ) + " ;\n" );
+			}
+			else
+			{
+				game.execAppend ( "cl_maxfps 250;\n" ); //250 is default value
+			}	
+		}
+		
 		void onGammaChange( Element @elem, Event @ev )
 		{
 			ElementFormControl @bar = elem;
@@ -90,7 +108,7 @@
 
 					<div id="r_maxfps-frame">
 						<div class="title">Framerate (FPS) limit</div>
-						<select cvar="r_maxfps" realtime="1">
+						<select id="rmaxfps" cvar="r_maxfps" realtime="1" onchange="$onRmaxfpsChange">
 							<option value="60" selected>60</option>
 							<option value="90" selected>90</option>
 							<option value="100" selected>100</option>
@@ -101,6 +119,7 @@
 							<option value="250" selected>250</option>
 							<option value="333" selected>333</option>
 							<option value="500" selected>500</option>
+							<option value="1000" selected>1000</option>
 						</select>
 					</div>
 					
@@ -117,6 +136,7 @@
 							<option value="250" selected>250</option>
 							<option value="333" selected>333</option>
 							<option value="500" selected>500</option>
+							<option value="1000" selected>1000</option>
 						</select>
 					</div>
 					
