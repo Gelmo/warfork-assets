@@ -16,7 +16,7 @@ msgstr ""
 
 msgid "welcome_to_tutorial"
 msgstr "Benvenuto nel tutorial di Warfork!\n"
-"Puoi ^3guardarti attorno^7 utilizzando il ^2Mouse^7 e ^3muoverti^7 con i ^3Tasti di movimento^7 (^2WSAD^7).\n"
+"Puoi ^3guardarti attorno^7 utilizzando il ^2Mouse^7 e ^3muoverti^7 con i ^3Tasti di movimento^7 (^2WASD^7).\n"
 "Cammina fino ai ^3due simboli^7 in questa stanza per impararne il significato e poi attraversa la porta per continuare."
 
 msgid "welcome_to_tutorial_nokeyboard"
@@ -154,7 +154,7 @@ msgstr "Il ^8potenziamento Danno Quadruplo^3 ti permette di infliggere quattro v
 "È utilizzato in modalità di gioco come ^3Deathmatch a Squadre^7, ^3Tutti contro Tutti^7 e ^3Cattura la Bandiera^7."
 
 msgid "powerup_warshell"
-msgstr "Il ^5potenziamento Warshell^3 diminuisce il danno subìto di quattro volte^7 per un ^3tempo limitato^7.\n"
+msgstr "Il ^5potenziamento WarShell^3 diminuisce il danno subìto di quattro volte^7 per un ^3tempo limitato^7.\n"
 "È utilizzato in modalità di gioco come ^3Deathmatch a Squadre^7, ^3Tutti contro Tutti^7 e ^3Cattura la Bandiera^7."
 
 msgid "health"
