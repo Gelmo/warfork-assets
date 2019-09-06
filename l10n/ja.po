@@ -1,13 +1,14 @@
 # Translators:
 # Andrei Stepanov <adem4ik@gmail.com>, 2019
 # tomo hiro <tora23812@gmail.com>, 2019
+# Sasha Koshiishi <sashadesu2048@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-03-26 11:04+0000\n"
 "PO-Revision-Date: 2019-08-28 19:42+0000\n"
-"Last-Translator: tomo hiro <tora23812@gmail.com>, 2019\n"
+"Last-Translator: Sasha Koshiishi <sashadesu2048@gmail.com>, 2019\n"
 "Language-Team: Japanese (https://www.transifex.com/team-forbidden-llc/teams/102732/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,11 +26,11 @@ msgstr "助けが要る"
 
 #. Vsay/Quickmenu item
 msgid "Armor free"
-msgstr ""
+msgstr "アーマーが取れる"
 
 #. Vsay/Quickmenu item
 msgid "Area secured"
-msgstr ""
+msgstr "エリア確保"
 
 #. Vsay/Quickmenu item
 msgid "No problem"
@@ -77,11 +78,11 @@ msgstr "反対"
 
 #. Vsay/Quickmenu item
 msgid "Go to quad"
-msgstr ""
+msgstr "クアッドに行く"
 
 #. Vsay/Quickmenu item
 msgid "Go to powerup"
-msgstr ""
+msgstr "パワーアップに行く"
 
 #. Vsay/Quickmenu item
 msgid "Need health"
@@ -97,11 +98,11 @@ msgstr "アーマーが要る"
 
 #. Vsay/Quickmenu item
 msgid "On defense"
-msgstr ""
+msgstr "防衛中"
 
 #. Vsay/Quickmenu item
 msgid "On offense"
-msgstr ""
+msgstr "攻撃中"
 
 #. Vsay/Quickmenu item
 msgid "Yes"
@@ -137,7 +138,7 @@ msgstr "ブー"
 
 #. Vsay/Quickmenu item
 msgid "Affirmative"
-msgstr "肯定の"
+msgstr "了解"
 
 msgid "MM Login: Password error"
 msgstr "MM ログイン: パスワードエラー"
@@ -159,7 +160,7 @@ msgstr "接続がタイムアウトしました"
 
 #. Bomb option, enables projectile for Gunblade
 msgid "Strong Gunblade"
-msgstr ""
+msgstr "強ガンブレード"
 
 msgid "MM Login: authentication timeout"
 msgstr "MM ログイン: 認証タイムアウト"

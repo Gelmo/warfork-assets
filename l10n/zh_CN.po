@@ -37,27 +37,27 @@ msgstr "没问题"
 
 #. Vsay/Quickmenu item
 msgid "Defend!"
-msgstr "防守！"
+msgstr "防守!"
 
 #. Vsay/Quickmenu item
 msgid "Defend A!"
-msgstr "防守A点！"
+msgstr "防守A点!"
 
 #. Vsay/Quickmenu item
 msgid "Defend B!"
-msgstr "防守B点！"
+msgstr "防守B点!"
 
 #. Vsay/Quickmenu item
 msgid "Attack!"
-msgstr "进攻！"
+msgstr "进攻!"
 
 #. Vsay/Quickmenu item
 msgid "Attack A!"
-msgstr "进攻A点！"
+msgstr "进攻A点!"
 
 #. Vsay/Quickmenu item
 msgid "Attack B!"
-msgstr "进攻B点！"
+msgstr "进攻B点!"
 
 #. Vsay/Quickmenu item
 msgid "Need backup"
@@ -140,19 +140,19 @@ msgid "Affirmative"
 msgstr "同意"
 
 msgid "MM Login: Password error"
-msgstr "MM登入：密码错误"
+msgstr "MM登入:密码错误"
 
 msgid "MM Login: Can't login to MM while connected to server"
-msgstr "MM登入：已连接服务器但无法登陆MM"
+msgstr "MM登入:已连接服务器但无法登陆MM"
 
 msgid "Frags"
 msgstr "得分"
 
 msgid "say (to all):"
-msgstr "（对所有人）说："
+msgstr "(对所有人)说:"
 
 msgid "say (to team):"
-msgstr "（对团队）说："
+msgstr "(对队伍)说:"
 
 msgid "Connection timed out"
 msgstr "连接超时"
@@ -162,25 +162,25 @@ msgid "Strong Gunblade"
 msgstr "强刀片枪"
 
 msgid "MM Login: authentication timeout"
-msgstr "MM登入：验证超时"
+msgstr "MM登入:验证超时"
 
 msgid "MM Logout: not logged in"
-msgstr "MM登出：没有登入"
+msgstr "MM登出:没有登入"
 
 msgid "MM Logout: can't logout from MM while connected to server"
-msgstr "MM登出：连接服务器的时候不能登出"
+msgstr "MM登出:连接服务器的时候不能登出"
 
 msgid "MM Logout: Failed to force logout"
-msgstr "MM登出：强制登出失败"
+msgstr "MM登出:强制登出失败"
 
 msgid "MM Login: StatQuery error"
-msgstr "MM登入：状态查询错误"
+msgstr "MM登入:状态查询错误"
 
 msgid "MM Login: Failed, no session id"
-msgstr "MM登入：失败，无session id"
+msgstr "MM登入:失败,无session id"
 
 msgid "MM Login: Failed to parse data at step %d"
-msgstr "MM登入：无法解析第%d步的数据"
+msgstr "MM登入:无法解析第%d步的数据"
 
 msgid "%s or %s"
 msgstr "%s 或者 %s"
@@ -249,28 +249,28 @@ msgid "Blades"
 msgstr "刀片"
 
 msgid "Weak bullets"
-msgstr "少量机枪子弹"
+msgstr "弱机枪子弹"
 
 msgid "Weak Shells"
-msgstr "少量霰弹"
+msgstr "弱霰弹"
 
 msgid "Weak Grenades"
-msgstr "少量榴弹"
+msgstr "弱榴弹"
 
 msgid "Weak Rockets"
-msgstr "少量火箭"
+msgstr "弱火箭"
 
 msgid "Weak Plasma"
-msgstr "少量等离子弹"
+msgstr "弱等离子弹"
 
 msgid "Weak Lasers"
-msgstr "少量镭射弹"
+msgstr "弱镭射弹"
 
 msgid "Weak Bolts"
-msgstr "少量电光弹"
+msgstr "弱电光弹"
 
 msgid "Weak Instas"
-msgstr "少量秒杀弹"
+msgstr "弱秒杀弹"
 
 msgid "Green Armor"
 msgstr "绿色护甲"
@@ -309,7 +309,7 @@ msgid "Regeneration"
 msgstr "自动回血"
 
 msgid "Ammo Pack Weak"
-msgstr "少量弹药包"
+msgstr "弹药包弱"
 
 msgid "Ammo Pack Strong"
 msgstr "大量弹药包"
@@ -318,4 +318,4 @@ msgid "Ammo Pack"
 msgstr "弹药包"
 
 msgid "say:"
-msgstr "说："
+msgstr "说:"

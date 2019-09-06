@@ -369,7 +369,7 @@
 							<option value="it">[it] Italiano</option>
 							<option value="ja">[ja] 日本語</option>
 							<option value="lt">[lt] Lietuvių</option>
-							<!-- <option <option value="nl">[nl] Nederlands</option> unfinished -->
+							<option value="nl">[nl] Nederlands</option>
 							<option value="pl">[pl] Polski</option>
 							<option value="pt">[pt] Português</option>
 							<option value="pt_BR">[pt_BR] Português-Brasil</option>

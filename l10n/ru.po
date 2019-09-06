@@ -164,7 +164,7 @@ msgid "MM Login: authentication timeout"
 msgstr "Ошибка входа: время аутентификации истекло"
 
 msgid "MM Logout: not logged in"
-msgstr "Ошибка выхода: не был произведен вход"
+msgstr "Ошибка выхода: не был произведён вход"
 
 msgid "MM Logout: can't logout from MM while connected to server"
 msgstr "Ошибка выхода: невозможно произвести выход во время игры"

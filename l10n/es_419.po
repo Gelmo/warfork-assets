@@ -1,14 +1,16 @@
 # Translators:
 # Camilo Beltran <cambq7@gmail.com>, 2019
-# Hernan Gonzalez <hernan.g89@gmail.com>, 2019
 # Roman Kim <romankx1.0@gmail.com>, 2019
+# Hernan Gonzalez <hernan.g89@gmail.com>, 2019
+# Dalel Fajardo <dalonvia@gmail.com>, 2019
+# Adolfo Lobmeyr <neokszone2.0@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-03-26 11:04+0000\n"
 "PO-Revision-Date: 2019-08-28 19:42+0000\n"
-"Last-Translator: Roman Kim <romankx1.0@gmail.com>, 2019\n"
+"Last-Translator: Adolfo Lobmeyr <neokszone2.0@gmail.com>, 2019\n"
 "Language-Team: Spanish (Latin America) (https://www.transifex.com/team-forbidden-llc/teams/102732/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -78,7 +80,7 @@ msgstr "Negativo"
 
 #. Vsay/Quickmenu item
 msgid "Go to quad"
-msgstr ""
+msgstr "Ir al Quad"
 
 #. Vsay/Quickmenu item
 msgid "Go to powerup"
@@ -160,7 +162,7 @@ msgstr "Conexión perdida "
 
 #. Bomb option, enables projectile for Gunblade
 msgid "Strong Gunblade"
-msgstr ""
+msgstr "Arma sable potente"
 
 msgid "MM Login: authentication timeout"
 msgstr "MM Login: autenticación fuera de tiempo"
@@ -193,13 +195,13 @@ msgid "no"
 msgstr "no"
 
 msgid "Gunblade"
-msgstr ""
+msgstr "Arma sable"
 
 msgid "Machinegun"
 msgstr "Metralleta"
 
 msgid "Riotgun"
-msgstr ""
+msgstr "Escopeta"
 
 msgid "Grenade Launcher"
 msgstr "Lanza Granadas"
@@ -214,10 +216,10 @@ msgid "Lasergun"
 msgstr "Arma láser "
 
 msgid "Electrobolt"
-msgstr ""
+msgstr "Cañón riel"
 
 msgid "Instagun"
-msgstr ""
+msgstr "Arma instantánea"
 
 msgid "Cells"
 msgstr "Células"
@@ -238,10 +240,10 @@ msgid "Plasma"
 msgstr "Plasma"
 
 msgid "Lasers"
-msgstr "Lasers "
+msgstr "Lásers "
 
 msgid "Bolts"
-msgstr ""
+msgstr "Agujas"
 
 msgid "Instas"
 msgstr "Instas"
@@ -268,10 +270,10 @@ msgid "Weak Lasers"
 msgstr "Lasers débiles "
 
 msgid "Weak Bolts"
-msgstr ""
+msgstr "Agujas Debiles"
 
 msgid "Weak Instas"
-msgstr ""
+msgstr "Insta débiles "
 
 msgid "Green Armor"
 msgstr "Armadura verde"
@@ -304,7 +306,7 @@ msgid "Quad Damage"
 msgstr "Daño Quad"
 
 msgid "WarShell"
-msgstr ""
+msgstr "Protección"
 
 msgid "Regeneration"
 msgstr "Regeneración"
