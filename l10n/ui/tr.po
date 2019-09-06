@@ -244,6 +244,10 @@ msgstr "Skor Tablosu"
 msgid "Show pressed keys"
 msgstr "Basılı tuşları göster"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
 msgstr ""
@@ -364,8 +368,8 @@ msgstr "Autohop Devre disi"
 msgid "Enable view animation"
 msgstr "Görünümü animasyon etkinlestirme"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -547,8 +551,8 @@ msgstr "Seyirci HUD"
 msgid "Crosshair"
 msgstr "Nişangah"
 
-msgid "Weapon handedness"
-msgstr "Silah eli"
+msgid "Weapon position"
+msgstr ""
 
 msgid "default"
 msgstr "varsayiıan"
@@ -607,8 +611,17 @@ msgstr "Oyun Sonu ekran alıntısı"
 msgid "Save match stats"
 msgstr "Maç istatiklerini kaydet"
 
-msgid "Players"
-msgstr "Oyuncular"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr ""
 
 msgid "Team model options"
 msgstr "Takım modeli Ayarları"
@@ -722,6 +735,9 @@ msgstr "Fare hassasiyeti"
 
 msgid "Mouse acceleration"
 msgstr "Fare hızı"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "Fare filtre"

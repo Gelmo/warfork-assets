@@ -33,14 +33,14 @@ msgstr "終了"
 
 msgid "Please join us on Discord (link below) to participate in pickup games, game "
 "discussion, and more!"
-msgstr ""
+msgstr "Discord（下のリンク）に加入して、ゲームに参加したりゲームディスカッションなどをしましょう！"
 
 msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
 "Chasseur de Bots."
-msgstr ""
+msgstr "法的免責事項：Warforkは、Warsow、Warsow Team、またはChasseur de Botsと提携していません。"
 
 msgid "Restart race"
-msgstr ""
+msgstr "レースをリスタートする"
 
 msgid "Enter practice mode"
 msgstr "プラクティスモードに入る"
@@ -68,7 +68,7 @@ msgid "Warfork is a fast-paced game with advanced movement. When playing, hold y
 " device as shown in the picture, with four of your fingers in front of the "
 "screen, to make sure you can perform movement tricks, aim and fire at the "
 "same time."
-msgstr ""
+msgstr "Warforkは、高度な動きを備えたテンポの速いゲームです。プレイ中は、画面の前に4本の指を置いて、図に示すようにデバイスを支え、動きのトリック、照準、射撃を同時に実行できることを確認します。"
 
 msgid "View match info"
 msgstr "対戦情報を見る"
@@ -134,7 +134,7 @@ msgid "stream"
 msgstr ""
 
 msgid "Accuracy details"
-msgstr ""
+msgstr "精度の詳細"
 
 msgid "View awards"
 msgstr "実績を見る"
@@ -203,7 +203,7 @@ msgid "%s days, %s hours"
 msgstr "%s日 %s時間"
 
 msgid "Last seen %s days ago"
-msgstr ""
+msgstr "最後に見たのは %s 日前"
 
 msgid "No data yet"
 msgstr "データがありません"
@@ -245,9 +245,13 @@ msgstr "スコアボード"
 msgid "Show pressed keys"
 msgstr "押したキーの表示"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 msgid "Join"
 msgstr "入る"
@@ -257,7 +261,7 @@ msgid "Team game mode where in which players join either the attacking team or t
 "defending team. Each team attempts to complete their mission objective, "
 "either planting the bomb or defending the bomb site, or eliminate the "
 "opposing team."
-msgstr ""
+msgstr "プレイヤーが攻撃側チームまたは防御側チームとして参加するチームゲームモード。各チームは、爆弾を設置する、爆弾の場所を守る、敵チームを排除するかのいずれかで、ミッションの目標を達成しようとします。"
 
 #. "Clan Arena" description
 msgid "Team game mode where you aim to eliminate the entire other team before your "
@@ -272,7 +276,7 @@ msgstr "相手チームのフラッグを奪取し、自チームの拠点まで
 #. "Capture the Flag: Tactics" description
 msgid "Capture the Flag with highly specialized classes. This version of CTF needs "
 "team co-operation between the classes to win!"
-msgstr ""
+msgstr "高度に特化したクラスでキャプチャーザフラッグを行います。このバージョンのCTFで勝利するには、クラス間のチームの協力が必要です。"
 
 #. "Duel Arena" description
 msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
@@ -302,7 +306,7 @@ msgstr ""
 msgid "Game mode where one player is tagged and all other players attempt to frag "
 "the tagged player. Tagged player gets score for each second he/she stays "
 "alive. The person who frags the tagged player, becomes tagged."
-msgstr ""
+msgstr "1人のプレイヤーがタグ付けされ、他のすべてのプレイヤーがタグ付けされたプレイヤーをフラグしようとするゲームモード。タグ付けをされたプレイヤーは、生き続けると毎秒スコアを取得します。タグ付けされたプレイヤーをフラグした人は、タグ付けされたプレイヤーになります。"
 
 #. "Race" description
 msgid "The goal of the race game mode is to finish the map or sector as quickly as "
@@ -321,14 +325,15 @@ msgstr "チーム対チームのゲームモードだ。時間切れ、もしく
 msgid "Team based game mode where teams attempt to gain control of three different "
 "areas in the map. The team who gains control of all three objects, wins the "
 "round."
-msgstr ""
+msgstr "チームがマップ内の 3 つの異なるエリアのオブジェクトを取得しようとするチームベースのゲーム "
+"モード。3つのオブジェクトすべてを制圧したチームがラウンド勝利となります。"
 
 msgid "Open chat"
 msgstr "チャットを開く"
 
 msgid "The game server is suggesting you can watch this match on WarforkTV. Do you "
 "agree?"
-msgstr ""
+msgstr "ゲームサーバーは、WarforkTVでこの試合を見ることができると提案しています。同意しますか？"
 
 #. %s - hostname, ip:port, time
 msgid "You will be automatically connected to WarforkTV server \"%s\" at %s in %s "
@@ -347,8 +352,8 @@ msgstr "autohopを無効"
 msgid "Enable view animation"
 msgstr ""
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -381,11 +386,11 @@ msgstr "上下スティックの感度"
 
 #. Gamepad setting
 msgid "Invert gamepad look"
-msgstr ""
+msgstr "ゲームパッドの外観を反転する"
 
 #. Gamepad setting
 msgid "Swap gamepad sticks"
-msgstr ""
+msgstr "ゲームパッドのスティックを交換する"
 
 #. cg_chatBeep
 msgid "Chat message sound"
@@ -397,7 +402,7 @@ msgid "Keep playing sounds in background"
 msgstr "非アクティブ時でも音を鳴らす"
 
 msgid "Play on a ranked server to start tracking your stats."
-msgstr ""
+msgstr "ランク付けされたサーバーでプレイして、統計情報のトラッキングを開始します。"
 
 #. Bots' number
 msgid "Bots: %s"
@@ -420,7 +425,7 @@ msgstr ""
 
 #. disable popup window with suggested server in server browser
 msgid "Don't suggest servers"
-msgstr ""
+msgstr "推奨サーバーを表示しない"
 
 #. Gamepad setting
 msgid "Gamepad look acceleration"
@@ -436,10 +441,10 @@ msgstr "戻る"
 
 #. Similar to "Call a vote"
 msgid "Cast a vote"
-msgstr ""
+msgstr "投票する"
 
 msgid "Color correction"
-msgstr ""
+msgstr "色補正"
 
 msgid "Use the selected model for all players"
 msgstr "全てのプレイヤーに選択したモデルを使う"
@@ -450,7 +455,7 @@ msgstr "全てのプレイヤーに選択した色を使う"
 #. "Tutorial" gametype description
 msgid "Game mode which provides hints on basic Warfork movements and allows the "
 "player to play a duel match against an AI-controlled opponent."
-msgstr ""
+msgstr " 基本的なWarforkの動きに関するヒントを提供し、プレイヤーがAI制御の対戦相手との決闘を行えるゲームモード。"
 
 msgid "Don't ask me again"
 msgstr "次回から尋ねない"
@@ -467,7 +472,7 @@ msgstr "Warforkへようこそ！"
 
 msgid "Perhaps you would like to learn the basics of the gameplay and test your "
 "combat skills on our tutorial?"
-msgstr ""
+msgstr "おそらく、あなたはゲームプレイの基礎を学び、私たちのチュートリアルであなたの戦闘スキルを試したいですか?"
 
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
@@ -527,8 +532,8 @@ msgstr "観戦者HUD"
 msgid "Crosshair"
 msgstr "クロスヘア"
 
-msgid "Weapon handedness"
-msgstr "武器の持ち手"
+msgid "Weapon position"
+msgstr ""
 
 msgid "default"
 msgstr "既定"
@@ -557,7 +562,7 @@ msgstr "アイテムをシンプルにする"
 #. Shows indicators at the top of the teammates, even if they are not visible
 #. through the walls
 msgid "Show teammates' indicators"
-msgstr ""
+msgstr "チームメイトの場所を表示"
 
 #. Shows help messages at the top of the screen in-game
 msgid "Show help"
@@ -587,8 +592,17 @@ msgstr "試合終了後にスクリーンショットを撮影"
 msgid "Save match stats"
 msgstr "試合の結果を保存"
 
-msgid "Players"
-msgstr "プレイヤー"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr ""
 
 msgid "Team model options"
 msgstr "チームモデルオプション"
@@ -674,7 +688,7 @@ msgid "Announcer volume"
 msgstr "アナウンサー音量"
 
 msgid "Voice commands volume"
-msgstr ""
+msgstr "ボイスコマンドの音量"
 
 msgid "Hit sounds volume"
 msgstr "ヒットサウンド音量"
@@ -692,7 +706,7 @@ msgid "Weapons"
 msgstr "武器"
 
 msgid "Voice commands"
-msgstr ""
+msgstr "ボイスコマンド"
 
 msgid "Saved"
 msgstr "保存しました"
@@ -702,6 +716,9 @@ msgstr "マウス感度"
 
 msgid "Mouse acceleration"
 msgstr "マウス加速"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "マウスの直線補正"
@@ -817,7 +834,7 @@ msgid "Match browser"
 msgstr "マッチブラウザー"
 
 msgid "Host game"
-msgstr ""
+msgstr "ゲームをホストする"
 
 msgid "Demo browser"
 msgstr "デモブラウザー"
@@ -1237,7 +1254,7 @@ msgstr ""
 
 #. Award: Triple Frag!
 msgid "Frag an opponent 3 times in a short time frame"
-msgstr ""
+msgstr "短い時間枠で相手を3回倒す"
 
 #. Award: Direct Grenade Hit!
 msgid "Hit an opponent directly with a grenade a few times"
@@ -1249,7 +1266,7 @@ msgstr "最後数秒で爆弾を除去する"
 
 #. Award: Flag Recovery!
 msgid "Recover your flag from the opponent carrying it"
-msgstr ""
+msgstr "旗を運んでいる相手から旗を取り戻す"
 
 #. Award: Extermination!
 msgid "Get 20 frags in a row without getting fragged"
@@ -1257,7 +1274,7 @@ msgstr "フラグを取られずに続けて２０フラグ取る"
 
 #. Award: Air Grenade!
 msgid "Frag an opponent in mid-air with a grenade"
-msgstr ""
+msgstr "手榴弾で空中にいる相手をフラグする"
 
 #. Award: Raging!
 msgid "Get 10 frags in a row without getting fragged"
@@ -1269,7 +1286,7 @@ msgstr "おめでとう！あなたは1000勝しました！"
 
 #. Award: Quadruple Frag!
 msgid "Frag an opponent 4 times in a short time frame"
-msgstr ""
+msgstr "短い時間枠で相手を4回フラグ"
 
 #. Award: Flag Defense!
 msgid "Defend your flag or flag carrier"
@@ -1282,7 +1299,7 @@ msgstr "他のプレイヤーよりも多くのポイントを入れてシング
 
 #. Award: Air Rocket!
 msgid "Frag an opponent in mid-air with a rocket"
-msgstr ""
+msgstr "ロケットで空中にいる敵をフラグする"
 
 #. Award: Bomb Planted!
 msgid "Plant the bomb at a bomb site"
@@ -1294,7 +1311,7 @@ msgstr "わぁっ！あなたは100勝しました！"
 
 #. Award: Fair Play!
 msgid "Show respect to your opponents during the post-match intermission"
-msgstr ""
+msgstr "試合後の休憩中に相手に敬意を示す"
 
 #. Award: Play 1000 matches
 msgid "Wow! You have played 1000 matches!"
@@ -1318,7 +1335,7 @@ msgstr "おめでとう！あなたは250勝しました！"
 
 #. Award: King of Bongo!
 msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr ""
+msgstr "Bomb and Defuseで敵チーム全体をフラグ"
 
 #. Award: Fast Plant!
 msgid "Plant the bomb within 10 seconds"
@@ -1326,11 +1343,11 @@ msgstr "１０秒以内に爆弾を設置する"
 
 #. Award: Bomb Carrier Frag!
 msgid "Frag the bomb-carrying opponent"
-msgstr ""
+msgstr "爆弾を運ぶ相手をフラグ"
 
 #. Award: Meep Meep!
 msgid "Frag an opponent while moving at high speed"
-msgstr ""
+msgstr "高速で移動しながら敵をフラグする"
 
 #. Award: Double Frag!
 msgid "Frag an opponent 2 times in a short time frame"
@@ -1362,15 +1379,15 @@ msgstr "爆弾を除去する"
 
 #. Award: Quakenet Exclusive!
 msgid "Register to Warfork during QuakeNet launch event"
-msgstr ""
+msgstr " QuakeNetのローンチイベント中にWarforkに登録する"
 
 #. Award: Accuracy!
 msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr ""
+msgstr "ElectroboltまたはInstagunを使用して、逃すことなく相手を3回攻撃する"
 
 #. Award: Flag Carrier Frag!
 msgid "Frag the opponent who has your flag"
-msgstr ""
+msgstr "あなたの旗を持っている相手を倒す"
 
 #. Award: Red Armor Control!
 msgid "Keep the Red Armor under your control"

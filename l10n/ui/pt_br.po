@@ -250,6 +250,10 @@ msgstr "Placar"
 msgid "Show pressed keys"
 msgstr "Exibir teclas pressionadas"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr "Exibir prêmios"
+
 #. Language selector
 msgid "Language"
 msgstr "Idioma"
@@ -290,8 +294,7 @@ msgstr "Modo Capture a Bandeira com classes altamente especializadas. Esta vers�
 msgid "Defeat most opponents in 1-on-1 combats. Your arsenal is fully replenished "
 "before each round. The winner of the round is challenged by the next player "
 "in the queue."
-msgstr ""
-"Derrote a maioria dos adversários em combates 1x1. O seu arsenal é "
+msgstr "Derrote a maioria dos adversários em combates 1x1. O seu arsenal é "
 "completamente reabastecido a cada rodada. O vencedor da rodada será "
 "desafiado pelo próximo jogador da fila."
 
@@ -375,9 +378,9 @@ msgstr "Desativar pulo automático ao segurar o botão"
 msgid "Enable view animation"
 msgstr "Ativar animação da câmera ao aterrissar"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
-msgstr "Exibir efeito de acerto cartunesco"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
+msgstr "Exibir efeito de acerto crítico"
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
@@ -557,7 +560,7 @@ msgstr "HUD de espectador"
 msgid "Crosshair"
 msgstr "Mira"
 
-msgid "Weapon handedness"
+msgid "Weapon position"
 msgstr "Posição da arma"
 
 msgid "default"
@@ -617,8 +620,17 @@ msgstr "Capturar a tela do placar final"
 msgid "Save match stats"
 msgstr "Salvar estatísticas de partidas"
 
-msgid "Players"
-msgstr "Jogadores"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr "Equipe Forbidden"
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr "Equipe Icy"
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr "Inimigos"
 
 msgid "Team model options"
 msgstr "Opções de modelos de equipe"
@@ -732,6 +744,9 @@ msgstr "Sensibilidade do mouse"
 
 msgid "Mouse acceleration"
 msgstr "Aceleração do mouse"
+
+msgid "Zoom sensitivity"
+msgstr "Sensibilidade do zoom"
 
 msgid "Mouse filter"
 msgstr "Filtro do mouse"

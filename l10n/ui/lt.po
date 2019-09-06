@@ -244,6 +244,10 @@ msgstr "Rezultatų lentelė"
 msgid "Show pressed keys"
 msgstr "Rodyti paspaustus mygtukus"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
 msgstr ""
@@ -367,8 +371,8 @@ msgstr "Išjungti automatišką šokinėjimą"
 msgid "Enable view animation"
 msgstr "Įjungti žiūrėjimo animaciją"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -549,8 +553,8 @@ msgstr "Stebėtojo HUD"
 msgid "Crosshair"
 msgstr "Taikiklis"
 
-msgid "Weapon handedness"
-msgstr "Ginklo pozicija"
+msgid "Weapon position"
+msgstr ""
 
 msgid "default"
 msgstr "numatytasis"
@@ -609,8 +613,17 @@ msgstr "Ekrano nuorauka po varžybų"
 msgid "Save match stats"
 msgstr "Išsaugoti varžybų statistiką"
 
-msgid "Players"
-msgstr "Žaidėjai"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr ""
 
 msgid "Team model options"
 msgstr "Komandos narių nustatymai"
@@ -724,6 +737,9 @@ msgstr "Pelės jautrumas"
 
 msgid "Mouse acceleration"
 msgstr "Pelės akseleravimas"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "Pelės judesių filtravimas"

@@ -244,6 +244,10 @@ msgstr "Tabelă de Scor"
 msgid "Show pressed keys"
 msgstr ""
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
 msgstr ""
@@ -345,8 +349,8 @@ msgstr ""
 msgid "Enable view animation"
 msgstr ""
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -525,7 +529,7 @@ msgstr "Interfaţă Spectator"
 msgid "Crosshair"
 msgstr "Model ţintă"
 
-msgid "Weapon handedness"
+msgid "Weapon position"
 msgstr "Poziţionarea armei"
 
 msgid "default"
@@ -585,8 +589,17 @@ msgstr "Captură de ecran la finalul meciului"
 msgid "Save match stats"
 msgstr "Salvează statisticile meciurilor"
 
-msgid "Players"
-msgstr "Neutri"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr ""
 
 msgid "Team model options"
 msgstr "Opţiuni modele echipe"
@@ -700,6 +713,9 @@ msgstr "Sensitivitate mouse"
 
 msgid "Mouse acceleration"
 msgstr "Accelerare mouse"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "Filtrare mouse"

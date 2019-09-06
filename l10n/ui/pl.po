@@ -1,12 +1,13 @@
 # Translators:
 # Andrei Stepanov <adem4ik@gmail.com>, 2019
+# Dawid Przystał <dawiddprzystal@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-05 19:41+0000\n"
 "PO-Revision-Date: 2019-08-28 19:43+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Last-Translator: Dawid Przystał <dawiddprzystal@gmail.com>, 2019\n"
 "Language-Team: Polish (https://www.transifex.com/team-forbidden-llc/teams/102732/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +21,7 @@ msgstr "Główna"
 
 #. Top button
 msgid "Play"
-msgstr "Grać"
+msgstr "Graj"
 
 #. Top button
 msgid "Options"
@@ -139,7 +140,7 @@ msgid "Accuracy details"
 msgstr "Statystyki celności"
 
 msgid "View awards"
-msgstr "Wyświetlaj odznaczenia"
+msgstr "Wyświetl odznaczenia"
 
 #. Logout from forbidden.gg
 msgid "Logout"
@@ -247,9 +248,13 @@ msgstr "Tabela wyników"
 msgid "Show pressed keys"
 msgstr "Pokaż wciśnięte klawisze"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
-msgstr ""
+msgstr "Język"
 
 msgid "Join"
 msgstr "Dołącz"
@@ -368,8 +373,8 @@ msgstr "Wyłącz automatyczne skakanie"
 msgid "Enable view animation"
 msgstr "Włącz animację poglądu"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -550,7 +555,7 @@ msgstr "HUD widza"
 msgid "Crosshair"
 msgstr "Celownik"
 
-msgid "Weapon handedness"
+msgid "Weapon position"
 msgstr "Pozycja broni"
 
 msgid "default"
@@ -610,8 +615,17 @@ msgstr "Screenshot wyników meczu"
 msgid "Save match stats"
 msgstr "Zapisuj statystyki meczu"
 
-msgid "Players"
-msgstr "Gracze"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr ""
 
 msgid "Team model options"
 msgstr "Opcje modelu drużyn"
@@ -725,6 +739,9 @@ msgstr "Czułość myszy"
 
 msgid "Mouse acceleration"
 msgstr "Przyspieszenie myszy"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "Filtr myszy"
@@ -840,7 +857,7 @@ msgid "Match browser"
 msgstr "Wyszukiwarka"
 
 msgid "Host game"
-msgstr ""
+msgstr "Hostuj grę"
 
 msgid "Demo browser"
 msgstr "Wyszukiwarka filmów"

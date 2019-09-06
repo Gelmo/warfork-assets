@@ -244,6 +244,10 @@ msgstr "Resultattavla"
 msgid "Show pressed keys"
 msgstr "Visa tryckta tagenter"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
 msgstr ""
@@ -347,8 +351,8 @@ msgstr "Avaktivera autohop"
 msgid "Enable view animation"
 msgstr "Aktivera vy-animationer"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -528,8 +532,8 @@ msgstr "Åskådar-HUD"
 msgid "Crosshair"
 msgstr "Sikte"
 
-msgid "Weapon handedness"
-msgstr "Vapen sida"
+msgid "Weapon position"
+msgstr ""
 
 msgid "default"
 msgstr "standard"
@@ -588,8 +592,17 @@ msgstr "Slutspelsskärmdump"
 msgid "Save match stats"
 msgstr "Spara matchstatistik"
 
-msgid "Players"
-msgstr "Spelare:"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr ""
 
 msgid "Team model options"
 msgstr "Lagkamrats model alternativ"
@@ -703,6 +716,9 @@ msgstr "Datormus känslighet"
 
 msgid "Mouse acceleration"
 msgstr "Mus-accelerering"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "Mus filtret"

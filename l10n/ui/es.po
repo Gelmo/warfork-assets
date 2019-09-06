@@ -1,12 +1,14 @@
 # Translators:
 # Andrei Stepanov <adem4ik@gmail.com>, 2019
+# Javier Bolaños <javybch@gmail.com>, 2019
+# Petar Mihaylov Petrov <mihaylov.petrov@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-05 19:41+0000\n"
 "PO-Revision-Date: 2019-08-28 19:43+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Last-Translator: Petar Mihaylov Petrov <mihaylov.petrov@gmail.com>, 2019\n"
 "Language-Team: Spanish (https://www.transifex.com/team-forbidden-llc/teams/102732/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,11 +34,13 @@ msgstr "Salir"
 
 msgid "Please join us on Discord (link below) to participate in pickup games, game "
 "discussion, and more!"
-msgstr ""
+msgstr "Porfavor unete a nuestro Discord(link abajo) para participar en juegos de "
+"recogida, discusiones sobre juegos, y mucho más!"
 
 msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
 "Chasseur de Bots."
-msgstr ""
+msgstr "Renuncia Legal: Warfork no esta afiliado con Warsow, Warsow Team, o Chasseur"
+" de Bots."
 
 msgid "Restart race"
 msgstr "Reiniciar carrera"
@@ -57,17 +61,20 @@ msgid "Save position"
 msgstr "Guardar posición"
 
 msgid "Load saved position"
-msgstr ""
+msgstr "Cargar posición guardada"
 
 msgid "Clear saved position"
-msgstr ""
+msgstr "Borrar posición guardada"
 
 #. Touch devices intro text
 msgid "Warfork is a fast-paced game with advanced movement. When playing, hold your"
 " device as shown in the picture, with four of your fingers in front of the "
 "screen, to make sure you can perform movement tricks, aim and fire at the "
 "same time."
-msgstr ""
+msgstr "Warfork es un juego de ritmo rápido con movimiento avanzado. Al jugar, "
+"sostenga su dispositivo como se muestra en la imagen, con cuatro de sus "
+"dedos frente a la pantalla, para asegurarse de que puede realizar "
+"movimientos de movimiento, apuntar y disparar al mismo tiempo."
 
 msgid "View match info"
 msgstr "Ver info de partido"
@@ -244,9 +251,13 @@ msgstr "Marcador"
 msgid "Show pressed keys"
 msgstr "Mostrar botones pulsados"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 msgid "Join"
 msgstr "Unirse"
@@ -368,8 +379,8 @@ msgstr "Desactivar salto automático."
 msgid "Enable view animation"
 msgstr "Activar animación de cámara"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -550,8 +561,8 @@ msgstr "HUD del espectador"
 msgid "Crosshair"
 msgstr "Mira"
 
-msgid "Weapon handedness"
-msgstr "Mano del arma"
+msgid "Weapon position"
+msgstr ""
 
 msgid "default"
 msgstr "por defecto"
@@ -610,8 +621,17 @@ msgstr "Foto al final de la partida"
 msgid "Save match stats"
 msgstr "Guardar estadísticas de la partida"
 
-msgid "Players"
-msgstr "Jugadores"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr ""
 
 msgid "Team model options"
 msgstr "Opciones de equipo"
@@ -725,6 +745,9 @@ msgstr "Sensibilidad del mouse"
 
 msgid "Mouse acceleration"
 msgstr "Aceleración del mouse"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "Filtro del mouse"
@@ -1298,7 +1321,7 @@ msgstr ""
 
 #. Award: Flag Defense!
 msgid "Defend your flag or flag carrier"
-msgstr ""
+msgstr "Defiende tu bandera o portador"
 
 #. Award: Player of the Match!
 msgid "Score more points than other players and receive the \"Fair Play\" award in "

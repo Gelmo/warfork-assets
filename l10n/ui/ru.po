@@ -33,7 +33,7 @@ msgstr "Выход"
 msgid "Please join us on Discord (link below) to participate in pickup games, game "
 "discussion, and more!"
 msgstr "Вы можете присоединиться к нам в Discord (ссылка ниже), чтобы участвовать в "
-"пикап-матчах, обсуждении игры и прочее!"
+"пикап-матчах, обсуждении игры и многом другом!"
 
 msgid "Legal Disclaimer: Warfork is not affiliated with Warsow, Warsow Team, or "
 "Chasseur de Bots."
@@ -92,7 +92,7 @@ msgid "Version %s of %s is available."
 msgstr "Доступна версия обновления %s для %s."
 
 msgid "Click OK for more information."
-msgstr "Нажмите OK для получения более подробной информации."
+msgstr "Нажмите OK, чтобы узнать подробности."
 
 msgid "Open in browser"
 msgstr "Открыть в браузере"
@@ -249,6 +249,10 @@ msgstr "Таблица результатов"
 msgid "Show pressed keys"
 msgstr "Показывать нажатые клавиши"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr "Показывать награды"
+
 #. Language selector
 msgid "Language"
 msgstr "Язык"
@@ -375,9 +379,9 @@ msgstr "Отключить автопрыжки"
 msgid "Enable view animation"
 msgstr "Анимация камеры при приземлении"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
-msgstr "Показывать эффект попадания"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
+msgstr "Эффект критического попадания"
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
@@ -557,7 +561,7 @@ msgstr "HUD наблюдателя"
 msgid "Crosshair"
 msgstr "Прицел"
 
-msgid "Weapon handedness"
+msgid "Weapon position"
 msgstr "Положение оружия"
 
 msgid "default"
@@ -617,8 +621,17 @@ msgstr "Снимок экрана в конце матча"
 msgid "Save match stats"
 msgstr "Сохранять статистику матча"
 
-msgid "Players"
-msgstr "Игроки"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr "Команда Forbidden"
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr "Команда Icy"
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr "Противники"
 
 msgid "Team model options"
 msgstr "Внешний вид игроков"
@@ -629,7 +642,7 @@ msgstr "Яркий скин"
 #. Forces your color and model to the one that team Forbidden has, "FORBIDDEN"
 #. shouldn't be translated
 msgid "Force your team as FORBIDDEN"
-msgstr "Использовать FORBIDDEN для союзников"
+msgstr "Всегда играть за команду FORBIDDEN"
 
 msgid "Graphics profile"
 msgstr "Графический профиль"
@@ -732,6 +745,9 @@ msgstr "Чувствительность мыши"
 
 msgid "Mouse acceleration"
 msgstr "Ускорение мыши"
+
+msgid "Zoom sensitivity"
+msgstr "Чувствительность при увеличении"
 
 msgid "Mouse filter"
 msgstr "Сглаживание движений мыши"

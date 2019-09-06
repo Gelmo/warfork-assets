@@ -1,13 +1,14 @@
 # Translators:
 # Andrei Stepanov <adem4ik@gmail.com>, 2019
 # Rob Wolf Bruinsma <robertb.1996@hotmail.nl>, 2019
+# Marco Marcelis <marcelismarco@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-05 19:41+0000\n"
 "PO-Revision-Date: 2019-08-28 19:43+0000\n"
-"Last-Translator: Rob Wolf Bruinsma <robertb.1996@hotmail.nl>, 2019\n"
+"Last-Translator: Marco Marcelis <marcelismarco@gmail.com>, 2019\n"
 "Language-Team: Dutch (https://www.transifex.com/team-forbidden-llc/teams/102732/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,15 +22,15 @@ msgstr ""
 
 #. Top button
 msgid "Play"
-msgstr ""
+msgstr "Spelen"
 
 #. Top button
 msgid "Options"
-msgstr ""
+msgstr "Opties"
 
 #. Top button
 msgid "Quit"
-msgstr ""
+msgstr "Verlaten"
 
 msgid "Please join us on Discord (link below) to participate in pickup games, game "
 "discussion, and more!"
@@ -75,14 +76,14 @@ msgstr "Kijk match informatie"
 
 #. UI slider for video brightness
 msgid "Brightness"
-msgstr ""
+msgstr "Helderheid"
 
 #. UI option cg_gunbob
 msgid "Enable weapon animation"
 msgstr ""
 
 msgid "Quick menu"
-msgstr ""
+msgstr "Snel menu"
 
 msgid "Version %s of %s is available."
 msgstr ""
@@ -91,7 +92,7 @@ msgid "Click OK for more information."
 msgstr ""
 
 msgid "Open in browser"
-msgstr ""
+msgstr "Open in browser"
 
 #. HUD option
 msgid "Match timer"
@@ -107,7 +108,7 @@ msgstr ""
 
 #. Quit confirmation
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Weet je zeker dat je wilt stoppen"
 
 #. Graphics profile's name
 msgid "contrast"
@@ -115,101 +116,101 @@ msgstr ""
 
 #. Graphics profile's name
 msgid "high"
-msgstr ""
+msgstr "Hoog"
 
 #. Graphics profile's name
 msgid "high+"
-msgstr ""
+msgstr "Hoog+"
 
 #. Graphics profile's name
 msgid "low"
-msgstr ""
+msgstr "laag"
 
 #. Graphics profile's name / Bots' skill
 msgid "medium"
-msgstr ""
+msgstr "medium"
 
 #. Graphics profile's name
 msgid "stream"
 msgstr ""
 
 msgid "Accuracy details"
-msgstr ""
+msgstr "Nauwkeurigheid details"
 
 msgid "View awards"
-msgstr ""
+msgstr "Bekijk prijzen"
 
 #. Logout from forbidden.gg
 msgid "Logout"
-msgstr ""
+msgstr "Uitloggen"
 
 msgid "Weapon"
-msgstr ""
+msgstr "Wapen"
 
 #. Weapon use percentage, it should as short as possible, 6 symbols max!
 msgid "Use"
-msgstr ""
+msgstr "Gebruiken"
 
 msgid "Accuracy"
 msgstr "Nauwkeurigheid"
 
 msgid "Wins"
-msgstr ""
+msgstr "Zeges"
 
 msgid "Losses / quits"
-msgstr ""
+msgstr "Verliezen / stoppen"
 
 msgid "Frags / deaths"
-msgstr ""
+msgstr "Handgranaten / sterfgevallen"
 
 msgid "Friends"
-msgstr ""
+msgstr "Vrienden"
 
 #. Friend status
 msgid "Offline"
-msgstr ""
+msgstr "Offline"
 
 #. Short form of "Accuracy", it should 6 symbols max!
 msgid "Acc"
-msgstr ""
+msgstr "Nauwkeurigheid"
 
 msgid "Time played:"
-msgstr ""
+msgstr "Gespeelde tijd:"
 
 msgid "Awards"
-msgstr ""
+msgstr "Prijzen"
 
 #. Bots' skill
 msgid "easy"
-msgstr ""
+msgstr "Makkelijk"
 
 #. Bots' skill
 msgid "hard"
-msgstr ""
+msgstr "moeilijk"
 
 msgid "Suggested servers"
-msgstr ""
+msgstr "Voorgestelde servers"
 
 msgid "Less than an hour"
-msgstr ""
+msgstr "Minder dan een uur"
 
 msgid "1 hour"
-msgstr ""
+msgstr "1 uur"
 
 msgid "%s hours"
-msgstr ""
+msgstr "%suren"
 
 msgid "%s days, %s hours"
-msgstr ""
+msgstr "%sdagen,%suren"
 
 msgid "Last seen %s days ago"
-msgstr ""
+msgstr "Laatste gezien %sdagen geleden"
 
 msgid "No data yet"
-msgstr ""
+msgstr "Nog geen gegevens"
 
 msgid "No friends yet"
-msgstr ""
+msgstr "Nog geen vrienden"
 
 msgid "Connected to"
 msgstr ""
@@ -243,6 +244,10 @@ msgstr ""
 
 #. UI's cg_showPressedKeys
 msgid "Show pressed keys"
+msgstr ""
+
+#. UI's cg_showAwards
+msgid "Show awards"
 msgstr ""
 
 #. Language selector
@@ -346,8 +351,8 @@ msgstr ""
 msgid "Enable view animation"
 msgstr ""
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -526,7 +531,7 @@ msgstr ""
 msgid "Crosshair"
 msgstr ""
 
-msgid "Weapon handedness"
+msgid "Weapon position"
 msgstr ""
 
 msgid "default"
@@ -586,7 +591,16 @@ msgstr ""
 msgid "Save match stats"
 msgstr ""
 
-msgid "Players"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
 msgstr ""
 
 msgid "Team model options"
@@ -700,6 +714,9 @@ msgid "Mouse sensitivity"
 msgstr ""
 
 msgid "Mouse acceleration"
+msgstr ""
+
+msgid "Zoom sensitivity"
 msgstr ""
 
 msgid "Mouse filter"

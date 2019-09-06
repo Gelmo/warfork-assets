@@ -249,6 +249,10 @@ msgstr "Табліца вынікаў"
 msgid "Show pressed keys"
 msgstr "Паказваць націснутыя клавішы"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
 msgstr "Мова"
@@ -371,8 +375,8 @@ msgstr "Адключыць аўтаскокі"
 msgid "Enable view animation"
 msgstr "Анімацыя камеры пры прызямленні"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -555,7 +559,7 @@ msgstr "HUD назіральніка"
 msgid "Crosshair"
 msgstr "Прыцэл"
 
-msgid "Weapon handedness"
+msgid "Weapon position"
 msgstr "Пастава зброі"
 
 msgid "default"
@@ -615,8 +619,17 @@ msgstr "Здымак экрана пад канец матча"
 msgid "Save match stats"
 msgstr "Скрыншот пад канец матча"
 
-msgid "Players"
-msgstr "Гульцы"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr ""
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr ""
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr ""
 
 msgid "Team model options"
 msgstr "Настройкі выгляду гульцоў"
@@ -730,6 +743,9 @@ msgstr "Датклівасць мышы"
 
 msgid "Mouse acceleration"
 msgstr "Паскарэнне мышы"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "Згладжванне мышы"

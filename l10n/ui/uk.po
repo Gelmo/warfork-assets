@@ -247,6 +247,10 @@ msgstr "Таблиця результатів"
 msgid "Show pressed keys"
 msgstr "Показувати натиснуті клавіші"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr ""
+
 #. Language selector
 msgid "Language"
 msgstr "Мова"
@@ -370,8 +374,8 @@ msgstr "Відключити автоприжкі"
 msgid "Enable view animation"
 msgstr "Анімація камери при приземленні"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
 msgstr ""
 
 #. Touch screen setting
@@ -484,8 +488,7 @@ msgid "Gameplay tutorial"
 msgstr "Пройти навчання"
 
 msgid "You are about to launch the tutorial stage of Warfork. Continue?"
-msgstr ""
-"Ви збираєтеся запустити рівень, навчальний основам Warfork. Продовжити?"
+msgstr "Ви збираєтеся запустити рівень, навчальний основам Warfork. Продовжити?"
 
 msgid "Welcome to Warfork!"
 msgstr "Ласкаво просимо в Warfork!"
@@ -553,7 +556,7 @@ msgstr "HUD спостерігача"
 msgid "Crosshair"
 msgstr "Приціл"
 
-msgid "Weapon handedness"
+msgid "Weapon position"
 msgstr "Положення зброї"
 
 msgid "default"
@@ -613,8 +616,17 @@ msgstr "Робити скріншот в кінці матчу"
 msgid "Save match stats"
 msgstr "Зберігати статистику матчу"
 
-msgid "Players"
-msgstr "Гравці"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr "Сторона Forbidden"
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr "Сторона Icy"
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr "Вороги"
 
 msgid "Team model options"
 msgstr "Налаштування вигляду гравців"
@@ -728,6 +740,9 @@ msgstr "Чутливість миші"
 
 msgid "Mouse acceleration"
 msgstr "Прискорення миші"
+
+msgid "Zoom sensitivity"
+msgstr ""
 
 msgid "Mouse filter"
 msgstr "Згладжування рухів миші"

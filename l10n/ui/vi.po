@@ -248,9 +248,13 @@ msgstr "Bảng Điểm"
 msgid "Show pressed keys"
 msgstr "Hiện Nút Bấm"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr "Xem phần thưởng"
+
 #. Language selector
 msgid "Language"
-msgstr ""
+msgstr "Ngôn Ngữ"
 
 msgid "Join"
 msgstr "Tham Gia Trận"
@@ -361,9 +365,9 @@ msgstr "Tắt tự động nhảy"
 msgid "Enable view animation"
 msgstr "Bật Animation View"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
-msgstr "Hiện hiệu ứng hoạt hình"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
@@ -542,8 +546,8 @@ msgstr "HUD Theo Dõi"
 msgid "Crosshair"
 msgstr "Tâm Ngắm"
 
-msgid "Weapon handedness"
-msgstr "Vị trí súng"
+msgid "Weapon position"
+msgstr "Vị Trí Vũ Khí"
 
 msgid "default"
 msgstr "mặc định"
@@ -602,8 +606,17 @@ msgstr "Chụp màn hình cuối trận"
 msgid "Save match stats"
 msgstr "Lưu chỉ số trận"
 
-msgid "Players"
-msgstr "Số Người"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr "Đội Forbidden"
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr "Đội Icy"
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr "Mô Hình Địch"
 
 msgid "Team model options"
 msgstr "Tùy chỉnh mô hình đồng minh"
@@ -644,7 +657,7 @@ msgid "vertex lighting"
 msgstr "Ánh sáng Vertex"
 
 msgid "lightmaps"
-msgstr ""
+msgstr "lightmaps"
 
 msgid "per-pixel lighting"
 msgstr "ánh sáng theo điểm ảnh"
@@ -659,7 +672,7 @@ msgid "simple shadows"
 msgstr "Đổ bóng tối giản"
 
 msgid "shadowmaps"
-msgstr ""
+msgstr "shadowmaps"
 
 msgid "Greyscale lighting"
 msgstr "Áng sáng thang xám"
@@ -718,6 +731,9 @@ msgstr "Độ nhạy chuột"
 msgid "Mouse acceleration"
 msgstr "Gia tốc chuột"
 
+msgid "Zoom sensitivity"
+msgstr "Độ Nhạy Ngắm"
+
 msgid "Mouse filter"
 msgstr "Lọc nhạy chuột"
 
@@ -771,10 +787,10 @@ msgid "Drop bomb / flag"
 msgstr "Thả Bom/Cờ"
 
 msgid "Class action 1"
-msgstr ""
+msgstr "Class action 1"
 
 msgid "Class action 2"
-msgstr ""
+msgstr "Class action 2"
 
 msgid "Team chat"
 msgstr "Chat Đội"
@@ -811,7 +827,7 @@ msgid "Instagib"
 msgstr "Instagib"
 
 msgid "TV"
-msgstr ""
+msgstr "TV"
 
 msgid "Watch on TV"
 msgstr "Xem TV"
@@ -832,7 +848,7 @@ msgid "Match browser"
 msgstr "Duyệt Tìm Trận"
 
 msgid "Host game"
-msgstr ""
+msgstr "Host game"
 
 msgid "Demo browser"
 msgstr "Duyệt Demo"
@@ -990,7 +1006,7 @@ msgid "Downloading %s from %s at %s k/s"
 msgstr "Đang tải %s từ %s tốc độ %s☺ Kb/s"
 
 msgid "Owner left the listen server"
-msgstr ""
+msgstr "Người sở hữu máy chủ đã thoát"
 
 msgid "Server was killed"
 msgstr "Máy chủ bị dừng lại"
@@ -1013,7 +1029,7 @@ msgid "Powerups"
 msgstr "PowerUp"
 
 msgid "Fraggers"
-msgstr ""
+msgstr "Fraggers"
 
 msgid "Highest score"
 msgstr "Điểm Cao Nhất"
@@ -1044,11 +1060,11 @@ msgstr "Vũ khí phụ"
 
 #. "Bomb" gametype related option, means "I want to carry bomb"
 msgid "Carrier opt-in"
-msgstr ""
+msgstr "Muốn mang bom"
 
 #. "Bomb" gametype related option, means "I DON'T want to carry bomb"
 msgid "Carrier opt-out"
-msgstr ""
+msgstr "Không muốn mang bom"
 
 #. Selects classes in CTF Tactics
 msgid "Select class"
@@ -1218,7 +1234,7 @@ msgid "Sets the speed at which the capture points heal their owners"
 msgstr "Đặt tốc độ hồi máu trên điểm đang chiếm"
 
 msgid "Sets the time in seconds between reinforcement respawn waves"
-msgstr ""
+msgstr "Đặt thời gian theo giây cho các lượt tiếp tế hồi sinh"
 
 msgid "Downloading %s from server at %s k/s"
 msgstr "Đang tải %s từ máy chủ với tốc độ %s Kb/s"

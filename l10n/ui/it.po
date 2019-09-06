@@ -250,6 +250,10 @@ msgstr "Tabella dei punteggi"
 msgid "Show pressed keys"
 msgstr "Mostra tasti premuti"
 
+#. UI's cg_showAwards
+msgid "Show awards"
+msgstr "Mostra premi"
+
 #. Language selector
 msgid "Language"
 msgstr "Lingua"
@@ -376,9 +380,9 @@ msgstr "Disabilita autohop"
 msgid "Enable view animation"
 msgstr "Abilita animazioni della visuale"
 
-#. UI option for cg_cartoonHitEffect, shows effects on hitting the enemy.
-msgid "Show cartoon hit effect"
-msgstr "Mostra effetto fumetto per i colpi"
+#. UI option for cg_cartoonHitEffect, shows effects on critical hit.
+msgid "Show critical hit effect"
+msgstr ""
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
@@ -559,7 +563,7 @@ msgstr "HUD spettatore"
 msgid "Crosshair"
 msgstr "Mirino"
 
-msgid "Weapon handedness"
+msgid "Weapon position"
 msgstr "Posizione arma"
 
 msgid "default"
@@ -619,8 +623,17 @@ msgstr "Cattura uno screenshot a fine partita"
 msgid "Save match stats"
 msgstr "Salva le statistiche partita"
 
-msgid "Players"
-msgstr "Giocatori"
+#. Please do not translate "Forbidden"
+msgid "Team Forbidden"
+msgstr "Squadra Forbidden"
+
+#. Please do not translate "Icy"
+msgid "Team Icy"
+msgstr "Squadra Icy"
+
+#. Enemy models' tab for FFA/TDM
+msgid "Enemies"
+msgstr "Nemici"
 
 msgid "Team model options"
 msgstr "Opzioni modello squadra"
@@ -734,6 +747,9 @@ msgstr "Sensibilità del mouse"
 
 msgid "Mouse acceleration"
 msgstr "Accelerazione del mouse"
+
+msgid "Zoom sensitivity"
+msgstr "Sensibilità zoom"
 
 msgid "Mouse filter"
 msgstr "Filtro del mouse"
