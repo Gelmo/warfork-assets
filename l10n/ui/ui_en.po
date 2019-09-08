@@ -1255,9 +1255,6 @@ msgstr "Downloading %s from server at %s k/s"
 msgid "Downloading %s from the web at %s k/s"
 msgstr "Downloading %s from the web at %s k/s"
 
-msgid "Reload"
-msgstr "Reload"
-
 msgid "Logging in, hold on..."
 msgstr "Logging in, hold on..."
 
