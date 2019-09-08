@@ -5,6 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="css/options/audio.rcss" />
 	<script>
 		ElementOptionsForm @form;
+		bool allowSRestart;
 
 		void onAudioShow( Element @body, Event @evt )
 		{
@@ -57,6 +58,7 @@
 			}
 
 			animationsOnShow();
+			allowSRestart = false;
 		}
 
 		void onVolumeChange( Element @elem, Event @ev )
@@ -135,6 +137,26 @@
 
 			txt.setInnerRML( StringUtils::FormatFloat( bar.value.toFloat()*100, "0", 1, 0 ) + "%" );
 		}
+		
+		void sModuleRestart()
+		{
+			allowSRestart = true;
+		}
+		
+		void soundApply()
+		{
+			if( allowSRestart )
+			{
+				game.execAppend ( "s_restart\n" );
+			}
+			allowSRestart = false;
+		}
+		
+		void soundReset()
+		{
+			allowSRestart = false;
+		}
+		
 	</script>	
 </head>
 <body template="porkui" onshow="$onAudioShow">
@@ -144,21 +166,17 @@
 		<!-- audio setup -->
 		<div id="audio-options">
 			<optionsform id="options-form">
-				<!--
-				
 				<div class="title">Sound module</div>
-				<select cvar="s_module" id="sound-module" name="sound-module">
-					<option value="0">no sound</option>
-					<option value="1" selected>qf</option>
-					<option value="2">openal</option>
+				<select cvar="s_module" id="sound-module" name="sound-module" onchange="sModuleRestart();">
+					<option value="0" selected>no sound</option>
+					<option value="1" selected>Qfusion</option>
+					<option value="2" selected>OpenAL</option>
 				</select>
 				<br/>
 				
 				<br/>			
 				<hr class="nicehr" />
 				<br/>					
-				
-				-->
 				
 				<div class="title">Sound volume</div>
 				<input id="sound-volume" cvar="s_volume" class="slider" type="range" min="0" max="1.0" step="0.05" value="0.7" realtime="1" onchange="$onVolumeChange"/>
@@ -212,8 +230,8 @@
 				<br/>
 				<br/>
 
-				<button onclick="form.restoreOptions();" class="button-cancel">Cancel</button>	
-				<button onclick="form.applyOptions(); notificationPopup('Saved');" class="button-apply">Save changes</button>
+				<button onclick="form.restoreOptions(); soundReset();" class="button-cancel">Cancel</button>	
+				<button onclick="form.applyOptions(); notificationPopup('Saved'); soundApply();" class="button-apply">Save changes</button>
 
 			</optionsform>
 		</div>
