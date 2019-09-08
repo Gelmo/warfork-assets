@@ -857,8 +857,8 @@ msgstr "Hostname"
 msgid "Gametype"
 msgstr "Gametype"
 
-msgid "Match browser"
-msgstr "Match browser"
+msgid "Server browser"
+msgstr "Server browser"
 
 msgid "Host game"
 msgstr "Host game"

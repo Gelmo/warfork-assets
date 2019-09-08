@@ -429,7 +429,7 @@
 					</optionsform>
 				</panel>
 
-				<tab class="side-tab">Match browser</tab>
+				<tab class="side-tab">Server browser</tab>
 				<panel class="dropshadow">
 					<optionsform id="matchbrowser-options-form" onsubmit="$OptionsForm_OnSubmit">
 						<div class="title">Don't suggest servers</div>

@@ -860,8 +860,8 @@ msgstr "Название"
 msgid "Gametype"
 msgstr "Режим игры"
 
-msgid "Match browser"
-msgstr "Браузер матчей"
+msgid "Server browser"
+msgstr "Браузер серверов"
 
 msgid "Host game"
 msgstr "Создать игру"
