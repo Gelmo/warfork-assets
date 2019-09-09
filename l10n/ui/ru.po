@@ -559,6 +559,15 @@ msgstr "Клан"
 msgid "Misc"
 msgstr "Разное"
 
+#. Head-Up Display, in-game interface
+msgid "HUD"
+msgstr "Интерфейс"
+
+#. HUD while playing
+msgid "Player HUD"
+msgstr "HUD игрока"
+
+#. HUD while spectating
 msgid "Spectator HUD"
 msgstr "HUD наблюдателя"
 

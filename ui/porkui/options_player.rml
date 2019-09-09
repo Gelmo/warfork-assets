@@ -244,7 +244,7 @@
 				<tab class="side-tab">HUD</tab>		
 				<panel class="dropshadow">
 					<optionsform id="hud-options-form" onsubmit="$OptionsForm_OnSubmit">
-						<div class="title">HUD</div>
+						<div class="title">Player HUD</div>
 						<dataselect id="hud-client" cvar="cg_clientHUD" source="huds.list" fields="name" valuefield="name" realtime="1" onchange="checkHUDTouchSupport();"/>
 						<br/>
 
