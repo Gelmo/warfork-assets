@@ -251,6 +251,10 @@ msgstr "Show pressed keys"
 msgid "Show awards"
 msgstr "Show awards"
 
+#. UI's cg_showZoomEffect
+msgid "Show zoom effect"
+msgstr "Show zoom effect"
+
 #. Language selector
 msgid "Language"
 msgstr "Language"

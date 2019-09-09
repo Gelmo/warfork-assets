@@ -253,6 +253,10 @@ msgstr "Показывать нажатые клавиши"
 msgid "Show awards"
 msgstr "Показывать награды"
 
+#. UI's cg_showZoomEffect
+msgid "Show zoom effect"
+msgstr "Показывать эффект снайперского прицела"
+
 #. Language selector
 msgid "Language"
 msgstr "Язык"

@@ -340,6 +340,10 @@
 						<div class="title">Show awards</div>
 						<input cvar="cg_showAwards" type="checkbox" realtime="1"/>
 						<br/>
+						
+						<div class="title">Show zoom effect</div>
+						<input cvar="cg_showZoomEffect" type="checkbox" realtime="1"/>
+						<br/>
 
 						<div id="hud-touchmovedir">
 							<div class="title">Show touch movement direction</div>
