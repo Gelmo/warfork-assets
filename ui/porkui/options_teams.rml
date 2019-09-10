@@ -113,7 +113,7 @@
 					<div id="team">
 						<tabset ontabchange="RefreshModels(self);">
 					
-							<tab class="side-tab">Team Forbidden</tab>
+							<tab class="side-tab">Forbidden</tab>
 						
 							<!-- ALPHA view -->
 							<panel class="dropshadow">
@@ -161,7 +161,7 @@
 								</div>								
 							</panel>
 										
-							<tab class="side-tab">Icy Gaming</tab>
+							<tab class="side-tab">Icy</tab>
 						
 							<!-- BETA view -->														
 							<panel class="dropshadow">
