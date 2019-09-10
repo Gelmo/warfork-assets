@@ -1,12 +1,13 @@
 # Translators:
 # Andrei Stepanov <adem4ik@gmail.com>, 2019
+# Petar Mihaylov Petrov <mihaylov.petrov@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-06 11:03+0000\n"
 "PO-Revision-Date: 2019-08-28 19:42+0000\n"
-"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
+"Last-Translator: Petar Mihaylov Petrov <mihaylov.petrov@gmail.com>, 2019\n"
 "Language-Team: Spanish (https://www.transifex.com/team-forbidden-llc/teams/102732/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,6 +25,21 @@ msgstr "Ponte 'PREPARADO' usando el menú para empezar la partida!"
 
 msgid "Waiting for players."
 msgstr "Esperando más jugadores."
+
+#. Message at the start of the match
+msgid "Fight!"
+msgstr ""
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr ""
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr ""
+
+msgid "Overtime"
+msgstr ""
 
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
@@ -193,13 +209,13 @@ msgstr "Mejor:"
 msgid "Srv Best:"
 msgstr "Mejor del servidor:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Tiempo Alpha:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Tiempo Forbidden:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Tiempo Beta:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Tiempo Icy:"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -230,6 +246,7 @@ msgstr "Record personal:"
 msgid "Server record:"
 msgstr "Record del servidor:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Ronda de calentamiento"
 
@@ -287,8 +304,8 @@ msgstr "Ponte 'PREPARADO' para empezar la partida!\n"
 "'ESC' abre el menu o 'TECLA INTRO' para chatear."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
 msgstr "'ESC' para abrir el menú o 'TECLA INTRO' para chatear.\n"
-"Usa los bótones del raton para cambiar los modos del espectador.\n"
-"Ese mensaje puede ser escondido al apagar 'ayuda' en la configuracion de jugador."
+"Usa los bótones del ratón para cambiar los modos del espectador.\n"
+"Ese mensaje puede ser escondido al deshabilitar 'ayuda' en la configuración de jugador."

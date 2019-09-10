@@ -17,13 +17,28 @@ msgstr ""
 #. "Personal spectators", a list of spectators who watch the same POV, or
 #. watching you playing.
 msgid "Chasers"
-msgstr ""
+msgstr "Chasers"
 
 msgid "Set yourself READY using the in-game menu to start the match!"
 msgstr "Dùng Menu để SẴN SÀNG và bắt đầu chơi!"
 
 msgid "Waiting for players."
 msgstr "Đang đợi người chơi khác."
+
+#. Message at the start of the match
+msgid "Fight!"
+msgstr "Chiến!"
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr "CHIẾN!"
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr "%s PHÚT BÙ GIỜ\n"
+
+msgid "Overtime"
+msgstr "Bù Giờ"
 
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
@@ -101,7 +116,7 @@ msgstr "ĐÃ HỦY ĐẾM NGƯỢC "
 
 #. center print if there is sudden death overtime needed
 msgid "SUDDEN DEATH"
-msgstr ""
+msgstr "SUDDEN DEATH"
 
 #. Default location name, when there is none of them presented on the map
 msgid "someplace"
@@ -193,13 +208,13 @@ msgstr "Tốt Nhất:"
 msgid "Srv Best:"
 msgstr "Nhanh Nhất Srv"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Thời Gian Alpha:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Thời Gian Đội Forbidden"
 
-#. Race
-msgid "Beta time:"
-msgstr "Thời Gian Beta:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Thời Gian Đội Icy"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -230,6 +245,7 @@ msgstr "Kỉ lục cá nhân:"
 msgid "Server record:"
 msgstr "Kỉ lục Server:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Khởi Động"
 
@@ -287,7 +303,7 @@ msgstr "SẴN SÀNG để bắt đầu trận!\n"
 "'ESC' để bật Menu trong trận và 'ENTER' để trò chuyện."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
 msgstr "'ESC' để sử dụng Menu và 'ENTER' để trò chuyện.\n"
 "Nhấp chuột để thay đổi chế độ xem.\n"

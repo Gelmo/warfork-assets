@@ -26,6 +26,21 @@ msgstr "Fique PRONTO usando o menu do jogo para iniciar a partida!"
 msgid "Waiting for players."
 msgstr "Aguardando mais jogadores."
 
+#. Message at the start of the match
+msgid "Fight!"
+msgstr "Lutem!"
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr "LUTEM!"
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr "%s MINUTO(S) DE ACRÉSCIMO\n"
+
+msgid "Overtime"
+msgstr "Acréscimos"
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
 msgstr "Entrou no modo de prática"
@@ -194,13 +209,13 @@ msgstr "Recorde:"
 msgid "Srv Best:"
 msgstr "Recorde do serv.:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Tempo alfa:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Tempo de Forbidden:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Tempo beta:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Tempo de Icy:"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -231,6 +246,7 @@ msgstr "Recorde pessoal:"
 msgid "Server record:"
 msgstr "Recorde do servidor:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Aquecimento"
 
@@ -288,7 +304,7 @@ msgstr "Fique PRONTO para iniciar a partida!\n"
 "Aperte ESC para abrir o menu ou ENTER para abrir o bate-papo."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
 msgstr "Aperte ESC para abrir o menu ou ENTER para abrir o bate-papo.\n"
 "Use os botões do mouse para alterar o modo de espectador.\n"

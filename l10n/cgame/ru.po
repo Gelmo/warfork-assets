@@ -25,6 +25,21 @@ msgstr "Подтвердите свою готовность, используя
 msgid "Waiting for players."
 msgstr "Ожидание игроков."
 
+#. Message at the start of the match
+msgid "Fight!"
+msgstr "В бой!"
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr "В БОЙ!"
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr "ДОБАВЛЕНО %s МИНУТЫ\n"
+
+msgid "Overtime"
+msgstr "Дополнительное время"
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
 msgstr "Вы вошли в тренировочный режим"
@@ -85,7 +100,7 @@ msgid "Time"
 msgstr "Время"
 
 msgid "DESTROY THE TARGETS!"
-msgstr "УНИЧТОЖЬТЕ ЦЕЛИ!"
+msgstr "УНИЧТОЖЬТЕ ОБЪЕКТЫ!"
 
 msgid "Timelimit hit!"
 msgstr "Время истекло!"
@@ -150,7 +165,7 @@ msgstr "Очки"
 
 #. Short form of "Frags", please, don't use "kill/death" for the translation
 msgid "Fra"
-msgstr "Фра"
+msgstr "Фрг"
 
 #. Short form of "Suicides"
 msgid "Sui"
@@ -193,13 +208,13 @@ msgstr "Лучшее:"
 msgid "Srv Best:"
 msgstr "Лучшее на сервере:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Время Альфы:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Время Forbidden:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Время Беты:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Время Icy:"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -230,6 +245,7 @@ msgstr "Личный рекорд:"
 msgid "Server record:"
 msgstr "Рекорд сервера:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Разминка"
 
@@ -252,7 +268,7 @@ msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "Use the in-game menu to exit the queue.\n"
 "\n"
 "Use the mouse buttons for switching spectator modes."
-msgstr "Нажмите 'ESC' для вызова игрового меню или 'ENTER', чтобы перейти в игровой чат.\n"
+msgstr "Нажмите 'ESC' для вызова игрового меню или 'ENTER', чтобы открыть чат.\n"
 "Сейчас вы находитесь в очереди игроков, бросивших вызов и ожидающих своей игры.\n"
 "Вы можете воспользоваться игровым меню, чтобы стать наблюдателем.\n"
 "\n"
@@ -263,7 +279,7 @@ msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "Only players in the queue will have a turn to play against the last winner.\n"
 "\n"
 "Use the mouse buttons for switching spectator modes."
-msgstr "Нажмите 'ESC' для вызова игрового меню или 'ENTER', чтобы перейти в игровой чат.\n"
+msgstr "Нажмите 'ESC' для вызова игрового меню или 'ENTER', чтобы открыть чат.\n"
 "Используйте игровое меню или нажмите 'F3', чтобы бросить вызов.\n"
 "Только игроки, бросившие вызов, смогут играть с победителем последнего матча.\n"
 "\n"
@@ -287,8 +303,8 @@ msgstr "Подтвердите свою готовность для того, ч
 "Нажмите 'ESC' для вызова игрового меню или 'ENTER', чтобы перейти в игровой чат."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
-msgstr "Нажмите 'ESC' для вызова игрового меню или 'ENTER', чтобы перейти в игровой чат.\n"
+msgstr "Нажмите 'ESC' для вызова игрового меню или 'ENTER', чтобы открыть чат.\n"
 "Используйте кнопки мыши для переключения между режимами наблюдения.\n"
 "Показ данного сообщения можно отключить в меню настроек игрока."
