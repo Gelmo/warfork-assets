@@ -254,6 +254,10 @@ msgstr "Exibir teclas pressionadas"
 msgid "Show awards"
 msgstr "Exibir prêmios"
 
+#. UI's cg_showZoomEffect
+msgid "Show zoom effect"
+msgstr "Exibir efeito do zoom"
+
 #. Language selector
 msgid "Language"
 msgstr "Idioma"
@@ -428,7 +432,7 @@ msgid "Keep playing sounds in background"
 msgstr "Sons ativos em segundo plano"
 
 msgid "Play on a ranked server to start tracking your stats."
-msgstr "Jogue em um servidor ranqueado para começar a gravar as suas estatísticas."
+msgstr "Jogue em um servidor ranqueado para começar a gravar suas estatísticas."
 
 #. Bots' number
 msgid "Bots: %s"
@@ -482,29 +486,29 @@ msgstr "Usar a cor selecionada para todos os jogadores"
 msgid "Game mode which provides hints on basic Warfork movements and allows the "
 "player to play a duel match against an AI-controlled opponent."
 msgstr "Modo de jogo que fornece dicas sobre os movimentos básicos de Warfork e que "
-"permite ao jogador duelar contra um oponente controlado por IA."
+"permite ao jogador duelar contra um adversário controlado por IA."
 
 msgid "Don't ask me again"
 msgstr "Não perguntar novamente"
 
 #. Button that manually starts tutorial map
 msgid "Gameplay tutorial"
-msgstr "Iniciar tutorial"
+msgstr "Tutorial"
 
 msgid "You are about to launch the tutorial stage of Warfork. Continue?"
 msgstr "Você está prestes a iniciar o tutorial de Warfork. Continuar?"
 
 msgid "Welcome to Warfork!"
-msgstr "Bem-vindo ao Warfork!"
+msgstr "Boas-vindas ao Warfork!"
 
 msgid "Perhaps you would like to learn the basics of the gameplay and test your "
 "combat skills on our tutorial?"
-msgstr "Talvez você gostaria de aprender o básico do jogo e testar suas habilidades "
-"de combate em nosso tutorial?"
+msgstr "Gostaria de aprender o básico do jogo e testar suas habilidades de combate "
+"em nosso tutorial?"
 
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
-msgstr "Misturar equipes"
+msgstr "Mistura as equipes"
 
 #. Password reset link
 msgid "Forgot your password?"
@@ -554,11 +558,20 @@ msgstr "Clã"
 msgid "Misc"
 msgstr "Diversos"
 
+#. Head-Up Display, in-game interface
+msgid "HUD"
+msgstr "HUD"
+
+#. HUD while playing
+msgid "Player HUD"
+msgstr "HUD de jogador"
+
+#. HUD while spectating
 msgid "Spectator HUD"
 msgstr "HUD de espectador"
 
 msgid "Crosshair"
-msgstr "Mira"
+msgstr "Retículo"
 
 msgid "Weapon position"
 msgstr "Posição da arma"
@@ -582,7 +595,7 @@ msgid "FOV"
 msgstr "Campo de visão"
 
 msgid "FOV while using zoom"
-msgstr "Campo de visão usando zoom"
+msgstr "Campo de visão do zoom"
 
 msgid "Simple items"
 msgstr "Itens simples"
@@ -590,17 +603,17 @@ msgstr "Itens simples"
 #. Shows indicators at the top of the teammates, even if they are not visible
 #. through the walls
 msgid "Show teammates' indicators"
-msgstr "Exibir indicadores dos colegas de equipes"
+msgstr "Exibir indicadores de colegas de equipe"
 
 #. Shows help messages at the top of the screen in-game
 msgid "Show help"
 msgstr "Exibir ajuda"
 
 msgid "Show weapon model"
-msgstr "Exibir modelo da arma"
+msgstr "Exibir modelo de arma"
 
 msgid "Show minimap"
-msgstr "Exibir mini-mapa"
+msgstr "Exibir minimapa"
 
 msgid "Show FPS counter"
 msgstr "Exibir FPS"
@@ -615,7 +628,7 @@ msgid "Automatically record demos"
 msgstr "Gravar demos automaticamente"
 
 msgid "Endmatch screenshot"
-msgstr "Capturar a tela do placar final"
+msgstr "Capturar a tela do placar após o término de uma partida"
 
 msgid "Save match stats"
 msgstr "Salvar estatísticas de partidas"
@@ -644,7 +657,7 @@ msgid "Force your team as FORBIDDEN"
 msgstr "Forçar sua equipe como FORBIDDEN"
 
 msgid "Graphics profile"
-msgstr "Perfil dos gráficos"
+msgstr "Perfil de gráficos"
 
 msgid "Fullscreen"
 msgstr "Tela cheia"
@@ -653,7 +666,7 @@ msgid "Vertical sync"
 msgstr "Sincronização vertical"
 
 msgid "Screen resolution"
-msgstr "Resolução da tela"
+msgstr "Resolução"
 
 msgid "desktop"
 msgstr "desktop"
@@ -668,7 +681,7 @@ msgid "Lighting quality"
 msgstr "Qualidade da iluminação"
 
 msgid "vertex lighting"
-msgstr "iluminação vertex"
+msgstr "iluminação de vértice"
 
 msgid "lightmaps"
 msgstr "lightmaps"
@@ -680,7 +693,7 @@ msgid "Shadows"
 msgstr "Sombras"
 
 msgid "off"
-msgstr "desligado"
+msgstr "não"
 
 msgid "simple shadows"
 msgstr "sombras simples"
@@ -713,13 +726,13 @@ msgid "Effects volume"
 msgstr "Volume dos efeitos"
 
 msgid "Announcer volume"
-msgstr "Volume do locutor"
+msgstr "Volume do narrador"
 
 msgid "Voice commands volume"
 msgstr "Volume dos comandos de voz"
 
 msgid "Hit sounds volume"
-msgstr "Volume dos acertos"
+msgstr "Volume dos sons de acerto"
 
 msgid "Mouse"
 msgstr "Mouse"
@@ -755,17 +768,17 @@ msgid "Invert mouse"
 msgstr "Inverter mouse"
 
 msgid "Forward"
-msgstr "Para a frente"
+msgstr "Mover-se para a frente"
 
 #. bind for "move back"
 msgid "Backward"
-msgstr "Para trás"
+msgstr "Mover-se para trás"
 
 msgid "Left"
-msgstr "Para aesquerda"
+msgstr "Mover-se para a esquerda"
 
 msgid "Right"
-msgstr "Para a direita"
+msgstr "Mover-se para a direita"
 
 msgid "Up / jump"
 msgstr "Para cima / pular"
@@ -774,7 +787,7 @@ msgid "Down / crouch"
 msgstr "Para baixo / agachar"
 
 msgid "Dash / walljump"
-msgstr "Dash / walljump"
+msgstr "Arremetida / salto de parede"
 
 msgid "Run / walk"
 msgstr "Correr / andar"
@@ -800,9 +813,11 @@ msgstr "Largar arma"
 msgid "Drop bomb / flag"
 msgstr "Largar bomba / bandeira"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 1"
 msgstr "Ação de classe 1"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 2"
 msgstr "Ação de classe 2"
 
@@ -810,18 +825,18 @@ msgid "Team chat"
 msgstr "Bate-papo da equipe"
 
 msgid "Login to forbidden.gg"
-msgstr "Conectar-se à forbidden.gg"
+msgstr "Conectar-se a forbidden.gg"
 
 msgid "Login with your forbidden.gg account to save your statistics and match "
 "results."
-msgstr "Conecte-se à sua conta do forbidden.gg para salvar as suas estatísticas e os"
-" resultados de suas partidas."
+msgstr "Conecte-se com sua conta do forbidden.gg para salvar as suas estatísticas e "
+"os resultados de suas partidas."
 
 msgid "Don't have an account?"
 msgstr "Não tem uma conta?"
 
 msgid "Register for a free account here."
-msgstr "Registre-se gratuitamente aqui."
+msgstr "Crie uma gratuita aqui."
 
 msgid "Username"
 msgstr "Nome de usuário"
@@ -845,7 +860,7 @@ msgid "TV"
 msgstr "TV"
 
 msgid "Watch on TV"
-msgstr "Assista na TV"
+msgstr "Assistir na TV"
 
 msgid "Favorites"
 msgstr "Favoritos"
@@ -854,13 +869,13 @@ msgid "Ping"
 msgstr "Ping"
 
 msgid "Hostname"
-msgstr "Nome do servidor"
+msgstr "Servidor"
 
 msgid "Gametype"
 msgstr "Modo de jogo"
 
-msgid "Match browser"
-msgstr "Lista de servidores"
+msgid "Server browser"
+msgstr "Navegador de servidores"
 
 msgid "Host game"
 msgstr "Hospedar partida"
@@ -884,7 +899,7 @@ msgid "Mapname"
 msgstr "Nome do mapa"
 
 msgid "Start game"
-msgstr "Iniciar jogo"
+msgstr "Iniciar partida"
 
 msgid "Server name"
 msgstr "Nome do servidor"
@@ -896,7 +911,7 @@ msgid "Score limit"
 msgstr "Limite de pontuação"
 
 msgid "Max players"
-msgstr "Máximo de jogadores"
+msgstr "Limite de jogadores"
 
 msgid "Time limit"
 msgstr "Limite de tempo"
@@ -905,7 +920,7 @@ msgid "min."
 msgstr "min."
 
 msgid "Bot skill level"
-msgstr "Nível dos bots"
+msgstr "Dificuldade dos bots"
 
 msgid "Number of bots"
 msgstr "Número de bots"
@@ -935,7 +950,7 @@ msgid "Address: %s"
 msgstr "Endereço: %s"
 
 msgid "IRC server connection"
-msgstr "Conexão com o servidor IRC"
+msgstr "Conexão com servidor IRC"
 
 msgid "Server port"
 msgstr "Porta do servidor"
@@ -971,28 +986,28 @@ msgid "Ready!"
 msgstr "Pronto!"
 
 msgid "Not ready!"
-msgstr "Não estou pronto!"
+msgstr "Não está pronto!"
 
 msgid "Join challengers queue"
-msgstr "Entrar na fila dos desafiadores"
+msgstr "Entrar na fila de desafiantes"
 
 msgid "Leave challengers queue"
-msgstr "Sair da fila dos desafiadores"
+msgstr "Sair da fila de desafiantes"
 
 msgid "Join the game"
-msgstr "Entrar no jogo"
+msgstr "Entrar na partida"
 
 msgid "Join any team"
-msgstr "Juntar-se a uma equipe"
+msgstr "Entrar em qualquer equipe"
 
 msgid "Join %s"
-msgstr "Juntar-se à equipe %s"
+msgstr "Entrar na equipe %s"
 
 msgid "Spectate"
 msgstr "Assistir"
 
 msgid "Game menu"
-msgstr "Menu do jogo"
+msgstr "Menu de jogo"
 
 msgid "Call a vote"
 msgstr "Iniciar uma votação"
@@ -1018,13 +1033,13 @@ msgid "Press ESC to cancel"
 msgstr "Aperte ESC para cancelar"
 
 msgid "Downloading %s from %s at %s k/s"
-msgstr "Baixando %s de %s à %s k/s"
+msgstr "Baixando %s de %s a %s k/s"
 
 msgid "Owner left the listen server"
-msgstr "O proprietário saiu do servidor local"
+msgstr "O dono saiu do servidor local"
 
 msgid "Server was killed"
-msgstr "O servidor morreu"
+msgstr "O servidor foi encerrado"
 
 msgid "Server restarted"
 msgstr "O servidor foi reiniciado"
@@ -1041,19 +1056,19 @@ msgid "Objectives"
 msgstr "Objetivos"
 
 msgid "Powerups"
-msgstr "Poderes"
+msgstr "Potencializadores"
 
 msgid "Fraggers"
-msgstr "Aniquiladores"
+msgstr "Eliminadores"
 
 msgid "Highest score"
-msgstr "Recordes"
+msgstr "Pontuação mais alta"
 
 msgid "Enable"
-msgstr "Habilitar"
+msgstr "Ativar"
 
 msgid "Disable"
-msgstr "Desabilitar"
+msgstr "Desativar"
 
 msgid "Watch"
 msgstr "Assistir"
@@ -1102,22 +1117,22 @@ msgid "Engineer"
 msgstr "Engineer"
 
 msgid "Connection failed"
-msgstr "A conexão falhou"
+msgstr "Conexão fracassada"
 
 msgid "Connection terminated"
-msgstr "A conexão foi encerrada"
+msgstr "Conexão encerrada"
 
 msgid "Connection error"
 msgstr "Erro de conexão"
 
 msgid "Couldn't connect to %s"
-msgstr "Não foi possível conectar-se à %s"
+msgstr "Não foi possível conectar-se a %s"
 
 msgid "Connection was terminated by %s"
-msgstr "A conexão foi encerrada por %s"
+msgstr "%s encerrou a conexão"
 
 msgid "Error connecting to %s"
-msgstr "Erro ao tentar conectar-se à %s"
+msgstr "Erro ao conectar-se a %s"
 
 msgid "Reason: %s"
 msgstr "Motivo: %s"
@@ -1138,7 +1153,7 @@ msgid "Vote no"
 msgstr "Votar não"
 
 msgid "Vote \"%s\" has been called"
-msgstr "Votação \"%s\" foi criada"
+msgstr "A votação \"%s\" foi criada"
 
 msgid "Changes map"
 msgstr "Muda o mapa"
@@ -1150,11 +1165,10 @@ msgid "Jumps to the next map"
 msgstr "Pula para o próximo mapa"
 
 msgid "Specify 0 to disable"
-msgstr "Especifique 0 para desabilitar"
+msgstr "Especifique 0 para desativar"
 
 msgid "Sets the number of frags or caps needed to win the match"
-msgstr "Define o número de aniquilações ou capturas necessárias para vencer a "
-"partida"
+msgstr "Define o número de eliminações ou capturas necessárias para vencer a partida"
 
 msgid "Sets number of minutes after which the match ends"
 msgstr "Define a duração da partida em minutos"
@@ -1169,7 +1183,7 @@ msgid "Sets the length of the overtime"
 msgstr "Define a duração dos acréscimos"
 
 msgid "Specify 0 to enable sudden death mode"
-msgstr "Especifique 0 para habilitar o modo morte súbita"
+msgstr "Especifique 0 para ativar o modo morte súbita"
 
 msgid "Sets the maximum number of players in one team"
 msgstr "Define o número máximo de jogadores em uma equipe"
@@ -1184,25 +1198,25 @@ msgid "Sets all players as ready so the match can start"
 msgstr "Define todos os jogadores como \"pronto\" para que a partida possa começar"
 
 msgid "Forces player back to spectator mode"
-msgstr "Move o jogador para o modo de espectador"
+msgstr "Move um jogador para o modo de espectador"
 
 msgid "Removes player from the server"
-msgstr "Remove o jogador do servidor"
+msgstr "Remove um jogador do servidor"
 
 msgid "Removes player from the server and bans his IP-address for 15 minutes"
-msgstr "Remove o jogador do servidor e bane seu endereço de IP por 15 minutos"
+msgstr "Remove um jogador do servidor e bane endereço de IP dele por 15 minutos"
 
 msgid "Disallows chat messages from the muted player"
-msgstr "Desabilita mensagens de bate-papo de jogadores mudos"
+msgstr "Desativa mensagens de bate-papo de jogadores silenciados"
 
 msgid "Disallows voice chat messages from the muted player"
-msgstr "Desabilita mensagens de voz de jogadores mudos"
+msgstr "Desativa mensagens de voz de jogadores silenciados"
 
 msgid "Reallows chat messages from the unmuted player"
-msgstr "Reabilita mensagens de bate-papo de jogadores não-mudos"
+msgstr "Reativa mensagens de bate-papo de jogadores não silenciados"
 
 msgid "Reallows voice chat messages from the unmuted player"
-msgstr "Reabilita mensagens de voz de jogadores não-mudos"
+msgstr "Reabilita mensagens de voz de jogadores não silenciados"
 
 msgid "Sets the number of bots to play on the server"
 msgstr "Define o número de bots para jogar no servidor"
@@ -1214,13 +1228,13 @@ msgid "Toggles whether instagun can be used for weapon jumping"
 msgstr "Ativa/desativa salto com Instaraio"
 
 msgid "Toggles the availability of instashield in instagib"
-msgstr "Ativa/desativa instaescudo em uma partida de Instagib"
+msgstr "Ativa/desativa instaescudo em Instagib"
 
 msgid "Toggles whether falling long distances deals damage"
 msgstr "Ativa/desativa dano de queda"
 
 msgid "Toggles whether weapon splashes can damage self"
-msgstr "Ativa/desativa receber dano das próprias armas"
+msgstr "Ativa/desativa dano próprio"
 
 msgid "Pauses the game"
 msgstr "Pausa o jogo"
@@ -1229,38 +1243,35 @@ msgid "Resumes the game if in timeout"
 msgstr "Resume o jogo se estiver em pausa"
 
 msgid "Toggles the challenging spectators queue line"
-msgstr "Ativa/desativa fila dos espectadores desafiadores"
+msgstr "Ativa/desativa a fila de espectadores desafiantes"
 
 msgid "Toggles whether uneven teams is allowed"
-msgstr "Define se equipes desiguais é permitido ou não"
+msgstr "Define se equipes desiguais são permitidas ou não"
 
 msgid "Enables or disables the dropping of powerups at dying"
-msgstr "Habilita/desabilita largar poderes ao morrer"
+msgstr "Ativa/desativa largar potencializadores ao morrer"
 
 msgid "Enables or disables instant flag captures and unlocks"
-msgstr "Ativa/desativa desbloqueios e captura de bandeiras instantâneos"
+msgstr "Ativa/desativa desbloqueios e capturas de bandeiras instantâneos"
 
 msgid "Enables or disables the spawning of powerups"
-msgstr "Habilita/desabilita surgimento de poderes no mapa"
+msgstr "Ativa/desativa o surgimento de poderes no mapa"
 
 msgid "If enabled, tag fragger will become new tag automatically"
-msgstr "Se habilitado, o aniquilador do jogador marcado se tornará o novo jogador "
-"marcado automaticamente"
+msgstr "Se ativado, o eliminador do fugitivo se tornará o novo fugitivo "
+"automaticamente"
 
 msgid "Sets the speed at which the capture points heal their owners"
-msgstr "Define a velocidade em que os pontos de captura curam seus proprietários"
+msgstr "Define a velocidade a qual os pontos de captura curam os donos"
 
 msgid "Sets the time in seconds between reinforcement respawn waves"
-msgstr "Define o tempo em segundos entre as ondas de reforço"
+msgstr "Define o tempo em segundos entre as ondas de surgimento de reforços"
 
 msgid "Downloading %s from server at %s k/s"
-msgstr "Baixando %s do servidor à %s k/s"
+msgstr "Baixando %s do servidor a %s k/s"
 
 msgid "Downloading %s from the web at %s k/s"
-msgstr "Baixando %s da rede à %s k/s"
-
-msgid "Reload"
-msgstr "Atualizar"
+msgstr "Baixando %s da internet a %s k/s"
 
 msgid "Logging in, hold on..."
 msgstr "Fazendo login. Aguarde..."
@@ -1270,161 +1281,3 @@ msgstr "Buscando servidores..."
 
 msgid "Browse servers manually"
 msgstr "Buscar servidores manualmente"
-
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Faça 5 eliminações seguidas sem ser eliminado"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Faça 25 eliminações seguidas sem ser eliminado"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Mantenha o controle sobre a Megavida"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "Elimine um adversário 3 vezes em um curto período"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "Acerte um adversário diretamente com uma granada algumas vezes"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "Desarme a bomba no último segundo"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "Recupere a sua bandeira do adversário que estiver com ela"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Faça 20 eliminações seguidas sem ser eliminado"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Elimine um adversário que estiver no ar com uma granada"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Faça 10 eliminações seguidas sem ser eliminado"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Parabéns! Você venceu 1.000 partidas!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "Elimine um adversário 4 vezes em um curto período"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "Defenda a sua bandeira ou o portador da bandeira"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in "
-"a single match"
-msgstr "Faça mais pontos que os outros jogadores e receba o prêmio \"Espírito "
-"esportivo\" em uma única partida"
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "Elimine um adversário que estiver no ar com um foguete"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "Arme a bomba em um alvo de explosão"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "Nossa! Você venceu 100 partidas!"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "Mostre respeito aos seus adversários durante o intervalo pós-partida"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "Nossa! Você jogou 1.000 partidas!"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "Nossa! Você jogou 500 partidas!"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "Desarme a bomba sem que o adversário veja você"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "Acerte um adversário diretamente com um foguete algumas vezes"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Parabéns! Você venceu 250 partidas!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Elimine toda a equipe adversária em Bomba e Desarme"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Arme a bomba em 10 segundos"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Elimine o adversário que estiver com a bomba"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "Elimine um adversário enquanto você estiver em alta velocidade"
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "Elimine um adversário 2 vezes em um curto período"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Faça 15 eliminações seguidas sem ser eliminado"
-
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Parabéns! Você venceu 500 partidas!"
-
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Elimine um adversário que estiver em alta velocidade"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "Nossa! Você jogou 100 partidas!"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "Nossa! Você jogou 250 partidas!"
-
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Desarme a bomba"
-
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr "Registre-se em Warfork durante o evento de inauguração da QuakeNet"
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "Acerte um adversário 3 vezes sem errar com a Eletroraio ou a Instaraio"
-
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Elimine o adversário que estiver com a sua bandeira"
-
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "Mantenha o controle sobre a Armadura Vermelha"
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr "Faça a primeira eliminação para a sua equipe em uma partida"

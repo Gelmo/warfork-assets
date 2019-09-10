@@ -248,6 +248,10 @@ msgstr "Visa tryckta tagenter"
 msgid "Show awards"
 msgstr ""
 
+#. UI's cg_showZoomEffect
+msgid "Show zoom effect"
+msgstr ""
+
 #. Language selector
 msgid "Language"
 msgstr ""
@@ -526,6 +530,15 @@ msgstr "Klan"
 msgid "Misc"
 msgstr "Blandat"
 
+#. Head-Up Display, in-game interface
+msgid "HUD"
+msgstr ""
+
+#. HUD while playing
+msgid "Player HUD"
+msgstr ""
+
+#. HUD while spectating
 msgid "Spectator HUD"
 msgstr "Åskådar-HUD"
 
@@ -772,9 +785,11 @@ msgstr "Släpp vapen"
 msgid "Drop bomb / flag"
 msgstr "Släpp bomben / flagga"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 1"
 msgstr "Klass-handling 1"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 2"
 msgstr "Klass-handling 2"
 
@@ -831,8 +846,8 @@ msgstr "Hostname"
 msgid "Gametype"
 msgstr "Speltyp"
 
-msgid "Match browser"
-msgstr "Match-browser"
+msgid "Server browser"
+msgstr ""
 
 msgid "Host game"
 msgstr ""
@@ -1229,9 +1244,6 @@ msgstr "Laddar ner %s från server i %s k/s"
 msgid "Downloading %s from the web at %s k/s"
 msgstr "Laddar ner %s från webben i %s k/s"
 
-msgid "Reload"
-msgstr "Ladda om"
-
 msgid "Logging in, hold on..."
 msgstr "Loggar in, vänta..."
 
@@ -1240,160 +1252,3 @@ msgstr "Letar efter spelservrar"
 
 msgid "Browse servers manually"
 msgstr "Sök servrar manuellt"
-
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Få 5 frags på raken utan att bli fraggad"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Få 25 frags på raken utan att bli fraggad"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Håll mega-hälsan under kontroll"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "Fragga en motståndare 3 gånger under en kort tidsram"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "Träffa en motståndare direkt med en granatkastare ett fåtal gånger"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "Desarmera bomben i sista sekunden"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "Återhämta din flagga från motståndaren som bär den"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Få 20 frags på raken utan att bli fraggad"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Fragga en moståndare i luften med en granat"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Få 10 frags på raken utan att bli fraggad"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Grattis! Du har vunnit 1000 matcher!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "Fragga en moståndare 4 gånger under en kort tidsram"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "Försvara din flagga eller din flaggbärare"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in "
-"a single match"
-msgstr "Få fler poäng än andra spelare och få \"Fair Play\" priset i en match"
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "Fragga en motståndare i luften med en raket"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "Placera bomben på en bombplats"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "Wow! Du har vunnit 100 matcher!"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "Visa respekt mot dina motståndare under efter-match pausen"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "Wow! Du har spelat 1000 matcher!"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "Wow! Du har spelat 500 matcher!"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "Desarmera bomben utan att bli sedd av motståndaren"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "Träffa en motståndare direkt med en raket ett fåtal gånger"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Grattis! Du har vunnit 250 matcher!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Fragga hela motståndarlaget i Bomb och Desarmera"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Placera bomben inom 10 sekunder"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Fragga den motståndare som bär på bomben"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "Fragga en motståndare medans du rör dig i hög hastighet"
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "Fragga en motståndare 2 gånger inom en kort tidsram"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Få 15 frags på raken utan att själv bli fraggad"
-
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Grattis! Du har vunnit 500 matcher!"
-
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Fragga en motståndare som rör sig i hög hastighet"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "Wow! Du har spelat 100 matcher!"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "Wow! Du har spelat 250 matcher!"
-
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Desarmera bomben"
-
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr ""
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "Träffa en motståndare 3 gånger med Electrobolt eller Instagun utan att missa"
-
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Fragga motståndaren som har din flagga"
-
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "Håll den Röda Rustningen under din kontroll"
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr ""

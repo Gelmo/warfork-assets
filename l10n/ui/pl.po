@@ -1,13 +1,13 @@
 # Translators:
-# Andrei Stepanov <adem4ik@gmail.com>, 2019
 # Dawid Przystał <dawiddprzystal@gmail.com>, 2019
+# Andrei Stepanov <adem4ik@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-05 19:41+0000\n"
 "PO-Revision-Date: 2019-08-28 19:43+0000\n"
-"Last-Translator: Dawid Przystał <dawiddprzystal@gmail.com>, 2019\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>, 2019\n"
 "Language-Team: Polish (https://www.transifex.com/team-forbidden-llc/teams/102732/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -250,6 +250,10 @@ msgstr "Pokaż wciśnięte klawisze"
 
 #. UI's cg_showAwards
 msgid "Show awards"
+msgstr ""
+
+#. UI's cg_showZoomEffect
+msgid "Show zoom effect"
 msgstr ""
 
 #. Language selector
@@ -549,6 +553,15 @@ msgstr "Klan"
 msgid "Misc"
 msgstr "Różne"
 
+#. Head-Up Display, in-game interface
+msgid "HUD"
+msgstr ""
+
+#. HUD while playing
+msgid "Player HUD"
+msgstr ""
+
+#. HUD while spectating
 msgid "Spectator HUD"
 msgstr "HUD widza"
 
@@ -795,9 +808,11 @@ msgstr "Upuść broń"
 msgid "Drop bomb / flag"
 msgstr "Upuść bomba / flagę"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 1"
 msgstr "Akcja I"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 2"
 msgstr "Akcja II"
 
@@ -853,8 +868,8 @@ msgstr "Nazwa hosta"
 msgid "Gametype"
 msgstr "Typ gry"
 
-msgid "Match browser"
-msgstr "Wyszukiwarka"
+msgid "Server browser"
+msgstr ""
 
 msgid "Host game"
 msgstr "Hostuj grę"
@@ -1255,9 +1270,6 @@ msgstr "Pobieranie %s z servera z prędkością %s k/s"
 msgid "Downloading %s from the web at %s k/s"
 msgstr "Pobieranie %s z sieci web z prędkością %s k/s"
 
-msgid "Reload"
-msgstr "Odśwież"
-
 msgid "Logging in, hold on..."
 msgstr "Logowanie, proszę czekać..."
 
@@ -1266,162 +1278,3 @@ msgstr "Poszukiwanie serwerów..."
 
 msgid "Browse servers manually"
 msgstr "Przeglądaj serwery samodzielnie"
-
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Zdobądź 5 fragów z rzędu bez zostania sfragowanym"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Zdobądź 25 fragów z rzędu bez zostania sfragowanym"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Kontroluj Mega-Życie"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "Zastrzel przeciwnika 3 razy w krótkim odstępie czasowym"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "Kilka razy uderz bezpośrednio granatem przeciwnika"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "Rozbrój bombę w ostatniej sekundzie"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "Odzyskaj flagę od posiadającego ją przeciwnika"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Zdobądź 20 fragów z rzędu bez zostania sfragowanym"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Zestrzel lecącego przeciwnika granatem"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Zdobądź 10 fragów z rzędu bez zostania sfragowanym"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Gratulacje! Wygrałeś 1000 meczów!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "Zestrzel przeciwnika 4 razy w krótkim odstępie czasowym"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "Broń swojej flagi lub noszącego flagę z twojej drużyny"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in "
-"a single match"
-msgstr "Zdobądź więcej punktów od innych graczy i zdobądź nagrodę \"Fair Play\" w "
-"jednym meczu"
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "Zestrzel lecącego przeciwnika rakietą"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "Ustaw bombę w odpowiednim na nią miejscu"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "Jej! Wygrałeś 100 meczów!"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "Okaż szacunek przeciwnikom podczas przerwy między meczami"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "Wow! Rozegrałeś 1000 meczy!"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "Gratulacje! Wygrałeś 500 meczów!"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "Rozbrój bombę będąc niezauważonym przez przeciwników"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "Bezpośrednio traf przeciwnika kilka razy rakietą"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Gratulacje! Wygrałeś 250 meczów!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Zastrzel całą przeciwną drużynę w trybie Minowania i Rozbrajania"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Uzbrój bombę w ciągu 10 sekund"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Zestrzel wroga niosącego bombę"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "Zestrzel przeciwnika poruszając się z dużą prędkością"
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "Zestrzel przeciwnika 2 razy w krótkim odstępie czasowym"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Zdobądź 15 fragów z rzędu bez zostania sfragowanym"
-
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Gratulacje! Wygrałeś 500 meczów!"
-
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Zestrzel przeciwnika poruszającego się szybko"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "Wow! Rozegrałeś 100 meczy!"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "Wow! Rozegrałeś 250 meczy!"
-
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Rozbrój bombę"
-
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr "Zarejestruj się w Warfork podczas rozpoczęcia wydarzenia QuakeNet"
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "Traf w przeciwnika 3 razy z rzędu za pomocą Elektrycznego bełtu lub "
-"Instaguna"
-
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Zestrzel przeciwnika niosącego flagę"
-
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "Utrzymaj Czerwony Pancerz"
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr "Zdobądź pierwszego fraga w meczu dla swojej drużyny"

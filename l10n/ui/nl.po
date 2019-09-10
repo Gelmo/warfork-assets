@@ -2,13 +2,14 @@
 # Andrei Stepanov <adem4ik@gmail.com>, 2019
 # Rob Wolf Bruinsma <robertb.1996@hotmail.nl>, 2019
 # Marco Marcelis <marcelismarco@gmail.com>, 2019
+# Esdee too'ayin <dennis.type@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-05 19:41+0000\n"
 "PO-Revision-Date: 2019-08-28 19:43+0000\n"
-"Last-Translator: Marco Marcelis <marcelismarco@gmail.com>, 2019\n"
+"Last-Translator: Esdee too'ayin <dennis.type@gmail.com>, 2019\n"
 "Language-Team: Dutch (https://www.transifex.com/team-forbidden-llc/teams/102732/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 
 #. Start/home page top button
 msgid "Home"
-msgstr ""
+msgstr "Thuis"
 
 #. Top button
 msgid "Play"
@@ -86,10 +87,10 @@ msgid "Quick menu"
 msgstr "Snel menu"
 
 msgid "Version %s of %s is available."
-msgstr ""
+msgstr "Versie %s van %s is beschikbaar."
 
 msgid "Click OK for more information."
-msgstr ""
+msgstr "Klik op OK voor meer informatie."
 
 msgid "Open in browser"
 msgstr "Open in browser"
@@ -112,7 +113,7 @@ msgstr "Weet je zeker dat je wilt stoppen"
 
 #. Graphics profile's name
 msgid "contrast"
-msgstr ""
+msgstr "contrast"
 
 #. Graphics profile's name
 msgid "high"
@@ -161,7 +162,7 @@ msgid "Losses / quits"
 msgstr "Verliezen / stoppen"
 
 msgid "Frags / deaths"
-msgstr "Handgranaten / sterfgevallen"
+msgstr "Vermoorden / doden"
 
 msgid "Friends"
 msgstr "Vrienden"
@@ -213,14 +214,14 @@ msgid "No friends yet"
 msgstr "Nog geen vrienden"
 
 msgid "Connected to"
-msgstr ""
+msgstr "Verbonden met"
 
 #. Team overlay in HUD
 msgid "Show team locations"
-msgstr ""
+msgstr "Team locaties laten zien"
 
 msgid "Close"
-msgstr ""
+msgstr "Sluiten"
 
 msgid "Demo filename"
 msgstr ""
@@ -232,11 +233,11 @@ msgid "Ranked"
 msgstr ""
 
 msgid "Password required"
-msgstr ""
+msgstr "Paswoord vereist"
 
 #. UI bind for making screenshots
 msgid "Screenshot"
-msgstr ""
+msgstr "Schermopname"
 
 #. Key binding - hold to show the scoreboard
 msgid "Scoreboard"
@@ -244,15 +245,19 @@ msgstr ""
 
 #. UI's cg_showPressedKeys
 msgid "Show pressed keys"
-msgstr ""
+msgstr "Ingedrukte toetsen laten zien"
 
 #. UI's cg_showAwards
 msgid "Show awards"
 msgstr ""
 
+#. UI's cg_showZoomEffect
+msgid "Show zoom effect"
+msgstr ""
+
 #. Language selector
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 msgid "Join"
 msgstr ""
@@ -457,7 +462,7 @@ msgid "Game mode which provides hints on basic Warfork movements and allows the 
 msgstr ""
 
 msgid "Don't ask me again"
-msgstr ""
+msgstr "Vraag het niet opnieuw"
 
 #. Button that manually starts tutorial map
 msgid "Gameplay tutorial"
@@ -479,39 +484,39 @@ msgstr ""
 
 #. Password reset link
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Paswoord vergeten?"
 
 #. "Race" tab in the server browser
 msgid "Race"
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "Profiel"
 
 msgid "Chat"
 msgstr ""
 
 msgid "Player"
-msgstr ""
+msgstr "Speler"
 
 msgid "Teams"
-msgstr ""
+msgstr "Teams"
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Input"
 msgstr ""
 
 #. Use short form as possible, alternatively you can translate it from "Apply"
 msgid "Save changes"
-msgstr ""
+msgstr "Veranderingen opslaan"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 msgid "Model"
 msgstr ""
@@ -525,11 +530,20 @@ msgstr "Clan"
 msgid "Misc"
 msgstr ""
 
+#. Head-Up Display, in-game interface
+msgid "HUD"
+msgstr ""
+
+#. HUD while playing
+msgid "Player HUD"
+msgstr ""
+
+#. HUD while spectating
 msgid "Spectator HUD"
 msgstr ""
 
 msgid "Crosshair"
-msgstr ""
+msgstr "Vizier"
 
 msgid "Weapon position"
 msgstr ""
@@ -539,15 +553,15 @@ msgstr ""
 
 #. gun position
 msgid "right"
-msgstr ""
+msgstr "rechts"
 
 #. gun position
 msgid "left"
-msgstr ""
+msgstr "links"
 
 #. gun position
 msgid "center"
-msgstr ""
+msgstr "midden"
 
 msgid "FOV"
 msgstr ""
@@ -771,9 +785,11 @@ msgstr ""
 msgid "Drop bomb / flag"
 msgstr ""
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 1"
 msgstr ""
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 2"
 msgstr ""
 
@@ -829,7 +845,7 @@ msgstr ""
 msgid "Gametype"
 msgstr ""
 
-msgid "Match browser"
+msgid "Server browser"
 msgstr ""
 
 msgid "Host game"
@@ -1227,9 +1243,6 @@ msgstr ""
 msgid "Downloading %s from the web at %s k/s"
 msgstr ""
 
-msgid "Reload"
-msgstr ""
-
 msgid "Logging in, hold on..."
 msgstr ""
 
@@ -1237,161 +1250,4 @@ msgid "Searching for game servers..."
 msgstr ""
 
 msgid "Browse servers manually"
-msgstr ""
-
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Elimineer 5 tegenstanders zonder dood te gaan"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Maak 25 doden zonder zelf dood te gaan"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Hou de megacontrole onder controle"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr ""
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr ""
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr ""
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr ""
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Maak 20 eliminaties zonder dood te gaan"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Maak een eliminatie met een granaat waarbij de tegenstander in de lucht is"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Elimineer 10 tegenstanders zonder dood te gaan"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Gefeliciteerd! Je hebt 1000 potjes gewonnen!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr ""
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr ""
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in "
-"a single match"
-msgstr ""
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr ""
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr ""
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr ""
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr ""
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr ""
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr ""
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr ""
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr ""
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Gefeliciteerd! Je hebt 250 potjes gewonnen!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Elimineer het gehele vijandelijke team in Bomb and Defuse"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Plaats de bom binnen 10 seconden"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Elimineer de bom dragende tegenstander"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr ""
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr ""
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Elimineer 15 tegenstanders zonder dood te gaan"
-
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Gefeliciteerd! Je hebt 500 potjes gewonnen!"
-
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Dood een snel bewegende tegenstander"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr ""
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr ""
-
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Maak de bom onschadelijk"
-
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr ""
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr ""
-
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Elimineer degene die jou vlag draagt"
-
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr ""
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
 msgstr ""

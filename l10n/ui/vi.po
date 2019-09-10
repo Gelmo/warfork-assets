@@ -252,6 +252,10 @@ msgstr "Hiện Nút Bấm"
 msgid "Show awards"
 msgstr "Xem phần thưởng"
 
+#. UI's cg_showZoomEffect
+msgid "Show zoom effect"
+msgstr "Hiển thị hiệu ứng bật ngắm"
+
 #. Language selector
 msgid "Language"
 msgstr "Ngôn Ngữ"
@@ -367,7 +371,7 @@ msgstr "Bật Animation View"
 
 #. UI option for cg_cartoonHitEffect, shows effects on critical hit.
 msgid "Show critical hit effect"
-msgstr ""
+msgstr "Hiện hiệu ứng bắn trực diện"
 
 #. Touch screen setting
 msgid "Touch look sensitivity"
@@ -540,6 +544,15 @@ msgstr "Clan"
 msgid "Misc"
 msgstr "Linh Tinh"
 
+#. Head-Up Display, in-game interface
+msgid "HUD"
+msgstr "HUD"
+
+#. HUD while playing
+msgid "Player HUD"
+msgstr "HUD Người Chơi"
+
+#. HUD while spectating
 msgid "Spectator HUD"
 msgstr "HUD Theo Dõi"
 
@@ -786,9 +799,11 @@ msgstr "Thả vũ khí"
 msgid "Drop bomb / flag"
 msgstr "Thả Bom/Cờ"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 1"
 msgstr "Class action 1"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 2"
 msgstr "Class action 2"
 
@@ -844,8 +859,8 @@ msgstr "Tên Máy Chủ"
 msgid "Gametype"
 msgstr "Chế Độ"
 
-msgid "Match browser"
-msgstr "Duyệt Tìm Trận"
+msgid "Server browser"
+msgstr "Duyệt máy chủ"
 
 msgid "Host game"
 msgstr "Host game"
@@ -1242,9 +1257,6 @@ msgstr "Đang tải %s từ máy chủ với tốc độ %s Kb/s"
 msgid "Downloading %s from the web at %s k/s"
 msgstr "Đang tải %s từ web với tốc độ %s Kb/s"
 
-msgid "Reload"
-msgstr "Tải Lại"
-
 msgid "Logging in, hold on..."
 msgstr "Đang đăng nhập, xin đợi..."
 
@@ -1253,161 +1265,3 @@ msgstr "Đang tìm máy chủ..."
 
 msgid "Browse servers manually"
 msgstr "Tự duyệt qua máy chủ"
-
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Giết 5 mạng liên tiếp mà không chết"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Giết 25 mạng liên tiếp mà không chết"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Giữ Máu To trong tầm kiểm soát của bạn"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "Giết một kẻ địch 3 lần trong khoảng thời gian ngắn"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "Bắn trúng kẻ địch trực diện bằng Phóng Lựu một vài lần"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "Gỡ thành công bom trong giây cuối cùng"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "Lấy lại cờ đồng minh từ kẻ địch mang cờ"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Giết 20 mạng liền mà không chết"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Giết một địch trong không trung bằng Phóng Lựu"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Giết 10 mạng liền mà không chết"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Chúc mừng! Bạn thắng 1000 trận rồi!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "Giết 4 kẻ địch trong khoảng thời gian ngắn"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "Bảo vệ cờ đồng minh hoặc người mang cờ đồng minh"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in "
-"a single match"
-msgstr "Đạt nhiều điểm hơn người chơi khác và nhận thành tích \"Chơi Đẹp\" trong một"
-" trận đấu"
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "Giết một kẻ địch trên không bằng Tên Lửa"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "Đặt bom tại bomb site"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "Wow! Bạn đã thắng 100 trận"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "Tôn trọng đối thủ sau khi trận đấu kết thúc"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "Wow! Bạn đã chơi 1000 trận"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "Wow! Bạn đã chơi 500 trận"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "Gỡ bom mà không bị địch nhìn thấy"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "Bắn trúng trực diện địch bằng Tên Lửa vài lần"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Chúc mừng! Bạn thắng 250 trận rồi!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Giết toàn bộ đội địch trong Chế độ Đặt Bom"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Đặt bom thành công trong 10 giây"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Giết kẻ địch đang mang bom"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "Giết một kẻ địch khi đang di chuyển nhanh"
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "Giết một kẻ địch 2 lần trong khoảng thời gian ngắn"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Giết 15 mạng liền mà không chết"
-
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Chúc mừng! Bạn thắng 500 trận rồi!"
-
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Giết một kẻ địch di chuyển cực nhanh"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "Wow! Bạn đã chơi 100 trận!"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "Wow! Bạn đã chơi 250 trận!"
-
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Gỡ thành công một quả bom"
-
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr "Đăng ký Warfork trong sự kiện QuakeNet"
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "Bắn trúng địch 3 lần liên tiếp bằng Electrobolt hoặc Instagun"
-
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Giết một kẻ địch mang cờ đồng minh"
-
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "Giữ kiểm soát Giáp Đỏ"
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr "Giết mạng đầu tiên trong trận cho đội của bạn"

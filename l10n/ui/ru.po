@@ -814,9 +814,11 @@ msgstr "Сбросить оружие"
 msgid "Drop bomb / flag"
 msgstr "Сбросить бомбу / флаг"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 1"
 msgstr "Первое действие класса"
 
+#. Bind for Capture the Flag: Tactics, it has classes
 msgid "Class action 2"
 msgstr "Второе действие класса"
 
@@ -1273,9 +1275,6 @@ msgstr "Загружается %s с сервера со скоростью %s �
 msgid "Downloading %s from the web at %s k/s"
 msgstr "Загружается %s с web со скоростью %s кб/c"
 
-msgid "Reload"
-msgstr "Обновить"
-
 msgid "Logging in, hold on..."
 msgstr "Производится вход..."
 
@@ -1284,160 +1283,3 @@ msgstr "Производится поиск серверов..."
 
 msgid "Browse servers manually"
 msgstr "Просмотр списка серверов"
-
-#. Award: On Fire!
-msgid "Get 5 frags in a row without getting fragged"
-msgstr "Заработайте 5 фрагов в течение одной жизни"
-
-#. Award: God Mode!
-msgid "Get 25 frags in a row without getting fragged"
-msgstr "Заработайте 25 фрагов в течение одной жизни"
-
-#. Award: Mega-Health Control!
-msgid "Keep the Mega Health under your control"
-msgstr "Постоянно подбирайте Мегаздоровье"
-
-#. Award: Triple Frag!
-msgid "Frag an opponent 3 times in a short time frame"
-msgstr "Фрагните соперника 3 раза за короткий промежуток времени"
-
-#. Award: Direct Grenade Hit!
-msgid "Hit an opponent directly with a grenade a few times"
-msgstr "Попадите пару раз гранатой прямо в соперника"
-
-#. Award: Last Call Defuse!
-msgid "Defuse the bomb at the last second"
-msgstr "Обезвредьте бомбу на последней секунде"
-
-#. Award: Flag Recovery!
-msgid "Recover your flag from the opponent carrying it"
-msgstr "Отберите свой флаг у соперника"
-
-#. Award: Extermination!
-msgid "Get 20 frags in a row without getting fragged"
-msgstr "Заработайте 20 фрагов в течение одной жизни"
-
-#. Award: Air Grenade!
-msgid "Frag an opponent in mid-air with a grenade"
-msgstr "Попадите гранатой в соперника, находящегося в воздухе"
-
-#. Award: Raging!
-msgid "Get 10 frags in a row without getting fragged"
-msgstr "Заработайте 10 фрагов в течение одной жизни"
-
-#. Award: Win 1000 matches
-msgid "Congratulations! You have won 1000 matches!"
-msgstr "Поздравляем! Вы одержали победу в 1000 матчах!"
-
-#. Award: Quadruple Frag!
-msgid "Frag an opponent 4 times in a short time frame"
-msgstr "Фрагните соперника 4 раза за короткий промежуток времени"
-
-#. Award: Flag Defense!
-msgid "Defend your flag or flag carrier"
-msgstr "Защитите свой флаг или переносчика флага"
-
-#. Award: Player of the Match!
-msgid "Score more points than other players and receive the \"Fair Play\" award in "
-"a single match"
-msgstr "Заработайте больше всего очков и получите награду \"Fair Play\""
-
-#. Award: Air Rocket!
-msgid "Frag an opponent in mid-air with a rocket"
-msgstr "Попадите ракетой в соперника, находящегося в воздухе"
-
-#. Award: Bomb Planted!
-msgid "Plant the bomb at a bomb site"
-msgstr "Установите бомбу в одной из двух точек соперника"
-
-#. Award: Win 100 matches
-msgid "Wow! You have won 100 matches!"
-msgstr "Ого! Вы стали победителем в 100 матчах!"
-
-#. Award: Fair Play!
-msgid "Show respect to your opponents during the post-match intermission"
-msgstr "Проявите уважение к сопернику после окончания матча"
-
-#. Award: Play 1000 matches
-msgid "Wow! You have played 1000 matches!"
-msgstr "Браво! Вы сыграли 1000 матчей!"
-
-#. Award: Play 500 matches
-msgid "Wow! You have played 500 matches!"
-msgstr "Отлично! Вы сыграли 500 матчей!"
-
-#. Award: Ninja Defuse!
-msgid "Defuse the bomb without being seen by the opponent"
-msgstr "Обезвредьте бомбу незаметно для соперника"
-
-#. Award: Direct Rocket Hit!
-msgid "Hit an opponent directly with a rocket a few times"
-msgstr "Попадите несколько раз ракетой прямо в соперника"
-
-#. Award: Win 250 matches
-msgid "Congratulations! You have won 250 matches!"
-msgstr "Поздравляем! Вы победили в 250 матчах!"
-
-#. Award: King of Bongo!
-msgid "Frag the entire opposing team in Bomb and Defuse"
-msgstr "Фрагните всех игроков из вражеской команды в режиме Bomb and Defuse"
-
-#. Award: Fast Plant!
-msgid "Plant the bomb within 10 seconds"
-msgstr "Установите бомбу в течение 10 секунд"
-
-#. Award: Bomb Carrier Frag!
-msgid "Frag the bomb-carrying opponent"
-msgstr "Фрагните переносчика бомбы из вражеской команды"
-
-#. Award: Meep Meep!
-msgid "Frag an opponent while moving at high speed"
-msgstr "Фрагните соперника на высокой скорости"
-
-#. Award: Double Frag!
-msgid "Frag an opponent 2 times in a short time frame"
-msgstr "Фрагните соперника 2 раза за короткий промежуток времени"
-
-#. Award: Fraglord!
-msgid "Get 15 frags in a row without getting fragged"
-msgstr "Заработайте 15 фрагов в течение одной жизни"
-
-#. Award: Win 500 matches
-msgid "Congratulations! You have won 500 matches!"
-msgstr "Поздравляем! Вы закончили 500 матчей с победой!"
-
-#. Award: Coyote Wins!
-msgid "Frag a fast-moving opponent"
-msgstr "Фрагните несущегося соперника"
-
-#. Award: Play 100 matches
-msgid "Wow! You have played 100 matches!"
-msgstr "Замечательно! Вы уже сыграли 100 матчей!"
-
-#. Award: Play 250 matches
-msgid "Wow! You have played 250 matches!"
-msgstr "Здорово! Вы покорили отметку в 250 матчей!"
-
-#. Award: Bomb Defused!
-msgid "Defuse the bomb"
-msgstr "Обезвредьте бомбу"
-
-#. Award: Quakenet Exclusive!
-msgid "Register to Warfork during QuakeNet launch event"
-msgstr "Зарегистрируйтесь в Warfork во время старта работы QuakeNet"
-
-#. Award: Accuracy!
-msgid "Hit an opponent 3 times with the Electrobolt or the Instagun without missing"
-msgstr "Попадите 3 раза без промаха с Электроболта или Инстагана"
-
-#. Award: Flag Carrier Frag!
-msgid "Frag the opponent who has your flag"
-msgstr "Фрагните соперника, укравшего ваш флаг"
-
-#. Award: Red Armor Control!
-msgid "Keep the Red Armor under your control"
-msgstr "Подбирайте красную броню, не отдавая её врагу"
-
-#. Award: First Frag!
-msgid "Score the first frag for your team in the match"
-msgstr "Заработайте первый фраг в матче для своей команды"

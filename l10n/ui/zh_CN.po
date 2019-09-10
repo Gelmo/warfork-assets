@@ -251,6 +251,10 @@ msgstr "显示按键"
 msgid "Show awards"
 msgstr "显示奖励"
 
+#. UI's cg_showZoomEffect
+msgid "Show zoom effect"
+msgstr ""
+
 #. Language selector
 msgid "Language"
 msgstr "语言"
@@ -526,6 +530,15 @@ msgstr "战队"
 msgid "Misc"
 msgstr "其它"
 
+#. Head-Up Display, in-game interface
+msgid "HUD"
+msgstr ""
+
+#. HUD while playing
+msgid "Player HUD"
+msgstr ""
+
+#. HUD while spectating
 msgid "Spectator HUD"
 msgstr "观众HUD"
 
@@ -832,8 +845,8 @@ msgstr "服务器名称"
 msgid "Gametype"
 msgstr "游戏类型"
 
-msgid "Match browser"
-msgstr "比赛浏览器"
+msgid "Server browser"
+msgstr ""
 
 msgid "Host game"
 msgstr "建立主机"
@@ -1229,9 +1242,6 @@ msgstr "正以 %s k/s 的速度从服务器下载 %s"
 
 msgid "Downloading %s from the web at %s k/s"
 msgstr "正以 %s k/s 的速度从网络下载 %s"
-
-msgid "Reload"
-msgstr "刷新"
 
 msgid "Logging in, hold on..."
 msgstr "正在登入,稍待片刻..."
