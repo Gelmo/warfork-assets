@@ -507,6 +507,10 @@ msgid "Perhaps you would like to learn the basics of the gameplay and test your 
 msgstr "Возможно вы хотите изучить основы игры и проверить свои силы на нашем "
 "обучающем уровне?"
 
+#. Callvote option "rebalance", works according to the players' scores
+msgid "Rebalances teams"
+msgstr "Распределяет игроков по командам в зависимости от их счёта"
+
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
 msgstr "Перемешивает игроков в командах"
@@ -617,7 +621,7 @@ msgid "Show minimap"
 msgstr "Показывать мини-карту"
 
 msgid "Show FPS counter"
-msgstr "Показывать счетчик FPS"
+msgstr "Показывать счётчик FPS"
 
 msgid "Show speed meter"
 msgstr "Показывать спидометр"
@@ -1063,7 +1067,7 @@ msgid "Fraggers"
 msgstr "Фраггеры"
 
 msgid "Highest score"
-msgstr "По счету"
+msgstr "По счёту"
 
 msgid "Enable"
 msgstr "Включить"

@@ -502,6 +502,10 @@ msgid "Perhaps you would like to learn the basics of the gameplay and test your 
 msgstr "Perhaps you would like to learn the basics of the gameplay and test your "
 "combat skills on our tutorial?"
 
+#. Callvote option "rebalance", works according to the players' scores
+msgid "Rebalances teams"
+msgstr "Rebalances teams"
+
 #. Callvote option "shuffle"
 msgid "Shuffles teams"
 msgstr "Shuffles teams"
