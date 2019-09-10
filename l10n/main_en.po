@@ -73,6 +73,10 @@ msgid "Negative"
 msgstr "Negative"
 
 #. Vsay/Quickmenu item
+msgid "Shut up!"
+msgstr "Shut up!"
+
+#. Vsay/Quickmenu item
 msgid "Go to quad"
 msgstr "Go to quad"
 
