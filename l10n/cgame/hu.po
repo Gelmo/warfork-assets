@@ -25,6 +25,21 @@ msgstr "Állítsd magad FELKÉSZÜLT-re a játékbeli menüben a meccs indítás
 msgid "Waiting for players."
 msgstr "Várakozás játékosokra."
 
+#. Message at the start of the match
+msgid "Fight!"
+msgstr ""
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr ""
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr ""
+
+msgid "Overtime"
+msgstr ""
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
 msgstr "Beléptél a gyakorló módba"
@@ -193,13 +208,13 @@ msgstr "Legjobb:"
 msgid "Srv Best:"
 msgstr "Szerver legjobb:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Alfa ideje:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Forbidden ideje:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Béta ideje:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Icy ideje:"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -230,6 +245,7 @@ msgstr "Saját legjobb:"
 msgid "Server record:"
 msgstr "Szerver rekord:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Bemelegítés"
 
@@ -287,8 +303,6 @@ msgstr "Állítsd magad FELKÉSZÜLT-re a meccs kezdéséhez!\n"
 "Nyomj ESC-et a menühöz, vagy ENTERT a chat-hez."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' a menü eléréséhez vagy 'ENTER' a chateléshez\n"
-"Egér gombok a megfigyelő módok váltásához.\n"
-"Ez az üzenet kikapcsolható a 'segítség'  kikapcsolásával a játékos beállítás menüben."
+msgstr ""

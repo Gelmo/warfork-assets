@@ -25,6 +25,21 @@ msgstr ""
 msgid "Waiting for players."
 msgstr ""
 
+#. Message at the start of the match
+msgid "Fight!"
+msgstr ""
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr ""
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr ""
+
+msgid "Overtime"
+msgstr ""
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
 msgstr ""
@@ -193,13 +208,13 @@ msgstr "Geriausias:"
 msgid "Srv Best:"
 msgstr "Serverio geriausias:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Alfa laikas:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Forbidden laikas:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Beta laikas:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Icy laikas:"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -230,6 +245,7 @@ msgstr "Tavo geriausias:"
 msgid "Server record:"
 msgstr "Serverio rekordas:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Apšilimas:"
 
@@ -269,13 +285,11 @@ msgstr "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui.\n"
 "\n"
 "Naudokite pelės mygtukus žiūrovo režimams keisti."
 
-msgid ""
-"You are inside the challengers queue waiting for your turn to play.\n"
+msgid "You are inside the challengers queue waiting for your turn to play.\n"
 "Use the in-game menu to exit the queue."
 msgstr ""
 
-msgid ""
-"Use the in-game menu to enter the challengers queue.\n"
+msgid "Use the in-game menu to enter the challengers queue.\n"
 "Only players in the queue will have a turn to play against the last winner."
 msgstr ""
 
@@ -287,8 +301,6 @@ msgstr "Pasiruoškite, kad galėtumėt pradėti varžybas!\n"
 "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' žaidimo meniu parodymui arba 'ENTER' žaidimo čatui.\n"
-"Pėles mygtukai keičia stebėtojo režimus.\n"
-"Šitas pranešimas gali būti išjungtas 'help' žaidėjo nustatymo meniu."
+msgstr ""

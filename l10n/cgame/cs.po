@@ -25,6 +25,21 @@ msgstr "Označte se jako PŘIPRAVEN pomocí herního menu pro zahájení hry."
 msgid "Waiting for players."
 msgstr "Čekání na hráče"
 
+#. Message at the start of the match
+msgid "Fight!"
+msgstr ""
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr ""
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr ""
+
+msgid "Overtime"
+msgstr ""
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
 msgstr "V tréninkovém režimu"
@@ -193,13 +208,13 @@ msgstr "Nejlepší:"
 msgid "Srv Best:"
 msgstr "Nejlepší hráč serveru:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Alpha čas:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Forbidden čas:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Beta čas:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Icy čas:"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -230,6 +245,7 @@ msgstr "Osobní rekord:"
 msgid "Server record:"
 msgstr "Rekord serveru:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Rozehra"
 
@@ -287,8 +303,6 @@ msgstr "Označte se jako PŘIPRAVEN pro zahájení hry.\n"
 "'ESC' pro herní menu, 'ENTER' pro chat."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
-msgstr "'ESC' pro herní menu, 'ENTER' pro chat.\n"
-"Tlačítka myši pro změnu režimu diváka.\n"
-"Tato zpráva může být skryta vypnutím 'nápovědy' v menu nastavení hráče."
+msgstr ""

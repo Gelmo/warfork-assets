@@ -25,6 +25,21 @@ msgstr ""
 msgid "Waiting for players."
 msgstr ""
 
+#. Message at the start of the match
+msgid "Fight!"
+msgstr ""
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr ""
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr ""
+
+msgid "Overtime"
+msgstr ""
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
 msgstr ""
@@ -193,13 +208,13 @@ msgstr "Record:"
 msgid "Srv Best:"
 msgstr "Record srv:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Timp Alpha:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Timp Forbidden:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Timp Beta:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Timp Icy:"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -230,6 +245,7 @@ msgstr "Record personal:"
 msgid "Server record:"
 msgstr "Record server:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Încălzire"
 
@@ -242,23 +258,19 @@ msgstr "Muniţie epuizată"
 msgid "Message of the day:"
 msgstr "Anunţul zilei:"
 
-msgid ""
-"Waiting for players.\n"
+msgid "Waiting for players.\n"
 "'ESC' for in-game menu."
-msgstr ""
-"Sunt aşteptaţi alţi jucători.\n"
+msgstr "Sunt aşteptaţi alţi jucători.\n"
 "Apasă 'ESC' ca să deschizi meniul principal."
 
-msgid ""
-"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "You are inside the challengers queue waiting for your turn to play.\n"
 "Use the in-game menu to exit the queue.\n"
 "\n"
 "Use the mouse buttons for switching spectator modes."
 msgstr ""
 
-msgid ""
-"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "Use the in-game menu or press 'F3' to enter the challengers queue.\n"
 "Only players in the queue will have a turn to play against the last winner.\n"
 "\n"
@@ -270,19 +282,16 @@ msgid "You are inside the challengers queue waiting for your turn to play.\n"
 msgstr "Esti in coada competitorilor, asteptandu-ti randul pentru a juca.\n"
 "Foloseste meniul din joc pentru a iesi din coada."
 
-msgid ""
-"Use the in-game menu to enter the challengers queue.\n"
+msgid "Use the in-game menu to enter the challengers queue.\n"
 "Only players in the queue will have a turn to play against the last winner."
 msgstr ""
 
-msgid ""
-"Set yourself READY to start the match!\n"
+msgid "Set yourself READY to start the match!\n"
 "You can use the in-game menu or simply press 'F4'.\n"
 "'ESC' for in-game menu or 'ENTER' for in-game chat."
 msgstr ""
 
-msgid ""
-"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
 msgstr ""

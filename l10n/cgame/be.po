@@ -25,6 +25,21 @@ msgstr "Пацвердзіце сваю гатовасць, скарыстаўш
 msgid "Waiting for players."
 msgstr "Чаканне гульцоў."
 
+#. Message at the start of the match
+msgid "Fight!"
+msgstr ""
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr ""
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr ""
+
+msgid "Overtime"
+msgstr ""
+
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
 msgstr "Вы ўвайшлі ў трэніровачны рэжым"
@@ -193,13 +208,13 @@ msgstr "Лепшы:"
 msgid "Srv Best:"
 msgstr "Лепшы на серверы:"
 
-#. Race
-msgid "Alpha time:"
-msgstr "Час Alpha:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
+msgstr "Час Forbidden:"
 
-#. Race
-msgid "Beta time:"
-msgstr "Час Beta:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
+msgstr "Час Icy:"
 
 #. When some Items get picked up
 msgid "Picked up:"
@@ -230,6 +245,7 @@ msgstr "Асабісты рэкорд:"
 msgid "Server record:"
 msgstr "Рэкорд на серверы:"
 
+#. Match state
 msgid "Warmup"
 msgstr "Разагрэў"
 
@@ -287,7 +303,7 @@ msgstr "Пацвердзіце сваю гатовасць для таго, ка
 "Націсніце 'ESC' для выкліку гульнявога меню ці 'ENTER', каб перайсці ў гульнявы чат."
 
 msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
 msgstr "Націсніце 'ESC' для выкліку гульнямога меню ці 'ENTER', как перайсці ў гульнявы чат.\n"
 "Выкарыстоўвайце кнопкі мышы для пераключэння паміж рэжымамі назірання.\n"

@@ -1,12 +1,14 @@
 # Translators:
 # Bill Tsak <tsakonasbill7@gmail.com>, 2019
+# Alex C <olympiakos2005@icloud.com>, 2019
+# George Tzatzanas <gekor8@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2016-12-06 11:03+0000\n"
 "PO-Revision-Date: 2019-08-28 19:42+0000\n"
-"Last-Translator: Bill Tsak <tsakonasbill7@gmail.com>, 2019\n"
+"Last-Translator: George Tzatzanas <gekor8@gmail.com>, 2019\n"
 "Language-Team: Greek (https://www.transifex.com/team-forbidden-llc/teams/102732/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,14 +19,29 @@ msgstr ""
 #. "Personal spectators", a list of spectators who watch the same POV, or
 #. watching you playing.
 msgid "Chasers"
-msgstr "Κηνυγοί"
+msgstr "Κυνηγοί"
 
 msgid "Set yourself READY using the in-game menu to start the match!"
-msgstr "Βάλε τον εαυτό σου έτοιμο χρησιμοποιόντας το μενού του παιχνιδιού για να "
-"αρχίσεις το παιχνίδι!"
+msgstr "Γίνε ΈΤΟΙΜΟΣ χρησιμοποιώντας το μενού του παιχνιδιού για να αρχίσεις το "
+"παιχνίδι!"
 
 msgid "Waiting for players."
 msgstr "Αναμένοντας για παίκτες."
+
+#. Message at the start of the match
+msgid "Fight!"
+msgstr "Πολεμήστε!"
+
+#. Message at the start of the match
+msgid "FIGHT!"
+msgstr "ΠΟΛΕΜΉΣΤΕ!"
+
+#. Message when overtime was added
+msgid "%s MINUTES OVERTIME\n"
+msgstr "%sΛΕΠΤΆ ΠΑΡΆΤΑΣΗ\n"
+
+msgid "Overtime"
+msgstr "Παράταση"
 
 #. User has entered practice mode in Race
 msgid "Entered practice mode"
@@ -44,10 +61,10 @@ msgid "Teams are uneven. Please switch into another team."
 msgstr "Οι ομάδες είναι άνισες. Παρακαλώ αλλάξτε στην άλλη ομάδα."
 
 msgid "PROTECT THE BOMB SITES!"
-msgstr "ΠΡΟΣΤΑΤΕΨΤΕ ΤΙΣ ΤΟΠΟΘΕΣΙΕΣ ΤΩΝ ΒΟΜΒΩΝ!"
+msgstr "ΠΡΟΣΤΑΤΈΨΤΕ ΤΙΣ ΤΟΠΟΘΕΣΊΕΣ ΤΩΝ ΒΟΜΒΏΝ!"
 
 msgid "TEAMDAMAGE PUNISHMENT!"
-msgstr "ΤΙΜΩΡΙΑ ΤΡΑΥΜΑΤΙΣΜΟΥ ΤΗΣ ΟΜΑΔΑΣ!"
+msgstr "ΤΙΜΩΡΊΑ ΤΡΑΥΜΑΤΙΣΜΟΎ ΤΗΣ ΟΜΆΔΑΣ!"
 
 msgid "DO NOT DAMAGE TEAMMATES!"
 msgstr "MHN TΡΑΥΜΑΤΙΖΕΙΣ ΤΟΥΣ ΣΥΜΠΑΙΚΤΕΣ ΣΟΥ!"
@@ -70,12 +87,12 @@ msgstr "Μην πυροβολείς μέλη της ομάδας σου!"
 #. Please, don't use "kill/death" for the translation of "frag", try to find
 #. something more neutral
 msgid "YOU TEAMFRAGGED %s"
-msgstr "ΕΞΟΛΟΘΡΕΥΣΕΣ ΣΥΜΠΑΙΚΤΗ"
+msgstr "ΕΞΟΛΌΘΡΕΥΣΕΣ ΤΟΝ ΣΥΜΠΑΊΚΤΗ %s0"
 
 #. Please, don't use "kill/death" for the translation of "frag", try to find
 #. something more neutral
 msgid "YOU FRAGGED %s"
-msgstr "ΕΞΟΛΟΘΡΕΥΣΕΣ"
+msgstr "ΕΞΟΛΌΘΡΕΥΣΕΣ ΤΟΝ %s"
 
 #. For Race gametype - "no record", "no best time"
 msgid "no time"
@@ -89,13 +106,13 @@ msgid "DESTROY THE TARGETS!"
 msgstr "ΚΑΤΑΣΤΡΕΨΕ ΤΟΥΣ ΣΤΟΧΟΥΣ !"
 
 msgid "Timelimit hit!"
-msgstr "Χτύπημα στο όριο του χρόνου!"
+msgstr "Έφτασες στο όριο του χρόνου!"
 
 msgid "The attacking team has lost the bomb!!!"
 msgstr "Η επιτιθέμενη ομάδα έχασε την βόμβα!!!"
 
 msgid "MATCH ABORTED"
-msgstr "Ο ΑΓΩΝΑΣ ΔΙΑΚΟΠΗΚΕ"
+msgstr "Ο ΑΓΩΝΑΣ ΠΑΡΑΙΤΗΘΗΚΕ"
 
 msgid "COUNTDOWN ABORTED"
 msgstr "Η ΑΝΤΙΣΤΡΟΦΗ ΜΕΤΡΗΣΗ ΔΙΑΚΟΠΗΚΕ"
@@ -112,16 +129,16 @@ msgid "Waiting... %s"
 msgstr "Περιμένοντας...%s "
 
 msgid "Match will resume in %s seconds"
-msgstr ""
+msgstr "Ο αγώνας θα συνεχιστεί σε %s δευτερόλεπτα "
 
 msgid "Match will resume in 1 second"
-msgstr ""
+msgstr "Ο αγώνας θα συνεχιστεί σε 1 δευτερόλεπτο"
 
 msgid "Match paused"
-msgstr ""
+msgstr "Ο αγώνας διακόπηκε"
 
 msgid "Match resumed"
-msgstr ""
+msgstr "Ο αγώνας συνεχίστηκε"
 
 msgid "%s has the bomb!"
 msgstr ""
@@ -134,13 +151,13 @@ msgid "No one to chase"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 msgid "Bomb defused!"
 msgstr ""
 
 msgid "Clan"
-msgstr ""
+msgstr "Ομάδα"
 
 msgid "Score"
 msgstr ""
@@ -194,12 +211,12 @@ msgstr ""
 msgid "Srv Best:"
 msgstr ""
 
-#. Race
-msgid "Alpha time:"
+#. Race, team FORBIDDEN time, do not translate Forbidden
+msgid "Forbidden time:"
 msgstr ""
 
-#. Race
-msgid "Beta time:"
+#. Race, team ICY time, do not translate Icy
+msgid "Icy time:"
 msgstr ""
 
 #. When some Items get picked up
@@ -231,33 +248,31 @@ msgstr ""
 msgid "Server record:"
 msgstr ""
 
+#. Match state
 msgid "Warmup"
-msgstr ""
+msgstr "Προθέρμανση"
 
 msgid "Low Ammo"
 msgstr ""
 
 msgid "Out Of Ammo"
-msgstr ""
+msgstr "Χωρίς Πυρομαχικά"
 
 msgid "Message of the day:"
-msgstr ""
+msgstr "Μήνυμα της ημέρας:"
 
-msgid ""
-"Waiting for players.\n"
+msgid "Waiting for players.\n"
 "'ESC' for in-game menu."
 msgstr ""
 
-msgid ""
-"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "You are inside the challengers queue waiting for your turn to play.\n"
 "Use the in-game menu to exit the queue.\n"
 "\n"
 "Use the mouse buttons for switching spectator modes."
 msgstr ""
 
-msgid ""
-"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
 "Use the in-game menu or press 'F3' to enter the challengers queue.\n"
 "Only players in the queue will have a turn to play against the last winner.\n"
 "\n"
@@ -282,8 +297,7 @@ msgstr "Θέσε τον εαυτό σου ΕΤΟΙΜΟ για να αρχίσε�
 "χρησιμοποιήσεις το μενού του παιχνιδιού η απλά να πατήσεις 'F4'. 'ESC' για "
 "το μενού του παιχνιδιού ή 'ENTER' για το τσατ του παιχνιδιού."
 
-msgid ""
-"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
-"Mouse buttons for switching spectator modes.\n"
+msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the mouse buttons for switching spectator modes.\n"
 "This message can be hidden by disabling 'help' in player setup menu."
 msgstr ""

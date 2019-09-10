@@ -364,7 +364,7 @@
 							<option value="bg">[bg] Български</option>
 							<!-- <option value="cs">[cs] Čeština</option> unfinished -->
 							<option value="de">[de] Deutsch</option>
-							<!-- <option value="el">[el] Ελληνικά</option> unfinished -->
+							<option value="el">[el] Ελληνικά</option>
 							<option value="es">[es] Español</option>
 							<option value="es_419">[es_419] Español-Latinoamérica</option>
 							<option value="fi">[fi] Suomi</option>
