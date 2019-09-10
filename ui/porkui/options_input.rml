@@ -458,6 +458,10 @@
 						<keyselect bind="vsay sorry"/>
 						<br/>
 						
+						<div class="title">Shut up!</div>
+						<keyselect bind="vsay_team shutup"/>
+						<br/>
+						
 						<div class="title">Thanks</div>
 						<keyselect bind="vsay thanks"/>
 						<br/>
