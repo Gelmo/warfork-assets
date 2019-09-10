@@ -454,6 +454,10 @@
 						<keyselect bind="vsay oops"/>
 						<br/>
 						
+						<div class="title">Shut up!</div>
+						<keyselect bind="vsay shutup"/>
+						<br/>
+						
 						<div class="title">Sorry</div>
 						<keyselect bind="vsay sorry"/>
 						<br/>
@@ -485,11 +489,6 @@
 						<div class="title">Negative</div>
 						<keyselect bind="vsay_team negative"/>
 						<br/>
-
-						<div class="title">Shut up!</div>
-						<keyselect bind="vsay_team shutup"/>
-						<br/>
-						
 
 						<div class="title">Go to quad</div>
 						<keyselect bind="vsay_team gotoquad"/>
