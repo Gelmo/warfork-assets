@@ -587,7 +587,7 @@ msgstr "right"
 msgid "left"
 msgstr "left"
 
-#. gun position
+#. gun position, frag message location option
 msgid "center"
 msgstr "center"
 
@@ -599,6 +599,33 @@ msgstr "FOV while using zoom"
 
 msgid "Simple items"
 msgstr "Simple items"
+
+msgid "Frag message location"
+msgstr "Frag message location"
+
+#. Frag message location option, list with weapon icons and player names
+msgid "icons"
+msgstr "icons"
+
+#. Frag message location option
+msgid "center + icons"
+msgstr "center + icons"
+
+#. Frag message location option
+msgid "chat"
+msgstr "chat"
+
+#. Frag message location option
+msgid "chat + icons"
+msgstr "chat + icons"
+
+#. Frag message location option
+msgid "chat + center"
+msgstr "chat + center"
+
+#. Frag message location option
+msgid "chat + center + icons"
+msgstr "chat + center + icons"
 
 #. Shows indicators at the top of the teammates, even if they are not visible
 #. through the walls

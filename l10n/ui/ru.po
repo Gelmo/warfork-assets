@@ -605,6 +605,27 @@ msgstr "Угол обзора при увеличении"
 msgid "Simple items"
 msgstr "Упрощённые предметы на карте"
 
+msgid "Frag message location"
+msgstr "Расположение сообщений о фрагах"
+
+msgid "icons"
+msgstr "в списке"
+
+msgid "center + icons"
+msgstr "по центру + в списке"
+
+msgid "chat"
+msgstr "в чате"
+
+msgid "chat + icons"
+msgstr "в чате + в списке"
+
+msgid "chat + center"
+msgstr "в чате + по центру"
+
+msgid "chat + center + icons"
+msgstr "в чате + по центру + в списке"
+
 #. Shows indicators at the top of the teammates, even if they are not visible
 #. through the walls
 msgid "Show teammates' indicators"

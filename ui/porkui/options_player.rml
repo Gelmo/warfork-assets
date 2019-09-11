@@ -304,6 +304,19 @@
 						<hr class="nicehr" />
 						<br/>
 						
+						<div class="title">Frag message location</div>
+						<select cvar="cg_showObituaries" realtime="1">
+							<option value="0" selected>off</option>
+							<option value="1">icons</option>
+							<option value="2">center</option>
+							<option value="3" selected>center + icons</option>
+							<option value="4">chat</option>
+							<option value="5">chat + icons</option>
+							<option value="6">chat + center</option>
+							<option value="7">chat + center + icons</option>
+						</select>
+						<br/>
+						
 						<div class="title">Show teammates' indicators</div>
 						<input cvar="cg_showTeamMates" type="checkbox" realtime="1"/>
 
