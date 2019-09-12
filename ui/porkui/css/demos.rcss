@@ -18,6 +18,6 @@
 }
 
 #demoblock levelshot {
-	width: 128dp;
-	height: 96dp;
+	width: 200dp;
+	height: 150dp;
 }
