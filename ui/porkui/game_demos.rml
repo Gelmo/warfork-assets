@@ -266,7 +266,7 @@
 
 			<hr class="nicehr" />
 
-			<button id="play-btn" onClick="$onPlayButtonClick">Play</button>
+			<button id="play-btn" onClick="$onPlayButtonClick">Watch</button>
 
 			<div id="demoblock" class="infoblock" />			
 		</div>
