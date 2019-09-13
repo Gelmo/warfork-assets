@@ -55,11 +55,12 @@ input.text, input.password {
 	height: 2em;
 	padding: 3dp;
 	max-width: 25%;
+	margin-bottom: 14dp;
 	color: #fff;
 	vertical-align: middle;
 }
 
-.short { width: 75dp; }
+.short { width: 48dp; }
 
 input.text:hover, input.text:focus, input.password:hover, input.password:focus { background-color: #3f3c49; }
 

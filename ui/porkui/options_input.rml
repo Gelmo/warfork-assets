@@ -4,8 +4,7 @@
 	<link type="text/template" href="template.rml" />
 	<link rel="stylesheet" type="text/css" href="css/options/input.rcss" />
 	<script>
-		bool requireInputDeviceForElement( Element @body, const String &name, uint mask )
-		{
+		bool requireInputDeviceForElement( Element @body, const String &name, uint mask ) {
 			if( ( window.supportedInputDevices & mask ) != 0 ) {
 				return true;
 			}
@@ -17,8 +16,7 @@
 			return false;
 		}
 
-		void onInputLoad( Element @body, Event @evt )
-		{
+		void onInputLoad( Element @body, Event @evt ) {
 			onTemplateLoad( body, evt );
 
 			String lasthr = '';
@@ -63,94 +61,89 @@
 			optForm.storeOptions();
 			onMouseInvertShow( body.getElementById( 'mouse-invert' ) );
 			
-			ElementFormControl @bar = body.getElementById( 'mouse-sens' );
-			Element @txt = body.getElementById( 'mouse-sens-txt' );
-			if( @bar != null && @txt != null ) {
-				txt.setInnerRML( StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 2 ) );
+			ElementFormControl @bar = body.getElementById( 'mouse-sens-input' );
+			if( @bar != null ) {
+				bar.value = StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 2 );
 			}
 		
-			@bar = body.getElementById( 'mouse-accel' );
-			@txt = body.getElementById( 'mouse-accel-txt' );
-			if( @bar != null && @txt != null ) {
-				if ( bar.value.toFloat() == 0 ) {
-					txt.setInnerRML( "off" );
-				}
-				else {
-					txt.setInnerRML( StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 3 ) );
-				}
+			@bar = body.getElementById( 'mouse-accel-input' );
+			if( @bar != null ) {
+				bar.value = StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 3 );
 			}
 			
-			@bar = body.getElementById( 'zoom-sens' );
-			@txt = body.getElementById( 'zoom-sens-txt' );
-			if( @bar != null && @txt != null ) {
-				if ( bar.value.toFloat() == 0 ) {
-					txt.setInnerRML( "off" );
-				}
-				else {
-					txt.setInnerRML( StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 2 ) );
-				}
+			@bar = body.getElementById( 'zoom-sens-input' );
+			if( @bar != null ) {
+				bar.value = StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 2 );
 			}
 
 			animationsOnShow();
 		}
 		
-		void onSensChange( Element @elem, Event @ev )
-		{
+		void onSensChangeRange( Element @elem, Event @ev ) {
 			ElementFormControl @bar = elem;
-			Element @txt = elem.getElementById( 'mouse-sens-txt' );	
-
-			if( @bar == null || @txt == null )
+			ElementFormControl @input = elem.getElementById( 'mouse-sens-input' );
+			
+			if( @bar == null || @input == null )
 				return;
-				
-			txt.setInnerRML( StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 2 ) );
-		}
-
-		void onAccelChange( Element @elem, Event @ev )
-		{
-			ElementFormControl @bar = elem;
-			Element @txt = elem.getElementById( 'mouse-accel-txt' );	
-
-			if( @bar == null || @txt == null )
-				return;
-				
-			if ( bar.value.toFloat() == 0 ) {
-				txt.setInnerRML( "off" ); //show "off" instead of "0.000"
-			}
-			else {
-				txt.setInnerRML( StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 3 ) );
-			}
+			input.value = StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 2 );
 		}
 		
-		void onZoomSensChange( Element @elem, Event @ev )
-		{
+		void onSensChangeInput( Element @elem, Event @ev ) {	
 			ElementFormControl @bar = elem;
-			Element @txt = elem.getElementById( 'zoom-sens-txt' );	
-
-			if( @bar == null || @txt == null )
-				return;
+			ElementFormControl @range= elem.getElementById( 'mouse-sens-range' );
 			
-			if ( bar.value.toFloat() == 0 ) {
-				txt.setInnerRML( "off" ); //show "off" instead of "0.00"
-			}
-			else {
-				txt.setInnerRML( StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 2 ) );
-			}	
+			if( @bar == null || @range == null )
+				return;
+			range.value = bar.value;
+		}
+		
+		void onAccelChangeRange( Element @elem, Event @ev ) {
+			ElementFormControl @bar = elem;
+			ElementFormControl @input = elem.getElementById( 'mouse-accel-input' );
+			
+			if( @bar == null || @input == null )
+				return;
+			input.value = StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 3 );
+		}
+		
+		void onAccelChangeInput( Element @elem, Event @ev ) {	
+			ElementFormControl @bar = elem;
+			ElementFormControl @range= elem.getElementById( 'mouse-accel-range' );
+			
+			if( @bar == null || @range == null )
+				return;
+			range.value = bar.value;
+		}
+		
+		void onZoomSensChangeRange( Element @elem, Event @ev ) {
+			ElementFormControl @bar = elem;
+			ElementFormControl @input = elem.getElementById( 'zoom-sens-input' );
+			
+			if( @bar == null || @input == null )
+				return;
+			input.value = StringUtils::FormatFloat( bar.value.toFloat(), "0", 1, 2 );
+		}
+		
+		void onZoomSensChangeInput( Element @elem, Event @ev ) {	
+			ElementFormControl @bar = elem;
+			ElementFormControl @range= elem.getElementById( 'zoom-sens-range' );
+			
+			if( @bar == null || @range == null )
+				return;
+			range.value = bar.value;
 		}
 
 		// reflect m_pitch state on the checkbox
-		void onMouseInvertShow( Element @elem )
-		{
+		void onMouseInvertShow( Element @elem ) {
 			bool inverted = Cvar( "m_pitch", '', ::CVAR_ARCHIVE ).value < 0 ? true : false;
 			if( inverted ) {
 				elem.setAttr( 'checked', '1' );
-			}
-			else {
+			} else {
 				elem.removeAttr( 'checked' );
 			}
 		}
 
-		void onMouseInvertChange( Element @elem, Event @ev )
-		{
+		void onMouseInvertChange( Element @elem, Event @ev ) {
 			Cvar m_pitch = Cvar( "m_pitch", '', ::CVAR_ARCHIVE );
 			float pitch_value = m_pitch.value;
 			bool inverted = pitch_value < 0 ? true : false;
@@ -160,7 +153,6 @@
 				// prevent endless loops
 				return;
 			}
-
 			m_pitch.set( -pitch_value );
 		}
 	</script>
@@ -179,18 +171,18 @@
 						<optionsform id="options-form">
 							<div id="mouse-form">
 								<div class="title">Mouse sensitivity</div>
-								<input id="mouse-sens" cvar="sensitivity" type="range" min="0.1" max="13" step="0.05" value="1" realtime="1" onchange="$onSensChange"/>
-								<div id="mouse-sens-txt" class="slider-value"></div>
+								<input id="mouse-sens-range" cvar="sensitivity" type="range" min="0" max="13" step="0.01" value="3" realtime="1" onchange="$onSensChangeRange"/>
+								<input id="mouse-sens-input" cvar="sensitivity" type="text" class="short text" min="0" max="13" step="0.05" value="3" realtime="1" onchange="$onSensChangeInput"/>
 								<br/>
 								
 								<div class="title">Mouse acceleration</div>						
-								<input id="mouse-accel" cvar="m_accel" type="range" min="0" max="0.5" step="0.002" value="0" realtime="1" onchange="$onAccelChange"/>
-								<div id="mouse-accel-txt" class="slider-value"></div>
+								<input id="mouse-accel-range" cvar="m_accel" type="range" min="0" max="1" step="0.001" value="0" realtime="1" onchange="$onAccelChangeRange"/>
+								<input id="mouse-accel-input" cvar="m_accel" type="text" class="short text" min="0" max="1" step="0.001" value="0" realtime="1" onchange="$onAccelChangeInput"/>
 								<br/>
 								
 								<div class="title">Zoom sensitivity</div>
-								<input id="zoom-sens" cvar="zoomsens" type="range" min="0" max="13" step="0.05" value="0" realtime="1" onchange="$onZoomSensChange"/>
-								<div id="zoom-sens-txt" class="slider-value"></div>
+								<input id="zoom-sens-range" cvar="zoomsens" type="range" min="0" max="13" step="0.01" value="0" realtime="1" onchange="$onZoomSensChangeRange"/>
+								<input id="zoom-sens-input" cvar="zoomsens" type="text" class="short text" min="0" max="13" step="0.01" value="0" realtime="1" onchange="$onZoomSensChangeInput"/>
 								<br/>
 
 								<div class="title checkbox_opt">Mouse filter</div>

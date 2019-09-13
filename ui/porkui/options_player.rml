@@ -277,7 +277,7 @@
 						<br/>
 					
 						<div class="title">FOV while using zoom</div>
-						<input cvar="zoomfov" type="text" class="short text" value="40" realtime="1"/>
+						<input cvar="zoomfov" type="text" class="short text" value="30" realtime="1"/>
 						<br/>
 
 						<div class="title">Weapon position</div>
