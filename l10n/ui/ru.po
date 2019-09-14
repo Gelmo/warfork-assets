@@ -787,6 +787,12 @@ msgstr "Ускорение мыши"
 msgid "Zoom sensitivity"
 msgstr "Чувствительность при увеличении"
 
+msgid "Mouse yaw"
+msgstr "Горизонтальная чувствительность"
+
+msgid "Mouse pitch"
+msgstr "Вертикальная чувствительность"
+
 msgid "Mouse filter"
 msgstr "Сглаживание движений мыши"
 

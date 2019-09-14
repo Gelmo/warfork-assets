@@ -780,11 +780,20 @@ msgstr "Mouse acceleration"
 msgid "Zoom sensitivity"
 msgstr "Zoom sensitivity"
 
-msgid "Mouse filter"
-msgstr "Mouse filter"
+#. Horizontal sensitivity multiplier
+msgid "Mouse yaw"
+msgstr "Mouse yaw"
 
+#. Vertical sensitivity multiplier
+msgid "Mouse pitch"
+msgstr "Mouse pitch"
+
+#. Invert vertical sensitivity multiplier
 msgid "Invert mouse"
 msgstr "Invert mouse"
+
+msgid "Mouse filter"
+msgstr "Mouse filter"
 
 msgid "Forward"
 msgstr "Forward"

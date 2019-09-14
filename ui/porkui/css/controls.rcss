@@ -52,15 +52,15 @@ input {
 }
 
 input.text, input.password {
-	height: 2em;
-	padding: 3dp;
+	height: 1.7em;
+	padding: 2dp;
 	max-width: 25%;
-	margin-bottom: 14dp;
+	margin-bottom: 12dp;
 	color: #fff;
 	vertical-align: middle;
 }
 
-.short { width: 48dp; }
+.short { width: 52dp; }
 
 input.text:hover, input.text:focus, input.password:hover, input.password:focus { background-color: #3f3c49; }
 
