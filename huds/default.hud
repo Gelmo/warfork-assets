@@ -18,6 +18,7 @@ if %MATCH_STATE < #MATCH_STATE_POSTMATCH
 include zoom
 include damage_indicator_screen
 include crosshair
+include damage_numbers
 
 if %TUTORIAL == 0
 include default/clock

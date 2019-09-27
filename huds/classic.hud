@@ -15,6 +15,7 @@ setFontSize con_fontSystemSmall
 include zoom
 include damage_indicator_screen
 include crosshair
+include damage_numbers
 
 include team_info
 include ammo
