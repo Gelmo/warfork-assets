@@ -443,6 +443,10 @@
 						<div class="title">Show critical hit effect</div>
 						<input cvar="cg_cartoonHitEffect" type="checkbox" realtime="1"/>
 						<br/>
+						
+						<div class="title">Show damage numbers</div>
+						<input cvar="cg_damageNumbers" type="checkbox" realtime="1"/>
+						<br/>
 					</optionsform>
 				</panel>
 
