@@ -443,10 +443,20 @@
 						<div class="title">Show critical hit effect</div>
 						<input cvar="cg_cartoonHitEffect" type="checkbox" realtime="1"/>
 						<br/>
-						
-						<div class="title">Show damage numbers</div>
+                        
+                        <div class="title">Show damage numbers</div>
 						<input cvar="cg_damageNumbers" type="checkbox" realtime="1"/>
 						<br/>
+                        
+                      	<div class="title">Damage numbers size</div>
+						<select cvar="cg_damageNumbersSize" realtime="1">
+							<option value="1">Tiny</option>
+							<option value="2" selected>Small</option>
+							<option value="3">Medium</option>
+							<option value="4">Large</option>
+						</select>
+						<br/>
+                        
 					</optionsform>
 				</panel>
 
