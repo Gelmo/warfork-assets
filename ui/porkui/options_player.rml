@@ -456,7 +456,23 @@
 							<option value="4">Large</option>
 						</select>
 						<br/>
-                        
+
+                      	<div class="title">Damage numbers color</div>
+						<select cvar="cg_damageNumbersColor" realtime="1">
+							<option value="1">Black</option>
+                 	        <option value="4">Blue</option>
+                           	<option value="8">Cyan</option>
+                            <option value="11">Dark Grey</option>  
+                          	<option value="3">Green</option>
+                        	<option value="9">Light Grey</option>
+                         	<option value="7">Magenta</option>
+                        	<option value="10">Medium Grey</option>
+                           	<option value="6" selected>Orange</option>
+							<option value="0">White</option>
+ 							<option value="5">Yellow</option>
+							<option value="2">Red</option>                                                                                                                                    
+						</select>
+						<br/>                                             
 					</optionsform>
 				</panel>
 
