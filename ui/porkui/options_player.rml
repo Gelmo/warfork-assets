@@ -196,7 +196,30 @@
 			allowVidRestart = false;
 		}
 
-
+      
+        void damageNumbersSize( Element @elem, Event @ev )
+        {
+          ElementFormControl @select = elem;
+          int damageNumbersChoice = select.value.toInt();
+        
+          switch ( damageNumbersChoice )
+          {
+            case 1:
+              game.execAppend( "cg_damageNumbersSize 1; cg_damageNumbersDistance 48\n" );
+              break;
+            case 2:
+              game.execAppend( "cg_damageNumbersSize 2; cg_damageNumbersDistance 52\n" );
+              break;
+            case 3:
+              game.execAppend( "cg_damageNumbersSize 3; cg_damageNumbersDistance 56\n" );
+              break;
+            case 4:
+              game.execAppend( "cg_damageNumbersSize 4; cg_damageNumbersDistance 60\n" );
+              break;
+          }
+        }
+           
+           
 	</script>
 </head>
 <body template="porkui" onload="$onPlayerLoad" onshow="$onPlayerShow">
@@ -448,14 +471,14 @@
 						<input cvar="cg_damageNumbers" type="checkbox" realtime="1"/>
 						<br/>
                         
-                      	<div class="title">Damage numbers size</div>
-						<select cvar="cg_damageNumbersSize" realtime="1">
-							<option value="1">Tiny</option>
-							<option value="2" selected>Small</option>
-							<option value="3">Medium</option>
-							<option value="4">Large</option>
-						</select>
-						<br/>
+                        <div class="title">Damage numbers size</div>
+                        <select realtime="1" onchange="$damageNumbersSize">
+                        <option value="1" selected>Tiny</option>
+                        <option value="2">Small</option>
+                        <option value="3">Medium</option>
+                        <option value="4">Large</option>
+                        </select>
+                        <br/>
 
                       	<div class="title">Damage numbers color</div>
 						<select cvar="cg_damageNumbersColor" realtime="1">
