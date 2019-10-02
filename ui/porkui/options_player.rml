@@ -205,16 +205,16 @@
           switch ( damageNumbersChoice )
           {
             case 1:
-              game.execAppend( "cg_damageNumbersSize 1; cg_damageNumbersDistance 48\n" );
+              game.execAppend( "cg_damageNumbersSize 1; cg_damageNumbersOffset 1; cg_damageNumbersDistance 48\n" );
               break;
             case 2:
-              game.execAppend( "cg_damageNumbersSize 2; cg_damageNumbersDistance 52\n" );
+              game.execAppend( "cg_damageNumbersSize 2; cg_damageNumbersOffset 1; cg_damageNumbersDistance 52\n" );
               break;
             case 3:
-              game.execAppend( "cg_damageNumbersSize 3; cg_damageNumbersDistance 56\n" );
+              game.execAppend( "cg_damageNumbersSize 3; cg_damageNumbersOffset 1; cg_damageNumbersDistance 56\n" );
               break;
             case 4:
-              game.execAppend( "cg_damageNumbersSize 4; cg_damageNumbersDistance 60\n" );
+              game.execAppend( "cg_damageNumbersSize 4; cg_damageNumbersOffset 2; cg_damageNumbersDistance 60\n" );
               break;
           }
         }
