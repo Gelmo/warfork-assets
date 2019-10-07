@@ -1,0 +1,507 @@
+The following files are licensed as CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. 
+
+Learn more: 
+
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+To the extent possible under law, Team Forbidden has waived all copyright and related or neighboring rights to the following works:
+
+data0_21pure.pk3\ui\porkui\gfx\null.png
+data0_21pure.pk3\ui\porkui\gfx\console.png
+data0_21pure.pk3\ui\porkui\gfx\back2.png
+data0_21pure.pk3\ui\porkui\gfx\logo.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden - 
+data0_21pure.pk3\models\effects\headstun.png
+data0_21pure.pk3\models\objects\capture_area\indicator_alpha.ktx - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+data0_21pure.pk3\models\objects\capture_area\indicator_color.ktx - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+data0_21pure.pk3\models\objects\gibs\illuminati\illuminati1.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+data0_21pure.pk3\models\objects\gibs\illuminati1\illuminati1.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+data0_21pure.pk3\textures\tutorial\questionmark_1.png
+
+data0_21pure.pk3\sounds\players\female\dash_1.ogg
+data0_21pure.pk3\sounds\players\female\dash_2.ogg
+data0_21pure.pk3\sounds\players\female\death.ogg
+data0_21pure.pk3\sounds\players\female\drown.ogg
+data0_21pure.pk3\sounds\players\female\falldeath.ogg
+data0_21pure.pk3\sounds\players\female\gasp.ogg
+data0_21pure.pk3\sounds\players\female\jump_1.ogg
+data0_21pure.pk3\sounds\players\female\jump_2.ogg
+data0_21pure.pk3\sounds\players\female\pain25.ogg
+data0_21pure.pk3\sounds\players\female\pain50.ogg
+data0_21pure.pk3\sounds\players\female\pain75.ogg
+data0_21pure.pk3\sounds\players\female\pain100.ogg
+data0_21pure.pk3\sounds\players\female\wj_1.ogg
+data0_21pure.pk3\sounds\players\female\wj_2.ogg
+data0_21pure.pk3\sounds\players\padpork\dash_1.ogg
+data0_21pure.pk3\sounds\players\padpork\dash_2.ogg
+data0_21pure.pk3\sounds\players\padpork\death.ogg
+data0_21pure.pk3\sounds\players\padpork\drown.ogg
+data0_21pure.pk3\sounds\players\padpork\falldeath.ogg
+data0_21pure.pk3\sounds\players\padpork\gasp.ogg
+data0_21pure.pk3\sounds\players\padpork\jump_1.ogg
+data0_21pure.pk3\sounds\players\padpork\jump_2.ogg
+data0_21pure.pk3\sounds\players\padpork\pain25.ogg
+data0_21pure.pk3\sounds\players\padpork\pain50.ogg
+data0_21pure.pk3\sounds\players\padpork\pain75.ogg
+data0_21pure.pk3\sounds\players\padpork\pain100.ogg
+data0_21pure.pk3\sounds\players\padpork\wj_1.ogg
+data0_21pure.pk3\sounds\players\padpork\wj_2.ogg
+
+data0_21pure.pk3\sounds\items\ammo_pickup.ogg
+data0_21pure.pk3\sounds\items\quad_fire.ogg
+data0_21pure.pk3\sounds\items\quad_pickup.ogg
+data0_21pure.pk3\sounds\items\quad_spawn.ogg
+data0_21pure.pk3\sounds\items\shell_hit.ogg
+data0_21pure.pk3\sounds\items\shell_pickup.ogg
+data0_21pure.pk3\sounds\items\shell_spawn.ogg
+data0_21pure.pk3\sounds\items\weapon_pickup.ogg
+data0_21pure.pk3\sounds\world\water_out.ogg
+data0_21pure.pk3\sounds\world\water_in.ogg
+
+data3_21pure.pk3\sounds\items\armor_yellow.ogg
+data3_21pure.pk3\sounds\items\armor_green.ogg
+data3_21pure.pk3\sounds\items\health_25.ogg
+data3_21pure.pk3\sounds\items\megahealth.ogg
+data3_21pure.pk3\sounds\items\health_50.ogg
+data3_21pure.pk3\sounds\items\health_5.ogg
+data3_21pure.pk3\sounds\items\armor_red.ogg
+data3_21pure.pk3\sounds\items\armor_shard.ogg
+data3_21pure.pk3\sounds\items\item_idle.ogg
+data3_21pure.pk3\sounds\items\item_spawn.ogg
+data3_21pure.pk3\sounds\items\regen_spawn.ogg
+data3_21pure.pk3\sounds\items\regen_pickup.ogg
+data3_21pure.pk3\sounds\world\ft_step_met3.ogg
+data3_21pure.pk3\sounds\world\ft_step_met2.ogg
+data3_21pure.pk3\sounds\world\ft_step_met1.ogg
+data3_21pure.pk3\sounds\world\ft_step3.ogg
+data3_21pure.pk3\sounds\world\ft_step2.ogg
+data3_21pure.pk3\sounds\world\ft_step1.ogg
+data3_21pure.pk3\sounds\world\ft_walljump_failed.ogg
+data3_21pure.pk3\sounds\world\jumppad.ogg
+data3_21pure.pk3\sounds\world\launchpad.ogg
+data3_21pure.pk3\sounds\world\lava_out.ogg
+data3_21pure.pk3\sounds\world\lava_in.ogg
+data3_21pure.pk3\sounds\world\player_respawn.ogg
+data3_21pure.pk3\sounds\world\tele_in.ogg
+data3_21pure.pk3\sounds\world\underlava.ogg
+data3_21pure.pk3\sounds\world\underwater.ogg
+data3_21pure.pk3\sounds\world\dong.wav
+data3_21pure.pk3\sounds\players\male\dash_1.ogg
+data3_21pure.pk3\sounds\players\male\dash_2.ogg
+data3_21pure.pk3\sounds\players\male\death.ogg
+data3_21pure.pk3\sounds\players\male\drown.ogg
+data3_21pure.pk3\sounds\players\male\falldeath.ogg
+data3_21pure.pk3\sounds\players\male\gasp.ogg
+data3_21pure.pk3\sounds\players\male\jump_1.ogg
+data3_21pure.pk3\sounds\players\male\jump_2.ogg
+data3_21pure.pk3\sounds\players\male\pain25.ogg
+data3_21pure.pk3\sounds\players\male\pain50.ogg
+data3_21pure.pk3\sounds\players\male\pain75.ogg
+data3_21pure.pk3\sounds\players\male\pain100.ogg
+data3_21pure.pk3\sounds\players\male\wj_1.ogg
+data3_21pure.pk3\sounds\players\male\wj_2.ogg 
+data3_21pure.pk3\sounds\players\bobot\dash_1.ogg
+data3_21pure.pk3\sounds\players\bobot\dash_2.ogg
+data3_21pure.pk3\sounds\players\bobot\death.ogg
+data3_21pure.pk3\sounds\players\bobot\drown.ogg
+data3_21pure.pk3\sounds\players\bobot\falldeath.ogg
+data3_21pure.pk3\sounds\players\bobot\gasp.ogg
+data3_21pure.pk3\sounds\players\bobot\jump_1.ogg
+data3_21pure.pk3\sounds\players\bobot\jump_2.ogg
+data3_21pure.pk3\sounds\players\bobt\pain25.ogg
+data3_21pure.pk3\sounds\players\bobot\pain50.ogg
+data3_21pure.pk3\sounds\players\bobot\pain75.ogg
+data3_21pure.pk3\sounds\players\bobot\pain100.ogg
+data3_21pure.pk3\sounds\players\bobot\wj_1.ogg
+data3_21pure.pk3\sounds\players\bobot\wj_2.ogg
+data3_21pure.pk3\sounds\ambient\ceilingfan.ogg
+data3_21pure.pk3\sounds\movers\door_start.ogg
+data3_21pure.pk3\sounds\movers\door_start2.ogg
+data3_21pure.pk3\sounds\movers\door_stop.ogg
+data3_21pure.pk3\sounds\movers\elevator_move.ogg
+data3_21pure.pk3\sounds\ctftactics\turret_pain01.wav
+data3_21pure.pk3\sounds\bomb\bombtimer.ogg
+                           
+sounds\menu\back.wav
+sounds\menu\mouseover.wav
+sounds\menu\ok.wav
+sounds\misc\chat.wav
+sounds\misc\gibs_explosion.wav
+sounds\misc\hit_0.wav
+sounds\misc\hit_1.wav
+sounds\misc\hit_2.wav
+sounds\misc\hit_3.wav
+sounds\misc\hit_team.wav
+sounds\misc\hit_water.wav
+sounds\misc\kill.wav
+sounds\misc\timer_bip_bip.wav
+sounds\misc\timer_ploink.wav
+sounds\music\fvi-Fireworks.ogg
+sounds\music\fvi-3amWestEnd.ogg
+sounds\music\fvi-Arpent.ogg
+sounds\music\fvi-BeatOne.ogg
+sounds\music\fvi-Chronos.ogg
+sounds\music\fvi-Favorite.ogg
+sounds\music\fvi-Goodnightmare.ogg
+sounds\music\fvi-HippetyHop.ogg
+sounds\music\fvi-MeditatingBeat.ogg
+
+sounds\announcer\overtime\overtime.ogg
+sounds\announcer\overtime\overtime02.ogg
+sounds\announcer\overtime\going_to_overtime.ogg
+sounds\announcer\overtime\suddendeath01.ogg
+sounds\announcer\overtime\suddendeath02.ogg
+
+sounds\announcer\ctf\recovery_enemy.ogg 
+sounds\announcer\ctf\recovery_team.ogg
+sounds\announcer\ctf\recovery_team02.ogg 
+sounds\announcer\ctf\recovery_team03.ogg 
+sounds\announcer\ctf\flag_taken_enemy_01.ogg 
+sounds\announcer\ctf\flag_taken_enemy_02.ogg 
+sounds\announcer\ctf\flag_taken_enemy_03.ogg 
+sounds\announcer\ctf\flag_taken.ogg
+sounds\announcer\ctf\flag_taken2.ogg 
+sounds\announcer\ctf\flag_taken_team01.ogg
+sounds\announcer\ctf\flag_taken_team02.ogg
+sounds\announcer\ctf\flag_taken_team03.ogg 
+sounds\announcer\ctf\flag_taken_team04.ogg
+sounds\announcer\ctf\recovery01.ogg
+sounds\announcer\ctf\recovery02.ogg 
+sounds\announcer\ctf\recovery03.ogg 
+sounds\announcer\ctf\recovery04.ogg 
+sounds\announcer\ctf\flag_captured01.ogg 
+sounds\announcer\ctf\flag_captured02.ogg
+sounds\announcer\ctf\flag_captured03.ogg 
+sounds\announcer\ctf\score_enemy01.ogg
+sounds\announcer\ctf\score_enemy02.ogg 
+sounds\announcer\ctf\score_team01.ogg
+sounds\announcer\ctf\score_team02.ogg 
+sounds\announcer\ctf\score01.ogg
+sounds\announcer\ctf\score02.ogg 
+
+sounds\announcer\pleasereadyup.ogg 
+sounds\announcer\readyupalready.ogg 
+
+sounds\announcer\callvote\vote_passed01.ogg 
+sounds\announcer\callvote\vote_passed02.ogg 
+sounds\announcer\callvote\vote_now.ogg
+sounds\announcer\callvote\vote_failed01.ogg 
+sounds\announcer\callvote\vote_failed02.ogg 
+sounds\announcer\callvote\vote_called01.ogg
+sounds\announcer\callvote\vote_called02.ogg
+
+sounds\announcer\countdown\ready01.ogg
+sounds\announcer\countdown\ready02.ogg 
+sounds\announcer\countdown\fight01.ogg 
+sounds\announcer\countdown\fight02.ogg 
+sounds\announcer\countdown\go01.ogg
+sounds\announcer\countdown\go02.ogg
+sounds\announcer\countdown\3_01.ogg
+sounds\announcer\countdown\3_02.ogg
+sounds\announcer\countdown\2_01.ogg
+sounds\announcer\countdown\2_02.ogg
+sounds\announcer\countdown\1_01.ogg
+sounds\announcer\countdown\1_02.ogg
+sounds\announcer\countdown\get_ready_to_fight01.ogg
+sounds\announcer\countdown\get_ready_to_fight02.ogg
+
+sounds\announcer\midair\diamond01.ogg
+sounds\announcer\midair\diamond02.ogg 
+sounds\announcer\midair\midair01.ogg  
+sounds\announcer\midair\midair02.ogg 
+sounds\announcer\midair\bongo01.ogg 
+sounds\announcer\midair\bongo02.ogg 
+sounds\announcer\midair\gold01.ogg 
+sounds\announcer\midair\gold02.ogg
+
+sounds\announcer\timeout\matchpaused01.ogg
+sounds\announcer\timeout\matchpaused02.ogg
+sounds\announcer\timeout\timein01.ogg
+sounds\announcer\timeout\timein02.ogg
+sounds\announcer\timeout\matchresumed01.ogg
+sounds\announcer\timeout\matchresumed02.ogg
+sounds\announcer\timeout\timeout01.ogg
+sounds\announcer\timeout\timeout02.ogg
+
+sounds\announcer\bomb\defense\planted.ogg
+sounds\announcer\bomb\defense\planted2.ogg
+sounds\announcer\bomb\defense\defuse.ogg
+sounds\announcer\bomb\defense\defused.ogg
+sounds\announcer\bomb\defense\start.ogg
+sounds\announcer\bomb\defense\start2.ogg
+sounds\announcer\bomb\defense\start3.ogg
+sounds\announcer\bomb\defense\start4.ogg
+
+sounds\announcer\bomb\offense\planted.ogg
+sounds\announcer\bomb\offense\planted2.ogg
+sounds\announcer\bomb\offense\defused.ogg
+sounds\announcer\bomb\offense\defused2.ogg
+sounds\announcer\bomb\offense\start.ogg
+sounds\announcer\bomb\offense\lastcall.ogg
+sounds\announcer\bomb\offense\taken.ogg
+sounds\announcer\bomb\offense\cleanthehouse.ogg
+sounds\announcer\bomb\offense\inplace.ogg
+
+sounds\announcer\score\lost_lead01.ogg
+sounds\announcer\score\lost_lead02.ogg 
+sounds\announcer\score\lost_lead03.ogg 
+sounds\announcer\score\team_lost_lead01.ogg 
+sounds\announcer\score\team_lost_lead02.ogg 
+sounds\announcer\score\taken_lead01.ogg 
+sounds\announcer\score\taken_lead02.ogg 
+sounds\announcer\score\team_tied_lead01.ogg 
+sounds\announcer\score\team_tied_lead02.ogg 
+sounds\announcer\score\team_tied_lead03.ogg
+sounds\announcer\score\tied_lead01.ogg 
+sounds\announcer\score\tied_lead02.ogg
+
+sounds\announcer\postmatch\game_over01.ogg 
+sounds\announcer\postmatch\game_over02.ogg 
+
+sounds\vsay\no.ogg 
+sounds\vsay\needhealth.ogg
+sounds\vsay\attack_b.ogg 
+sounds\vsay\sorry.ogg
+sounds\vsay\oops.ogg
+sounds\vsay\gotoquad.ogg 
+sounds\vsay\goodgame.ogg 
+sounds\vsay\roger.ogg
+sounds\vsay\needbackup.ogg 
+sounds\vsay\areasecured.ogg 
+sounds\vsay\boomstick.ogg
+sounds\vsay\gotopowerup.ogg
+sounds\vsay\defend_a.ogg 
+sounds\vsay\booo.ogg 
+sounds\vsay\needhelp.ogg 
+sounds\vsay\needarmor.ogg
+sounds\vsay\ok.ogg
+sounds\vsay\yeehaa.ogg 
+sounds\vsay\noproblem.ogg 
+sounds\vsay\attack.ogg 
+sounds\vsay\attack_a.ogg
+sounds\vsay\yes.ogg
+sounds\vsay\armorfree.ogg 
+sounds\vsay\needweapon.ogg 
+sounds\vsay\defend_b.ogg
+sounds\vsay\defend.ogg 
+sounds\vsay\thanks.ogg
+sounds\vsay\ondefense.ogg
+sounds\vsay\onoffense.ogg 
+sounds\vsay\needoffense.ogg
+sounds\vsay\needdefense.ogg 
+sounds\vsay\affirmative.ogg
+sounds\vsay\negative.ogg 
+
+gfx\black.png
+gfx\2d\bubble1a.png 
+gfx\2d\bubble1b.png
+gfx\2d\bubble2a.png
+gfx\2d\bubble2b.png
+gfx\2d\bubble2c.png
+gfx\2d\bubble2d.png
+gfx\hud\zoomscreencross.ktx 
+gfx\hud\zoomscreenlines.png
+gfx\hud\damage.ktx 
+gfx\hud\net.png
+gfx\hud\cam.png
+gfx\hud\gr8\crystal_wsw.png
+gfx\misc\cartoonhit3.png
+gfx\misc\cartoonhit2.png
+gfx\misc\cartoonhit.png
+gfx\misc\playerspawnmarker.png
+gfx\misc\playerspawn.png
+gfx\misc\warsow.png
+gfx\ui\logo.png
+gfx\ui\white.png
+gfx\ui\unknownmap.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+gfx\ui\loadingbar.png
+gfx\ui\loadinglogo.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+gfx\ui\hands.png 
+gfx\ui\cursor.png
+
+env\alleyskybox\grimmnight_bk.png
+env\alleyskybox\grimmnight_dn.png
+env\alleyskybox\grimmnight_ft.png
+env\alleyskybox\grimmnight_lf.png
+env\alleyskybox\grimmnight_rt.png
+env\alleyskybox\grimmnight_up.png
+
+textures\baxandall\item_indi_1.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\baxandall\jump_pad_1.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\baxandall\poster_01.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\billboard\bigbill9.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\billboard\bigver1.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\billboard\terebi.png
+textures\billboard\terebi_01.png
+textures\billboard\terebi_02.png
+textures\billboard\terebi_03.png
+textures\billboard\terebi_04.png
+textures\billboard\terebi_05.png
+textures\billboard\terebi_06.png
+textures\billboard\terebi_07.png
+textures\concrete\oldplaster2uniform.ktx
+textures\concrete\oldplaster2uniform_norm.png
+textures\concrete\oldplasterdetail.ktx
+textures\concrete\oldplasterdetail_norm.png
+textures\concrete\plaster2uniform.ktx
+textures\concrete\plaster2uniform_norm.png
+textures\concrete\plasterred01.ktx
+textures\concrete\plasterred01_norm.png
+textures\concrete\roadbarrier_concrete.png
+textures\concrete\roadbarrier_concrete_gloss.png
+textures\concrete\roadbarrier_concrete_height.png
+textures\concrete\roadbarrier_concrete_norm.png
+textures\decals\decal_armor_ga.png
+textures\decals\decal_armor_ra.png
+textures\decals\decal_armor_ya.png
+textures\decals\decal_danger.png
+textures\decals\decal_dirt1.png
+textures\decals\decal_dirt2.png
+textures\decals\decal_drop.png
+textures\decals\decal_health.png
+textures\decals\decal_telesign_left.png
+textures\decals\decal_telesign_right.png
+textures\decals\dirt_01.png
+textures\decals\dirt_01_norm.png
+textures\decals\dirt_02.png
+textures\decals\dirt_02_norm.png
+textures\decals\dirt_scratch_01.png
+textures\decals\dirt_scratch_01_norm.png
+textures\decals\dirt_scratch_02.png
+textures\decals\dirt_scratch_02_norm.png
+textures\decals\poster01.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\decals\posterbigbobot.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\decals\posterbigmonada.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\decals\posterbigpadpork.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\decals\posterbigwarsow.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\factory\base.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\melee\50u1.png
+textures\melee\glass.png
+textures\melee\metal001.ktx
+textures\melee\metal002.ktx
+textures\melee\stone000.ktx
+textures\melee\stone001.ktx
+textures\metal\corrugated0023.ktx
+textures\metal\corrugated0023_gloss.png
+textures\metal\corrugated0023_norm.png
+textures\metal\corrugated0023green.ktx
+textures\metal\corrugated0023green_gloss.png
+textures\metal\corrugated0023oxid.ktx
+textures\metal\metalrust_iron6.ktx
+textures\metal\metalrust_iron6_gloss.png
+textures\metal\metalrust_iron6_norm.png
+textures\neon\jujitsu_sign1.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\jujitsu_sign2.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\jujitsu_sign3.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\jujitsu_sign4.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\jujitsu_sign5.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\jusco_supermarket_purple.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\jusco_supermarket_yellow.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\playwarsow.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\round_sign.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\round_sign_purple.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\neon\wsw_kanji_orange.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\noir\brickgrey.png
+textures\noir\brickgrey_norm.png
+textures\noir\concrete1.png
+textures\noir\concrete1_norm.png
+textures\noir\door2.png
+textures\noir\door2_norm.png
+textures\noir\door2m.png
+textures\noir\door2m_norm.png
+textures\noir\seka.png
+textures\noir\seka_norm.png
+textures\scifi_interior\bricks.png
+textures\scifi_interior\bricks_blue.png
+textures\scifi_interior\bricks_gloss.png
+textures\scifi_interior\bricks_norm.png
+textures\scifi_interior\bricks_orange.png
+textures\supersymmetry\poster_01.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+textures\terrain\rocks001_512x512.ktx
+textures\terrain\rocks001_512x512_norm.png
+textures\terrain\rocks002_512x512.ktx
+textures\terrain\rocks002_512x512_norm.png
+textures\terrain\rocks005_512x512.ktx
+textures\terrain\rocks005_512x512_norm.png
+textures\terrain\rocks006_512x512.ktx
+textures\terrain\rocks006_512x512_norm.png
+textures\terrain\rockwall01.ktx
+textures\terrain\rockwall01_norm.png
+textures\terrain\sand.ktx
+textures\terrain\sand_dark.png
+textures\terrain\sand_dark_norm.png
+textures\terrain\sand_norm.png
+textures\terrain\soilsand0104.ktx
+textures\terrain\soilsand0104_norm.png
+textures\test\UVtest.png
+textures\world\sh\lava1.png
+textures\world\sh\lava1_glow.png
+textures\world\sh\lava2.png
+textures\world\sh\pooltint.png
+textures\world\sh\slime1.png
+textures\world\sh\slime2.png
+textures\world\sh\teleenergy.png
+textures\world\sh\telefog.png
+textures\world\sh\telescrollup1.png
+textures\world\sh\telescrollup2.png
+textures\world\sh\water1.png
+textures\world\sh\water2.png
+textures\world\water\norm.png
+textures\world\water\wat_dudv.png
+textures\world\water\wat_gloss.png
+textures\world\water\wat_norm2.png
+textures\world\water\wat_norm3.png
+textures\world\water\water5_dudv.png
+textures\world\water\water5_norm.png
+
+
+The following files are licensed as CC Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US)
+
+Learn more: 
+
+https://creativecommons.org/licenses/by-sa/3.0/us/
+https://creativecommons.org/licenses/by-sa/3.0/us/legalcode
+
+sounds\weapons\weapon_noammo.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\riotgun_fire_strong.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\plasmagun_strong_fly.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\plasmagun_strong3.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\plasmagun_strong2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\plasmagun_strong1.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\machinegun_fire.ogg - Created by Michael 'Tenshihan' Quinn and Tony "Ozmium" Ozmium
+sounds\weapons\laser_strong_stop.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\laser_strong_quad_hum.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\laser_strong_hum.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\laser_strong_fire.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\instagun_strong.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\gren_strong_bounce2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\gren_strong_bounce1.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\grenlaunch_strong.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\electrobolt_strong.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\plasmagun_strong_explosion.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\electrobolt_hit.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\rocket_strong_explosion.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\weapon_switch.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\blade_strike3.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\blade_strike2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\blade_strike1.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\blade_hitflsh3.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\blade_hitflsh2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\blade_hitflsh1.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\bladegun_strong_hit3.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\bladegun_strong_hit2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\bladegun_strong_hit1.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\blade_hitwall2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\blade_hitwall1.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\bladegun_strong_fire.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\laser_hit2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\laser_hit1.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\laser_hit0.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\riotgun_strong_hit.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\gren_strong_explosion2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\gren_strong_explosion1.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\electrobolt_hum.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\rocket_fire_strong.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\rocket_fly_strong.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\ric2.ogg - Created by Michael 'Tenshihan' Quinn
+sounds\weapons\ric1.ogg - Created by Michael 'Tenshihan' Quinn
