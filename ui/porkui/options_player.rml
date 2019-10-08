@@ -495,7 +495,8 @@
  							<option value="5">Yellow</option>
 							<option value="2">Red</option>                                                                                                                                    
 						</select>
-						<br/>                                             
+						<br/>                    
+                                                                     
 					</optionsform>
 				</panel>
 
