@@ -911,7 +911,7 @@ void GT_MatchStateStarted()
 
     case MATCH_STATE_COUNTDOWN:
         GENERIC_SetUpCountdown();
-		SpawnIndicators::Delete();
+		SpawnIndicators::DeleteAll();
         break;
 
     case MATCH_STATE_PLAYTIME:
