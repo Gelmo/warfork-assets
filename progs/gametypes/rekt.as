@@ -26,7 +26,7 @@ enum eRoundState
 	ROUNDSTATE_POSTROUND
 }
 
-const String FORCED_MODEL_BETA = "$models/players/bobot";
+const String FORCED_MODEL_BETA = "$models/players/buck";
 
 const uint BASE_BOT_HEALTH = 40.0f;
 const uint MAXIMUM_BOT_COUNT = 7;

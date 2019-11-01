@@ -53,7 +53,7 @@ class ModelSetup
 		this.skinId = skinId;
 		this.colorId = colorId;
 		
-		Cvar cM( modelCvar, "bigvic", 0 );
+		Cvar cM( modelCvar, "hamilton", 0 );
 		Cvar cS( skinCvar, "default", 0 );
 		Cvar cC( colorCvar, "255 255 255", 0 );
 		

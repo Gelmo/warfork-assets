@@ -100,7 +100,7 @@ void GENERIC_InitPlayerClasses()
     cPlayerClassInfos[ PLAYERCLASS_GRUNT ].setup(
         "Grunt",					// name
         PLAYERCLASS_GRUNT,
-        "$models/players/bigvic",			// player model
+        "$models/players/rufus",			// player model
         100,						// initial health
         0,						// initial armor
         250,						// speed
@@ -114,7 +114,7 @@ void GENERIC_InitPlayerClasses()
     cPlayerClassInfos[ PLAYERCLASS_MEDIC ].setup(
         "Medic",					// name
         PLAYERCLASS_MEDIC,
-        "$models/players/monada",			// player model
+        "$models/players/amber",			// player model
         100,						// initial health
         0,						// initial armor
         300,						// speed
@@ -142,7 +142,7 @@ void GENERIC_InitPlayerClasses()
     cPlayerClassInfos[ PLAYERCLASS_ENGINEER ].setup(
         "Engineer",					// name
         PLAYERCLASS_ENGINEER,
-        "$models/players/bobot",			// player model
+        "$models/players/buck",			// player model
         100,						// initial health
         0,						// initial armor
         300,						// speed
