@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="css/options/audio.rcss" />
 	<script>
 		ElementOptionsForm @form;
-		bool allowSRestart;
+
 
 		void onAudioShow( Element @body, Event @evt )
 		{
@@ -58,7 +58,7 @@
 			}
 
 			animationsOnShow();
-			allowSRestart = false;
+
 		}
 
 		void onVolumeChange( Element @elem, Event @ev )
@@ -138,24 +138,7 @@
 			txt.setInnerRML( StringUtils::FormatFloat( bar.value.toFloat()*100, "0", 1, 0 ) + "%" );
 		}
 		
-		void sModuleRestart()
-		{
-			allowSRestart = true;
-		}
-		
-		void soundApply()
-		{
-			if( allowSRestart )
-			{
-				game.execAppend ( "s_restart\n" );
-			}
-			allowSRestart = false;
-		}
-		
-		void soundReset()
-		{
-			allowSRestart = false;
-		}
+
 		
 	</script>	
 </head>
@@ -168,8 +151,7 @@
 			<optionsform id="options-form">
 				<div class="title">Sound module</div>
 				<select cvar="s_module" id="sound-module" name="sound-module" onchange="sModuleRestart();">
-					<option value="0" selected>no sound</option>
-					<option value="1" selected>Qfusion</option>
+					<option value="0" selected>No sound</option>
 					<option value="2" selected>OpenAL</option>
 				</select>
 				<br/>
@@ -230,8 +212,8 @@
 				<br/>
 				<br/>
 
-				<button onclick="form.restoreOptions(); soundReset();" class="button-cancel">Cancel</button>	
-				<button onclick="form.applyOptions(); notificationPopup('Saved'); soundApply();" class="button-apply">Save changes</button>
+				<button onclick="form.restoreOptions();" class="button-cancel">Cancel</button>	
+				<button onclick="form.applyOptions(); notificationPopup('Saved');" class="button-apply">Save changes</button>
 
 			</optionsform>
 		</div>
