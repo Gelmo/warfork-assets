@@ -311,11 +311,11 @@ gfx\misc\cartoonhit.png
 gfx\misc\playerspawnmarker.png
 gfx\misc\playerspawn.png
 gfx\misc\warsow.png
-gfx\ui\logo.png
+gfx\ui\logo.png - Warfork, Team Forbidden, Icy Gaming, Hamilton (pig), Buck (fish), Amber (cat), Rufus (dog) are exclusive trademarks and copyrights. They may not be used without authorization from Team Forbidden, LLC.
 gfx\ui\white.png
-gfx\ui\unknownmap.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+gfx\ui\unknownmap.png - Warfork, Team Forbidden, Icy Gaming, Hamilton (pig), Buck (fish), Amber (cat), Rufus (dog) are exclusive trademarks and copyrights. They may not be used without authorization from Team Forbidden, LLC.
 gfx\ui\loadingbar.png
-gfx\ui\loadinglogo.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
+gfx\ui\loadinglogo.png - Warfork, Team Forbidden, Icy Gaming, Hamilton (pig), Buck (fish), Amber (cat), Rufus (dog) are exclusive trademarks and copyrights. They may not be used without authorization from Team Forbidden, LLC.
 gfx\ui\hands.png 
 gfx\ui\cursor.png
 
