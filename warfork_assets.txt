@@ -18,16 +18,6 @@ data0_21pure.pk3\models\objects\gibs\illuminati\illuminati1.png - This file is p
 data0_21pure.pk3\models\objects\gibs\illuminati1\illuminati1.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
 data0_21pure.pk3\textures\tutorial\questionmark_1.png
                         
-sounds\music\fvi-Fireworks.ogg
-sounds\music\fvi-3amWestEnd.ogg
-sounds\music\fvi-Arpent.ogg
-sounds\music\fvi-BeatOne.ogg
-sounds\music\fvi-Chronos.ogg
-sounds\music\fvi-Favorite.ogg
-sounds\music\fvi-Goodnightmare.ogg
-sounds\music\fvi-HippetyHop.ogg
-sounds\music\fvi-MeditatingBeat.ogg
-
 gfx\black.png
 gfx\2d\bubble1a.png 
 gfx\2d\bubble1b.png
@@ -189,3 +179,7 @@ textures\world\water\wat_norm2.png
 textures\world\water\wat_norm3.png
 textures\world\water\water5_dudv.png
 textures\world\water\water5_norm.png
+
+The following files may only be included with official distributions of Warfork and all rights are reserved by Team Forbidden LLC:
+
+All files within /sounds/ (including subdirectories)
