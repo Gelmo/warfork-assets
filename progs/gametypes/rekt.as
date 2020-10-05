@@ -720,11 +720,11 @@ void GT_InitGametype()
 		config = "// '" + gametype.title + "' gametype configuration file\n"
 				+ "// This config will be executed each time the gametype is started\n"
 				+ "\n\n// map rotation\n"
-				+ "set g_maplist \"wda5\" // list of maps in automatic rotation\n"
+				+ "set g_maplist \"wfda5\" // list of maps in automatic rotation\n"
 				+ "set g_maprotation \"0\"   // 0 = same map, 1 = in order, 2 = random\n"
 				+ "\n// game settings\n"
 				+ "set g_scorelimit \"0\"\n"
-				+ "set g_timelimit \"1.5\"\n"
+				+ "set g_timelimit \"0\"\n"
 				+ "set g_warmup_timelimit \"1\"\n"
 				+ "set g_match_extendedtime \"0\"\n"
 				+ "set g_allow_falldamage \"0\"\n"
@@ -734,7 +734,7 @@ void GT_InitGametype()
 				+ "set g_teams_maxplayers \"0\"\n"
 				+ "set g_teams_allow_uneven \"1\"\n"
 				+ "set g_countdown_time \"3\"\n"
-				+ "set g_maxtimeouts \"3\" // -1 = unlimited\n"
+				+ "set g_maxtimeouts \"-1\" // -1 = unlimited\n"
 				+ "set g_numbots \"0\"\n"				 
 				+ "\necho \"" + gametype.name + ".cfg executed\"\n";
 
