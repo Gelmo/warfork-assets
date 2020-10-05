@@ -224,7 +224,7 @@ class EnduranceMatch
 			{
 				if ( this.humansAlive < 1 )
 				{
-					G_PrintMsg( null, S_COLOR_RED + "All humans have been defeated!" + "\n" );
+					G_PrintMsg( null, S_COLOR_RED + "All players have been defeated!" + "\n" );
 				}
 				else
 				{
