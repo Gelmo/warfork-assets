@@ -383,6 +383,10 @@ class EnduranceMatch
 				temp.freeEntity();
 			}
 		}
+
+		if( !target.client.isBot() ) {
+			G_PrintMsg( target, S_COLOR_RED + "You got Rekt!" + "\n" );
+		}
 	}
 	
 	void playerRespawn( Entity @ent, int old_team, int new_team )
