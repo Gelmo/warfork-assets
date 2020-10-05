@@ -72,6 +72,9 @@ class EnduranceMatch
 		@this.humans = G_GetTeam( TEAM_ALPHA );
 		@this.bots = G_GetTeam( TEAM_BETA );
 		@this.specs = G_GetTeam( TEAM_SPECTATOR );
+
+		// Fix gt title from previous match
+		gametype.title = "Rekt";
 	}
 
 	private void announce()
@@ -217,8 +220,18 @@ class EnduranceMatch
 			break;
 
 		case ROUNDSTATE_ROUNDFINISHED:
-			if ( this.humansAlive == 0 || this.botsAlive > 0 )
+			if ( this.humansAlive < 1 || this.botsAlive > 0 )
 			{
+				if ( this.humansAlive < 1 )
+				{
+					G_PrintMsg( null, S_COLOR_RED + "All players have been defeated!" + "\n" );
+				}
+				else
+				{
+					G_PrintMsg( null, S_COLOR_RED + "The bots have survived!" + "\n" );
+				}
+				// Replace gt title w/ ending message
+				gametype.title = "Game Over!";
 				// game over
 				match.launchState( MATCH_STATE_POSTMATCH );
 			}
@@ -382,6 +395,10 @@ class EnduranceMatch
 				temp.dropItem( AMMO_PACK );
 				temp.freeEntity();
 			}
+		}
+
+		if( !target.client.isBot() ) {
+			G_PrintMsg( target, S_COLOR_RED + "You got Rekt!" + "\n" );
 		}
 	}
 	
@@ -720,11 +737,11 @@ void GT_InitGametype()
 		config = "// '" + gametype.title + "' gametype configuration file\n"
 				+ "// This config will be executed each time the gametype is started\n"
 				+ "\n\n// map rotation\n"
-				+ "set g_maplist \"wda5\" // list of maps in automatic rotation\n"
+				+ "set g_maplist \"wfda5\" // list of maps in automatic rotation\n"
 				+ "set g_maprotation \"0\"   // 0 = same map, 1 = in order, 2 = random\n"
 				+ "\n// game settings\n"
 				+ "set g_scorelimit \"0\"\n"
-				+ "set g_timelimit \"1.5\"\n"
+				+ "set g_timelimit \"0\"\n"
 				+ "set g_warmup_timelimit \"1\"\n"
 				+ "set g_match_extendedtime \"0\"\n"
 				+ "set g_allow_falldamage \"0\"\n"
@@ -734,7 +751,7 @@ void GT_InitGametype()
 				+ "set g_teams_maxplayers \"0\"\n"
 				+ "set g_teams_allow_uneven \"1\"\n"
 				+ "set g_countdown_time \"3\"\n"
-				+ "set g_maxtimeouts \"3\" // -1 = unlimited\n"
+				+ "set g_maxtimeouts \"-1\" // -1 = unlimited\n"
 				+ "set g_numbots \"0\"\n"				 
 				+ "\necho \"" + gametype.name + ".cfg executed\"\n";
 
