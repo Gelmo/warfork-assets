@@ -231,7 +231,7 @@ class EnduranceMatch
 					G_PrintMsg( null, S_COLOR_RED + "The bots have survived!" + "\n" );
 				}
 				// Replace gt title w/ ending message
-				gametype.title = "REKT - Game Over!";
+				gametype.title = "Game Over!";
 				// game over
 				match.launchState( MATCH_STATE_POSTMATCH );
 			}
