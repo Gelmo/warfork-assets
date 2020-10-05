@@ -217,8 +217,18 @@ class EnduranceMatch
 			break;
 
 		case ROUNDSTATE_ROUNDFINISHED:
-			if ( this.humansAlive == 0 || this.botsAlive > 0 )
+			if ( this.humansAlive < 1 || this.botsAlive > 0 )
 			{
+				if ( this.humansAlive < 1 )
+				{
+					G_PrintMsg( null, S_COLOR_RED + "All humans have been defeated!" + "\n" );
+				}
+				else
+				{
+					G_PrintMsg( null, S_COLOR_RED + "The bots have survived!" + "\n" );
+				}
+				// Replace gt title w/ ending message
+				gametype.title = "REKT - Game Over!";
 				// game over
 				match.launchState( MATCH_STATE_POSTMATCH );
 			}
