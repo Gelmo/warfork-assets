@@ -72,6 +72,9 @@ class EnduranceMatch
 		@this.humans = G_GetTeam( TEAM_ALPHA );
 		@this.bots = G_GetTeam( TEAM_BETA );
 		@this.specs = G_GetTeam( TEAM_SPECTATOR );
+
+		// Fix gt title from previous match
+		gametype.title = "Rekt";
 	}
 
 	private void announce()
