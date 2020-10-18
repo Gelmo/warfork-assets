@@ -7,3 +7,6 @@
 [submodule "huds"]
 	path = huds
 	url = https://github.com/TeamForbiddenLLC/huds
+[submodule "ui"]
+	path = ui
+	url = https://github.com/TeamForbiddenLLC/rocketui
