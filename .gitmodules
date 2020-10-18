@@ -4,3 +4,6 @@
 [submodule "glsl"]
 	path = glsl
 	url = https://github.com/TeamForbiddenLLC/glsl
+[submodule "huds"]
+	path = huds
+	url = https://github.com/TeamForbiddenLLC/huds
