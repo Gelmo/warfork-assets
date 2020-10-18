@@ -1,2 +1,0 @@
-tabset tab  { width: 15%; }
-input.range { max-width: 34%; }
