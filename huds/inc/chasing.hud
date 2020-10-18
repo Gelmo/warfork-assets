@@ -1,8 +1,0 @@
-if %CHASING != #NOTSET
-	setFontFamily Virtue
-	setFontSize %VIDHEIGHT / 36
-	setColor 1.0 1.0 1.0 0.8
-	setCursor 400 64
-	setAlign #CENTER, #TOP
-	drawPlayerName %CHASING
-endif 
