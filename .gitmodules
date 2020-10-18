@@ -10,3 +10,6 @@
 [submodule "ui"]
 	path = ui
 	url = https://github.com/TeamForbiddenLLC/rocketui
+[submodule "l10n"]
+	path = l10n
+	url = https://github.com/TeamForbiddenLLC/l10n
