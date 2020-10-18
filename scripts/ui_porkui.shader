@@ -1,4 +1,4 @@
-ui/porkui/gfx/background
+ui/forkui/gfx/background
 {
 	nopicmip
 	nomipmaps
@@ -7,14 +7,14 @@ ui/porkui/gfx/background
 	cull none
 
 	{
-		map ui/porkui/gfx/back2.png
+		map ui/forkui/gfx/back2.png
 		blendFunc blend
 		tcMod scroll -.1  0
 		alphaGen wave sin .1 .02 0 5
 	}
 }
 
-ui/porkui/gfx/background2
+ui/forkui/gfx/background2
 {
 	nopicmip
 	nomipmaps
@@ -22,14 +22,14 @@ ui/porkui/gfx/background2
 	cull none
 
 	{
-		map ui/porkui/gfx/bandes2.png
+		map ui/forkui/gfx/bandes2.png
 		blendFunc blend
   		alphagen wave sin 0.05 0.1 0 0.05
   		tcmod scroll 0 -.08
 	}
 }
 
-ui/porkui/gfx/loader_simple
+ui/forkui/gfx/loader_simple
 {
 	noPicmip
 	noMipmaps
@@ -37,7 +37,7 @@ ui/porkui/gfx/loader_simple
 	cull none
 
 	{
-		clampmap ui/porkui/gfx/loader_simple.png
+		clampmap ui/forkui/gfx/loader_simple.png
 		blendfunc blend
 		tcmod rotate 500
 	}

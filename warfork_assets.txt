@@ -7,10 +7,10 @@ https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 To the extent possible under law, Team Forbidden has waived all copyright and related or neighboring rights to the following works:
 
-data0_21pure.pk3\ui\porkui\gfx\null.png
-data0_21pure.pk3\ui\porkui\gfx\console.png
-data0_21pure.pk3\ui\porkui\gfx\back2.png
-data0_21pure.pk3\ui\porkui\gfx\logo.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden - 
+data0_21pure.pk3\ui\forkui\gfx\null.png
+data0_21pure.pk3\ui\forkui\gfx\console.png
+data0_21pure.pk3\ui\forkui\gfx\back2.png
+data0_21pure.pk3\ui\forkui\gfx\logo.png - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden - 
 data0_21pure.pk3\models\effects\headstun.png
 data0_21pure.pk3\models\objects\capture_area\indicator_alpha.ktx - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
 data0_21pure.pk3\models\objects\capture_area\indicator_color.ktx - This file is public domain, however the names and logos depicted are trademarks of Team Forbidden -
