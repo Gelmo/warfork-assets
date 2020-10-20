@@ -8,7 +8,7 @@ models/players/rufus/rufus_head_simple
 	cull front
 
 	{
-		celshade $whiteImage env/celldouble models/players/rufus/rufus_head_diff02.png models/players/rufus/rufus_head_eye.png - - env/celllight
+		celshade $whiteImage env/celldouble models/players/rufus/vic_head_diff02.png models/players/rufus/vic_head_eye.png - - env/celllight
 	}
 }
 
@@ -18,7 +18,7 @@ models/players/rufus/rufus_torso_simple
 	cull front
 
 	{
-		celshade $whiteImage env/celldouble models/players/rufus/rufus_torso_diff01.png - models/players/rufus/rufus_torso_color.png - env/celllight
+		celshade $whiteImage env/celldouble models/players/rufus/vic_torso_diff01.png - models/players/rufus/vic_torso_color.png - env/celllight
 	}
 }
 
@@ -28,7 +28,7 @@ models/players/rufus/rufus_legs_simple
 	cull front
 
 	{
-		celshade $whiteImage env/celldouble models/players/rufus/rufus_legs_diff01.png - models/players/rufus/rufus_legs_color.png - env/celllight
+		celshade $whiteImage env/celldouble models/players/rufus/vic_legs_diff01.png - models/players/rufus/vic_legs_color.png - env/celllight
 	}
 }
 
@@ -42,7 +42,7 @@ models/players/rufus/rufus_head_fb
 	cull front
 
 	{
-		celshade $whiteImage env/cellbright models/players/rufus/rufus_head_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/rufus/vic_head_fb.png - - - env/celllight
 		rgbGen entity
 	}
 }
@@ -53,7 +53,7 @@ models/players/rufus/rufus_torso_fb
 	cull front
 
 	{
-		celshade $whiteImage env/cellbright models/players/rufus/rufus_torso_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/rufus/vic_torso_fb.png - - - env/celllight
 		rgbGen entity
 	}
 }
@@ -65,7 +65,7 @@ models/players/rufus/rufus_legs_fb
 
 	{
 		// <base> <celshade> [diffuse] [decal] [entitydecal] [stripes] [celllight]
-		celshade $whiteImage env/cellbright models/players/rufus/rufus_legs_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/rufus/vic_legs_fb.png - - - env/celllight
 		rgbGen entity
 	}
 }
@@ -80,7 +80,7 @@ models/players/rufus/rufus_head
 	cull front
 	
 	{
-		material models/players/rufus/rufus_head_diff02.png models/players/rufus/rufus_head_norm.png models/players/rufus/rufus_head_gloss.png models/players/rufus/rufus_head_eye.png
+		material models/players/rufus/vic_head_diff02.png models/players/rufus/vic_head_norm.png models/players/rufus/vic_head_gloss.png models/players/rufus/vic_head_eye.png
 	}
 }
 
@@ -90,7 +90,7 @@ models/players/rufus/rufus_torso
 	cull front
 
 	{
-		material models/players/rufus/rufus_torso_diff01.png models/players/rufus/rufus_torso_norm.png models/players/rufus/rufus_torso_gloss.png - models/players/rufus/rufus_torso_color.png
+		material models/players/rufus/vic_torso_diff01.png models/players/rufus/vic_torso_norm.png models/players/rufus/vic_torso_gloss.png - models/players/rufus/vic_torso_color.png
 	}
 }
 
@@ -100,6 +100,6 @@ models/players/rufus/rufus_legs
 	cull front
 
 	{
-		material models/players/rufus/rufus_legs_diff01.png models/players/rufus/rufus_legs_norm.png models/players/rufus/rufus_legs_gloss.png - models/players/rufus/rufus_legs_color.png
+		material models/players/rufus/vic_legs_diff01.png models/players/rufus/vic_legs_norm.png models/players/rufus/vic_legs_gloss.png - models/players/rufus/vic_legs_color.png
 	}
 }
