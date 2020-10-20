@@ -13,3 +13,6 @@
 [submodule "l10n"]
 	path = l10n
 	url = https://github.com/TeamForbiddenLLC/l10n
+[submodule "sounds"]
+	path = sounds
+	url = https://github.com/TeamForbiddenLLC/warfork-proprietary-soundpacks
