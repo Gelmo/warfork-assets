@@ -2,33 +2,33 @@
 // SIMPLE
 //================
 
-models/players/rufus/rufus_head_simple
+models/players/rufus/bigvic_head_simple
 {
 	nopicmip
 	cull front
 
 	{
-		celshade $whiteImage env/celldouble models/players/rufus/vic_head_diff02.png models/players/rufus/vic_head_eye.png - - env/celllight
+		celshade $whiteImage env/celldouble models/players/rufus/vic_head_diff02.tga models/players/rufus/vic_head_eye.tga - - env/celllight
 	}
 }
 
-models/players/rufus/rufus_torso_simple
+models/players/rufus/bigvic_torso_simple
 {
 	nopicmip
 	cull front
 
 	{
-		celshade $whiteImage env/celldouble models/players/rufus/vic_torso_diff01.png - models/players/rufus/vic_torso_color.png - env/celllight
+		celshade $whiteImage env/celldouble models/players/rufus/vic_torso_diff01.tga - models/players/rufus/vic_torso_color.tga - env/celllight
 	}
 }
 
-models/players/rufus/rufus_legs_simple
+models/players/rufus/bigvic_legs_simple
 {
 	nopicmip
 	cull front
 
 	{
-		celshade $whiteImage env/celldouble models/players/rufus/vic_legs_diff01.png - models/players/rufus/vic_legs_color.png - env/celllight
+		celshade $whiteImage env/celldouble models/players/rufus/vic_legs_diff01.tga - models/players/rufus/vic_legs_color.tga - env/celllight
 	}
 }
 
@@ -36,36 +36,36 @@ models/players/rufus/rufus_legs_simple
 // FULLBRIGHT
 //================
 
-models/players/rufus/rufus_head_fb
+models/players/rufus/bigvic_head_fb
 {
 	nopicmip
 	cull front
 
 	{
-		celshade $whiteImage env/cellbright models/players/rufus/vic_head_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/rufus/vic_head_fb.tga - - - env/celllight
 		rgbGen entity
 	}
 }
 
-models/players/rufus/rufus_torso_fb
+models/players/rufus/bigvic_torso_fb
 {
 	nopicmip
 	cull front
 
 	{
-		celshade $whiteImage env/cellbright models/players/rufus/vic_torso_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/rufus/vic_torso_fb.tga - - - env/celllight
 		rgbGen entity
 	}
 }
 
-models/players/rufus/rufus_legs_fb
+models/players/rufus/bigvic_legs_fb
 {
 	nopicmip
 	cull front
 
 	{
 		// <base> <celshade> [diffuse] [decal] [entitydecal] [stripes] [celllight]
-		celshade $whiteImage env/cellbright models/players/rufus/vic_legs_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/rufus/vic_legs_fb.tga - - - env/celllight
 		rgbGen entity
 	}
 }
@@ -74,32 +74,32 @@ models/players/rufus/rufus_legs_fb
 // DEFAULT
 //================
 
-models/players/rufus/rufus_head
+models/players/rufus/bigvic_head
 {
 	nopicmip
 	cull front
 	
 	{
-		material models/players/rufus/vic_head_diff02.png models/players/rufus/vic_head_norm.png models/players/rufus/vic_head_gloss.png models/players/rufus/vic_head_eye.png
+		material models/players/rufus/vic_head_diff02.tga models/players/rufus/vic_head_norm.tga models/players/rufus/vic_head_gloss.tga models/players/rufus/vic_head_eye.tga
 	}
 }
 
-models/players/rufus/rufus_torso
+models/players/rufus/bigvic_torso
 {
 	nopicmip
 	cull front
 
 	{
-		material models/players/rufus/vic_torso_diff01.png models/players/rufus/vic_torso_norm.png models/players/rufus/vic_torso_gloss.png - models/players/rufus/vic_torso_color.png
+		material models/players/rufus/vic_torso_diff01.tga models/players/rufus/vic_torso_norm.tga models/players/rufus/vic_torso_gloss.tga - models/players/rufus/vic_torso_color.tga
 	}
 }
 
-models/players/rufus/rufus_legs
+models/players/rufus/bigvic_legs
 {
 	nopicmip
 	cull front
 
 	{
-		material models/players/rufus/vic_legs_diff01.png models/players/rufus/vic_legs_norm.png models/players/rufus/vic_legs_gloss.png - models/players/rufus/vic_legs_color.png
+		material models/players/rufus/vic_legs_diff01.tga models/players/rufus/vic_legs_norm.tga models/players/rufus/vic_legs_gloss.tga - models/players/rufus/vic_legs_color.tga
 	}
 }

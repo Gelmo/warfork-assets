@@ -1,89 +1,89 @@
-models/players/viciious/viciious
+models/players/leon/viciious
 {
 	nopicmip
 	cull front
 
 	{
 		// <base> <celshade> [diffuse] [decal] [entitydecal] [stripes] [celllight]
-		celshade models/players/viciious/viciious.png env/celldouble - - models/players/viciious/viciious_colorpass.png models/players/viciious/viciious_stripes.png env/celllight
+		celshade models/players/leon/viciious.tga env/celldouble - - models/players/leon/viciious_colorpass.tga models/players/leon/viciious_stripes.tga env/celllight
 	}
 }
 
-models/players/viciious/u_chrome
+models/players/leon/u_chrome
 {
 	nopicmip
 	cull front
 	{
-		map models/players/viciious/chrome.png
+		map models/players/leon/chrome.tga
 		rgbGen identityLighting
 		tcGen environment
 	}
 	{
-		map models/players/viciious/u_chrome.png
+		map models/players/leon/u_chrome.tga
 		rgbGen identityLighting
 		blendfunc blend
 	}
 }
 
-models/players/viciious/h_chrome
+models/players/leon/h_chrome
 {
 	nopicmip
 	cull front
 	{
-		map models/players/viciious/chrome.png
+		map models/players/leon/chrome.tga
 		rgbGen identityLighting
 		tcGen environment
 	}
 	{
-		map models/players/viciious/h_chrome.png
+		map models/players/leon/h_chrome.tga
 		rgbGen identityLighting
 		blendfunc blend
 	}
 }
 
-models/players/viciious/oeil
+models/players/leon/oeil
 {
 	cull front
 	{
-		map models/players/viciious/oeil
+		map models/players/leon/oeil
 		rgbGen wave triangle 0.9 0.1 0 5
 	}
 }
 
 // fullbright
 
-models/players/viciious/viciious_fb
+models/players/leon/viciious_fb
 {
 	nopicmip
 	cull front
 
 	{
 		// <base> <celshade> [diffuse] [decal] [entitydecal] [stripes] [celllight]
-		celshade $whiteImage env/cellbright models/players/viciious/viciious_colorpass_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/leon/viciious_colorpass_fb.tga - - - env/celllight
 		rgbgen entity
 	}
 }
 
-models/players/viciious/u_chrome_fb
+models/players/leon/u_chrome_fb
 {
 	nopicmip
 	cull front
 
 	{
 		// <base> <celshade> [diffuse] [decal] [entitydecal] [stripes] [celllight]
-		celshade $whiteImage env/cellbright models/players/viciious/u_chrome_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/leon/u_chrome_fb.tga - - - env/celllight
 		rgbgen entity
 	}
 }
 
-models/players/viciious/h_chrome_fb
+models/players/leon/h_chrome_fb
 {
 	nopicmip
 	cull front
 
 	{
 		// <base> <celshade> [diffuse] [decal] [entitydecal] [stripes] [celllight]
-		celshade $whiteImage env/cellbright models/players/viciious/u_chrome_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/leon/u_chrome_fb.tga - - - env/celllight
 		rgbgen entity
 	}
 }

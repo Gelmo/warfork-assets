@@ -1,25 +1,25 @@
-models/players/silverclaw/silverclaw
+models/players/serena/silverclaw
 {
 	nopicmip
 	cull front
 
 	{
 		// <base> <celshade> [diffuse] [decal] [entitydecal] [stripes] [celllight]
-		celshade models/players/silverclaw/silverclaw.png env/celldouble - - models/players/silverclaw/silverclaw_colorpass.png models/players/silverclaw/silverclaw_stripes.png env/celllight
+		celshade models/players/serena/silverclaw.tga env/celldouble - - models/players/serena/silverclaw_colorpass.tga models/players/serena/silverclaw_stripes.tga env/celllight
 	}
 }
 
 // fullbright
 
 
-models/players/silverclaw/silverclaw_fb
+models/players/serena/silverclaw_fb
 {
 	nopicmip
 	cull front
 
 	{
 		// <base> <celshade> [diffuse] [decal] [entitydecal] [stripes] [celllight]
-		celshade $whiteImage env/cellbright models/players/silverclaw/silverclaw_colorpass_fb.png - - - env/celllight
+		celshade $whiteImage env/cellbright models/players/serena/silverclaw_colorpass_fb.tga - - - env/celllight
 		rgbGen entity
 	}
 }
