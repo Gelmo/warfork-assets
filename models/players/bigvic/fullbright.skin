@@ -2,8 +2,8 @@
 
 //this converter generates the mesh names by their mesh number
 
-0,models/players/bigvic/bigvic_legs_fb
+0,models/players/rufus/rufus_legs_fb
 
-1,models/players/bigvic/bigvic_torso_fb
+1,models/players/rufus/rufus_torso_fb
 
-2,models/players/bigvic/bigvic_head_fb
+2,models/players/rufus/rufus_head_fb
