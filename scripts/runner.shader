@@ -1,4 +1,4 @@
-models/players/silverclaw/runner_invisibility
+models/players/serena/runner_invisibility
 {
 	cull front
 
